@@ -1,91 +1,93 @@
 #EXTM3U
-#EXTINF:-1, ⚽ Kênh Trực Tiếp 1
-https://pull.niur.live/live/stream-548860_lhd.flv?txSecret=f2019ce19a88a20b13604f257965561d&txTime=6a1b2ec0
-#EXTINF:-1, ⚽ Kênh Trực Tiếp 2
-https://pull06.scstream.net/live/stream-484845_lhd.flv?auth_key=1780148336-0-0-396473b43c20e3cf1e1393caf4440ba3
-#EXTINF:-1, ⚽ Kênh Trực Tiếp 3
-https://pull06.scstream.net/live/stream-607400_lhd.flv?auth_key=1780148336-0-0-25bee4d5410f14e66c204c49d94f4516
-#EXTINF:-1, ⚽ Kênh Trực Tiếp 4
-https://pull.niur.live/live/stream-9912122_lhd.flv?txSecret=59dbd3c378f5ace5c0175b365a055bc1&txTime=6a1b2ec0
-#EXTINF:-1, ⚽ Kênh Trực Tiếp 5
-https://pull06.scstream.net/live/stream-356042_lhd.flv?auth_key=1780148336-0-0-495872c6fed08dcddd75181b471fe85c
-#EXTINF:-1, ⚽ Kênh Trực Tiếp 6
-https://pull06.scstream.net/live/stream-9912110_lhd.flv?auth_key=1780148396-0-0-30688b7cf651e650397515d113a068e6
-#EXTINF:-1, ⚽ Kênh Trực Tiếp 7
-https://pull.niur.live/live/stream-598119_lhd.flv?txSecret=3662f67359abb1bcfc83d3046a722f06&txTime=6a1b2efc
-#EXTINF:-1, ⚽ Kênh Trực Tiếp 8
-https://pull06.scstream.net/live/stream-534219_lhd.flv?auth_key=1780148396-0-0-3a15c77cc875a036f09b35d5936e8d37
-#EXTINF:-1, ⚽ Kênh Trực Tiếp 9
-https://pull.niur.live/live/stream-602153_lhd.flv?txSecret=94ec41d674f2c2fe8dda81c2d597daa9&txTime=6a1b2efc
-#EXTINF:-1, ⚽ Kênh Trực Tiếp 10
-https://pull.niur.live/live/stream-491873_lhd.flv?txSecret=aee832269b038a3907fa2f6a95c119c2&txTime=6a1b2efc
-#EXTINF:-1, ⚽ Kênh Trực Tiếp 11
-https://pull06.scstream.net/live/stream-9912015_lhd.flv?auth_key=1780148396-0-0-2f20f45b1e71dcb9665da4e4c20460cf
-#EXTINF:-1, ⚽ Kênh Trực Tiếp 12
-https://pull06.scstream.net/live/stream-291277_lhd.flv?auth_key=1780148396-0-0-79014823acf621d68a6becb467d32172
-#EXTINF:-1, ⚽ Kênh Trực Tiếp 13
-https://pull06.scstream.net/live/stream-603255_lhd.flv?auth_key=1780148456-0-0-a53b0fb403687ee2a2950b78c18bfed0
-#EXTINF:-1, ⚽ Kênh Trực Tiếp 14
-https://pull06.scstream.net/live/stream-531989_lhd.flv?auth_key=1780148456-0-0-ce7b1b8c63b2e157b8848788aea20f25
-#EXTINF:-1, ⚽ Kênh Trực Tiếp 15
-https://pull.niur.live/live/stream-462413_lhd.flv?txSecret=71bc868a74cc2d1a0bc328c111fe1260&txTime=6a1b2f38
-#EXTINF:-1, ⚽ Kênh Trực Tiếp 16
-https://pull06.scstream.net/live/stream-532081_lhd.flv?auth_key=1780148456-0-0-3302fe40a9bf16aee3f7802fc07211fd
-#EXTINF:-1, ⚽ Kênh Trực Tiếp 17
-https://pull06.scstream.net/live/stream-991140_lhd.flv?auth_key=1780148456-0-0-0e9568212413becd9993f2907eb7d8b6
-#EXTINF:-1, ⚽ Kênh Trực Tiếp 18
-https://pull06.scstream.net/live/stream-175784_lhd.flv?auth_key=1780148456-0-0-0968bd33269f624e011729d8545d8a23
-#EXTINF:-1, ⚽ Kênh Trực Tiếp 19
-https://pull06.scstream.net/live/stream-494201_lhd.flv?auth_key=1780148456-0-0-1ecae81146ae59ba8d486eccd053c2d3
-#EXTINF:-1, ⚽ Kênh Trực Tiếp 20
-https://pull06.scstream.net/live/stream-472241_lhd.flv?auth_key=1780148516-0-0-49882b8d52f09f7d742b589961187529
-#EXTINF:-1, ⚽ Kênh Trực Tiếp 21
-https://pull.niur.live/live/stream-459401_lhd.flv?txSecret=06df1a653443a06b16f048afeb8b4790&txTime=6a1b2f74
-#EXTINF:-1, ⚽ Kênh Trực Tiếp 22
-https://pull06.scstream.net/live/stream-603914_lhd.flv?auth_key=1780148516-0-0-54792ca29a3e0bbd6b9054662c2990df
-#EXTINF:-1, ⚽ Kênh Trực Tiếp 23
-https://pull.niur.live/live/stream-595715_lhd.flv?txSecret=e9f6aee1b2d622143eb8e72aee65cb4d&txTime=6a1b2f74
-#EXTINF:-1, ⚽ Kênh Trực Tiếp 24
-https://pull06.scstream.net/live/stream-9912114_lhd.flv?auth_key=1780148516-0-0-ab6a0bf2adbfe30c201445550f359718
-#EXTINF:-1, ⚽ Kênh Trực Tiếp 25
-https://pull06.scstream.net/live/stream-9912060_lhd.flv?auth_key=1780148516-0-0-468b81dea9a130e9824fb685e99bd241
-#EXTINF:-1, ⚽ Kênh Trực Tiếp 26
+#EXTINF:-1, ⚽ Live - BLV COCA - 63.18k - SWE D1: Malmo FF vs Halmstads
+https://pull06.scstream.net/live/stream-327159_lhd.flv?auth_key=1780149116-0-0-a99f53212a454e55e5af75f35f45573a
+#EXTINF:-1, ⚽ Live - TẠ BIÊN GIỚI - 73.60k - CHA SL: Henan FC vs Zhejiang Professional FC
+https://pull06.scstream.net/live/stream-9912108_lhd.flv?auth_key=1780149176-0-0-615845ca55f3d13500fa4a3ff248add9
+#EXTINF:-1, ⚽ BLV TOMMY
 https://pull06.scstream.net/live/stream-414317_lhd.flv?auth_key=1780065821-0-0-9614d1966d15a020d149e8aa05e99883
-#EXTINF:-1, ⚽ Kênh Trực Tiếp 27
-https://pull06.scstream.net/live/stream-552832_lhd.flv?auth_key=1780148576-0-0-1e513bfa1f42aeeaedc84944f6cb16f4
-#EXTINF:-1, ⚽ Kênh Trực Tiếp 28
-https://pull06.scstream.net/live/stream-327159_lhd.flv?auth_key=1780148576-0-0-dea0ccab3ef8a81e8a362a46e62ce12a
-#EXTINF:-1, ⚽ Kênh Trực Tiếp 29
-https://pull06.scstream.net/live/stream-589848_lhd.flv?auth_key=1780148576-0-0-f637f52f117a7f310634821214d3b24b
-#EXTINF:-1, ⚽ Kênh Trực Tiếp 30
-https://pull06.scstream.net/live/stream-611377_lhd.flv?auth_key=1780148576-0-0-244db33d265edf3ff8b2016d654a2130
-#EXTINF:-1, ⚽ Kênh Trực Tiếp 31
-https://pull06.scstream.net/live/stream-599634_lhd.flv?auth_key=1780148576-0-0-f3457ea8cfe1b130cab9e6af3904a1b4
-#EXTINF:-1, ⚽ Kênh Trực Tiếp 32
-https://pull06.scstream.net/live/stream-9912108_lhd.flv?auth_key=1780148576-0-0-ae51fe28d1f02e9bdb8934ad5bf68140
-#EXTINF:-1, ⚽ Kênh Trực Tiếp 33
-https://pull.niur.live/live/stream-9912041_lhd.flv?txSecret=b6a3968927dbfcb5036e0ce4783065cf&txTime=6a1b2fb0
-#EXTINF:-1, ⚽ Kênh Trực Tiếp 34
-https://pull06.scstream.net/live/stream-558264_lhd.flv?auth_key=1780148576-0-0-9c3974d802d5e98e1c10e9509609a2af
-#EXTINF:-1, ⚽ Kênh Trực Tiếp 35
-https://pull06.scstream.net/live/stream-606448_lhd.flv?auth_key=1780148636-0-0-3bd9980ff667919bafb3df3a07dd0215
-#EXTINF:-1, ⚽ Kênh Trực Tiếp 36
-https://pull.niur.live/live/stream-9912116_lhd.flv?txSecret=389963c47bde267bcff39c7151ef93c9&txTime=6a1b2fec
-#EXTINF:-1, ⚽ Kênh Trực Tiếp 37
-https://pull06.scstream.net/live/stream-511367_lhd.flv?auth_key=1780148636-0-0-e01e1b3845fc73ffdf8f5050dcc3b432
-#EXTINF:-1, ⚽ Kênh Trực Tiếp 38
-https://pull06.scstream.net/live/stream-9912091_lhd.flv?auth_key=1780148636-0-0-7c5b4bb55465a7228fc0b5ff6d63ef29
-#EXTINF:-1, ⚽ Kênh Trực Tiếp 39
-https://pull06.scstream.net/live/stream-273736_lhd.flv?auth_key=1780148636-0-0-73b8f17a77f551e268539ae1758a3b79
-#EXTINF:-1, ⚽ Kênh Trực Tiếp 40
-https://pull06.scstream.net/live/stream-372746_lhd.flv?auth_key=1780148636-0-0-de580561b234b44bb02d7669fc4f50f0
-#EXTINF:-1, ⚽ Kênh Trực Tiếp 41
-https://pull06.scstream.net/live/stream-527383_lhd.flv?auth_key=1780148636-0-0-7f05e0c033a405767f9f3874f3d8e245
-#EXTINF:-1, ⚽ Kênh Trực Tiếp 42
-https://pull06.scstream.net/live/stream-611382_lhd.flv?auth_key=1780148696-0-0-c3314c73d30c3919a187f4c800ac73f7
-#EXTINF:-1, ⚽ Kênh Trực Tiếp 43
-https://pull.niur.live/live/stream-9912102_lhd.flv?txSecret=e39ba480591b710f9027288f2d378bc9&txTime=6a1b3028
-#EXTINF:-1, ⚽ Kênh Trực Tiếp 44
-https://pull.niur.live/live/stream-283501_lhd.flv?txSecret=d6839763c755db41e6a765e11f597e5b&txTime=6a1b3028
-#EXTINF:-1, ⚽ Kênh Trực Tiếp 45
-https://pull06.scstream.net/live/stream-598549_lhd.flv?auth_key=1780148696-0-0-f95a8220250a539fda0518f32c64d3fa
+#EXTINF:-1, ⚽ Live - BLV TAP - 77.90k - CHA SL: Chengdu Rongcheng vs Shandong Taishan
+https://pull.niur.live/live/stream-9912041_lhd.flv?txSecret=908e4364be8eab55d62999add6c46255&txTime=6a1b3208
+#EXTINF:-1, ⚽ Live - DECO - 63.84k - SWE D1: Malmo FF vs Halmstads
+https://pull06.scstream.net/live/stream-9912060_lhd.flv?auth_key=1780149176-0-0-9c660ac98a028b0bd83f6e482969295b
+#EXTINF:-1, ⚽ Live - BLV ĐỐM - 65.31k - CHA SL: Chengdu Rongcheng vs Shandong Taishan
+https://pull06.scstream.net/live/stream-9912110_lhd.flv?auth_key=1780149176-0-0-f64b63e5f1487c615dbb8a386c985a6d
+#EXTINF:-1, ⚽ Live - BLV Củ Cải - 65.33k - CHA SL: Chengdu Rongcheng vs Shandong Taishan
+https://pull06.scstream.net/live/stream-9912091_lhd.flv?auth_key=1780149176-0-0-5084cbad3f70261fee21800f2b8c69ec
+#EXTINF:-1, ⚽ Live - BLV 7UP - 64.61k - CHA SL: Chengdu Rongcheng vs Shandong Taishan
+https://pull06.scstream.net/live/stream-534219_lhd.flv?auth_key=1780149176-0-0-432c695626524839580534ac5bbc64b9
+#EXTINF:-1, ⚽ Live - THẠCH TÚ - 64.64k - CHA SL: Chengdu Rongcheng vs Shandong Taishan
+https://pull.niur.live/live/stream-9912116_lhd.flv?txSecret=5808210f49e74900901bc91d9144adfe&txTime=6a1b3208
+#EXTINF:-1, ⚽ Live - SAO LA - 62.81k - SWE D1: Malmo FF vs Halmstads
+https://pull.niur.live/live/stream-462413_lhd.flv?txSecret=ee85951bccf1000323d1e924a39e050e&txTime=6a1b3208
+#EXTINF:-1, ⚽ Live - BLV MESSI - 64.96k - CHA SL: Chengdu Rongcheng vs Shandong Taishan
+https://pull06.scstream.net/live/stream-494201_lhd.flv?auth_key=1780149176-0-0-6d6343eddee06a011cac1d9b178c3cb2
+#EXTINF:-1, ⚽ Live - RICKHANTER - 62.72k - SWE D1: Malmo FF vs Halmstads
+https://pull.niur.live/live/stream-9912122_lhd.flv?txSecret=eba58ffca9301e9da35a5221653cb5a7&txTime=6a1b3244
+#EXTINF:-1, ⚽ Live - BLV RÔSI - 54.06k - CHA SL: Chongqing Tonglianglong vs Beijing Guoan
+https://pull.niur.live/live/stream-9912102_lhd.flv?txSecret=a02d63e4984df89a4968e2adc41e578d&txTime=6a1b3244
+#EXTINF:-1, ⚽ Live - BLV PEWPEW - 40.80k - CHA SL: Henan FC vs Zhejiang Professional FC
+https://pull06.scstream.net/live/stream-9912015_lhd.flv?auth_key=1780149236-0-0-6d4c0035ed47338090616992c895baf3
+#EXTINF:-1, ⚽ Live - BLV FIREMAN - 40.20k - CHA SL: Henan FC vs Zhejiang Professional FC
+https://pull06.scstream.net/live/stream-991140_lhd.flv?auth_key=1780149236-0-0-445d3d4dbf012370cfe01d8c8d22d422
+#EXTINF:-1, ⚽ Live - BLV COZY - 37.24k - CHA SL: Henan FC vs Zhejiang Professional FC
+https://pull06.scstream.net/live/stream-531989_lhd.flv?auth_key=1780149236-0-0-c3a53e6b9b6030d98ae7f4d628265539
+#EXTINF:-1, ⚽ Live - BLV XO - 37.05k - CHA SL: Henan FC vs Zhejiang Professional FC
+https://pull06.scstream.net/live/stream-472241_lhd.flv?auth_key=1780149236-0-0-f3e59e06ace09bbcd2153d05cd3043b2
+#EXTINF:-1, ⚽ Live - BLV ROBBEN - 36.56k - CHA SL: Henan FC vs Zhejiang Professional FC
+https://pull06.scstream.net/live/stream-527383_lhd.flv?auth_key=1780149236-0-0-24698e05a9631f128d89becd09e090d2
+#EXTINF:-1, ⚽ Live - LOGAN - 36.10k - CHA SL: Chongqing Tonglianglong vs Beijing Guoan
+https://pull06.scstream.net/live/stream-552832_lhd.flv?auth_key=1780149236-0-0-02bc66e05d6a032e95fff8d121d96a89
+#EXTINF:-1, ⚽ Live - LOKA - 36.09k - CHA SL: Shenzhen Peng City vs Qingdao Hainiu
+https://pull06.scstream.net/live/stream-589848_lhd.flv?auth_key=1780149236-0-0-971df87a0ffe2887a81fe28a2aca8cdf
+#EXTINF:-1, ⚽ Live - CÔNG CHẤT - 35.58k - CHA SL: Chongqing Tonglianglong vs Beijing Guoan
+https://pull06.scstream.net/live/stream-291277_lhd.flv?auth_key=1780149296-0-0-ecbd1122dd45d1810b9014bdd91183d2
+#EXTINF:-1, ⚽ Live - A BỆU - 35.33k - CHA SL: Chongqing Tonglianglong vs Beijing Guoan
+https://pull06.scstream.net/live/stream-484845_lhd.flv?auth_key=1780149296-0-0-d63ba8f1570e916708e68ece8af4481c
+#EXTINF:-1, ⚽ Live - VƯƠNG ANH - 34.89k - CHA SL: Chongqing Tonglianglong vs Beijing Guoan
+https://pull.niur.live/live/stream-548860_lhd.flv?txSecret=feb16ab003db6181757363a66ab2ef85&txTime=6a1b3280
+#EXTINF:-1, ⚽ Live - BLV BÉO - 34.72k - CHA SL: Chongqing Tonglianglong vs Beijing Guoan
+https://pull.niur.live/live/stream-459401_lhd.flv?txSecret=e41757641455ba770e3a22c3304d0e70&txTime=6a1b3280
+#EXTINF:-1, ⚽ Live - HẢI THANH - 27.61k - CHA SL: Shenzhen Peng City vs Qingdao Hainiu
+https://pull06.scstream.net/live/stream-599634_lhd.flv?auth_key=1780149296-0-0-083fa2ad046558616ed19e6a61663801
+#EXTINF:-1, ⚽ Live - BLV THÓC - 27.36k - CHA SL: Shenzhen Peng City vs Qingdao Hainiu
+https://pull06.scstream.net/live/stream-606448_lhd.flv?auth_key=1780149296-0-0-34649a9dca7a90125ff3e9c727c1d706
+#EXTINF:-1, ⚽ Live - BLV LION - 27.09k - FIN D1: HJK Helsinki vs IFK Mariehamn
+https://pull06.scstream.net/live/stream-603255_lhd.flv?auth_key=1780149296-0-0-914146e5704125e12d1ff6c2d2fb3472
+#EXTINF:-1, ⚽ Live - BLV VIP - 26.88k - CHA D1: Dalian K'un City vs Shijiazhuang Gongfu
+https://pull.niur.live/live/stream-491873_lhd.flv?txSecret=c1914fd00b9f34159d19135a9371e75a&txTime=6a1b3280
+#EXTINF:-1, ⚽ Live - QUỐC KHÁNH - 26.76k - FIN D1: HJK Helsinki vs IFK Mariehamn
+https://pull.niur.live/live/stream-602153_lhd.flv?txSecret=a4c79fdd00e259b7d6543e8d4eee5b35&txTime=6a1b3280
+#EXTINF:-1, ⚽ Live - BLV A TINH - 26.56k - FIN D1: HJK Helsinki vs IFK Mariehamn
+https://pull.niur.live/live/stream-598119_lhd.flv?txSecret=23ebab74ffae53270f37812664a8283b&txTime=6a1b3280
+#EXTINF:-1, ⚽ Live - PINKMAN - 26.53k - FIN D1: HJK Helsinki vs IFK Mariehamn
+https://pull.niur.live/live/stream-595715_lhd.flv?txSecret=66b73c997a46505d7602d39328e78475&txTime=6a1b32bc
+#EXTINF:-1, ⚽ Live - BLV KAN - 26.48k - CHA D1: Meizhou Hakka vs Dingnan United
+https://pull.niur.live/live/stream-283501_lhd.flv?txSecret=480bfb074d11b59d024b25e8debc54e4&txTime=6a1b32bc
+#EXTINF:-1, ⚽ Live - BLV WUKONG - 26.38k - CHA D1: Guangxi Hengchen vs Foshan Nanshi
+https://pull06.scstream.net/live/stream-511367_lhd.flv?auth_key=1780149356-0-0-9451b5de53f0a2379932d8915cea6821
+#EXTINF:-1, ⚽ Live - A CHÈ - 26.31k - VBA: Da Nang Dragons vs Ho Chi Minh City Wings
+https://pull06.scstream.net/live/stream-356042_lhd.flv?auth_key=1780149356-0-0-1494704b5d1993bf4892cb2976577db7
+#EXTINF:-1, ⚽ Live - BLV YONE - 26.30k - CHA D1: Suzhou Dongwu vs Wuxi Wugo
+https://pull06.scstream.net/live/stream-372746_lhd.flv?auth_key=1780149296-0-0-f3fa778e7ece9111e123064ec49f9c2c
+#EXTINF:-1, ⚽ Live - HUNTER - 26.26k - GBBL: Bayern vs Bonn
+https://pull06.scstream.net/live/stream-558264_lhd.flv?auth_key=1780149356-0-0-172f45857a827be056d03bbd5319840c
+#EXTINF:-1, ⚽ Live - BLV VOI - 26.13k - CHA SL: Shenzhen Peng City vs Qingdao Hainiu
+https://pull06.scstream.net/live/stream-9912114_lhd.flv?auth_key=1780149356-0-0-89e8c89df639efcd6007c27d5386c3ce
+#EXTINF:-1, ⚽ Live - BLV ALEX - 26.07k - SWE D1: AIK vs IK Sirius FK
+https://pull06.scstream.net/live/stream-532081_lhd.flv?auth_key=1780149356-0-0-fbeb156e01b8a47fe88513f11a037f0b
+#EXTINF:-1, ⚽ Live - TRÀ ĐÁ - 26.06k - SWE D1: GAIS vs Kalmar
+https://pull06.scstream.net/live/stream-603914_lhd.flv?auth_key=1780149356-0-0-30fa3226596c881e5158d796920e228b
+#EXTINF:-1, ⚽ Live - CHÍ PHÈO - 25.60k - SWE D1: AIK vs IK Sirius FK
+https://pull06.scstream.net/live/stream-273736_lhd.flv?auth_key=1780149416-0-0-9b3ed419cb7384c73e8e317b4dab3d5d
+#EXTINF:-1, ⚽ Live - CHANH MUỐI - 25.59k - SWE D1: Orgryte vs Elfsborg
+https://pull06.scstream.net/live/stream-598549_lhd.flv?auth_key=1780149416-0-0-adf4b9af2d684241d069c8478f37fd1b
+#EXTINF:-1, ⚽ Live - HÀ DUY KIÊN - 25.58k - SWE D1: AIK vs IK Sirius FK
+https://pull06.scstream.net/live/stream-607400_lhd.flv?auth_key=1780149416-0-0-2450ae5405dd870b0bfc374d86ea8787
+#EXTINF:-1, ⚽ Live - BLV HÚP - 25.56k - SWE D1: GAIS vs Kalmar
+https://pull06.scstream.net/live/stream-611382_lhd.flv?auth_key=1780149416-0-0-2dbcb1f84d58742b3950fceca08c88a7
+#EXTINF:-1, ⚽ Live - TƯ MÃ Ý - 25.56k - SWE D1: GAIS vs Kalmar
+https://pull06.scstream.net/live/stream-611377_lhd.flv?auth_key=1780149416-0-0-5257e3743c49bcad57fab884c1b0e5a3
+#EXTINF:-1, ⚽ Live - BLV ANH TÀI - 25.08k - SWE D1: AIK vs IK Sirius FK
+https://pull06.scstream.net/live/stream-406865_lhd.flv?auth_key=1780149416-0-0-60b49ca01ab5f27f8085b255558f4218
+#EXTINF:-1, ⚽ Live - SOCOLIVE - 2.00k - BIT.LY/SOCOLIVE
+https://pull06.scstream.net/live/stream-175784_lhd.flv?auth_key=1780149416-0-0-2d907d2742b4c12bb97c4b8e106faef9
