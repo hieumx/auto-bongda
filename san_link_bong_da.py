@@ -1,42 +1,35 @@
 from playwright.sync_api import sync_playwright
+from playwright_stealth import stealth_sync
 
 def auto_san_toan_bo_giai_dau():
     url_co_dinh = "https://bit.ly/socolive"
-    print("🚀 KHỞI ĐỘNG BOT VỚI CHẾ ĐỘ NGỤY TRANG (STEALTH MODE)...")
+    print("🚀 KÍCH HOẠT VŨ KHÍ TỐI THƯỢNG: PLAYWRIGHT STEALTH...")
     
     with sync_playwright() as p:
-        # 1. Thêm vũ khí chống phát hiện tự động hóa
-        browser = p.chromium.launch(
-            headless=True,
-            args=[
-                "--disable-blink-features=AutomationControlled",
-                "--no-sandbox",
-                "--disable-setuid-sandbox"
-            ]
-        )
+        browser = p.chromium.launch(headless=True)
         
-        # 2. Giả mạo danh tính: Đóng giả máy tính Windows 10 dùng Chrome thật
         context = browser.new_context(
-            user_agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
-            viewport={"width": 1920, "height": 1080}
+            viewport={"width": 1920, "height": 1080},
+            user_agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36"
         )
-        
         page = context.new_page()
         
-        # 3. Xóa sổ chữ "webdriver" (Dấu vết Bot) trong hệ thống lõi
-        page.add_init_script("Object.defineProperty(navigator, 'webdriver', {get: () => undefined})")
+        # 🪄 ĐÂY LÀ PHÉP THUẬT: Tráng một lớp tàng hình lên toàn bộ trình duyệt
+        stealth_sync(page)
         
         # ==========================================
-        # GIAI ĐOẠN 1: QUÉT PHÒNG (Đã được bảo vệ)
+        # GIAI ĐOẠN 1: QUÉT PHÒNG
         # ==========================================
-        print(f"📥 Đang truy cập biển chỉ đường: {url_co_dinh}")
-        page.goto(url_co_dinh, timeout=30000)
+        print(f"📥 Đang truy cập: {url_co_dinh}")
         
-        # Chờ lâu hơn một chút (10s) để lách qua vòng xoay Cloudflare nếu có
-        page.wait_for_timeout(10000) 
-        
-        ten_mien_that = page.url 
-        print(f"🎯 Đã hạ cánh an toàn tại: {ten_mien_that}")
+        try:
+            # Chờ đến khi web load trạng thái an toàn
+            page.goto(url_co_dinh, timeout=60000, wait_until="domcontentloaded")
+            page.wait_for_timeout(15000) # Ép đợi 15s để Cloudflare tự quay xong vòng xác nhận
+        except Exception as e:
+            print(f"⚠️ Cảnh báo lúc load trang: {e}")
+            
+        print(f"🎯 Đã hạ cánh: {page.url}")
         
         cac_link_phong = page.evaluate("""
             Array.from(document.querySelectorAll('a[href*="/room/"]')).map(a => a.href)
@@ -45,24 +38,22 @@ def auto_san_toan_bo_giai_dau():
         print(f"🎯 Đã lọt qua cửa! Phát hiện {len(cac_link_phong)} trận đấu.\n")
         
         if not cac_link_phong:
-            print("❌ Vẫn bị tường lửa chặn hoặc web không có trận nào.")
+            print("❌ Vẫn bị Cloudflare phát hiện IP Data Center. Bó tay ở mảng Cloud không dùng Proxy!")
             browser.close()
             return
 
         # ==========================================
-        # GIAI ĐOẠN 2: ĐỘT NHẬP & BẮT LINK
+        # GIAI ĐOẠN 2: BẮT LINK .FLV
         # ==========================================
         with open("tong_hop_bong_da.m3u", "w", encoding="utf-8") as file:
             file.write("#EXTM3U\n")
 
             for stt, link_phong in enumerate(cac_link_phong, 1):
-                # Để test nhanh, thầy giới hạn Bot chỉ cào 5 trận đầu tiên rồi nghỉ
-                # Tránh mở quá nhiều phòng một lúc làm Cloudflare nghi ngờ khóa IP
                 if stt > 5:
-                    print("🛑 Đã cào đủ 5 trận an toàn. Tạm dừng để tránh bị khóa IP.")
+                    print("🛑 Đã cào 5 trận. Rút lui an toàn.")
                     break
                     
-                print(f"🔄 [{stt}/5] Đang ngụy trang đột nhập: {link_phong}")
+                print(f"🔄 [{stt}/5] Đang đột nhập: {link_phong}")
                 stream_link = None
                 
                 def bat_goi_tin(request):
@@ -73,22 +64,22 @@ def auto_san_toan_bo_giai_dau():
                 page.on("request", bat_goi_tin)
                 
                 try:
-                    page.goto(link_phong, timeout=20000)
-                    page.wait_for_timeout(10000) # Đợi 10s cho video xuyên tường lửa
+                    page.goto(link_phong, timeout=30000)
+                    page.wait_for_timeout(12000) 
                 except Exception:
-                    print("   ⚠️ Lỗi mạng, bỏ qua.")
+                    print("   ⚠️ Lỗi load phòng.")
                 
                 page.remove_listener("request", bat_goi_tin)
                 
                 if stream_link:
-                    print(f"   ✅ Bắt sống luồng video: {stream_link[:60]}...")
-                    file.write(f"#EXTINF:-1, ⚽ Kênh Tự Động {stt}\n")
+                    print(f"   ✅ Có Link: {stream_link[:60]}...")
+                    file.write(f"#EXTINF:-1, ⚽ Kênh Socolive {stt}\n")
                     file.write(f"{stream_link}\n")
                 else:
-                    print("   ❌ Không thấy video (Trận chưa đá hoặc dính CAPTCHA).")
+                    print("   ❌ Không thấy video.")
                     
         browser.close()
-        print("\n🎉 HOÀN TẤT CHIẾN DỊCH VƯỢT RÀO!")
+        print("\n🎉 CHIẾN DỊCH HOÀN TẤT!")
 
 if __name__ == "__main__":
     auto_san_toan_bo_giai_dau()
