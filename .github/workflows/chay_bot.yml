@@ -25,7 +25,7 @@ jobs:
         playwright install chromium
 
     - name: Kích hoạt Siêu Bot đi săn link
-      run: python bot_bongda.py
+      run: python san_link_bong_da.py
 
     - name: Đẩy file m3u mới lên kho chứa công khai
       run: |
