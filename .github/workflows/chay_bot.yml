@@ -1,0 +1,36 @@
+name: Tự Động Săn Link Bóng Đá Hằng Ngày
+
+on:
+  schedule:
+    # Chạy tự động vào lúc 11:30 UTC (tức là 18:30 chiều giờ Việt Nam, trước giờ bóng lăn)
+    - cron: '30 11 * * *'
+  workflow_dispatch: # Nút bấm để em thích thì tự ấn cho nó chạy ngay lập tức
+
+jobs:
+  run-bot:
+    runs-on: ubuntu-latest # Cấp máy chủ Ubuntu miễn phí
+
+    steps:
+    - name: Kiểm tra kho code
+      uses: actions/checkout@v3
+
+    - name: Cài đặt Python
+      uses: actions/setup-python@v4
+      with:
+        python-version: '3.10'
+
+    - name: Cài đặt vũ khí Playwright
+      run: |
+        pip install playwright
+        playwright install chromium
+
+    - name: Kích hoạt Siêu Bot đi săn link
+      run: python bot_bongda.py
+
+    - name: Đẩy file m3u mới lên kho chứa công khai
+      run: |
+        git config --local user.email "action@github.com"
+        git config --local user.name "GitHub Action Bot"
+        git add tong_hop_bong_da.m3u
+        git commit -m "Cập nhật luồng trực tiếp mới nhất" || exit 0
+        git push
