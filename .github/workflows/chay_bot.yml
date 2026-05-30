@@ -19,9 +19,9 @@ jobs:
       with:
         python-version: '3.10'
 
-    - name: Cài đặt vũ khí Playwright
+    - name: Cài đặt vũ khí Playwright và Stealth
       run: |
-        pip install playwright
+        pip install playwright playwright-stealth
         playwright install chromium
 
     - name: Kích hoạt Siêu Bot đi săn link
