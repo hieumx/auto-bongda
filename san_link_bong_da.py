@@ -8,7 +8,7 @@ def auto_san_toan_bo_giai_dau():
     
     with sync_playwright() as p:
         # Bật trình duyệt có giao diện để xem Bot hoạt động
-        browser = p.chromium.launch(headless=False) 
+        browser = p.chromium.launch(headless=True) 
         page = browser.new_page()
         
         # ==========================================
