@@ -31,6 +31,7 @@ jobs:
       run: |
         git config --local user.email "action@github.com"
         git config --local user.name "GitHub Action Bot"
+        touch tong_hop_bong_da.m3u
         git add tong_hop_bong_da.m3u
-        git commit -m "Cập nhật luồng trực tiếp mới nhất" || exit 0
-        git push
+        git commit -m "Cập nhật luồng trực tiếp mới nhất" || echo "Không có trận bóng nào mới"
+        git push || echo "Không có dữ liệu mới để đẩy lên"
