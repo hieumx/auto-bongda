@@ -1,83 +1,94 @@
 from playwright.sync_api import sync_playwright
 
 def auto_san_toan_bo_giai_dau():
-    # Sử dụng link rút gọn cố định để chống "chết" tên miền
     url_co_dinh = "https://bit.ly/socolive"
-    
-    print("🚀 BẮT ĐẦU KHỞI ĐỘNG SIÊU BOT SĂN LINK BÓNG ĐÁ...")
+    print("🚀 KHỞI ĐỘNG BOT VỚI CHẾ ĐỘ NGỤY TRANG (STEALTH MODE)...")
     
     with sync_playwright() as p:
-        # Bật trình duyệt có giao diện để xem Bot hoạt động
-        browser = p.chromium.launch(headless=True) 
-        page = browser.new_page()
+        # 1. Thêm vũ khí chống phát hiện tự động hóa
+        browser = p.chromium.launch(
+            headless=True,
+            args=[
+                "--disable-blink-features=AutomationControlled",
+                "--no-sandbox",
+                "--disable-setuid-sandbox"
+            ]
+        )
+        
+        # 2. Giả mạo danh tính: Đóng giả máy tính Windows 10 dùng Chrome thật
+        context = browser.new_context(
+            user_agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
+            viewport={"width": 1920, "height": 1080}
+        )
+        
+        page = context.new_page()
+        
+        # 3. Xóa sổ chữ "webdriver" (Dấu vết Bot) trong hệ thống lõi
+        page.add_init_script("Object.defineProperty(navigator, 'webdriver', {get: () => undefined})")
         
         # ==========================================
-        # GIAI ĐOẠN 1: GIẢI MÃ TÊN MIỀN VÀ QUÉT PHÒNG
+        # GIAI ĐOẠN 1: QUÉT PHÒNG (Đã được bảo vệ)
         # ==========================================
         print(f"📥 Đang truy cập biển chỉ đường: {url_co_dinh}")
         page.goto(url_co_dinh, timeout=30000)
-        page.wait_for_timeout(5000) # Đợi web tải xong và tự động redirect
         
-        # Lấy tên miền thực tế sau khi bị chuyển hướng
+        # Chờ lâu hơn một chút (10s) để lách qua vòng xoay Cloudflare nếu có
+        page.wait_for_timeout(10000) 
+        
         ten_mien_that = page.url 
-        print(f"🎯 Đã giải mã! Tên miền sống hôm nay là: {ten_mien_that}")
+        print(f"🎯 Đã hạ cánh an toàn tại: {ten_mien_that}")
         
-        # Cào tất cả các link có chữ "/room/"
         cac_link_phong = page.evaluate("""
             Array.from(document.querySelectorAll('a[href*="/room/"]')).map(a => a.href)
         """)
-        
-        # Lọc trùng lặp
         cac_link_phong = list(set(cac_link_phong))
-        print(f"🎯 Đã phát hiện {len(cac_link_phong)} phòng đang/sắp Live!\n")
+        print(f"🎯 Đã lọt qua cửa! Phát hiện {len(cac_link_phong)} trận đấu.\n")
         
         if not cac_link_phong:
-            print("❌ Không tìm thấy phòng nào. Tắt Bot.")
+            print("❌ Vẫn bị tường lửa chặn hoặc web không có trận nào.")
             browser.close()
             return
 
         # ==========================================
-        # GIAI ĐOẠN 2: CHUI VÀO TỪNG PHÒNG ĐỂ BẮT LINK GỐC
+        # GIAI ĐOẠN 2: ĐỘT NHẬP & BẮT LINK
         # ==========================================
         with open("tong_hop_bong_da.m3u", "w", encoding="utf-8") as file:
             file.write("#EXTM3U\n")
 
-            # Duyệt qua từng phòng đã quét được
             for stt, link_phong in enumerate(cac_link_phong, 1):
-                print(f"🔄 [{stt}/{len(cac_link_phong)}] Đang đột nhập: {link_phong}")
-                
+                # Để test nhanh, thầy giới hạn Bot chỉ cào 5 trận đầu tiên rồi nghỉ
+                # Tránh mở quá nhiều phòng một lúc làm Cloudflare nghi ngờ khóa IP
+                if stt > 5:
+                    print("🛑 Đã cào đủ 5 trận an toàn. Tạm dừng để tránh bị khóa IP.")
+                    break
+                    
+                print(f"🔄 [{stt}/5] Đang ngụy trang đột nhập: {link_phong}")
                 stream_link = None
                 
                 def bat_goi_tin(request):
                     nonlocal stream_link
-                    # Tóm cả link .flv và .m3u8
                     if ".flv" in request.url or ".m3u8" in request.url:
                         stream_link = request.url
                 
-                # Bật máy nghe lén mạng
                 page.on("request", bat_goi_tin)
                 
                 try:
-                    # Mở phòng chiếu và đợi 8 giây cho luồng video kích hoạt
                     page.goto(link_phong, timeout=20000)
-                    page.wait_for_timeout(8000) 
+                    page.wait_for_timeout(10000) # Đợi 10s cho video xuyên tường lửa
                 except Exception:
-                    print("   ⚠️ Web lag hoặc tải quá lâu, bỏ qua sang phòng khác.")
+                    print("   ⚠️ Lỗi mạng, bỏ qua.")
                 
-                # Tắt máy nghe lén trước khi sang phòng mới
                 page.remove_listener("request", bat_goi_tin)
                 
-                # Ghi link vào file
                 if stream_link:
-                    print(f"   ✅ Tóm được link: {stream_link[:60]}...")
-                    file.write(f"#EXTINF:-1, ⚽ Kênh Trực Tiếp {stt}\n")
+                    print(f"   ✅ Bắt sống luồng video: {stream_link[:60]}...")
+                    file.write(f"#EXTINF:-1, ⚽ Kênh Tự Động {stt}\n")
                     file.write(f"{stream_link}\n")
                 else:
-                    print("   ❌ Chưa có luồng video phát sóng.")
+                    print("   ❌ Không thấy video (Trận chưa đá hoặc dính CAPTCHA).")
                     
         browser.close()
-        print("\n🎉 CHIẾN DỊCH HOÀN TẤT! File 'tong_hop_bong_da.m3u' đã sẵn sàng lên TV.")
+        print("\n🎉 HOÀN TẤT CHIẾN DỊCH VƯỢT RÀO!")
 
-# Chạy hệ thống
 if __name__ == "__main__":
     auto_san_toan_bo_giai_dau()
