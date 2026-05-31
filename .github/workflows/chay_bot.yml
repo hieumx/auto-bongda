@@ -2,17 +2,16 @@ name: Tự Động Săn Link Bóng Đá Hằng Ngày
 
 on:
   schedule:
-    # Chạy tự động vào lúc 11:30 UTC (tức là 18:30 chiều giờ Việt Nam, trước giờ bóng lăn)
+    # Chạy tự động vào 18h30 (giờ VN) hằng ngày (11h30 UTC)
     - cron: '30 11 * * *'
-  workflow_dispatch: # Nút bấm để em thích thì tự ấn cho nó chạy ngay lập tức
+  workflow_dispatch: # Nút bấm chạy thủ công
 
 jobs:
-  run-bot:
-    runs-on: ubuntu-latest # Cấp máy chủ Ubuntu miễn phí
+  build:
+    runs-on: ubuntu-latest
 
     steps:
-    - name: Kiểm tra kho code
-      uses: actions/checkout@v4
+    - uses: actions/checkout@v4
 
     - name: Cài đặt Python
       uses: actions/setup-python@v5
@@ -24,14 +23,18 @@ jobs:
         pip install playwright playwright-stealth
         playwright install chromium
 
-    - name: Kích hoạt Siêu Bot đi săn link
+    - name: Kích hoạt Siêu Bot đi săn link (Vượt rào Proxy)
+      env:
+        PROXY_IP: ${{ secrets.PROXY_IP }}
+        PROXY_PORT: ${{ secrets.PROXY_PORT }}
+        PROXY_USER: ${{ secrets.PROXY_USER }}
+        PROXY_PASS: ${{ secrets.PROXY_PASS }}
       run: python san_link_bong_da.py
 
-    - name: Đẩy file m3u mới lên kho chứa công khai
+    - name: Đóng gói và đẩy lên mây
       run: |
-        git config --local user.email "action@github.com"
-        git config --local user.name "GitHub Action Bot"
-        touch tong_hop_bong_da.m3u
+        git config --global user.name "actions-user"
+        git config --global user.email "actions@github.com"
         git add tong_hop_bong_da.m3u
-        git commit -m "Cập nhật luồng trực tiếp mới nhất" || echo "Không có trận bóng nào mới"
-        git push || echo "Không có dữ liệu mới để đẩy lên"
+        git commit -m "Cập nhật luồng trực tiếp mới nhất" || echo "Không có thay đổi"
+        git push
