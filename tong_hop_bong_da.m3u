@@ -1,65 +1,69 @@
 #EXTM3U
-#EXTINF:-1, ⚽ Live - BLV COCA - 69.14k - CNCF CHL: Toluca vs Tigres UANL
-https://pull06.scstream.net/live/stream-327159_lhd.flv?auth_key=1780195316-0-0-f04253b78a363c704f874391dcf069e0
-#EXTINF:-1, ⚽ TẠ BIÊN GIỚI
-https://pull06.scstream.net/live/stream-9912108_lhd.flv?auth_key=1780195316-0-0-4f08d7b156a8ee39a20ff7ab3d1c14f6
-#EXTINF:-1, ⚽ Live - BLV TOMMY - 62.65k - INTERF: Mexico vs Australia
-https://pull.niur.live/live/stream-414317_lhd.flv?txSecret=50d1372b1dc3581b57ebc5a3e3b3e1e0&txTime=6a1be644
+#EXTINF:-1, ⚽ BLV COCA
+https://pull06.scstream.net/live/stream-327159_lhd.flv?auth_key=1780196567-0-0-09fb27a703909c91c0bbd23a047a2f86
+#EXTINF:-1, ⚽ Live - TẠ BIÊN GIỚI - 66.00k - INTERF: Mexico vs Australia
+https://pull06.scstream.net/live/stream-9912108_lhd.flv?auth_key=1780196576-0-0-13376896b3d4af06c25d7179d450329b
+#EXTINF:-1, ⚽ Live - BLV TOMMY - 64.48k - INTERF: Mexico vs Australia
+https://pull.niur.live/live/stream-414317_lhd.flv?txSecret=4966b399e6696d0aebe324f03fb62e7a&txTime=6a1beb6c
 #EXTINF:-1, ⚽ BLV TAP
 https://pull.niur.live/live/stream-9912041_lhd.flv?txSecret=49b5d05997be6efd2e685ed8d63af081&txTime=6a1b8d09
-#EXTINF:-1, ⚽ Live - DECO - 65.57k - INTERF: Mexico vs Australia
-https://pull06.scstream.net/live/stream-9912060_lhd.flv?auth_key=1780195316-0-0-cfc61c46d38bfb2ba8c7f11e902a2f7d
-#EXTINF:-1, ⚽ Live - BLV ĐỐM - 62.73k - INTERF: Mexico vs Australial
-https://pull06.scstream.net/live/stream-9912110_lhd.flv?auth_key=1780195316-0-0-038f9379feae60b918956a301bd68788
-#EXTINF:-1, ⚽ Live - BLV Củ Cải - 62.55k - INTERF: Mexico vs Australia
-https://pull06.scstream.net/live/stream-9912091_lhd.flv?auth_key=1780195376-0-0-fd87aface7b83fd7239c6b5f05fa563b
-#EXTINF:-1, ⚽ Live - BLV 7UP - 66.15k - CNCF CHL: Toluca vs Tigres UANL
-https://pull06.scstream.net/live/stream-534219_lhd.flv?auth_key=1780195376-0-0-bed7883d7111aedb2421458e23b6701f
+#EXTINF:-1, ⚽ Live - DECO - 69.27k - INTERF: Mexico vs Australia
+https://pull06.scstream.net/live/stream-9912060_lhd.flv?auth_key=1780196636-0-0-9055f79c79191dd8664740f6886fe4a8
+#EXTINF:-1, ⚽ Live - BLV ĐỐM - 64.14k - INTERF: Mexico vs Australial
+https://pull06.scstream.net/live/stream-9912110_lhd.flv?auth_key=1780196636-0-0-f0520cce80ea81bfcd938ad651d5b3bf
+#EXTINF:-1, ⚽ Live - BLV Củ Cải - 64.71k - INTERF: Mexico vs Australia
+https://pull06.scstream.net/live/stream-9912091_lhd.flv?auth_key=1780196696-0-0-825ebee2b5bd146d26f0b48cdbe1f8fb
+#EXTINF:-1, ⚽ Live - BLV 7UP - 66.82k - CNCF CHL: Toluca vs Tigres UANL
+https://pull06.scstream.net/live/stream-534219_lhd.flv?auth_key=1780196696-0-0-b680befd6a8d8b3f3f7763cabf5bcc17
 #EXTINF:-1, ⚽ THẠCH TÚ
 https://pull06.scstream.net/live/stream-9912116_lhd.flv?auth_key=1780171552-0-0-e626df4a07a76ed7b25797e084ea1919
 #EXTINF:-1, ⚽ SAO LA
 https://pull.niur.live/live/stream-462413_lhd.flv?txSecret=3100ef430f9544e70930e911264ecbe8&txTime=6a1b8f17
-#EXTINF:-1, ⚽ Live - BLV MESSI - 69.60k - CNCF CHL: Toluca vs Tigres UANL
-https://pull.niur.live/live/stream-494201_lhd.flv?txSecret=78bbbf9e91be669208f3c578d96bd171&txTime=6a1be680
-#EXTINF:-1, ⚽ Live - RICKHANTER - 70.54k - CNCF CHL: Toluca vs Tigres UANL
-https://pull.niur.live/live/stream-9912122_lhd.flv?txSecret=c957694d73f3c2042fd36ec09e75fdb1&txTime=6a1be680
-#EXTINF:-1, ⚽ Live - CR Bưởi - 52.52k - CNCF CHL: Toluca vs Tigres UANL
-https://pull06.scstream.net/live/stream-387694_lhd.flv?auth_key=1780195376-0-0-f48bb5b3d1c4ce31e442ad6631d98d76
-#EXTINF:-1, ⚽ Live - BLV TOMIA - 39.47k - INTERF: South Korea vs Trinidad and Tobago
-https://pull06.scstream.net/live/stream-9912008_lhd.flv?auth_key=1780195376-0-0-21ca9debb9354552062b0b3abc62c6aa
-#EXTINF:-1, ⚽ Live - TYPN - 57.59k - INTERF: South Korea vs Trinidad and Tobago
-https://pull.niur.live/live/stream-9912009_lhd.flv?txSecret=bdf3865ec6f97935b9d860143d3d5676&txTime=6a1be680
-#EXTINF:-1, ⚽ Live - BLV RÔSI - 47.63k - INTERF: Ecuador vs Saudi Arabia
-https://pull.niur.live/live/stream-9912102_lhd.flv?txSecret=9f4f2cbf56e913c8b467ae1370dc6502&txTime=6a1be6bc
-#EXTINF:-1, ⚽ Live - LÃO LÂM - 37.49k - INTERF: South Korea vs Trinidad and Tobago
-https://pull06.scstream.net/live/stream-527384_lhd.flv?auth_key=1780195436-0-0-2e5507000626059fffaaa64d268939d1
-#EXTINF:-1, ⚽ Live - CÔNG CHẤT - 36.42k - INTERF: Ecuador vs Saudi Arabia
-https://pull06.scstream.net/live/stream-291277_lhd.flv?auth_key=1780195436-0-0-8bcc4ff34141efadf6d11306d99d5f81
-#EXTINF:-1, ⚽ Live - BLV CUỘI - 36.41k - CNCF CHL: Toluca vs Tigres UANL
-https://pull06.scstream.net/live/stream-256080_lhd.flv?auth_key=1780195436-0-0-ce4bb9cf3ffa95632c880c9cadba6393
-#EXTINF:-1, ⚽ Live - BLV ENZO - 35.66k - INTERF: Ecuador vs Saudi Arabia
-https://pull06.scstream.net/live/stream-380460_lhd.flv?auth_key=1780195436-0-0-ea46c14a054f7c75ff0a5dc5f71764d2
-#EXTINF:-1, ⚽ Live - MONEY MAN - 35.45k - INTERF: Ecuador vs Saudi Arabia
-https://pull06.scstream.net/live/stream-605412_lhd.flv?auth_key=1780195436-0-0-4c684ee4a2c9f3db153426a238b0eadb
-#EXTINF:-1, ⚽ Live - BLV BÉO - 35.18k - INTERF: Ecuador vs Saudi Arabia
-https://pull.niur.live/live/stream-459401_lhd.flv?txSecret=902cc5565c26f560cd2fc08910e29c18&txTime=6a1be6bc
-#EXTINF:-1, ⚽ Live - BRIAN - 30.12k - NBA: Oklahoma City Thunder vs San Antonio Spurs
-https://pull06.scstream.net/live/stream-9912106_lhd.flv?auth_key=1780195436-0-0-51aeb587591c4e82a594f345470dcb48
-#EXTINF:-1, ⚽ Live - CHAN SENA - 29.82k - NBA: Oklahoma City Thunder vs San Antonio Spurs
-https://pull06.scstream.net/live/stream-9912115_lhd.flv?auth_key=1780195436-0-0-059ebaab0968838326afcd74fb50424c
-#EXTINF:-1, ⚽ Live - A CHÈ - 29.42k - NBA: Oklahoma City Thunder vs San Antonio Spurs
-https://pull06.scstream.net/live/stream-356042_lhd.flv?auth_key=1780195496-0-0-eca42d790b6ce1d7c9e48b4b1950e407
-#EXTINF:-1, ⚽ Live - BLV HENRY - 28.76k - NBA: Oklahoma City Thunder vs San Antonio Spurs
-https://pull06.scstream.net/live/stream-9912112_lhd.flv?auth_key=1780195496-0-0-bf94bbe58f8cfa54d9ac646150f141a5
-#EXTINF:-1, ⚽ Live - BLV KAN - 28.49k - INTERF: South Korea vs Trinidad and Tobago
-https://pull.niur.live/live/stream-283501_lhd.flv?txSecret=b95c71f47d143381d2eec5e30c7ae90d&txTime=6a1be6f8
-#EXTINF:-1, ⚽ Live - BLV SATIVA - 28.45k - INTERF: South Korea vs Trinidad and Tobago
-https://pull06.scstream.net/live/stream-321443_lhd.flv?auth_key=1780195496-0-0-467cd9a2059d15645bce3f7ca81c421c
-#EXTINF:-1, ⚽ Live - CHÍ PHÈO - 28.28k - INTERF: South Korea vs Trinidad and Tobago
-https://pull06.scstream.net/live/stream-273736_lhd.flv?auth_key=1780195496-0-0-4f15b89d7e3c0ccf41b42e44b94f3286
-#EXTINF:-1, ⚽ Live - KING - 27.63k - NBA: Oklahoma City Thunder vs San Antonio Spurs
-https://pull06.scstream.net/live/stream-9912099_lhd.flv?auth_key=1780195496-0-0-8af7a7ed2b6a6277f78f7d015650c528
-#EXTINF:-1, ⚽ Live - HUNTER - 27.00k - NBA: Oklahoma City Thunder vs San Antonio Spurs
-https://pull06.scstream.net/live/stream-558264_lhd.flv?auth_key=1780195496-0-0-b0ff41d95fbb36e38a4e177c51bccab2
-#EXTINF:-1, ⚽ Live - SOCOLIVE - 1.08k - BIT.LY/SOCOLIVE
-https://pull06.scstream.net/live/stream-175784_lhd.flv?auth_key=1780195496-0-0-a9018fdfd0f502f7d32ba779a382b9e6
+#EXTINF:-1, ⚽ Live - BLV MESSI - 70.61k - CNCF CHL: Toluca vs Tigres UANL
+https://pull.niur.live/live/stream-494201_lhd.flv?txSecret=a5618b74d3e0623db87f835faefc717c&txTime=6a1beba8
+#EXTINF:-1, ⚽ Live - RICKHANTER - 72.04k - CNCF CHL: Toluca vs Tigres UANL
+https://pull.niur.live/live/stream-9912122_lhd.flv?txSecret=dd8837d67369b58808624412006e803e&txTime=6a1bebe4
+#EXTINF:-1, ⚽ Live - BLV CUỘI - 49.62k - CNCF CHL: Toluca vs Tigres UANL
+https://pull06.scstream.net/live/stream-256080_lhd.flv?auth_key=1780196756-0-0-44993e8dad09195ab4a52e8a2ac71769
+#EXTINF:-1, ⚽ Live - BRIAN - 49.52k - NBA: Oklahoma City Thunder vs San Antonio Spurs
+https://pull06.scstream.net/live/stream-9912106_lhd.flv?auth_key=1780196756-0-0-9d8d9962340bba3fec53d2e3e9ee0991
+#EXTINF:-1, ⚽ Live - BLV PEWPEW - 45.31k - INTERF: Mexico vs Australia
+https://pull06.scstream.net/live/stream-9912015_lhd.flv?auth_key=1780196756-0-0-b9e463f46accdfde38003abcb1ff00d5
+#EXTINF:-1, ⚽ Live - CR Bưởi - 53.88k - CNCF CHL: Toluca vs Tigres UANL
+https://pull06.scstream.net/live/stream-387694_lhd.flv?auth_key=1780196756-0-0-7cc503193c392b50ceee65355a38f6f2
+#EXTINF:-1, ⚽ Live - CÔNG CHẤT - 36.98k - INTERF: Ecuador vs Saudi Arabia
+https://pull06.scstream.net/live/stream-291277_lhd.flv?auth_key=1780196816-0-0-63066655e662025ad7cd9efb484e48aa
+#EXTINF:-1, ⚽ Live - BLV RÔSI - 36.05k - INTERF: Ecuador vs Saudi Arabia
+https://pull.niur.live/live/stream-9912102_lhd.flv?txSecret=4a9683b6a129624e477dd52415affaf5&txTime=6a1bec20
+#EXTINF:-1, ⚽ Live - BLV ENZO - 36.00k - INTERF: Ecuador vs Saudi Arabia
+https://pull06.scstream.net/live/stream-380460_lhd.flv?auth_key=1780196816-0-0-c6de12f5dc1a78863f3c068fd77e7df0
+#EXTINF:-1, ⚽ Live - TYPN - 35.93k - INTERF: South Korea vs Trinidad and Tobago
+https://pull.niur.live/live/stream-9912009_lhd.flv?txSecret=ddc46268175e3dc9788986532c7c9804&txTime=6a1bec20
+#EXTINF:-1, ⚽ Live - BLV BÉO - 35.50k - INTERF: Ecuador vs Saudi Arabia
+https://pull.niur.live/live/stream-459401_lhd.flv?txSecret=958d2a79f2db94a06a7f67e13cd931ff&txTime=6a1bec20
+#EXTINF:-1, ⚽ Live - BLV TOMIA - 35.43k - INTERF: South Korea vs Trinidad and Tobago
+https://pull06.scstream.net/live/stream-9912008_lhd.flv?auth_key=1780196876-0-0-fdd0c1ea9103dbe3f4e28989bc68e235
+#EXTINF:-1, ⚽ Live - MONEY MAN - 35.38k - INTERF: Ecuador vs Saudi Arabia
+https://pull06.scstream.net/live/stream-605412_lhd.flv?auth_key=1780196695-0-0-a5e953bdc38faecc0596660b4c958e69
+#EXTINF:-1, ⚽ Live - LÃO LÂM - 35.12k - INTERF: South Korea vs Trinidad and Tobago
+https://pull06.scstream.net/live/stream-527384_lhd.flv?auth_key=1780196876-0-0-2d45fe371adc0fa829457d90e06c11cc
+#EXTINF:-1, ⚽ Live - A CHÈ - 32.43k - NBA: Oklahoma City Thunder vs San Antonio Spurs
+https://pull06.scstream.net/live/stream-356042_lhd.flv?auth_key=1780196876-0-0-1330bd0ea3b881c1995f822d6a84428d
+#EXTINF:-1, ⚽ Live - CHAN SENA - 31.25k - NBA: Oklahoma City Thunder vs San Antonio Spurs
+https://pull06.scstream.net/live/stream-9912115_lhd.flv?auth_key=1780196876-0-0-37edf0074aa6ac185d71d3e4f0d7c5b5
+#EXTINF:-1, ⚽ Live - BLV HENRY - 30.02k - NBA: Oklahoma City Thunder vs San Antonio Spurs
+https://pull06.scstream.net/live/stream-9912112_lhd.flv?auth_key=1780196936-0-0-547c0893521868ba17c16ca9587abc5a
+#EXTINF:-1, ⚽ Live - KING - 29.08k - NBA: Oklahoma City Thunder vs San Antonio Spurs
+https://pull06.scstream.net/live/stream-9912099_lhd.flv?auth_key=1780196936-0-0-251ed764329f7b7795c60e4ec7319de3
+#EXTINF:-1, ⚽ Live - HUNTER - 28.16k - NBA: Oklahoma City Thunder vs San Antonio Spurs
+https://pull06.scstream.net/live/stream-558264_lhd.flv?auth_key=1780196936-0-0-46093e7d17e2844aba888646a38c986c
+#EXTINF:-1, ⚽ Live - BLV SATIVA - 26.67k - INTERF: South Korea vs Trinidad and Tobago
+https://pull06.scstream.net/live/stream-321443_lhd.flv?auth_key=1780196936-0-0-b901ceaf671d4efe435371c1e9f9a520
+#EXTINF:-1, ⚽ Live - BLV KAN - 26.65k - INTERF: South Korea vs Trinidad and Tobago
+https://pull.niur.live/live/stream-283501_lhd.flv?txSecret=422b64d6aa6c2bca8f61932fcf92b9e4&txTime=6a1becd4
+#EXTINF:-1, ⚽ Live - CHÍ PHÈO - 26.45k - INTERF: South Korea vs Trinidad and Tobago
+https://pull06.scstream.net/live/stream-273736_lhd.flv?auth_key=1780196996-0-0-5924850678d384c54e1567058a42b1a5
+#EXTINF:-1, ⚽ Live - BLV A TÚ - 25.04k - USLC: Las Vegas Lights vs FC Tulsa
+https://pull06.scstream.net/live/stream-557845_lhd.flv?auth_key=1780196996-0-0-a65f20faea6559f849cbb0610a197d25
+#EXTINF:-1, ⚽ Live - SOCOLIVE - 1.11k - BIT.LY/SOCOLIVE
+https://pull06.scstream.net/live/stream-175784_lhd.flv?auth_key=1780196996-0-0-038d3765557daebe074523d037936236
