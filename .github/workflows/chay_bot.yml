@@ -21,17 +21,12 @@ jobs:
       with:
         python-version: '3.10'
 
-    - name: Cài đặt vũ khí Playwright và Stealth
+    - name: Cài đặt vũ khí Playwright
       run: |
-        pip install playwright playwright-stealth
+        pip install playwright
         playwright install chromium
 
     - name: Kích hoạt Siêu Bot đi săn link
-      env:
-        PROXY_IP: ${{ secrets.PROXY_IP }}
-        PROXY_PORT: ${{ secrets.PROXY_PORT }}
-        PROXY_USER: ${{ secrets.PROXY_USER }}
-        PROXY_PASS: ${{ secrets.PROXY_PASS }}
       run: python san_link_bong_da.py
 
     - name: Đẩy file m3u mới lên kho chứa công khai
