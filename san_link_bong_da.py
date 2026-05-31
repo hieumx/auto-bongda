@@ -5,23 +5,19 @@ def san_full_server_qua_proxy():
     url_co_dinh = "https://bit.ly/socolive"
     print("🚀 KHỞI ĐỘNG CHIẾN DỊCH VÉT SẠCH SERVER VỚI PROXY ẨN DANH...")
     
-    # 1. HÚT CHÌA KHÓA TỪ KÉT SẮT GITHUB
-    proxy_ip = os.getenv("PROXY_IP")
-    proxy_port = os.getenv("PROXY_PORT")
-    proxy_user = os.getenv("PROXY_USER")
-    proxy_pass = os.getenv("PROXY_PASS")
+    # 1. KHAI BÁO CỨNG PROXY (Bỏ qua Két sắt GitHub)
+    proxy_ip = "171.236.188.19"
+    proxy_port = "41570"
+    proxy_user = "hieumx"
+    proxy_pass = "hieu123"
     
     # 2. LẮP RÁP CẤU HÌNH MẠNG
-    cau_hinh_proxy = None
-    if proxy_ip and proxy_port:
-        print(f"🌐 Đã kết nối ống ngầm Proxy: {proxy_ip}")
-        cau_hinh_proxy = {
-            "server": f"http://{proxy_ip}:{proxy_port}",
-            "username": proxy_user,
-            "password": proxy_pass
-        }
-    else:
-        print("⚠️ Cảnh báo: Không tìm thấy Proxy! Bot sẽ chạy bằng IP máy chủ.")
+    print(f"🌐 Đã kết nối ống ngầm Proxy: {proxy_ip}")
+    cau_hinh_proxy = {
+        "server": f"http://{proxy_ip}:{proxy_port}",
+        "username": proxy_user,
+        "password": proxy_pass
+    }
 
     with sync_playwright() as p:
         # 3. KÍCH HOẠT TRÌNH DUYỆT (Chỉ dùng Proxy và tắt dấu hiệu Bot)
