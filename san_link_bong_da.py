@@ -6,13 +6,13 @@ def san_full_server_qua_proxy():
     url_co_dinh = "https://bit.ly/socolive"
     print("🚀 KHỞI ĐỘNG CHIẾN DỊCH VÉT SẠCH SERVER VỚI PROXY ẨN DANH...")
     
-    # 1. Lấy chìa khóa từ hệ thống GitHub
+    # 1. HÚT CHÌA KHÓA TỪ KÉT SẮT GITHUB
     proxy_ip = os.getenv("PROXY_IP")
     proxy_port = os.getenv("PROXY_PORT")
     proxy_user = os.getenv("PROXY_USER")
     proxy_pass = os.getenv("PROXY_PASS")
     
-    # 2. Lắp ráp cấu hình mạng
+    # 2. LẮP RÁP CẤU HÌNH MẠNG
     cau_hinh_proxy = None
     if proxy_ip and proxy_port:
         print(f"🌐 Đã kết nối ống ngầm Proxy: {proxy_ip}")
@@ -22,10 +22,10 @@ def san_full_server_qua_proxy():
             "password": proxy_pass
         }
     else:
-        print("⚠️ Cảnh báo: Không tìm thấy Proxy trong Két sắt! Sẽ chạy bằng IP máy chủ (Dễ bị chặn).")
+        print("⚠️ Cảnh báo: Không tìm thấy Proxy! Bot sẽ chạy bằng IP máy chủ.")
 
     with sync_playwright() as p:
-        # 3. Kích hoạt trình duyệt ngụy trang
+        # 3. KÍCH HOẠT TRÌNH DUYỆT TÀNG HÌNH
         browser = p.chromium.launch(
             headless=True,
             proxy=cau_hinh_proxy,
@@ -36,9 +36,9 @@ def san_full_server_qua_proxy():
             user_agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
         )
         page = context.new_page()
-        stealth_sync(page) # Phủ lớp tàng hình cuối cùng
+        stealth_sync(page) 
         
-     # ==========================================
+        # ==========================================
         # GIAI ĐOẠN 1: VƯỢT TƯỜNG LỬA & QUÉT LINK
         # ==========================================
         print(f"📥 Đang truy cập trạm trung chuyển: {url_co_dinh}")
@@ -46,14 +46,13 @@ def san_full_server_qua_proxy():
             page.goto(url_co_dinh, timeout=60000)
             print("⏳ Đang rình Cloudflare mở cửa và chờ dữ liệu tải về...")
             
-            # Ép Bot rình cho đến khi xuất hiện ít nhất 1 phòng (tối đa 40 giây)
+            # Cơ chế rình mồi: Đợi tối đa 40s cho đến khi thấy link phòng chiếu
             page.wait_for_selector('a[href*="/room/"]', timeout=40000)
-            
-            # Khi thấy phòng xuất hiện, chờ thêm 5 giây cho các phòng tải nốt
-            page.wait_for_timeout(5000) 
+            page.wait_for_timeout(5000) # Đợi thêm 5s cho load hẳn
         except Exception as e:
             print(f"⚠️ Hết thời gian chờ hoặc kẹt tường lửa: {e}")
 
+        # Quét tên trận và link
         danh_sach_raw = page.evaluate("""
             Array.from(document.querySelectorAll('a[href*="/room/"]')).map(a => {
                 return {
@@ -74,11 +73,12 @@ def san_full_server_qua_proxy():
         print(f"🎯 ĐÃ QUA CỬA! Phát hiện tổng cộng {tong_so_tran} trận đấu!\n")
 
         if tong_so_tran == 0:
-            print("❌ Tường lửa quá dày hoặc web chưa lên lịch.")
+            print("❌ Không tìm thấy phòng nào. Web chưa lên lịch. Tắt Bot.")
             browser.close()
             return
+
         # ==========================================
-        # GIAI ĐOẠN 2: CÀO DATA TOÀN BỘ
+        # GIAI ĐOẠN 2: CÀO DATA TOÀN BỘ VÀ LƯU FILE
         # ==========================================
         with open("tong_hop_bong_da.m3u", "w", encoding="utf-8") as file:
             file.write("#EXTM3U\n")
