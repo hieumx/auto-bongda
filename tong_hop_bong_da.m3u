@@ -1,41 +1,107 @@
 #EXTM3U
-#EXTINF:-1, ⚽ BLV COCA
-https://pull06.scstream.net/live/stream-327159_lhd.flv?auth_key=1780203665-0-0-588c75ef0a21075730639cec8d6fb16b
-#EXTINF:-1, ⚽ TẠ BIÊN GIỚI
-https://pull06.scstream.net/live/stream-9912108_lhd.flv?auth_key=1780214406-0-0-9bf4e3fdeed3f105b48e4eddf07bda72
-#EXTINF:-1, ⚽ BLV TOMMY
-https://pull.niur.live/live/stream-414317_lhd.flv?txSecret=3969132bc62ad4a8008cc45b61a10251&txTime=6a1c5ac0
-#EXTINF:-1, ⚽ Live - BLV TAP - 71.54k - AUS NPLQ: Brisbane Olympic United FC vs Brisbane City
-https://pull.niur.live/live/stream-9912041_lhd.flv?txSecret=6c4ffabfb9522b89fd6094fd0f5736fe&txTime=6a1c5ac0
-#EXTINF:-1, ⚽ DECO
-https://pull06.scstream.net/live/stream-9912060_lhd.flv?auth_key=1780214342-0-0-c19bd513dc2418b213a1e94e1ba6f652
-#EXTINF:-1, ⚽ Live - BLV ĐỐM - 65.46k - AUS NPLQ: Brisbane Olympic United FC vs Brisbane City
-https://pull06.scstream.net/live/stream-9912110_lhd.flv?auth_key=1780225196-0-0-e141512d957cdf1c483b542c7db4d74a
-#EXTINF:-1, ⚽ Live - BLV Củ Cải - 63.06k - INTERF: Japan vs Iceland
-https://pull06.scstream.net/live/stream-9912091_lhd.flv?auth_key=1780225196-0-0-61ffcb16480048845d01dd3af72b0976
-#EXTINF:-1, ⚽ Live - BLV 7UP - 64.37k - AUS NPLQ: Brisbane Olympic United FC vs Brisbane City
-https://pull06.scstream.net/live/stream-534219_lhd.flv?auth_key=1780225196-0-0-6a83021ce8b0b9898938c6d5dfc6acb9
-#EXTINF:-1, ⚽ THẠCH TÚ
-https://pull06.scstream.net/live/stream-9912116_lhd.flv?auth_key=1780171552-0-0-e626df4a07a76ed7b25797e084ea1919
-#EXTINF:-1, ⚽ SAO LA
-https://pull.niur.live/live/stream-462413_lhd.flv?txSecret=aaf1ab15581cee27da1b509f9bec346e&txTime=6a1c309b
-#EXTINF:-1, ⚽ Live - BLV MESSI - 65.00k - AUS NPLQ: Brisbane Olympic United FC vs Brisbane City
-https://pull06.scstream.net/live/stream-494201_lhd.flv?auth_key=1780225256-0-0-c8dd6ef9bb0b7c89b252aaaab3c98784
-#EXTINF:-1, ⚽ Live - RICKHANTER - 62.28k - INTERF: Japan vs Iceland
-https://pull.niur.live/live/stream-9912122_lhd.flv?txSecret=b61c793cfb87f5b18c88780a29cae51c&txTime=6a1c5b38
-#EXTINF:-1, ⚽ Live - NGƯỜI CÁ - 27.47k - KOR D3: Yeoju Citizen vs Daejeon Korail
-https://pull06.scstream.net/live/stream-595335_lhd.flv?auth_key=1780225236-0-0-17bd723606fdd2c76378e4ddbe277839
-#EXTINF:-1, ⚽ Live - BLV GÔN - 27.19k - KOR D3: Yeoju Citizen vs Daejeon Korail
-https://pull.niur.live/live/stream-445260_lhd.flv?txSecret=92757b78e494f0331c2a701d376b0137&txTime=6a1c5b2f
-#EXTINF:-1, ⚽ Live - BLV FIREMAN - 53.74k - AUS NPLQ: Brisbane Olympic United FC vs Brisbane City
-https://pull06.scstream.net/live/stream-991140_lhd.flv?auth_key=1780225316-0-0-8851cdff7817b34553a000366bfa0126
-#EXTINF:-1, ⚽ Live - BLV KEM - 54.07k - AUS NPLQ: Brisbane Olympic United FC vs Brisbane City
-https://pull06.scstream.net/live/stream-513394_lhd.flv?auth_key=1780225316-0-0-0f5d882c249b0d86b1934869514fa068
-#EXTINF:-1, ⚽ Live - BRIAN - 27.06k - PBCC: Rain or Shine Elasto Painters vs Barangay Ginebra San Miguel
-https://pull06.scstream.net/live/stream-9912106_lhd.flv?auth_key=1780225376-0-0-7d4d403c76b7f9917f082d721f421c6f
-#EXTINF:-1, ⚽ Live - CHAN SENA - 26.78k - TPBL: New Taipei Kings vs Formosa Dreamers
-https://pull06.scstream.net/live/stream-9912115_lhd.flv?auth_key=1780225376-0-0-f3b35e500a1abc26e414ff25d717f484
-#EXTINF:-1, ⚽ Live - TƯ MÃ Ý - 26.41k - KOR D2: Hwaseong FC vs Gyeongnam FC
-https://pull06.scstream.net/live/stream-611377_lhd.flv?auth_key=1780225376-0-0-66a754071e4301e6c9d526ad73116428
-#EXTINF:-1, ⚽ Live - SOCOLIVE - 1.66k - BIT.LY/SOCOLIVE
-https://pull06.scstream.net/live/stream-175784_lhd.flv?auth_key=1780225376-0-0-0453710f62a84c50f525adb85770fc3c
+#EXTINF:-1, ⚽ Live - BLV COCA - 66.55k - SWE D1: Hacken vs Hammarby
+https://pull06.scstream.net/live/stream-327159_lhd.flv?auth_key=1780234136-0-0-6b436e5b0058464bd899ff7dbdcf296c
+#EXTINF:-1, ⚽ Live - TẠ BIÊN GIỚI - 66.34k - INTERF: Japan vs Iceland
+https://pull06.scstream.net/live/stream-9912108_lhd.flv?auth_key=1780234136-0-0-272fe8a2c8423e140d1b5534dfec3098
+#EXTINF:-1, ⚽ Live - BLV TOMMY - 62.48k - INTERF: Switzerland vs Jordan
+https://pull.niur.live/live/stream-414317_lhd.flv?txSecret=643bb557e2738b73d2b831459c3a3c9d&txTime=6a1c7de8
+#EXTINF:-1, ⚽ Live - BLV TAP - 69.06k - CHA SL: Wuhan Three Towns vs Yunnan Yukun
+https://pull.niur.live/live/stream-9912041_lhd.flv?txSecret=200054ecac2581044cc0e25472ace34e&txTime=6a1c7de8
+#EXTINF:-1, ⚽ Live - DECO - 74.06k - INTERF: Japan vs Iceland
+https://pull06.scstream.net/live/stream-9912060_lhd.flv?auth_key=1780233950-0-0-26c8d62d8842422a552fb1d11220326d
+#EXTINF:-1, ⚽ Live - BLV ĐỐM - 64.50k - CHA SL: Wuhan Three Towns vs Yunnan Yukun
+https://pull06.scstream.net/live/stream-9912110_lhd.flv?auth_key=1780234196-0-0-638215dc05193b2645a54505b846045a
+#EXTINF:-1, ⚽ Live - BLV Củ Cải - 62.39k - INTERF: Switzerland vs Jordan
+https://pull06.scstream.net/live/stream-9912091_lhd.flv?auth_key=1780234196-0-0-06b7bb3f4e9ccd7387b05f88c158c2be
+#EXTINF:-1, ⚽ BLV 7UP
+https://pull06.scstream.net/live/stream-534219_lhd.flv?auth_key=1780226153-0-0-53bc3c93b54c54611ecf099e3a6802e5
+#EXTINF:-1, ⚽ Live - THẠCH TÚ - 64.42k - CHA SL: Wuhan Three Towns vs Yunnan Yukun
+https://pull06.scstream.net/live/stream-9912116_lhd.flv?auth_key=1780234196-0-0-a1ece88792a48e1ec6a7b0b317dbb08b
+#EXTINF:-1, ⚽ Live - SAO LA - 62.39k - INTERF: Switzerland vs Jordan
+https://pull.niur.live/live/stream-462413_lhd.flv?txSecret=c62e16a2ae1eaaadb598533f5e60af60&txTime=6a1c7e24
+#EXTINF:-1, ⚽ BLV MESSI
+https://pull06.scstream.net/live/stream-494201_lhd.flv?auth_key=1780226671-0-0-3ab7b0955c74aaa44ca8fc17b4886e23
+#EXTINF:-1, ⚽ RICKHANTER
+https://pull.niur.live/live/stream-9912122_lhd.flv?txSecret=fcf5200d3eaece7a15f53ea5bbb41933&txTime=6a1c7d6a
+#EXTINF:-1, ⚽ Live - BLV ROBBEN - 56.97k - VIE D1: Cong An Ha Noi FC vs Becamex Ho Chi Minh City
+https://pull06.scstream.net/live/stream-527383_lhd.flv?auth_key=1780234256-0-0-1e2ab8084145f33992e770badd272ee3
+#EXTINF:-1, ⚽ Live - VƯƠNG ANH - 55.92k - VIE D1: Cong An Ha Noi FC vs Becamex Ho Chi Minh City
+https://pull.niur.live/live/stream-548860_lhd.flv?txSecret=4b4eea1f17dcc7726c8b147c487671da&txTime=6a1c7e60
+#EXTINF:-1, ⚽ Live - CR Bưởi - 38.03k - VIE D1: Hoang Anh Gia Lai vs Hanoi FC
+https://pull.niur.live/live/stream-387694_lhd.flv?txSecret=6af2cb96f9738872bfe7a871f51b8a08&txTime=6a1c7e60
+#EXTINF:-1, ⚽ Live - BLV CUỘI - 37.09k - VIE D1: Hoang Anh Gia Lai vs Hanoi FC
+https://pull06.scstream.net/live/stream-256080_lhd.flv?auth_key=1780234316-0-0-ab68c14a6426fdab2f4e8ee08ce5fef1
+#EXTINF:-1, ⚽ Live - A BỆU - 36.99k - VIE D1: Cong An Ha Noi FC vs Becamex Ho Chi Minh City
+https://pull06.scstream.net/live/stream-484845_lhd.flv?auth_key=1780234316-0-0-d0a5f428e6e67aa53cb0dc74fb4e49bd
+#EXTINF:-1, ⚽ Live - BLV RÔSI - 36.81k - VIE D1: Hong Linh Ha Tinh vs SHB Da Nang
+https://pull.niur.live/live/stream-9912102_lhd.flv?txSecret=e0e9c62956e67489d7b77c113c3b4955&txTime=6a1c7e9c
+#EXTINF:-1, ⚽ Live - A PÁO - 36.39k - VIE D1: Thep Xanh Nam Dinh FC vs Song Lam Nghe An
+https://pull06.scstream.net/live/stream-235232_lhd.flv?auth_key=1780234316-0-0-8e9e964356d900d12f5c141ea4f3eb77
+#EXTINF:-1, ⚽ Live - BLV KEM - 36.34k - VIE D1: Hoang Anh Gia Lai vs Hanoi FC
+https://pull06.scstream.net/live/stream-513394_lhd.flv?auth_key=1780234316-0-0-0612bd3f3e93e1c36e82bd644fdf625b
+#EXTINF:-1, ⚽ Live - BLV VITAMIN - 36.25k - VIE D1: Hoang Anh Gia Lai vs Hanoi FC
+https://pull06.scstream.net/live/stream-400722_lhd.flv?auth_key=1780234376-0-0-e6c0bedcaf06014149ed2bbdf0d33095
+#EXTINF:-1, ⚽ Live - LOKA - 35.86k - INTERF: Singapore vs Mongolia
+https://pull06.scstream.net/live/stream-589848_lhd.flv?auth_key=1780234376-0-0-7241db811f2f30d1c66ba8406b5a234e
+#EXTINF:-1, ⚽ Live - LOGAN - 35.74k - VIE D1: PVF-CAND FC vs XM Hai Phong FC
+https://pull06.scstream.net/live/stream-552832_lhd.flv?auth_key=1780234376-0-0-86107289d4a02df2ab65a278e7e4ea04
+#EXTINF:-1, ⚽ Live - BLV COZY - 35.28k - VIE D1: Thep Xanh Nam Dinh FC vs Song Lam Nghe An
+https://pull06.scstream.net/live/stream-531989_lhd.flv?auth_key=1780234376-0-0-6da428a68c03b1bc9e26f984e57866a4
+#EXTINF:-1, ⚽ Live - BLV MIXI - 35.04k - THA FAC: Buriram United vs PT Prachuap FC
+https://pull06.scstream.net/live/stream-290928_lhd.flv?auth_key=1780234376-0-0-a6f64882f96eeae332b84cdb1b60084b
+#EXTINF:-1, ⚽ Live - BLV TOMIA - 34.77k - CHA SL: Wuhan Three Towns vs Yunnan Yukun
+https://pull06.scstream.net/live/stream-9912008_lhd.flv?auth_key=1780234436-0-0-e52a82820be97ede67596df8dd3ef3d9
+#EXTINF:-1, ⚽ Live - CÔNG CHẤT - 34.72k - CHA SL: Wuhan Three Towns vs Yunnan Yukun
+https://pull06.scstream.net/live/stream-291277_lhd.flv?auth_key=1780234436-0-0-518ef5f13e62a84392e0e7ebc8c838f5
+#EXTINF:-1, ⚽ Live - MONEY MAN - 34.71k - THA FAC: Buriram United vs PT Prachuap FC
+https://pull06.scstream.net/live/stream-605412_lhd.flv?auth_key=1780234436-0-0-1a4daa2b0d77e8319890d398d8f5a1e3
+#EXTINF:-1, ⚽ Live - BLV LONG - 34.24k - CHA SL: Wuhan Three Towns vs Yunnan Yukun
+https://pull06.scstream.net/live/stream-9912117_lhd.flv?auth_key=1780234436-0-0-24e63ddebb67b50a2541dad9394aa0af
+#EXTINF:-1, ⚽ Live - LÃO LÂM - 33.56k - INTERF: Switzerland vs Jordan
+https://pull06.scstream.net/live/stream-527384_lhd.flv?auth_key=1780234436-0-0-40e8b174a0e1cc07b2caef610442dfd0
+#EXTINF:-1, ⚽ Live - KÉP - 32.55k - CHA SL: Tianjin Jinmen Tiger vs Dalian Yingbo
+https://pull06.scstream.net/live/stream-560690_lhd.flv?auth_key=1780234496-0-0-bd8863dafb4e800e706b9a2de8d9a868
+#EXTINF:-1, ⚽ Live - BLV LION - 31.93k - CHA SL: Tianjin Jinmen Tiger vs Dalian Yingbo
+https://pull06.scstream.net/live/stream-603255_lhd.flv?auth_key=1780234496-0-0-f29e3775e5af04ff930292edc0dcf62f
+#EXTINF:-1, ⚽ Live - BLV CÁO - 30.36k - VIE D1: Cong An Ha Noi FC vs Becamex Ho Chi Minh City
+https://pull06.scstream.net/live/stream-597929_lhd.flv?auth_key=1780234496-0-0-4e80a1ca34bccd493db33ac3afbd23bc
+#EXTINF:-1, ⚽ Live - XUÂN SON - 29.98k - VIE D1: Thanh Hoa vs Ninh Binh FC
+https://pull.niur.live/live/stream-501412_lhd.flv?txSecret=32b7ac006f1846aff89e3d0485bf1eed&txTime=6a1c7f50
+#EXTINF:-1, ⚽ Live - BLV KAN - 29.38k - VIE D1: Hong Linh Ha Tinh vs SHB Da Nang
+https://pull.niur.live/live/stream-283501_lhd.flv?txSecret=c319fc0fd65c4e141cae7ca89ff01a4c&txTime=6a1c7f50
+#EXTINF:-1, ⚽ Live - HẢI THANH - 29.15k - VIE D1: Thanh Hoa vs Ninh Binh FC
+https://pull06.scstream.net/live/stream-599634_lhd.flv?auth_key=1780234496-0-0-f817509596f51f05c5c67b06d9f88048
+#EXTINF:-1, ⚽ Live - BLV THÓC - 27.66k - VIE D1: PVF-CAND FC vs XM Hai Phong FC
+https://pull06.scstream.net/live/stream-606448_lhd.flv?auth_key=1780234556-0-0-426d692f326f9f9416c82fbe5b87ed6d
+#EXTINF:-1, ⚽ Live - BLV CÒ - 27.66k - SWE D1: Hacken vs Hammarby
+https://pull06.scstream.net/live/stream-582342_lhd.flv?auth_key=1780234556-0-0-7070d439cac069671e6abb756eb2f11b
+#EXTINF:-1, ⚽ Live - BLV WUKONG - 27.53k - SWE D1: Hacken vs Hammarby
+https://pull06.scstream.net/live/stream-511367_lhd.flv?auth_key=1780234556-0-0-53059a04615a91ec2dbc1853f50f2574
+#EXTINF:-1, ⚽ Live - BLV A TINH - 27.40k - VIE D1: Thep Xanh Nam Dinh FC vs Song Lam Nghe An
+https://pull.niur.live/live/stream-598119_lhd.flv?txSecret=1d246dbbc29ab2dd893db7dd9f6c1c04&txTime=6a1c7f8c
+#EXTINF:-1, ⚽ Live - BLV HÚP - 27.11k - VIE D1: Cong An Ho Chi Minh City vs The Cong Viettel
+https://pull06.scstream.net/live/stream-611382_lhd.flv?auth_key=1780234616-0-0-5ffcc59e070d69646aa795e1367b535d
+#EXTINF:-1, ⚽ Live - BLV RYO - 27.00k - VIE D1: Cong An Ho Chi Minh City vs The Cong Viettel
+https://pull06.scstream.net/live/stream-602019_lhd.flv?auth_key=1780234616-0-0-2a6e1020a9a051e76763c6dc11fb9a88
+#EXTINF:-1, ⚽ Live - BLV SATIVA - 26.60k - SWE D1: Degerfors IF vs Brommapojkarna
+https://pull06.scstream.net/live/stream-321443_lhd.flv?auth_key=1780234616-0-0-01e90d8caecda918830d2c5d53b8a6b7
+#EXTINF:-1, ⚽ Live - HUNTER - 26.60k - CBA: Zhejiang Guangsha vs Shanghai
+https://pull06.scstream.net/live/stream-558264_lhd.flv?auth_key=1780234616-0-0-36d24f37b1262263fe037303571ed6a4
+#EXTINF:-1, ⚽ Live - BLV ANH TÀI - 26.57k - THA FAC: Buriram United vs PT Prachuap FC
+https://pull06.scstream.net/live/stream-406865_lhd.flv?auth_key=1780234616-0-0-bfb3435e60a7412c7bb00c83a49ed430
+#EXTINF:-1, ⚽ Live - HÀ DUY KIÊN - 26.55k - THA FAC: Buriram United vs PT Prachuap FC
+https://pull06.scstream.net/live/stream-607400_lhd.flv?auth_key=1780234676-0-0-cea5bb32b31ffe3c7263a598400f97ba
+#EXTINF:-1, ⚽ Live - BLV AB - 26.54k - SWE D1: Hacken vs Hammarby
+https://pull06.scstream.net/live/stream-612980_lhd.flv?auth_key=1780234676-0-0-0d2a4de113258610449d6a978cd7cc4f
+#EXTINF:-1, ⚽ Live - TRÀ ĐÁ - 26.48k - SWE D1: Vasteras SK FK vs IFK Goteborg
+https://pull06.scstream.net/live/stream-603914_lhd.flv?auth_key=1780234676-0-0-a74a6350d56eb81dd0250f472bde97c3
+#EXTINF:-1, ⚽ Live - QUỐC KHÁNH - 26.42k - SWE D1: Degerfors IF vs Brommapojkarna
+https://pull.niur.live/live/stream-602153_lhd.flv?txSecret=6dedf0a47eda51e0077fe44cdf5c92bc&txTime=6a1c8004
+#EXTINF:-1, ⚽ Live - BLV A TÚ - 26.32k - SWE D1: Vasteras SK FK vs IFK Goteborg
+https://pull06.scstream.net/live/stream-557845_lhd.flv?auth_key=1780234676-0-0-02e59d3bb8e963c405fef738b786e56c
+#EXTINF:-1, ⚽ Live - A CHÈ - 25.61k - VBA: Nhatrang Dolphins vs Saigon Heat
+https://pull06.scstream.net/live/stream-356042_lhd.flv?auth_key=1780234736-0-0-171ba2a1cc835bbf940d60dacb020f16
+#EXTINF:-1, ⚽ Live - NGƯỜI CÁ - 25.07k - TOUT: China U19 vs Saudi Arabia U23
+https://pull06.scstream.net/live/stream-595335_lhd.flv?auth_key=1780234736-0-0-de9112ea4980416184e2100ee6087a56
+#EXTINF:-1, ⚽ Live - SOCOLIVE - 1.44k - BIT.LY/SOCOLIVE
+https://pull06.scstream.net/live/stream-175784_lhd.flv?auth_key=1780234736-0-0-493bdbaa35daa810e2749a5004d42821
