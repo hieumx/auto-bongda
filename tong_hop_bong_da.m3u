@@ -1,59 +1,53 @@
 #EXTM3U
-#EXTINF:-1, ⚽ Live - BLV COCA - 64.72k - USLC: Monterey Bay FC vs Loudoun United
-https://pull06.scstream.net/live/stream-327159_lhd.flv?auth_key=1780199456-0-0-a28075579d2343f89702092f5fd8a8b7
-#EXTINF:-1, ⚽ Live - TẠ BIÊN GIỚI - 70.21k - INTERF: Mexico vs Australia
-https://pull06.scstream.net/live/stream-9912108_lhd.flv?auth_key=1780199456-0-0-d5bff786a35869acb6061f8f45a90773
-#EXTINF:-1, ⚽ Live - BLV TOMMY - 68.15k - INTERF: Mexico vs Australia
-https://pull.niur.live/live/stream-414317_lhd.flv?txSecret=671a7c9b0fab09d4cab54cfbf0746736&txTime=6a1bf670
+#EXTINF:-1, ⚽ BLV COCA
+https://pull06.scstream.net/live/stream-327159_lhd.flv?auth_key=1780203665-0-0-588c75ef0a21075730639cec8d6fb16b
+#EXTINF:-1, ⚽ Live - TẠ BIÊN GIỚI - 68.52k - JPN D1: Shimizu S-Pulse vs Yokohama F. Marinos
+https://pull06.scstream.net/live/stream-9912108_lhd.flv?auth_key=1780212236-0-0-4641de17f243d187b0ca841522ab9931
+#EXTINF:-1, ⚽ Live - BLV TOMMY - 66.80k - JPN D1: Shimizu S-Pulse vs Yokohama F. Marinos
+https://pull.niur.live/live/stream-414317_lhd.flv?txSecret=e414f1e8cf38359d49465127afe28e86&txTime=6a1c285c
 #EXTINF:-1, ⚽ BLV TAP
 https://pull.niur.live/live/stream-9912041_lhd.flv?txSecret=49b5d05997be6efd2e685ed8d63af081&txTime=6a1b8d09
-#EXTINF:-1, ⚽ Live - DECO - 77.50k - INTERF: Mexico vs Australia
-https://pull06.scstream.net/live/stream-9912060_lhd.flv?auth_key=1780199516-0-0-d32d1b621cdc77a110af67d0fdfc7548
-#EXTINF:-1, ⚽ Live - BLV ĐỐM - 67.33k - INTERF: Mexico vs Australial
-https://pull06.scstream.net/live/stream-9912110_lhd.flv?auth_key=1780199516-0-0-3392571c7e018c786af9580848899cd2
-#EXTINF:-1, ⚽ Live - BLV Củ Cải - 64.97k - INTERF: Mexico vs Australia
-https://pull06.scstream.net/live/stream-9912091_lhd.flv?auth_key=1780199576-0-0-881e7843214b1760c4b961dc37783e95
-#EXTINF:-1, ⚽ Live - BLV 7UP - 67.51k - CNCF CHL: Toluca vs Tigres UANL
-https://pull06.scstream.net/live/stream-534219_lhd.flv?auth_key=1780199576-0-0-f0d062dd3bdf2c36a063ca3e95dce09c
+#EXTINF:-1, ⚽ Live - DECO - 73.51k - JPN D1: Fagiano Okayama vs Urawa Red Diamonds
+https://pull06.scstream.net/live/stream-9912060_lhd.flv?auth_key=1780212296-0-0-9dfcdd9dd2d598b46a14b82aedccca9c
+#EXTINF:-1, ⚽ BLV ĐỐM
+https://pull06.scstream.net/live/stream-9912110_lhd.flv?auth_key=1780203898-0-0-a723ad58acb47fa4421b964b241e2c31
+#EXTINF:-1, ⚽ Live - BLV Củ Cải - 66.85k - JPN D1: Shimizu S-Pulse vs Yokohama F. Marinos
+https://pull06.scstream.net/live/stream-9912091_lhd.flv?auth_key=1780212356-0-0-d2b4460d1b382be3bc142bf49847a1df
+#EXTINF:-1, ⚽ Live - BLV 7UP - 65.50k - JPN D1: Fagiano Okayama vs Urawa Red Diamonds
+https://pull06.scstream.net/live/stream-534219_lhd.flv?auth_key=1780212356-0-0-1429d1978731b1114fb4771cc1e5a25a
 #EXTINF:-1, ⚽ THẠCH TÚ
 https://pull06.scstream.net/live/stream-9912116_lhd.flv?auth_key=1780171552-0-0-e626df4a07a76ed7b25797e084ea1919
-#EXTINF:-1, ⚽ SAO LA
-https://pull.niur.live/live/stream-462413_lhd.flv?txSecret=3100ef430f9544e70930e911264ecbe8&txTime=6a1b8f17
-#EXTINF:-1, ⚽ Live - BLV MESSI - 70.16k - CNCF CHL: Toluca vs Tigres UANL
-https://pull.niur.live/live/stream-494201_lhd.flv?txSecret=14e1bb8d4c94926f98764e9e35ca86b3&txTime=6a1bf724
-#EXTINF:-1, ⚽ Live - RICKHANTER - 73.42k - CNCF CHL: Toluca vs Tigres UANL
-https://pull.niur.live/live/stream-9912122_lhd.flv?txSecret=9714d5604f9769a8e573f44e5c0e558c&txTime=6a1bf724
-#EXTINF:-1, ⚽ Live - CR Bưởi - 56.90k - CNCF CHL: Toluca vs Tigres UANL
-https://pull06.scstream.net/live/stream-387694_lhd.flv?auth_key=1780199636-0-0-aa36f72cdcdbc467d108d906c8c8a2a5
-#EXTINF:-1, ⚽ Live - BLV PEWPEW - 47.65k - INTERF: Mexico vs Australia
-https://pull06.scstream.net/live/stream-9912015_lhd.flv?auth_key=1780199696-0-0-8dad2bc43004cb539f85e9424a9b2b3b
-#EXTINF:-1, ⚽ Live - BLV CUỘI - 50.84k - CNCF CHL: Toluca vs Tigres UANL
-https://pull06.scstream.net/live/stream-256080_lhd.flv?auth_key=1780199696-0-0-b39a6d1b7dd31f3a14c8491df5ae2a3f
-#EXTINF:-1, ⚽ Live - BLV TOMIA - 38.19k - INTERF: South Korea vs Trinidad and Tobago
-https://pull06.scstream.net/live/stream-9912008_lhd.flv?auth_key=1780199696-0-0-726faa29be365366052a6876636da1bd
-#EXTINF:-1, ⚽ Live - TYPN - 37.84k - INTERF: South Korea vs Trinidad and Tobago
-https://pull.niur.live/live/stream-9912009_lhd.flv?txSecret=3c08c7c08c3f44994bc021751fcc7ac4&txTime=6a1bf760
-#EXTINF:-1, ⚽ Live - LÃO LÂM - 36.21k - INTERF: South Korea vs Trinidad and Tobago
-https://pull06.scstream.net/live/stream-527384_lhd.flv?auth_key=1780199756-0-0-ae00f56a1ee8b9802274e00a9ba79c2f
-#EXTINF:-1, ⚽ Live - BLV RÔSI - 34.32k - USLC: Phoenix Rising FC vs Sacramento Republic FC
-https://pull.niur.live/live/stream-9912102_lhd.flv?txSecret=120feaabc4662392c485fa211a8caa21&txTime=6a1bf79c
-#EXTINF:-1, ⚽ Live - BLV ENZO - 34.26k - USLC: Monterey Bay FC vs Loudoun United
-https://pull06.scstream.net/live/stream-380460_lhd.flv?auth_key=1780199756-0-0-475c031790585e2f512ce61dede12448
-#EXTINF:-1, ⚽ Live - BRIAN - 31.33k - NBA: Oklahoma City Thunder vs San Antonio Spurs
-https://pull06.scstream.net/live/stream-9912106_lhd.flv?auth_key=1780199816-0-0-d1247ee8e4b924a3ef8eeb16309e8211
-#EXTINF:-1, ⚽ Live - BLV HENRY - 29.38k - NBA: Oklahoma City Thunder vs San Antonio Spurs
-https://pull06.scstream.net/live/stream-9912112_lhd.flv?auth_key=1780199790-0-0-c9ce1d8af3acd77d4fff3d22e6a2f90e
-#EXTINF:-1, ⚽ Live - KING - 28.76k - NBA: Oklahoma City Thunder vs San Antonio Spurs
-https://pull06.scstream.net/live/stream-9912099_lhd.flv?auth_key=1780199690-0-0-afc3656c7b2b9efc894a53dabf008354
-#EXTINF:-1, ⚽ Live - CHÍ PHÈO - 27.92k - INTERF: South Korea vs Trinidad and Tobago
-https://pull06.scstream.net/live/stream-273736_lhd.flv?auth_key=1780199816-0-0-a90f6ec48b7657b8e2a0808efb763de0
-#EXTINF:-1, ⚽ Live - BLV KAN - 27.74k - INTERF: South Korea vs Trinidad and Tobago
-https://pull.niur.live/live/stream-283501_lhd.flv?txSecret=3af9c20c8dfd86f7b623635c2463b062&txTime=6a1bf814
-#EXTINF:-1, ⚽ Live - BLV SATIVA - 27.61k - INTERF: South Korea vs Trinidad and Tobago
-https://pull06.scstream.net/live/stream-321443_lhd.flv?auth_key=1780199873-0-0-737fed427c107c7c3e73fd50d038fd23
-#EXTINF:-1, ⚽ Live - BLV RYO - 26.25k - USLC: Las Vegas Lights vs FC Tulsa
-https://pull06.scstream.net/live/stream-602019_lhd.flv?auth_key=1780199876-0-0-d413aa139a3980059182641fa940a5f8
-#EXTINF:-1, ⚽ Live - BLV A TÚ - 26.20k - USLC: Las Vegas Lights vs FC Tulsa
-https://pull06.scstream.net/live/stream-557845_lhd.flv?auth_key=1780199876-0-0-1121ecb151014e36465feb168abe5894
-#EXTINF:-1, ⚽ Live - SOCOLIVE - 1.08k - BIT.LY/SOCOLIVE
-https://pull06.scstream.net/live/stream-175784_lhd.flv?auth_key=1780199936-0-0-268479d425b9991b1bc652b109b99a85
+#EXTINF:-1, ⚽ Live - SAO LA - 66.20k - JPN D1: Fagiano Okayama vs Urawa Red Diamonds
+https://pull.niur.live/live/stream-462413_lhd.flv?txSecret=2116f5b9e398f777bdcb1817b9911f55&txTime=6a1c28d4
+#EXTINF:-1, ⚽ Live - BLV MESSI - 66.85k - JPN D1: Shimizu S-Pulse vs Yokohama F. Marinos
+https://pull06.scstream.net/live/stream-494201_lhd.flv?auth_key=1780212416-0-0-3a727678b3549be03c89e6e5df034997
+#EXTINF:-1, ⚽ Live - RICKHANTER - 67.15k - JPN D1: Shimizu S-Pulse vs Yokohama F. Marinos
+https://pull.niur.live/live/stream-9912122_lhd.flv?txSecret=d54617f6c6a26d7b802145a434d7bb38&txTime=6a1c2910
+#EXTINF:-1, ⚽ Live - BLV BÉO - 53.76k - JPN D1: Fagiano Okayama vs Urawa Red Diamonds
+https://pull.niur.live/live/stream-459401_lhd.flv?txSecret=2f0e292ae85c2b2dae7d77d0a45fac67&txTime=6a1c2910
+#EXTINF:-1, ⚽ Live - BLV CUỘI - 53.99k - JPN D1: Fagiano Okayama vs Urawa Red Diamonds
+https://pull06.scstream.net/live/stream-256080_lhd.flv?auth_key=1780212416-0-0-e9dcdee710ca6c669cc6fa0f8ab74332
+#EXTINF:-1, ⚽ Live - CR Bưởi - 55.40k - JPN D1: Shimizu S-Pulse vs Yokohama F. Marinos
+https://pull06.scstream.net/live/stream-387694_lhd.flv?auth_key=1780212476-0-0-cac5248b7253a0dd5dfd8ad6f5953c06
+#EXTINF:-1, ⚽ Live - TYPN - 54.18k - JPN D1: Fagiano Okayama vs Urawa Red Diamonds
+https://pull.niur.live/live/stream-9912009_lhd.flv?txSecret=7df9832918c89e837b6d59a14592d0af&txTime=6a1c294c
+#EXTINF:-1, ⚽ Live - BLV CÒ - 44.17k - AUS NSW: Sydney United 58 FC vs Sutherland Sharks
+https://pull06.scstream.net/live/stream-582342_lhd.flv?auth_key=1780212476-0-0-6a15af8e03c5de9cde4cb82fb6808e9c
+#EXTINF:-1, ⚽ Live - BLV MIXI - 33.53k - Aus VPL: St Albans Saints vs Preston Lions
+https://pull06.scstream.net/live/stream-290928_lhd.flv?auth_key=1780212536-0-0-e2c992b1c485b5fbd1910b0485b18fb4
+#EXTINF:-1, ⚽ Live - TƯ MÃ Ý - 27.78k - AUS NSW: Sydney United 58 FC vs Sutherland Sharks
+https://pull06.scstream.net/live/stream-611377_lhd.flv?auth_key=1780212536-0-0-b4f20a53be551172096d91b54326a7c3
+#EXTINF:-1, ⚽ Live - BRIAN - 27.56k - NZBL: Otago Nuggets vs Southland Sharks
+https://pull06.scstream.net/live/stream-9912106_lhd.flv?auth_key=1780212536-0-0-e80f8eed981e48ff3afef8723bbc5a0b
+#EXTINF:-1, ⚽ Live - BLV WUKONG - 26.72k - JPN D2: Blaublitz Akita vs Hokkaido Consadole Sapporo
+https://pull06.scstream.net/live/stream-511367_lhd.flv?auth_key=1780212536-0-0-841db27cd69d66a3c37b0cdb1d3f9683
+#EXTINF:-1, ⚽ Live - CHAN SENA - 26.64k - NZBL: Otago Nuggets vs Southland Sharks
+https://pull06.scstream.net/live/stream-9912115_lhd.flv?auth_key=1780212596-0-0-09c2223d1462dc9aee95ac10c6ce28d2
+#EXTINF:-1, ⚽ Live - BLV HÚP - 26.50k - AUS NPLQ: Magic United TFA vs Queensland Lions SC
+https://pull06.scstream.net/live/stream-611382_lhd.flv?auth_key=1780212203-0-0-ae8ac64667bed2e62b855511c8e6a6e4
+#EXTINF:-1, ⚽ Live - A CHÈ - 26.27k - NZBL: Franklin Bulls vs Auckland Tuatara
+https://pull06.scstream.net/live/stream-356042_lhd.flv?auth_key=1780212596-0-0-db89ddf8486f79846154070a48c94417
+#EXTINF:-1, ⚽ Live - BLV AB - 26.24k - JPN D2: Blaublitz Akita vs Hokkaido Consadole Sapporo
+https://pull06.scstream.net/live/stream-612980_lhd.flv?auth_key=1780212656-0-0-5a847bbb2d5683899d27520ce55d1df4
+#EXTINF:-1, ⚽ Live - SOCOLIVE - 1.38k - BIT.LY/SOCOLIVE
+https://pull06.scstream.net/live/stream-175784_lhd.flv?auth_key=1780212656-0-0-5b9f109102025658c7ed96dcb2b2b90a
