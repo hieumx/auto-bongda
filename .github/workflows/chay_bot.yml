@@ -2,16 +2,16 @@ name: Tự Động Săn Link Bóng Đá Hằng Ngày
 
 on:
   schedule:
-    # Chạy tự động vào 18h30 (giờ VN) hằng ngày (11h30 UTC)
     - cron: '30 11 * * *'
-  workflow_dispatch: # Nút bấm chạy thủ công
+  workflow_dispatch:
 
 jobs:
-  build:
+  run-bot:
     runs-on: ubuntu-latest
 
     steps:
-    - uses: actions/checkout@v4
+    - name: Kéo mã nguồn về máy chủ
+      uses: actions/checkout@v4
 
     - name: Cài đặt Python
       uses: actions/setup-python@v5
@@ -23,7 +23,7 @@ jobs:
         pip install playwright playwright-stealth
         playwright install chromium
 
-    - name: Kích hoạt Siêu Bot đi săn link (Vượt rào Proxy)
+    - name: Kích hoạt Siêu Bot đi săn link
       env:
         PROXY_IP: ${{ secrets.PROXY_IP }}
         PROXY_PORT: ${{ secrets.PROXY_PORT }}
