@@ -38,15 +38,21 @@ def san_full_server_qua_proxy():
         page = context.new_page()
         stealth_sync(page) # Phủ lớp tàng hình cuối cùng
         
-        # ==========================================
+     # ==========================================
         # GIAI ĐOẠN 1: VƯỢT TƯỜNG LỬA & QUÉT LINK
         # ==========================================
         print(f"📥 Đang truy cập trạm trung chuyển: {url_co_dinh}")
         try:
-            page.goto(url_co_dinh, timeout=60000, wait_until="domcontentloaded")
-            page.wait_for_timeout(15000) # Đợi Cloudflare xét duyệt IP Dân cư
+            page.goto(url_co_dinh, timeout=60000)
+            print("⏳ Đang rình Cloudflare mở cửa và chờ dữ liệu tải về...")
+            
+            # Ép Bot rình cho đến khi xuất hiện ít nhất 1 phòng (tối đa 40 giây)
+            page.wait_for_selector('a[href*="/room/"]', timeout=40000)
+            
+            # Khi thấy phòng xuất hiện, chờ thêm 5 giây cho các phòng tải nốt
+            page.wait_for_timeout(5000) 
         except Exception as e:
-            print(f"⚠️ Cảnh báo lúc load trang: {e}")
+            print(f"⚠️ Hết thời gian chờ hoặc kẹt tường lửa: {e}")
 
         danh_sach_raw = page.evaluate("""
             Array.from(document.querySelectorAll('a[href*="/room/"]')).map(a => {
@@ -71,7 +77,6 @@ def san_full_server_qua_proxy():
             print("❌ Tường lửa quá dày hoặc web chưa lên lịch.")
             browser.close()
             return
-
         # ==========================================
         # GIAI ĐOẠN 2: CÀO DATA TOÀN BỘ
         # ==========================================
