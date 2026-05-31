@@ -1,59 +1,85 @@
+import os
 from playwright.sync_api import sync_playwright
 from playwright_stealth import stealth_sync
 
-def auto_san_toan_bo_giai_dau():
+def san_full_server_qua_proxy():
     url_co_dinh = "https://bit.ly/socolive"
-    print("🚀 KÍCH HOẠT VŨ KHÍ TỐI THƯỢNG: PLAYWRIGHT STEALTH...")
+    print("🚀 KHỞI ĐỘNG CHIẾN DỊCH VÉT SẠCH SERVER VỚI PROXY ẨN DANH...")
     
+    # 1. Lấy chìa khóa từ hệ thống GitHub
+    proxy_ip = os.getenv("PROXY_IP")
+    proxy_port = os.getenv("PROXY_PORT")
+    proxy_user = os.getenv("PROXY_USER")
+    proxy_pass = os.getenv("PROXY_PASS")
+    
+    # 2. Lắp ráp cấu hình mạng
+    cau_hinh_proxy = None
+    if proxy_ip and proxy_port:
+        print(f"🌐 Đã kết nối ống ngầm Proxy: {proxy_ip}")
+        cau_hinh_proxy = {
+            "server": f"http://{proxy_ip}:{proxy_port}",
+            "username": proxy_user,
+            "password": proxy_pass
+        }
+    else:
+        print("⚠️ Cảnh báo: Không tìm thấy Proxy trong Két sắt! Sẽ chạy bằng IP máy chủ (Dễ bị chặn).")
+
     with sync_playwright() as p:
-        browser = p.chromium.launch(headless=True)
-        
+        # 3. Kích hoạt trình duyệt ngụy trang
+        browser = p.chromium.launch(
+            headless=True,
+            proxy=cau_hinh_proxy,
+            args=["--disable-blink-features=AutomationControlled"]
+        )
         context = browser.new_context(
             viewport={"width": 1920, "height": 1080},
-            user_agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36"
+            user_agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
         )
         page = context.new_page()
-        
-        # 🪄 ĐÂY LÀ PHÉP THUẬT: Tráng một lớp tàng hình lên toàn bộ trình duyệt
-        stealth_sync(page)
+        stealth_sync(page) # Phủ lớp tàng hình cuối cùng
         
         # ==========================================
-        # GIAI ĐOẠN 1: QUÉT PHÒNG
+        # GIAI ĐOẠN 1: VƯỢT TƯỜNG LỬA & QUÉT LINK
         # ==========================================
-        print(f"📥 Đang truy cập: {url_co_dinh}")
-        
+        print(f"📥 Đang truy cập trạm trung chuyển: {url_co_dinh}")
         try:
-            # Chờ đến khi web load trạng thái an toàn
             page.goto(url_co_dinh, timeout=60000, wait_until="domcontentloaded")
-            page.wait_for_timeout(15000) # Ép đợi 15s để Cloudflare tự quay xong vòng xác nhận
+            page.wait_for_timeout(15000) # Đợi Cloudflare xét duyệt IP Dân cư
         except Exception as e:
             print(f"⚠️ Cảnh báo lúc load trang: {e}")
-            
-        print(f"🎯 Đã hạ cánh: {page.url}")
-        
-        cac_link_phong = page.evaluate("""
-            Array.from(document.querySelectorAll('a[href*="/room/"]')).map(a => a.href)
+
+        danh_sach_raw = page.evaluate("""
+            Array.from(document.querySelectorAll('a[href*="/room/"]')).map(a => {
+                return {
+                    url: a.href,
+                    ten: a.innerText.trim().replace(/\\n/g, ' - ')
+                }
+            })
         """)
-        cac_link_phong = list(set(cac_link_phong))
-        print(f"🎯 Đã lọt qua cửa! Phát hiện {len(cac_link_phong)} trận đấu.\n")
         
-        if not cac_link_phong:
-            print("❌ Vẫn bị Cloudflare phát hiện IP Data Center. Bó tay ở mảng Cloud không dùng Proxy!")
+        danh_sach_phong = {}
+        for item in danh_sach_raw:
+            url = item['url']
+            ten = item['ten']
+            if url not in danh_sach_phong or len(ten) > len(danh_sach_phong.get(url, "")):
+                danh_sach_phong[url] = ten if ten else "Trận đấu đang chờ cập nhật"
+
+        tong_so_tran = len(danh_sach_phong)
+        print(f"🎯 ĐÃ QUA CỬA! Phát hiện tổng cộng {tong_so_tran} trận đấu!\n")
+
+        if tong_so_tran == 0:
+            print("❌ Tường lửa quá dày hoặc web chưa lên lịch.")
             browser.close()
             return
 
         # ==========================================
-        # GIAI ĐOẠN 2: BẮT LINK .FLV
+        # GIAI ĐOẠN 2: CÀO DATA TOÀN BỘ
         # ==========================================
         with open("tong_hop_bong_da.m3u", "w", encoding="utf-8") as file:
             file.write("#EXTM3U\n")
 
-            for stt, link_phong in enumerate(cac_link_phong, 1):
-                if stt > 5:
-                    print("🛑 Đã cào 5 trận. Rút lui an toàn.")
-                    break
-                    
-                print(f"🔄 [{stt}/5] Đang đột nhập: {link_phong}")
+            for stt, (link_phong, ten_tran) in enumerate(danh_sach_phong.items(), 1):
+                print(f"🔄 [{stt}/{tong_so_tran}] Đang lấy link: {ten_tran}")
                 stream_link = None
                 
                 def bat_goi_tin(request):
@@ -65,21 +91,21 @@ def auto_san_toan_bo_giai_dau():
                 
                 try:
                     page.goto(link_phong, timeout=30000)
-                    page.wait_for_timeout(12000) 
+                    page.wait_for_timeout(8000) # Chờ video bung luồng
                 except Exception:
-                    print("   ⚠️ Lỗi load phòng.")
+                    print("   ⚠️ Lỗi mạng phòng chiếu, bỏ qua.")
                 
                 page.remove_listener("request", bat_goi_tin)
                 
                 if stream_link:
-                    print(f"   ✅ Có Link: {stream_link[:60]}...")
-                    file.write(f"#EXTINF:-1, ⚽ Kênh Socolive {stt}\n")
+                    print("   ✅ Thành công!")
+                    file.write(f"#EXTINF:-1, ⚽ {ten_tran}\n")
                     file.write(f"{stream_link}\n")
                 else:
-                    print("   ❌ Không thấy video.")
+                    print("   ❌ Trận này chưa phát sóng.")
                     
         browser.close()
-        print("\n🎉 CHIẾN DỊCH HOÀN TẤT!")
+        print("\n🎉 ĐÃ VÉT SẠCH SERVER! Hoàn tất đóng gói m3u.")
 
 if __name__ == "__main__":
-    auto_san_toan_bo_giai_dau()
+    san_full_server_qua_proxy()
