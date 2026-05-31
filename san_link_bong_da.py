@@ -1,6 +1,5 @@
 import os
 from playwright.sync_api import sync_playwright
-from playwright_stealth import stealth_sync
 
 def san_full_server_qua_proxy():
     url_co_dinh = "https://bit.ly/socolive"
@@ -25,7 +24,7 @@ def san_full_server_qua_proxy():
         print("⚠️ Cảnh báo: Không tìm thấy Proxy! Bot sẽ chạy bằng IP máy chủ.")
 
     with sync_playwright() as p:
-        # 3. KÍCH HOẠT TRÌNH DUYỆT TÀNG HÌNH
+        # 3. KÍCH HOẠT TRÌNH DUYỆT (Chỉ dùng Proxy và tắt dấu hiệu Bot)
         browser = p.chromium.launch(
             headless=True,
             proxy=cau_hinh_proxy,
@@ -36,7 +35,6 @@ def san_full_server_qua_proxy():
             user_agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
         )
         page = context.new_page()
-        stealth_sync(page) 
         
         # ==========================================
         # GIAI ĐOẠN 1: VƯỢT TƯỜNG LỬA & QUÉT LINK
