@@ -1,37 +1,99 @@
 #EXTM3U
 #EXTINF:-1, ⚽ TẠ BIÊN GIỚI
-https://pull06.scstream.net/live/stream-9912108_lhd.flv?auth_key=1780574391-0-0-97db3b106c2572395881d63d75782f82
+https://pull06.scstream.net/live/stream-9912108_lhd.flv?auth_key=1780669618-0-0-a05fe341f120c1aba832b5ed36412f13
 #EXTINF:-1, ⚽ BLV TOMMY
-https://pull.niur.live/live/stream-414317_lhd.flv?txSecret=02060ba8e841bfc101c3fc822ba964f0&txTime=6a21ae5b
+https://pull.niur.live/live/stream-414317_lhd.flv?txSecret=172a34cdda1c68581b2c3881180ea8df&txTime=6a23235c
 #EXTINF:-1, ⚽ BLV TAP
 https://pull06.scstream.net/live/stream-9912041_lhd.flv?auth_key=1780503012-0-0-aab1d3a110792274c2b9fee7551811ee
 #EXTINF:-1, ⚽ DECO
-https://pull06.scstream.net/live/stream-9912060_lhd.flv?auth_key=1780329278-0-0-6cd8ce79b235dbdae838c5efdef04a77
+https://pull06.scstream.net/live/stream-9912060_lhd.flv?auth_key=1780656556-0-0-9f74f126df1198db9e26a60f436705e1
 #EXTINF:-1, ⚽ BLV ĐỐM
-https://pull06.scstream.net/live/stream-9912110_lhd.flv?auth_key=1780545402-0-0-e5a1899b2bced794f03b437e086a8167
-#EXTINF:-1, ⚽ Live - BLV COCA - 76.24k - AFF U19: Timor Leste U19 vs Indonesia U19
-https://pull06.scstream.net/live/stream-327159_lhd.flv?auth_key=1780586179-0-0-4ad9efdfd1eea9ba2f1f74f496fba373
-#EXTINF:-1, ⚽ Live - BLV 7UP - 70.57k - AFF U19: Timor Leste U19 vs Indonesia U19
-https://pull06.scstream.net/live/stream-534219_lhd.flv?auth_key=1780586179-0-0-7d7039408b97f7ccd3bf8a2c49da8a41
+https://pull06.scstream.net/live/stream-9912110_lhd.flv?auth_key=1780656849-0-0-50296db9da09cc9eec349820d1034005
+#EXTINF:-1, ⚽ BLV COCA
+https://pull06.scstream.net/live/stream-327159_lhd.flv?auth_key=1780657172-0-0-92401bcf9e522caf67abf1928d819e40
+#EXTINF:-1, ⚽ Live - BLV 7UP - 64.69k - INTERF: Thailand vs Kuwait
+https://pull06.scstream.net/live/stream-534219_lhd.flv?auth_key=1780670059-0-0-c058c75321188b8cd8f3a03e406d3442
 #EXTINF:-1, ⚽ THẠCH TÚ
-https://pull06.scstream.net/live/stream-9912116_lhd.flv?auth_key=1780437240-0-0-d07b5fd68c0577291bcf6457b12c388e
-#EXTINF:-1, ⚽ Live - SAO LA - 75.28k - AFF U19: Timor Leste U19 vs Indonesia U19
-https://pull.niur.live/live/stream-462413_lhd.flv?txSecret=8e693e3f2c025a03d91e78dd399b4e93&txTime=6a21dd13
-#EXTINF:-1, ⚽ BLV MESSI
-https://pull06.scstream.net/live/stream-494201_lhd.flv?auth_key=1780574129-0-0-fe035f375566d64a711aa0ff61008ee0
+https://pull06.scstream.net/live/stream-9912116_lhd.flv?auth_key=1780599910-0-0-13a37b4291ca49c71ec5e92ac6f64c8d
+#EXTINF:-1, ⚽ Live - SAO LA - 72.72k - INTERF: Indonesia vs Oman
+https://pull.niur.live/live/stream-462413_lhd.flv?txSecret=cc46822072807f265c01cd443e89e5ac&txTime=6a2324bb
+#EXTINF:-1, ⚽ Live - BLV MESSI - 69.75k - AFF U19: Singapore U19 vs Thailand U19
+https://pull06.scstream.net/live/stream-494201_lhd.flv?auth_key=1780670059-0-0-ae10e320a8a74ab9012b59318e057cc1
 #EXTINF:-1, ⚽ RICKHANTER
 https://pull.niur.live/live/stream-9912122_lhd.flv?txSecret=b9242508fd61a0454fd78f72ccae4fc0&txTime=6a21af9b
 #EXTINF:-1, ⚽ BLV Củ Cải
-https://pull06.scstream.net/live/stream-9912091_lhd.flv?auth_key=1780574297-0-0-d35c64bbc079057a00fbc69dcf71ef62
-#EXTINF:-1, ⚽ Live - A BỆU - 47.70k - AFF U19: Timor Leste U19 vs Indonesia U19
-https://pull06.scstream.net/live/stream-484845_lhd.flv?auth_key=1780586239-0-0-f2e892f5746eaa525b315d1585388443
-#EXTINF:-1, ⚽ Live - BLV HENRY - 28.26k - VBA: Can Tho Catfish vs Hanoi Buffaloes
-https://pull06.scstream.net/live/stream-9912112_lhd.flv?auth_key=1780586239-0-0-2e692d058f2d0da131fcada9e553a2ca
-#EXTINF:-1, ⚽ Live - CÔNG CHẤT - 45.87k - AFF U19: Timor Leste U19 vs Indonesia U19
-https://pull06.scstream.net/live/stream-291277_lhd.flv?auth_key=1780586299-0-0-6c5ca5334f914542b46ab278fda91600
-#EXTINF:-1, ⚽ Live - BLV RÔSI - 41.33k - AFF U19: Timor Leste U19 vs Indonesia U19
-https://pull.niur.live/live/stream-9912102_lhd.flv?txSecret=920d640dc7b1eb8403afd8eda5d24fc6&txTime=6a21dd8b
-#EXTINF:-1, ⚽ Live - SOCOLIVE - 2.37k - BIT.LY/SOCOLIVE
-https://pull06.scstream.net/live/stream-175784_lhd.flv?auth_key=1780586299-0-0-6d6be79c83434b3d3cf54f84e833f38b
-#EXTINF:-1, ⚽ Live - Sóc nhàm nhang nhồ - 1.01k - Tường thuật: INTERF - Philippines vs Guam Island
-https://pull06.scstream.net/live/stream-152898_lhd.flv?auth_key=1780586299-0-0-2eac435be39b048f0a03ae115dc4722d
+https://pull06.scstream.net/live/stream-9912091_lhd.flv?auth_key=1780628879-0-0-b27383fe1435d47684a4cc05276650ac
+#EXTINF:-1, ⚽ Live - BLV VOI - 53.40k - WWCPE: Georgia Women vs Faroe Islands Women
+https://pull06.scstream.net/live/stream-9912114_lhd.flv?auth_key=1780670119-0-0-b6a84722cf6c7bdc7c367bb7b3362655
+#EXTINF:-1, ⚽ Live - BLV TOMIA - 60.64k - AFF U19: Singapore U19 vs Thailand U19
+https://pull06.scstream.net/live/stream-9912008_lhd.flv?auth_key=1780670119-0-0-975bb7e0dca764e4f5bd7efd80ba041b
+#EXTINF:-1, ⚽ Live - BLV PEWPEW - 59.28k - AFF U19: Singapore U19 vs Thailand U19
+https://pull06.scstream.net/live/stream-9912015_lhd.flv?auth_key=1780670119-0-0-2d49c427fa32e519d26cf459c53063b4
+#EXTINF:-1, ⚽ Live - BLV KEM - 40.84k - INTERF: Indonesia vs Oman
+https://pull06.scstream.net/live/stream-513394_lhd.flv?auth_key=1780670179-0-0-836b3722e023e7d27581f22bb59f8830
+#EXTINF:-1, ⚽ Live - BLV CUỘI - 58.65k - AFF U19: Singapore U19 vs Thailand U19
+https://pull06.scstream.net/live/stream-256080_lhd.flv?auth_key=1780670179-0-0-1da94da6f5d9967fb4d8dda989deabe7
+#EXTINF:-1, ⚽ Live - CR Bưởi - 39.67k - TOUT: Colombia U19 vs China U19
+https://pull06.scstream.net/live/stream-387694_lhd.flv?auth_key=1780670179-0-0-d89c1ff8a7be58d94b0ec926974d8a46
+#EXTINF:-1, ⚽ Live - BLV BÉO - 53.25k - WWCPE: Azerbaijan Women vs Hungary Women
+https://pull.niur.live/live/stream-459401_lhd.flv?txSecret=09b3bf2869609fe1322cea864c4c17de&txTime=6a232533
+#EXTINF:-1, ⚽ Live - A BỆU - 58.09k - AFF U19: Singapore U19 vs Thailand U19
+https://pull06.scstream.net/live/stream-484845_lhd.flv?auth_key=1780670179-0-0-0de326307baefaadc90985e3e482732a
+#EXTINF:-1, ⚽ Live - BLV HÚP - 57.65k - INTERF: Hong Kong vs Mongolia
+https://pull06.scstream.net/live/stream-611382_lhd.flv?auth_key=1780670240-0-0-6c36e0aefe1614e14886432e01d47299
+#EXTINF:-1, ⚽ Live - BLV RÔSI - 38.86k - INTERF: Indonesia vs Oman
+https://pull.niur.live/live/stream-9912102_lhd.flv?txSecret=3320c6a1ea09ac0ec4eca3b247e6de10&txTime=6a23256f
+#EXTINF:-1, ⚽ Live - A PÁO - 38.43k - INTERF: Indonesia vs Oman
+https://pull06.scstream.net/live/stream-235232_lhd.flv?auth_key=1780670239-0-0-5b951501fbccc5982df9f212859c34e9
+#EXTINF:-1, ⚽ Live - BLV CÒ - 37.64k - INTERF: Indonesia vs Oman
+https://pull06.scstream.net/live/stream-582342_lhd.flv?auth_key=1780670240-0-0-e74fdf770c91e3b492e6705bae037c1e
+#EXTINF:-1, ⚽ Live - VƯƠNG ANH - 36.84k - AFF U19: Singapore U19 vs Thailand U19
+https://pull.niur.live/live/stream-548860_lhd.flv?txSecret=23a2203a9f1971c36440f6038d5f19bf&txTime=6a23256f
+#EXTINF:-1, ⚽ Live - CÔNG CHẤT - 36.41k - INTERF: Thailand vs Kuwait
+https://pull06.scstream.net/live/stream-291277_lhd.flv?auth_key=1780670299-0-0-015c938579f6f82473d1ce5b8f6a9412
+#EXTINF:-1, ⚽ Live - NGƯỜI CÁ - 33.06k - WWCPE: Armenia Women vs Kazakhstan Women
+https://pull06.scstream.net/live/stream-595335_lhd.flv?auth_key=1780670300-0-0-65d2c762a42ef1e07523dde5371447bf
+#EXTINF:-1, ⚽ Live - HÀ DUY KIÊN - 30.10k - INTERF: Hong Kong vs Mongolia
+https://pull06.scstream.net/live/stream-607400_lhd.flv?auth_key=1780670300-0-0-0aebc2095cc937bf12aec6df389e9b40
+#EXTINF:-1, ⚽ Live - BLV ANH TÀI - 29.19k - INTERF: Hong Kong vs Mongolia
+https://pull06.scstream.net/live/stream-406865_lhd.flv?auth_key=1780670299-0-0-a4c2c2bcba6ab0175198088c044971a9
+#EXTINF:-1, ⚽ Live - BLV HENRY - 27.86k - CBA: Shanghai vs Zhejiang Guangsha
+https://pull06.scstream.net/live/stream-9912112_lhd.flv?auth_key=1780670299-0-0-8a020d4e076f6f81a9ba8699b9daa6b6
+#EXTINF:-1, ⚽ Live - BEN 10 - 27.73k - TOUT: Colombia U19 vs China U19
+https://pull06.scstream.net/live/stream-612098_lhd.flv?auth_key=1780670360-0-0-fdf722fa62b971f244666dd5b603cc42
+#EXTINF:-1, ⚽ Live - BLV A TÚ - 27.44k - TOUT: Colombia U19 vs China U19
+https://pull06.scstream.net/live/stream-557845_lhd.flv?auth_key=1780670359-0-0-762b2184c2096af61e3cd1e1f532ca06
+#EXTINF:-1, ⚽ Live - TRÀ ĐÁ - 27.22k - TOUT: Colombia U19 vs China U19
+https://pull06.scstream.net/live/stream-603914_lhd.flv?auth_key=1780670360-0-0-9096130bee8813090c31adddeba0f9ce
+#EXTINF:-1, ⚽ Live - CHAN SENA - 27.13k - CBA: Shanghai vs Zhejiang Guangsha
+https://pull06.scstream.net/live/stream-9912115_lhd.flv?auth_key=1780670359-0-0-d8d0f4ac61ca8995f55fb2f7c69e5d5d
+#EXTINF:-1, ⚽ Live - BLV XO - 27.04k - INTERF: Thailand vs Kuwait
+https://pull06.scstream.net/live/stream-472241_lhd.flv?auth_key=1780670359-0-0-b4a0b7b2864c30ea722b48cfd5247b45
+#EXTINF:-1, ⚽ Live - QUÂN JK - 26.97k - INTERF: Thailand vs Kuwait
+https://pull06.scstream.net/live/stream-611178_lhd.flv?auth_key=1780670420-0-0-9c19c77a964c5366a91834e9df97fc96
+#EXTINF:-1, ⚽ Live - BLV RAMBO - 26.91k - INTERF: Thailand vs Kuwait
+https://pull.niur.live/live/stream-534055_lhd.flv?txSecret=702a016407ce4b679bdc595734b43dd3&txTime=6a232623
+#EXTINF:-1, ⚽ Live - BLV LUCAS - 26.76k - INTERF: Thailand vs Kuwait
+https://pull06.scstream.net/live/stream-304148_lhd.flv?auth_key=1780670419-0-0-9e0f7ec36b93b2e556f901800b9a3a7b
+#EXTINF:-1, ⚽ Live - BRIAN - 26.63k - TPL: Taoyuan Pauian Pilots vs Fubon Braves
+https://pull06.scstream.net/live/stream-9912106_lhd.flv?auth_key=1780670419-0-0-f47524b31f6785041c91cfe157253290
+#EXTINF:-1, ⚽ Live - BLV 24H - 26.41k - WWCPE: Georgia Women vs Faroe Islands Women
+https://pull06.scstream.net/live/stream-612928_lhd.flv?auth_key=1780670420-0-0-1dfbc6e5eb48c409ba4bc4dc835c8d80
+#EXTINF:-1, ⚽ Live - A CHÈ - 26.21k - VBA: Da Nang Dragons vs Saigon Heat
+https://pull06.scstream.net/live/stream-356042_lhd.flv?auth_key=1780670419-0-0-8a411b27a5e06cc11705f289474b1860
+#EXTINF:-1, ⚽ Live - BLV CHIVAS - 26.20k - UKR D1: FK Oleksandria vs FC Livyi Bereh
+https://pull.niur.live/live/stream-485739_lhd.flv?txSecret=38a5850aef12e59196721179bd3bd8e0&txTime=6a23265f
+#EXTINF:-1, ⚽ Live - BLV GIÓ - 26.12k - UKR D1: FK Oleksandria vs FC Livyi Bereh
+https://pull06.scstream.net/live/stream-321443_lhd.flv?auth_key=1780670479-0-0-f6cbb18e416bdd50bcf35b208b4e9579
+#EXTINF:-1, ⚽ Live - KING - 26.12k - MPBL: Bataan Risers vs Basilan Steel
+https://pull06.scstream.net/live/stream-9912099_lhd.flv?auth_key=1780670479-0-0-f9b03dfce3b923f1f8291f030cdc10ad
+#EXTINF:-1, ⚽ Live - HUNTER - 26.10k - MPBL: Bataan Risers vs Basilan Steel
+https://pull06.scstream.net/live/stream-558264_lhd.flv?auth_key=1780670480-0-0-b797f066bf751462545fecfc6ef8270d
+#EXTINF:-1, ⚽ Live - BLV PICK - 25.04k - WWCPE: Azerbaijan Women vs Hungary Women
+https://pull06.scstream.net/live/stream-598549_lhd.flv?auth_key=1780670540-0-0-d6890df4a36e7a1fe6111c555a370797
+#EXTINF:-1, ⚽ Live - BLV RYO - 25.02k - WWCPE: Slovakia Women vs Finland Women
+https://pull06.scstream.net/live/stream-602019_lhd.flv?auth_key=1780670540-0-0-a307878dd9905f0b6ef2d1034ee887af
+#EXTINF:-1, ⚽ Live - PINKMAN - 25.01k - WWCPE: Slovakia Women vs Finland Women
+https://pull.niur.live/live/stream-595715_lhd.flv?txSecret=6cab371f2e8b231c33644d8b680ebd2c&txTime=6a2326a7
+#EXTINF:-1, ⚽ Live - SOCOLIVE - 3.44k - BIT.LY/SOCOLIVE
+https://pull06.scstream.net/live/stream-175784_lhd.flv?auth_key=1780670539-0-0-e2e78a999c2533e14ce055374328155b
