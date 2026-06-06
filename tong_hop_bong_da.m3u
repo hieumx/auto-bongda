@@ -1,73 +1,67 @@
 #EXTM3U
 #EXTINF:-1, ⚽ TẠ BIÊN GIỚI
 https://pull06.scstream.net/live/stream-9912108_lhd.flv?auth_key=1780669618-0-0-a05fe341f120c1aba832b5ed36412f13
-#EXTINF:-1, ⚽ Live - BLV TOMMY - 67.57k - INTERF: Canada vs Ireland
-https://pull.niur.live/live/stream-414317_lhd.flv?txSecret=bba92a823bb8768ba5115e97b7196ae1&txTime=6a23bc23
+#EXTINF:-1, ⚽ BLV TOMMY
+https://pull.niur.live/live/stream-414317_lhd.flv?txSecret=07fea31d2459a87fadf82fefe519d170&txTime=6a23f255
 #EXTINF:-1, ⚽ BLV TAP
 https://pull06.scstream.net/live/stream-9912041_lhd.flv?auth_key=1780503012-0-0-aab1d3a110792274c2b9fee7551811ee
-#EXTINF:-1, ⚽ Live - DECO - 72.21k - INTERF: Canada vs Ireland
-https://pull06.scstream.net/live/stream-9912060_lhd.flv?auth_key=1780708819-0-0-a76bedfcadb6bd1b6e4de0b9df2b5f53
+#EXTINF:-1, ⚽ DECO
+https://pull06.scstream.net/live/stream-9912060_lhd.flv?auth_key=1780713851-0-0-8de41ccf8903c70392f53ed107420635
 #EXTINF:-1, ⚽ BLV ĐỐM
-https://pull06.scstream.net/live/stream-9912110_lhd.flv?auth_key=1780656849-0-0-50296db9da09cc9eec349820d1034005
-#EXTINF:-1, ⚽ Live - BLV COCA - 67.20k - INTERF: Canada vs Ireland
-https://pull06.scstream.net/live/stream-327159_lhd.flv?auth_key=1780708879-0-0-5867e5977dcd2d1bd1d975cf8c2e2ee3
-#EXTINF:-1, ⚽ Live - BLV 7UP - 64.80k - INTERF: Canada vs Ireland
-https://pull06.scstream.net/live/stream-534219_lhd.flv?auth_key=1780708879-0-0-3078fbf005548d89d37029fa51416f44
+https://pull06.scstream.net/live/stream-9912110_lhd.flv?auth_key=1780722393-0-0-e0bbf6e86da4786fc91f720a12432d81
+#EXTINF:-1, ⚽ Live - BLV COCA - 65.45k - AUS NPLQ: Magic United TFA vs Brisbane Roar Youth
+https://pull06.scstream.net/live/stream-327159_lhd.flv?auth_key=1780724239-0-0-03b836652b2fccb5c7f3d9e5f5d302b1
+#EXTINF:-1, ⚽ BLV 7UP
+https://pull06.scstream.net/live/stream-534219_lhd.flv?auth_key=1780713818-0-0-fc8125941cd86436208648814de368ff
 #EXTINF:-1, ⚽ THẠCH TÚ
 https://pull06.scstream.net/live/stream-9912116_lhd.flv?auth_key=1780599910-0-0-13a37b4291ca49c71ec5e92ac6f64c8d
 #EXTINF:-1, ⚽ SAO LA
-https://pull.niur.live/live/stream-462413_lhd.flv?txSecret=d49095d18fc523de9ac0781a59798692&txTime=6a233991
+https://pull.niur.live/live/stream-462413_lhd.flv?txSecret=78899d4f0a5cf41f7bb9bb95d99400c3&txTime=6a23f166
 #EXTINF:-1, ⚽ BLV MESSI
-https://pull06.scstream.net/live/stream-494201_lhd.flv?auth_key=1780696356-0-0-af924a9cdde3e96638888073547f8cbf
+https://pull06.scstream.net/live/stream-494201_lhd.flv?auth_key=1780724299-0-0-c4070748b35d6fab7e9e5c6fff4357a0
 #EXTINF:-1, ⚽ RICKHANTER
 https://pull.niur.live/live/stream-9912122_lhd.flv?txSecret=b9242508fd61a0454fd78f72ccae4fc0&txTime=6a21af9b
-#EXTINF:-1, ⚽ BLV Củ Cải
-https://pull06.scstream.net/live/stream-9912091_lhd.flv?auth_key=1780685778-0-0-7f59349cdc09d38a06306354f6cd0d7e
-#EXTINF:-1, ⚽ Live - KÉP - 47.18k - INTERF: Paraguay vs Nicaragua
-https://pull06.scstream.net/live/stream-560690_lhd.flv?auth_key=1780708940-0-0-27e5defc0f6f2262a8ba518f0d159274
-#EXTINF:-1, ⚽ Live - HÀ DUY KIÊN - 48.23k - INTERF: Paraguay vs Nicaragua
-https://pull06.scstream.net/live/stream-607400_lhd.flv?auth_key=1780708940-0-0-98a8485926caff047abf126a1efb5d41
-#EXTINF:-1, ⚽ Live - BLV A TÚ - 47.89k - INTERF: Canada vs Ireland
-https://pull06.scstream.net/live/stream-557845_lhd.flv?auth_key=1780708939-0-0-7440215a8caa4d7c5a8747e29269aabd
-#EXTINF:-1, ⚽ Live - BLV YONE - 46.90k - INTERF: Paraguay vs Nicaragua
-https://pull06.scstream.net/live/stream-372746_lhd.flv?auth_key=1780708999-0-0-fd2667847be56b18749891b543dc31b5
-#EXTINF:-1, ⚽ Live - BLV PEWPEW - 49.64k - INTERF: Canada vs Ireland
-https://pull06.scstream.net/live/stream-9912015_lhd.flv?auth_key=1780708999-0-0-87521b60987cf60100c2ada9d029ef2a
-#EXTINF:-1, ⚽ Live - BLV FIREMAN - 45.43k - ARG D2: Gimnasia y Tiro vs Ferrocarril Midland
-https://pull06.scstream.net/live/stream-991140_lhd.flv?auth_key=1780708999-0-0-26b2dfc0c700ffc78d32165cd192cb4d
-#EXTINF:-1, ⚽ Live - BLV VOI - 47.24k - CON WLN: Argentina Women vs Peru Women
-https://pull06.scstream.net/live/stream-9912114_lhd.flv?auth_key=1780708999-0-0-4468f66c58a0d43cfcc31eb013fbd4e2
-#EXTINF:-1, ⚽ Live - BLV NẤM - 47.54k - INTERF: Paraguay vs Nicaragua
-https://pull06.scstream.net/live/stream-608899_lhd.flv?auth_key=1780709000-0-0-93965bf31a2ad85c6639b65d23816945
-#EXTINF:-1, ⚽ Live - BLV KEM - 35.94k - INTERF: Paraguay vs Nicaragua
-https://pull06.scstream.net/live/stream-513394_lhd.flv?auth_key=1780709059-0-0-295faf96ef816e81018be713a9b30cbf
-#EXTINF:-1, ⚽ Live - BLV KAN - 28.29k - INTERF: Haiti vs Peru
-https://pull.niur.live/live/stream-283501_lhd.flv?txSecret=782f0b783b5d8abdc881734909293b10&txTime=6a23bd13
-#EXTINF:-1, ⚽ Live - BLV RAMBO - 28.02k - INTERF: Haiti vs Peru
-https://pull.niur.live/live/stream-534055_lhd.flv?txSecret=0da4733ce894fa1fb08f24039fd49452&txTime=6a23bd13
-#EXTINF:-1, ⚽ Live - BLV GIÓ - 27.16k - BRA D2: Operario Ferroviario PR vs Juventude
-https://pull06.scstream.net/live/stream-321443_lhd.flv?auth_key=1780709059-0-0-29fe093af57794af8ee52959d1405352
-#EXTINF:-1, ⚽ Live - HUNTER - 27.11k - WNBA: Chicago Sky W vs Connecticut Sun W
-https://pull06.scstream.net/live/stream-558264_lhd.flv?auth_key=1780709059-0-0-af006cddbc4304f7e3f76eefe3aefddf
-#EXTINF:-1, ⚽ Live - A CHÈ - 26.84k - WNBA: Chicago Sky W vs Connecticut Sun W
-https://pull06.scstream.net/live/stream-356042_lhd.flv?auth_key=1780709119-0-0-3f9bb91de8f1a194760c760dbedf7db2
-#EXTINF:-1, ⚽ Live - XUÂN SON - 26.18k - CHI D2: San Luis Quillota vs San Marcos de Arica
-https://pull.niur.live/live/stream-501412_lhd.flv?txSecret=a9aee8576540658135c5296e53dcc423&txTime=6a23bd4f
-#EXTINF:-1, ⚽ Live - BLV A TINH - 26.11k - CHI D2: San Luis Quillota vs San Marcos de Arica
-https://pull.niur.live/live/stream-598119_lhd.flv?txSecret=8d05f9991feadaec5bbe5a878df2a70f&txTime=6a23bd50
-#EXTINF:-1, ⚽ Live - CHAN SENA - 26.10k - NBA: San Antonio Spurs vs New York Knicks
-https://pull06.scstream.net/live/stream-9912115_lhd.flv?auth_key=1780709119-0-0-900a580ccf0c1ce917aa6bbb829a4ea3
-#EXTINF:-1, ⚽ Live - KING - 25.57k - NBA: San Antonio Spurs vs New York Knicks
-https://pull06.scstream.net/live/stream-9912099_lhd.flv?auth_key=1780709119-0-0-2020bddb32a9305839d8ff53b5761818
-#EXTINF:-1, ⚽ Live - BLV HENRY - 25.13k - NBA: San Antonio Spurs vs New York Knicks
-https://pull06.scstream.net/live/stream-9912112_lhd.flv?auth_key=1780709119-0-0-040d555865ea20ae66626766f0139a85
-#EXTINF:-1, ⚽ Live - PINKMAN - 25.10k - ARG D2: Gimnasia y Tiro vs Ferrocarril Midland
-https://pull.niur.live/live/stream-595715_lhd.flv?txSecret=4bf9bf832078a8e8a020fe01db4cdaff&txTime=6a23bd8c
-#EXTINF:-1, ⚽ Live - BRIAN - 25.06k - NBA: San Antonio Spurs vs New York Knicks
-https://pull06.scstream.net/live/stream-9912106_lhd.flv?auth_key=1780709179-0-0-1997f09fd25eefa42a1a3d4fd898c0e0
-#EXTINF:-1, ⚽ Live - BLV RYO - 25.02k - ARG D2: Gimnasia y Tiro vs Ferrocarril Midland
-https://pull06.scstream.net/live/stream-602019_lhd.flv?auth_key=1780709180-0-0-42435873ed17a90efc6489dea44922ed
-#EXTINF:-1, ⚽ Live - SOCOLIVE - 1.41k - BIT.LY/SOCOLIVE
-https://pull06.scstream.net/live/stream-175784_lhd.flv?auth_key=1780709179-0-0-a0f8414913e0d3e792e4ade252150e00
+#EXTINF:-1, ⚽ Live - BLV Củ Cải - 62.44k - JPN D1: Kashima Antlers vs Vissel Kobe
+https://pull06.scstream.net/live/stream-9912091_lhd.flv?auth_key=1780724299-0-0-804250c1f7f2ce0777957c3731fb34d6
+#EXTINF:-1, ⚽ Live - LOKA - 45.16k - JPN D1: JEF United Ichihara Chiba vs Avispa Fukuoka
+https://pull06.scstream.net/live/stream-589848_lhd.flv?auth_key=1780724300-0-0-29b9b1a96ed995495ca4028e37fe4dbb
+#EXTINF:-1, ⚽ Live - CHAN SENA - 26.88k - NZBL: Tauranga Whai vs Nelson Giants
+https://pull06.scstream.net/live/stream-9912115_lhd.flv?auth_key=1780724359-0-0-d42103de9b34e7df202de56a6f6406f5
+#EXTINF:-1, ⚽ Live - KING - 42.80k - NZBL: Tauranga Whai vs Nelson Giants
+https://pull06.scstream.net/live/stream-9912099_lhd.flv?auth_key=1780724359-0-0-2f50cc9f6ac7fe7045659b75f71cc6ea
+#EXTINF:-1, ⚽ Live - BLV ROBBEN - 45.17k - JPN D1: Kashima Antlers vs Vissel Kobe
+https://pull06.scstream.net/live/stream-527383_lhd.flv?auth_key=1780724360-0-0-0e9e44c8aa66324ffb937edd68f2e967
+#EXTINF:-1, ⚽ Live - BLV RÔSI - 45.18k - JPN D1: JEF United Ichihara Chiba vs Avispa Fukuoka
+https://pull.niur.live/live/stream-9912102_lhd.flv?txSecret=d95e1254fe84e92129a743094b5c9352&txTime=6a23f8d7
+#EXTINF:-1, ⚽ Live - LOGAN - 45.24k - JPN D1: Kashima Antlers vs Vissel Kobe
+https://pull06.scstream.net/live/stream-552832_lhd.flv?auth_key=1780724420-0-0-2ae643300b164f7bb833246a2ccdae03
+#EXTINF:-1, ⚽ Live - HUNTER - 41.38k - NZBL: Tauranga Whai vs Nelson Giants
+https://pull06.scstream.net/live/stream-558264_lhd.flv?auth_key=1780724420-0-0-e0b9addc8cb9c87bfb170619dc8265a4
+#EXTINF:-1, ⚽ Live - BLV ALEX - 45.26k - JPN D1: Kashima Antlers vs Vissel Kobe
+https://pull06.scstream.net/live/stream-532081_lhd.flv?auth_key=1780724420-0-0-11dfe5bc2fcb2445d28e6e546dc1cf3b
+#EXTINF:-1, ⚽ Live - BLV HENRY - 42.97k - NZBL: Tauranga Whai vs Nelson Giants
+https://pull06.scstream.net/live/stream-9912112_lhd.flv?auth_key=1780724479-0-0-2b29e9577ad46fc64f5c32dcc63bb27a
+#EXTINF:-1, ⚽ Live - BRIAN - 27.65k - NZBL: Tauranga Whai vs Nelson Giants
+https://pull06.scstream.net/live/stream-9912106_lhd.flv?auth_key=1780724479-0-0-9a4b67568f3f5fa0623912acdc40d282
+#EXTINF:-1, ⚽ Live - BLV GIÓ - 26.52k - AUS NPLQ: Magic United TFA vs Brisbane Roar Youth
+https://pull06.scstream.net/live/stream-321443_lhd.flv?auth_key=1780724479-0-0-a5a7b2be12340dc424f521c4f5fdd029
+#EXTINF:-1, ⚽ Live - TRÀ ĐÁ - 26.13k - JPN D1: JEF United Ichihara Chiba vs Avispa Fukuoka
+https://pull06.scstream.net/live/stream-603914_lhd.flv?auth_key=1780724480-0-0-0633642ae53e2586e856c77672a56c53
+#EXTINF:-1, ⚽ Live - BLV A TÚ - 25.61k - JPN D1: JEF United Ichihara Chiba vs Avispa Fukuoka
+https://pull06.scstream.net/live/stream-557845_lhd.flv?auth_key=1780724540-0-0-8b34ac49eabde982ab3dc88710961354
+#EXTINF:-1, ⚽ Live - BLV LONG - 25.13k - JPN D1: FC Tokyo vs Cerezo Osaka
+https://pull.niur.live/live/stream-9912117_lhd.flv?txSecret=aa6b097420a0822515c6b31f3547a64a&txTime=6a23f98b
+#EXTINF:-1, ⚽ Live - BLV CÁP - 25.08k - JPN D2: Tegevajaro Miyazaki vs Ventforet Kofu
+https://pull06.scstream.net/live/stream-610677_lhd.flv?auth_key=1780724540-0-0-8818c94e1de6c31230199c48b4be34b0
+#EXTINF:-1, ⚽ Live - BLV VIP - 25.08k - JPN D1: FC Tokyo vs Cerezo Osaka
+https://pull.niur.live/live/stream-491873_lhd.flv?txSecret=a2ac35fe4ee1fa70a2937debf6194535&txTime=6a23f9c8
+#EXTINF:-1, ⚽ Live - XUÂN SON - 25.07k - JPN D2: Albirex Niigata vs Hokkaido Consadole Sapporo
+https://pull.niur.live/live/stream-501412_lhd.flv?txSecret=cfeabe05aa0d27380d1d91bba80728d9&txTime=6a23f9c8
+#EXTINF:-1, ⚽ Live - BEN 10 - 25.06k - JPN D2: Vegalta Sendai vs Kataller Toyama
+https://pull06.scstream.net/live/stream-612098_lhd.flv?auth_key=1780724600-0-0-354e26178978f3f53ca994baf4b48db9
+#EXTINF:-1, ⚽ Live - BLV VITAMIN - 25.02k - JPN D2: Yokohama FC vs Renofa Yamaguchi
+https://pull06.scstream.net/live/stream-400722_lhd.flv?auth_key=1780724599-0-0-064a53ada65903dc99709eb4ad63fe44
+#EXTINF:-1, ⚽ Live - SOCOLIVE - 1.16k - BIT.LY/SOCOLIVE
+https://pull06.scstream.net/live/stream-175784_lhd.flv?auth_key=1780724659-0-0-1ca35a812b1b5e998e1b4a3aec812b69
 #EXTINF:-1, ⚽ Live - Sóc trèo cây ngô đồng - 1.01k - Tường thuật: INTERF - South Korea vs El Salvador
-https://pull06.scstream.net/live/stream-133824_lhd.flv?auth_key=1780709239-0-0-f748600a374cc76b090d48276d389551
+https://pull06.scstream.net/live/stream-133824_lhd.flv?auth_key=1780724659-0-0-7f2c233651bade4ffad0489d078bec6e
