@@ -57,7 +57,9 @@ def san_full_server_qua_proxy():
                 }})
             """)
             
-            danh_sach_phong = {{}}
+            # ĐÃ SỬA LỖI Ở ĐÂY: Chỉ dùng 1 cặp ngoặc nhọn {} cho Python
+            danh_sach_phong = {}
+            
             for item in danh_sach_raw:
                 url = item['url']
                 ten = item['ten']
@@ -103,10 +105,7 @@ def san_full_server_qua_proxy():
         # ==========================================
         # GIAI ĐOẠN 1: THỰC THI QUÉT CÁC TRẠM
         # ==========================================
-        # Trạm 1: Socolive (Tìm các link có chứa chữ /room/)
         quet_trang("Socolive", "https://bit.ly/socolive", "/room/")
-        
-        # Trạm 2: Xoilac (Tìm các link có chứa chữ /truc-tiep/)
         quet_trang("Xoilac", "https://xoilaczty.tv/truc-tiep", "/truc-tiep/")
 
         browser.close()
@@ -123,7 +122,6 @@ def san_full_server_qua_proxy():
                 print("❌ Không thu hoạch được link nào. Server chưa lên lịch.")
             else:
                 for luong in danh_sach_phat:
-                    # MẤU CHỐT CHIA FOLDER: Dùng group-title="..."
                     file.write(f'#EXTINF:-1 group-title="{luong["nhom"]}", ⚽ {luong["ten"]}\n')
                     file.write(f'{luong["link"]}\n')
                     
