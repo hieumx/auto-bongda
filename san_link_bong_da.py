@@ -2,25 +2,24 @@ import os
 from playwright.sync_api import sync_playwright
 
 def san_full_server_qua_proxy():
-    url_co_dinh = "https://bit.ly/socolive"
-    print("🚀 KHỞI ĐỘNG CHIẾN DỊCH VÉT SẠCH SERVER VỚI PROXY ẨN DANH...")
+    print("🚀 KHỞI ĐỘNG CHIẾN DỊCH VÉT SẠCH 2 SERVER (SOCOLIVE & XOILAC)...")
     
-    # 1. KHAI BÁO CỨNG PROXY (Bỏ qua Két sắt GitHub)
+    # 1. KHAI BÁO CỨNG PROXY
     proxy_ip = "171.236.188.19"
     proxy_port = "41570"
     proxy_user = "hieumx"
     proxy_pass = "hieu123"
     
-    # 2. LẮP RÁP CẤU HÌNH MẠNG
-    print(f"🌐 Đã kết nối ống ngầm Proxy: {proxy_ip}")
     cau_hinh_proxy = {
         "server": f"http://{proxy_ip}:{proxy_port}",
         "username": proxy_user,
         "password": proxy_pass
     }
 
+    # Cặp biến để hứng toàn bộ data từ các nguồn
+    danh_sach_phat = [] 
+
     with sync_playwright() as p:
-        # 3. KÍCH HOẠT TRÌNH DUYỆT (Chỉ dùng Proxy và tắt dấu hiệu Bot)
         browser = p.chromium.launch(
             headless=True,
             proxy=cau_hinh_proxy,
@@ -31,54 +30,48 @@ def san_full_server_qua_proxy():
             user_agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
         )
         page = context.new_page()
-        
+
         # ==========================================
-        # GIAI ĐOẠN 1: VƯỢT TƯỜNG LỬA & QUÉT LINK
+        # HÀM LÕI: QUÉT TỪNG SERVER ĐỘC LẬP
         # ==========================================
-        print(f"📥 Đang truy cập trạm trung chuyển: {url_co_dinh}")
-        try:
-            page.goto(url_co_dinh, timeout=60000)
-            print("⏳ Đang rình Cloudflare mở cửa và chờ dữ liệu tải về...")
+        def quet_trang(ten_nhom, url_trang_chu, keyword_link):
+            print(f"\n==========================================")
+            print(f"📥 ĐANG QUÉT SERVER: {ten_nhom.upper()} ({url_trang_chu})")
+            print(f"==========================================")
+            try:
+                page.goto(url_trang_chu, timeout=60000)
+                print("⏳ Đang rình Cloudflare mở cửa...")
+                page.wait_for_selector(f'a[href*="{keyword_link}"]', timeout=40000)
+                page.wait_for_timeout(5000)
+            except Exception as e:
+                print(f"⚠️ Kẹt tường lửa hoặc web đang sập: {e}")
+                return
+
+            # Quét tên trận và link
+            danh_sach_raw = page.evaluate(f"""
+                Array.from(document.querySelectorAll('a[href*="{keyword_link}"]')).map(a => {{
+                    return {{
+                        url: a.href,
+                        ten: a.innerText.trim().replace(/\\n/g, ' - ')
+                    }}
+                }})
+            """)
             
-            # Cơ chế rình mồi: Đợi tối đa 40s cho đến khi thấy link phòng chiếu
-            page.wait_for_selector('a[href*="/room/"]', timeout=40000)
-            page.wait_for_timeout(5000) # Đợi thêm 5s cho load hẳn
-        except Exception as e:
-            print(f"⚠️ Hết thời gian chờ hoặc kẹt tường lửa: {e}")
+            danh_sach_phong = {{}}
+            for item in danh_sach_raw:
+                url = item['url']
+                ten = item['ten']
+                # Lọc bỏ những link bị trùng với chính trang chủ
+                if url == url_trang_chu or url == url_trang_chu + "/": continue
+                
+                if url not in danh_sach_phong or len(ten) > len(danh_sach_phong.get(url, "")):
+                    danh_sach_phong[url] = ten if ten else "Trận đấu đang chờ cập nhật"
 
-        # Quét tên trận và link
-        danh_sach_raw = page.evaluate("""
-            Array.from(document.querySelectorAll('a[href*="/room/"]')).map(a => {
-                return {
-                    url: a.href,
-                    ten: a.innerText.trim().replace(/\\n/g, ' - ')
-                }
-            })
-        """)
-        
-        danh_sach_phong = {}
-        for item in danh_sach_raw:
-            url = item['url']
-            ten = item['ten']
-            if url not in danh_sach_phong or len(ten) > len(danh_sach_phong.get(url, "")):
-                danh_sach_phong[url] = ten if ten else "Trận đấu đang chờ cập nhật"
-
-        tong_so_tran = len(danh_sach_phong)
-        print(f"🎯 ĐÃ QUA CỬA! Phát hiện tổng cộng {tong_so_tran} trận đấu!\n")
-
-        if tong_so_tran == 0:
-            print("❌ Không tìm thấy phòng nào. Web chưa lên lịch. Tắt Bot.")
-            browser.close()
-            return
-
-        # ==========================================
-        # GIAI ĐOẠN 2: CÀO DATA TOÀN BỘ VÀ LƯU FILE
-        # ==========================================
-        with open("tong_hop_bong_da.m3u", "w", encoding="utf-8") as file:
-            file.write("#EXTM3U\n")
+            tong_so_tran = len(danh_sach_phong)
+            print(f"🎯 Phát hiện {tong_so_tran} phòng chiếu tại {ten_nhom}!")
 
             for stt, (link_phong, ten_tran) in enumerate(danh_sach_phong.items(), 1):
-                print(f"🔄 [{stt}/{tong_so_tran}] Đang lấy link: {ten_tran}")
+                print(f"🔄 [{ten_nhom}] [{stt}/{tong_so_tran}] Đang lấy luồng: {ten_tran}")
                 stream_link = None
                 
                 def bat_goi_tin(request):
@@ -98,13 +91,43 @@ def san_full_server_qua_proxy():
                 
                 if stream_link:
                     print("   ✅ Thành công!")
-                    file.write(f"#EXTINF:-1, ⚽ {ten_tran}\n")
-                    file.write(f"{stream_link}\n")
+                    # Lưu kèm tên nhóm để lát nữa chia folder
+                    danh_sach_phat.append({
+                        'nhom': ten_nhom,
+                        'ten': ten_tran,
+                        'link': stream_link
+                    })
                 else:
                     print("   ❌ Trận này chưa phát sóng.")
-                    
+
+        # ==========================================
+        # GIAI ĐOẠN 1: THỰC THI QUÉT CÁC TRẠM
+        # ==========================================
+        # Trạm 1: Socolive (Tìm các link có chứa chữ /room/)
+        quet_trang("Socolive", "https://bit.ly/socolive", "/room/")
+        
+        # Trạm 2: Xoilac (Tìm các link có chứa chữ /truc-tiep/)
+        quet_trang("Xoilac", "https://xoilaczty.tv/truc-tiep", "/truc-tiep/")
+
         browser.close()
-        print("\n🎉 ĐÃ VÉT SẠCH SERVER! Hoàn tất đóng gói m3u.")
+
+        # ==========================================
+        # GIAI ĐOẠN 2: LƯU FILE CÓ CHIA THƯ MỤC
+        # ==========================================
+        print("\n📦 ĐANG ĐÓNG GÓI M3U VÀ CHIA THƯ MỤC...")
+        
+        with open("tong_hop_bong_da.m3u", "w", encoding="utf-8") as file:
+            file.write("#EXTM3U\n")
+            
+            if not danh_sach_phat:
+                print("❌ Không thu hoạch được link nào. Server chưa lên lịch.")
+            else:
+                for luong in danh_sach_phat:
+                    # MẤU CHỐT CHIA FOLDER: Dùng group-title="..."
+                    file.write(f'#EXTINF:-1 group-title="{luong["nhom"]}", ⚽ {luong["ten"]}\n')
+                    file.write(f'{luong["link"]}\n')
+                    
+        print(f"🎉 ĐÃ VÉT SẠCH THÀNH CÔNG TỔNG CỘNG {len(danh_sach_phat)} TRẬN!")
 
 if __name__ == "__main__":
     san_full_server_qua_proxy()
