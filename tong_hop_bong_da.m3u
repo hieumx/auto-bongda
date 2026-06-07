@@ -3,16 +3,16 @@
 https://pull06.scstream.net/live/stream-9912108_lhd.flv?auth_key=1780848279-0-0-46ac5213dd03d658dd4864a894f875dc
 #EXTINF:-1 group-title="Socolive", ⚽ BLV TOMMY
 https://pull.niur.live/live/stream-414317_lhd.flv?txSecret=b74e904030ad4dbe1a8fb827444c6635&txTime=6a25dc6a
-#EXTINF:-1 group-title="Socolive", ⚽ Live - BLV TAP - 63.30k - INTERF: Denmark vs Ukraine
-https://pull06.scstream.net/live/stream-9912041_lhd.flv?auth_key=1780851980-0-0-6c42eac9f280930d72e24ca3b8ac761e
-#EXTINF:-1 group-title="Socolive", ⚽ Live - DECO - 63.11k - INTERF: Denmark vs Ukraine
-https://pull06.scstream.net/live/stream-9912060_lhd.flv?auth_key=1780851980-0-0-ac16d741b8cb5f4726ec093e12a7c6ca
+#EXTINF:-1 group-title="Socolive", ⚽ BLV TAP
+https://pull06.scstream.net/live/stream-9912041_lhd.flv?auth_key=1780859500-0-0-6373ade3f5a8984e4d4c78eb55061790
+#EXTINF:-1 group-title="Socolive", ⚽ DECO
+https://pull06.scstream.net/live/stream-9912060_lhd.flv?auth_key=1780859273-0-0-908883082228a05516a057207f959b3c
 #EXTINF:-1 group-title="Socolive", ⚽ BLV ĐỐM
 https://pull06.scstream.net/live/stream-9912110_lhd.flv?auth_key=1780848251-0-0-1137b1426135d42c3d6e403e5ca137f0
-#EXTINF:-1 group-title="Socolive", ⚽ BLV COCA
-https://pull06.scstream.net/live/stream-327159_lhd.flv?auth_key=1780847909-0-0-2a2a3d561b7294ccdc1d3d827cdefb74
-#EXTINF:-1 group-title="Socolive", ⚽ Live - BLV 7UP - 62.12k - INTERF: Denmark vs Ukraine
-https://pull06.scstream.net/live/stream-534219_lhd.flv?auth_key=1780852100-0-0-4af44b6bee332852581d1e34b847bf05
+#EXTINF:-1 group-title="Socolive", ⚽ Live - BLV COCA - 68.86k - UEFA U17: Belgium U17 vs Italy U17
+https://pull06.scstream.net/live/stream-327159_lhd.flv?auth_key=1780862600-0-0-2b61f55919b38b5e3adfcf37caf73dee
+#EXTINF:-1 group-title="Socolive", ⚽ BLV 7UP
+https://pull06.scstream.net/live/stream-534219_lhd.flv?auth_key=1780859360-0-0-d5bd036433609581640a031ebf482da5
 #EXTINF:-1 group-title="Socolive", ⚽ THẠCH TÚ
 https://pull06.scstream.net/live/stream-9912116_lhd.flv?auth_key=1780848021-0-0-151dffd651dba9e8ed70c65d0823e5c0
 #EXTINF:-1 group-title="Socolive", ⚽ SAO LA
@@ -21,91 +21,107 @@ https://pull.niur.live/live/stream-462413_lhd.flv?txSecret=89e64d9bc4b26946115d4
 https://pull06.scstream.net/live/stream-494201_lhd.flv?auth_key=1780848360-0-0-735b60ae10ea3f49204485c8b5251647
 #EXTINF:-1 group-title="Socolive", ⚽ RICKHANTER
 https://pull.niur.live/live/stream-9912122_lhd.flv?txSecret=b9242508fd61a0454fd78f72ccae4fc0&txTime=6a21af9b
-#EXTINF:-1 group-title="Socolive", ⚽ Live - BLV Củ Cải - 62.86k - INTERF: Denmark vs Ukraine
-https://pull06.scstream.net/live/stream-9912091_lhd.flv?auth_key=1780852220-0-0-793fa616a626c2a3d6d768ae9c6f8c4e
-#EXTINF:-1 group-title="Socolive", ⚽ Live - BLV VOI - 33.11k - TOUT: China U19 vs Tunisia U23
-https://pull06.scstream.net/live/stream-9912114_lhd.flv?auth_key=1780852280-0-0-251a7e64c720a5f09dd9733f1cffd41f
-#EXTINF:-1 group-title="Socolive", ⚽ Live - CR Bưởi - 52.37k - TOUT: China U19 vs Tunisia U23
-https://pull06.scstream.net/live/stream-387694_lhd.flv?auth_key=1780852280-0-0-a773aeb248427a2d4e084ab4d92e264d
-#EXTINF:-1 group-title="Socolive", ⚽ Live - BLV LONG - 27.46k - ITA CPO: Ascoli vs Union Brescia
-https://pull.niur.live/live/stream-9912117_lhd.flv?txSecret=005510fa5ab3b41803730775ee96b06b&txTime=6a25ecc4
-#EXTINF:-1 group-title="Socolive", ⚽ Live - BLV ALEX - 33.11k - TOUT: China U19 vs Tunisia U23
-https://pull06.scstream.net/live/stream-532081_lhd.flv?auth_key=1780852340-0-0-bdd05681d59c4cbd2585de6434960680
-#EXTINF:-1 group-title="Socolive", ⚽ Live - NGƯỜI CÁ - 33.24k - TOUT: China U19 vs Tunisia U23
-https://pull06.scstream.net/live/stream-595335_lhd.flv?auth_key=1780852400-0-0-32d1071f29e2593ab67222af3a536779
-#EXTINF:-1 group-title="Socolive", ⚽ Live - PINKMAN - 27.15k - ITA CPO: Ascoli vs Union Brescia
-https://pull.niur.live/live/stream-595715_lhd.flv?txSecret=53c9ecee60a9792d811c0f96e2ad30e1&txTime=6a25ed3c
-#EXTINF:-1 group-title="Socolive", ⚽ Live - CƠM CHÁY - 32.16k - INTERF: Maldives vs Bangladesh
-https://pull06.scstream.net/live/stream-611528_lhd.flv?auth_key=1780852460-0-0-89b935af5ae860faa62947956f99b298
-#EXTINF:-1 group-title="Socolive", ⚽ Live - BLV ROBBEN - 33.23k - TOUT: China U19 vs Tunisia U23
-https://pull06.scstream.net/live/stream-527383_lhd.flv?auth_key=1780852520-0-0-50564ec4066b785cb103e01a092ccc89
-#EXTINF:-1 group-title="Socolive", ⚽ Live - KING - 26.39k - CRBL: Cibona vs Zadar
-https://pull06.scstream.net/live/stream-9912099_lhd.flv?auth_key=1780852520-0-0-8f645d27ef788b44ed0379133fe5c862
-#EXTINF:-1 group-title="Socolive", ⚽ Live - BEN 10 - 25.52k - CHI LC: Deportes La Serena vs Union La Calera
-https://pull06.scstream.net/live/stream-612098_lhd.flv?auth_key=1780852580-0-0-c5d3c158cc1f0c20df5c5180d8f907bf
-#EXTINF:-1 group-title="Socolive", ⚽ Live - QUỐC KHÁNH - 25.28k - ITA CPO: Ascoli vs Union Brescia
-https://pull06.scstream.net/live/stream-602153_lhd.flv?auth_key=1780852580-0-0-1931fe4d5b5a3d15084285504086a728
-#EXTINF:-1 group-title="Socolive", ⚽ Live - BLV A TINH - 25.17k - CHI LC: Universidad de Chile vs Audax Italiano
-https://pull.niur.live/live/stream-598119_lhd.flv?txSecret=184e058c24c501d7d791265c9e989dea&txTime=6a25edf0
-#EXTINF:-1 group-title="Socolive", ⚽ Live - BLV CÁO - 25.14k - CHI LC: Universidad de Chile vs Audax Italiano
-https://pull06.scstream.net/live/stream-597929_lhd.flv?auth_key=1780852640-0-0-ac2bdd1d371ab13179d2a39b176fecfa
-#EXTINF:-1 group-title="Socolive", ⚽ Live - KÉP - 25.12k - CHI LC: Universidad de Chile vs Audax Italiano
-https://pull06.scstream.net/live/stream-560690_lhd.flv?auth_key=1780852700-0-0-7d67f530a90657a242566c9ee8bcbe72
-#EXTINF:-1 group-title="Socolive", ⚽ Live - TRÀ ĐÁ - 25.09k - CHI LC: Deportes La Serena vs Union La Calera
-https://pull06.scstream.net/live/stream-603914_lhd.flv?auth_key=1780852700-0-0-2b23d7eaf369ee95546793c180a9e200
-#EXTINF:-1 group-title="Socolive", ⚽ Live - BLV CÁP - 25.07k - CHI LC: Deportes La Serena vs Union La Calera
-https://pull06.scstream.net/live/stream-610677_lhd.flv?auth_key=1780852760-0-0-e1742b7d07d3749cdf46c0b68122ee5d
-#EXTINF:-1 group-title="Socolive", ⚽ Live - SOCOLIVE - 3.85k - BIT.LY/SOCOLIVE
-https://pull06.scstream.net/live/stream-175784_lhd.flv?auth_key=1780852820-0-0-f86fdbfd6ac32023b7f0da23833126de
-#EXTINF:-1 group-title="Socolive", ⚽ Live - Sóc trèo cây ngô đồng - 1.03k - Tường thuật: INTERF - Georgia vs Bahrain
-https://pull06.scstream.net/live/stream-133824_lhd.flv?auth_key=1780852820-0-0-99f4d95fdc85bb67a6b7c1eb18b2ed21
+#EXTINF:-1 group-title="Socolive", ⚽ BLV Củ Cải
+https://pull06.scstream.net/live/stream-9912091_lhd.flv?auth_key=1780859655-0-0-dd1bf676c0f5eb52de1ab3f35545ce51
+#EXTINF:-1 group-title="Socolive", ⚽ Live - CR Bưởi - 52.84k - INTERF: Morocco vs Norway
+https://pull06.scstream.net/live/stream-387694_lhd.flv?auth_key=1780862780-0-0-25e485cdd9d23c14d669aed61fa8f153
+#EXTINF:-1 group-title="Socolive", ⚽ Live - BLV FIREMAN - 52.71k - INTERF: Morocco vs Norway
+https://pull06.scstream.net/live/stream-991140_lhd.flv?auth_key=1780862840-0-0-16e76e68983edde00d151ee6e568c57b
+#EXTINF:-1 group-title="Socolive", ⚽ Live - BLV KEM - 52.05k - INTERF: Morocco vs Norway
+https://pull06.scstream.net/live/stream-513394_lhd.flv?auth_key=1780862840-0-0-8f4a155576777a4ce81cbd5bda1a9fc0
+#EXTINF:-1 group-title="Socolive", ⚽ Live - A BỆU - 53.23k - INTERF: Morocco vs Norway
+https://pull06.scstream.net/live/stream-484845_lhd.flv?auth_key=1780862900-0-0-e0bbc621e868537fab7c73f085e3983a
+#EXTINF:-1 group-title="Socolive", ⚽ Live - LÃO LÂM - 54.68k - UEFA U17: Belgium U17 vs Italy U17
+https://pull06.scstream.net/live/stream-527384_lhd.flv?auth_key=1780862900-0-0-8b519d719c90b3d3ea81da28eb7675ea
+#EXTINF:-1 group-title="Socolive", ⚽ Live - HẢI THANH - 52.19k - INTERF: Morocco vs Norway
+https://pull06.scstream.net/live/stream-599634_lhd.flv?auth_key=1780862960-0-0-ae441b6a77bc90df140a45ea2fc8a816
+#EXTINF:-1 group-title="Socolive", ⚽ Live - BLV WUKONG - 54.49k - INTERF: Croatia vs Slovenia
+https://pull06.scstream.net/live/stream-511367_lhd.flv?auth_key=1780862960-0-0-914637b71b8d0c4e5f10fe71515afcb3
+#EXTINF:-1 group-title="Socolive", ⚽ Live - BLV LONG - 55.37k - INTERF: Croatia vs Slovenia
+https://pull.niur.live/live/stream-9912117_lhd.flv?txSecret=ef23b1fa03a542dbe7a22716bc30bdc4&txTime=6a26167c
+#EXTINF:-1 group-title="Socolive", ⚽ Live - A PÁO - 55.72k - INTERF: Croatia vs Slovenia
+https://pull06.scstream.net/live/stream-235232_lhd.flv?auth_key=1780863020-0-0-6049d0fa0ef7c0b2e372bbff95f36466
+#EXTINF:-1 group-title="Socolive", ⚽ Live - BLV PEWPEW - 61.40k - INTERF: Croatia vs Slovenia
+https://pull06.scstream.net/live/stream-9912015_lhd.flv?auth_key=1780863080-0-0-a1a694536afb2af47019869bd385f8c6
+#EXTINF:-1 group-title="Socolive", ⚽ Live - BLV HÚP - 56.54k - INTERF: Croatia vs Slovenia
+https://pull06.scstream.net/live/stream-611382_lhd.flv?auth_key=1780863080-0-0-8530329aef349c86b4354d9e97700732
+#EXTINF:-1 group-title="Socolive", ⚽ Live - BLV ROBBEN - 34.71k - INTERF: Morocco vs Norway
+https://pull06.scstream.net/live/stream-527383_lhd.flv?auth_key=1780863140-0-0-c63ee60f3fb8e41bb78d5810663dc811
+#EXTINF:-1 group-title="Socolive", ⚽ Live - XUÂN SON - 29.04k - INTERF: Kosovo vs Andorra
+https://pull.niur.live/live/stream-501412_lhd.flv?txSecret=88584e04410c827e07b3213eedefb0d7&txTime=6a2616f4
+#EXTINF:-1 group-title="Socolive", ⚽ Live - BLV VIP - 28.17k - UEFA U17: Belgium U17 vs Italy U17
+https://pull.niur.live/live/stream-491873_lhd.flv?txSecret=5bf56a051c2f283bd741e44bf61d1b31&txTime=6a2616af
+#EXTINF:-1 group-title="Socolive", ⚽ Live - BLV VITAMIN - 27.98k - INTERF: Kosovo vs Andorra
+https://pull06.scstream.net/live/stream-400722_lhd.flv?auth_key=1780863200-0-0-028e77ea82ec3f7f6833edfa062a9eeb
+#EXTINF:-1 group-title="Socolive", ⚽ Live - BLV PICK - 27.65k - UEFA U17: Belgium U17 vs Italy U17
+https://pull06.scstream.net/live/stream-598549_lhd.flv?auth_key=1780862931-0-0-fc7ac30b9be454bae15b3a458241c10e
+#EXTINF:-1 group-title="Socolive", ⚽ Live - BLV RAMBO - 27.10k - INTERF: Kosovo vs Andorra
+https://pull.niur.live/live/stream-534055_lhd.flv?txSecret=0a130c2b2bb240e961756a24d005aeb7&txTime=6a2617a8
+#EXTINF:-1 group-title="Socolive", ⚽ Live - ĐỖ TÚ TÀI - 27.08k - INTERF: Kosovo vs Andorra
+https://pull06.scstream.net/live/stream-607552_lhd.flv?auth_key=1780863320-0-0-81eeee49e34d02913e5604d9a643cfa4
+#EXTINF:-1 group-title="Socolive", ⚽ Live - CHÍ PHÈO - 26.32k - SPA D2: UD Las Palmas vs Malaga
+https://pull06.scstream.net/live/stream-273736_lhd.flv?auth_key=1780863320-0-0-29c0229146ed27c64c88bf57d7df40bb
+#EXTINF:-1 group-title="Socolive", ⚽ Live - BLV GÔN - 26.10k - SPA D2: UD Las Palmas vs Malaga
+https://pull.niur.live/live/stream-445260_lhd.flv?txSecret=d6391cf70750998c3ee96c919e30316e&txTime=6a2617a8
+#EXTINF:-1 group-title="Socolive", ⚽ Live - BLV LUCAS - 25.95k - INTERF: Greece vs Italy
+https://pull06.scstream.net/live/stream-304148_lhd.flv?auth_key=1780863380-0-0-cc31e5a36f6b75c0977db72069361b6c
+#EXTINF:-1 group-title="Socolive", ⚽ Live - BLV ANH TÀI - 25.92k - INTERF: Greece vs Italy
+https://pull06.scstream.net/live/stream-406865_lhd.flv?auth_key=1780863440-0-0-086fbcd4153e679ef05fd71e134c9bb0
+#EXTINF:-1 group-title="Socolive", ⚽ Live - BLV A WIN - 25.67k - SPA D2: UD Las Palmas vs Malaga
+https://pull06.scstream.net/live/stream-536185_lhd.flv?auth_key=1780863440-0-0-1b2e08a58807f63eb86adbc863594813
+#EXTINF:-1 group-title="Socolive", ⚽ Live - BLV A TINH - 25.46k - INTERF: Greece vs Italy
+https://pull.niur.live/live/stream-598119_lhd.flv?txSecret=5fc18dae825e1b02bd97f9acef391658&txTime=6a26185c
+#EXTINF:-1 group-title="Socolive", ⚽ Live - KÉP - 25.25k - SPA D2: UD Las Palmas vs Malaga
+https://pull06.scstream.net/live/stream-560690_lhd.flv?auth_key=1780863500-0-0-b283dfa26009c2501b0d96bf6bf03028
+#EXTINF:-1 group-title="Socolive", ⚽ Live - SOCOLIVE - 1.56k - BIT.LY/SOCOLIVE
+https://pull06.scstream.net/live/stream-175784_lhd.flv?auth_key=1780863560-0-0-85f176fd0b699ed09a3d1c1e7ac87dd7
 #EXTINF:-1 group-title="Xoilac", ⚽ Trận đấu đang chờ cập nhật
-https://live2.pro2cdnlive.com/live/channel28.flv
-#EXTINF:-1 group-title="Xoilac", ⚽ OLER
-https://live2.pro2cdnlive.com/live/channel28.flv
+https://live1.pro2cdnlive.com/live/channel7.flv?wsSecret=bba5b9734b69a450fb6e5f1bc59f6e32&wsABSTime=1780903244
 #EXTINF:-1 group-title="Xoilac", ⚽ Trận đấu đang chờ cập nhật
-https://live1.pro2cdnlive.com/live/channel21.flv?wsSecret=9901e3f4ded05cb26353f1c89ed57079&wsABSTime=1780892561
+https://live1.pro2cdnlive.com/live/channel11.flv?wsSecret=b9b485393eb777e4534f1df2c073802b&wsABSTime=1780903264
+#EXTINF:-1 group-title="Xoilac", ⚽ POLO
+https://live2.pro2cdnlive.com/live/channel10.flv
+#EXTINF:-1 group-title="Xoilac", ⚽ XMEN
+https://live2.pro2cdnlive.com/live/channel13.flv
+#EXTINF:-1 group-title="Xoilac", ⚽ HELLO
+https://live2.pro2cdnlive.com/live/channel22.flv
 #EXTINF:-1 group-title="Xoilac", ⚽ Trận đấu đang chờ cập nhật
-https://live2.pro2cdnlive.com/live/channel17.flv
-#EXTINF:-1 group-title="Xoilac", ⚽ NEMO
-https://live2.pro2cdnlive.com/live/channel17.flv
+https://live1.pro2cdnlive.com/live/channel47.flv?wsSecret=442e9c0b0ab06a08500eb167501459b4&wsABSTime=1780903324
 #EXTINF:-1 group-title="Xoilac", ⚽ Trận đấu đang chờ cập nhật
-https://live1.pro2cdnlive.com/live/channel25.flv?wsSecret=f34a2bacbb350b34dd43e55c73da0a16&wsABSTime=1780892594
+https://live2.pro2cdnlive.com/live/channel29.flv
+#EXTINF:-1 group-title="Xoilac", ⚽ TOMMY
+https://live2.pro2cdnlive.com/live/channel29.flv
 #EXTINF:-1 group-title="Xoilac", ⚽ Trận đấu đang chờ cập nhật
-https://live1.pro2cdnlive.com/live/channel26.flv?wsSecret=daed940a624cbe11a6b1c7959740c028&wsABSTime=1780892608
+https://live2.pro2cdnlive.com/live/channel25.flv
+#EXTINF:-1 group-title="Xoilac", ⚽ ALAN
+https://live2.pro2cdnlive.com/live/channel25.flv
 #EXTINF:-1 group-title="Xoilac", ⚽ Trận đấu đang chờ cập nhật
-https://live1.pro2cdnlive.com/live/channel27.flv?wsSecret=276efcc967c91684547048780164144e&wsABSTime=1780892619
+https://live2.pro2cdnlive.com/live/channel25.flv
 #EXTINF:-1 group-title="Xoilac", ⚽ Trận đấu đang chờ cập nhật
-https://live1.pro2cdnlive.com/live/channel24.flv?wsSecret=0d82e97f2d83cca25666c40c92cee241&wsABSTime=1780892630
+https://live2.pro2cdnlive.com/live/channel25.flv
+#EXTINF:-1 group-title="Xoilac", ⚽ ALAN
+https://live2.pro2cdnlive.com/live/channel25.flv
 #EXTINF:-1 group-title="Xoilac", ⚽ Trận đấu đang chờ cập nhật
-https://live1.pro2cdnlive.com/live/channel1.flv?wsSecret=c762c093f4dd7308034892f018217fe5&wsABSTime=1780892641
+https://live1.pro2cdnlive.com/live/channel47.flv?wsSecret=1f37542d1dbc8744013789ccd01888ca&wsABSTime=1780903454
 #EXTINF:-1 group-title="Xoilac", ⚽ Trận đấu đang chờ cập nhật
-https://live1.pro2cdnlive.com/live/channel2.flv?wsSecret=7a62f7ff3e1189e1ae56f83426099de9&wsABSTime=1780892652
+https://live1.pro2cdnlive.com/live/channel43.flv?wsSecret=75f6772bbd01ce51115a69b7e8af567f&wsABSTime=1780903464
 #EXTINF:-1 group-title="Xoilac", ⚽ Trận đấu đang chờ cập nhật
-https://live1.pro2cdnlive.com/live/channel3.flv?wsSecret=cce40b6607e0022cf009ba379e14d6dc&wsABSTime=1780892662
+https://live1.pro2cdnlive.com/live/channel44.flv?wsSecret=38696fb485689db45faa3cacaf1ab3d7&wsABSTime=1780903474
 #EXTINF:-1 group-title="Xoilac", ⚽ Trận đấu đang chờ cập nhật
-https://live2.pro2cdnlive.com/live/channel11.flv
-#EXTINF:-1 group-title="Xoilac", ⚽ ASTRA
-https://live2.pro2cdnlive.com/live/channel11.flv
+https://live1.pro2cdnlive.com/live/channel51.flv?wsSecret=e975d091ae13b26a66fdb6695d6fca55&wsABSTime=1780903484
 #EXTINF:-1 group-title="Xoilac", ⚽ Trận đấu đang chờ cập nhật
-https://live2.pro2cdnlive.com/live/channel12.flv
-#EXTINF:-1 group-title="Xoilac", ⚽ JOHAN
-https://live2.pro2cdnlive.com/live/channel12.flv
+https://live1.pro2cdnlive.com/live/channel52.flv?wsSecret=c1599618c140b3e430bb4dc876f7ef5d&wsABSTime=1780903521
 #EXTINF:-1 group-title="Xoilac", ⚽ Trận đấu đang chờ cập nhật
-https://live1.pro2cdnlive.com/live/channel5.flv?wsSecret=98cbb6e592e60325901c2c267d34d85e&wsABSTime=1780892720
+https://live1.pro2cdnlive.com/live/channel53.flv?wsSecret=7dd9e9b74173228394fc877fec0d1ea7&wsABSTime=1780903531
 #EXTINF:-1 group-title="Xoilac", ⚽ Trận đấu đang chờ cập nhật
-https://live2.pro2cdnlive.com/live/channel19.flv
-#EXTINF:-1 group-title="Xoilac", ⚽ FILIP
-https://live2.pro2cdnlive.com/live/channel19.flv
+https://live1.pro2cdnlive.com/live/channel54.flv?wsSecret=3c0af792147be9dd2fd28b7ccc8e36cd&wsABSTime=1780903542
 #EXTINF:-1 group-title="Xoilac", ⚽ Trận đấu đang chờ cập nhật
-https://live1.pro2cdnlive.com/live/channel7.flv?wsSecret=71d4c733e9aa4784c664125b9f852938&wsABSTime=1780892754
+https://live1.pro2cdnlive.com/live/channel32.flv?wsSecret=701f1bb2e6c88d179adc8ab5daae9db2&wsABSTime=1780903552
+#EXTINF:-1 group-title="Xoilac", ⚽ VIC
+https://live1.pro2cdnlive.com/live/channel32.flv?wsSecret=03d45033ae557341a8352bf22a79b779&wsABSTime=1780903563
 #EXTINF:-1 group-title="Xoilac", ⚽ Trận đấu đang chờ cập nhật
-https://live1.pro2cdnlive.com/live/channel9.flv?wsSecret=03f95075dff1f351a02246bb9dffb25e&wsABSTime=1780892765
+https://live1.pro2cdnlive.com/live/channel32.flv?wsSecret=84c53d9e827761739699b04395ce4340&wsABSTime=1780903573
+#EXTINF:-1 group-title="Xoilac", ⚽ VIC
+https://live1.pro2cdnlive.com/live/channel32.flv?wsSecret=84c53d9e827761739699b04395ce4340&wsABSTime=1780903573
 #EXTINF:-1 group-title="Xoilac", ⚽ Trận đấu đang chờ cập nhật
-https://live1.pro2cdnlive.com/live/channel10.flv?wsSecret=95a4e41f237da59bfcc1df3677da716c&wsABSTime=1780892776
-#EXTINF:-1 group-title="Xoilac", ⚽ Trận đấu đang chờ cập nhật
-https://live2.pro2cdnlive.com/live/channel18.flv
-#EXTINF:-1 group-title="Xoilac", ⚽ KEN
-https://live2.pro2cdnlive.com/live/channel18.flv
-#EXTINF:-1 group-title="Xoilac", ⚽ Trận đấu đang chờ cập nhật
-https://live2.pro2cdnlive.com/live/channel18.flv
+https://live1.pro2cdnlive.com/live/channel32.flv?wsSecret=84c53d9e827761739699b04395ce4340&wsABSTime=1780903573
