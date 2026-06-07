@@ -1,6 +1,6 @@
 #EXTM3U
 #EXTINF:-1, ⚽ TẠ BIÊN GIỚI
-https://pull06.scstream.net/live/stream-9912108_lhd.flv?auth_key=1780761928-0-0-854138f6716ab71793cacbdd4a813f8c
+https://pull06.scstream.net/live/stream-9912108_lhd.flv?auth_key=1780802104-0-0-d939fb6c04da7eed2364f76a373c3e35
 #EXTINF:-1, ⚽ BLV TOMMY
 https://pull.niur.live/live/stream-414317_lhd.flv?txSecret=4c99df531843bad8ec7162a5d0718181&txTime=6a24cf4c
 #EXTINF:-1, ⚽ BLV TAP
@@ -8,11 +8,11 @@ https://pull06.scstream.net/live/stream-9912041_lhd.flv?auth_key=1780503012-0-0-
 #EXTINF:-1, ⚽ DECO
 https://pull06.scstream.net/live/stream-9912060_lhd.flv?auth_key=1780779148-0-0-8c9882a52a9886a19f8935647200fe93
 #EXTINF:-1, ⚽ BLV ĐỐM
-https://pull06.scstream.net/live/stream-9912110_lhd.flv?auth_key=1780722393-0-0-e0bbf6e86da4786fc91f720a12432d81
+https://pull06.scstream.net/live/stream-9912110_lhd.flv?auth_key=1780801594-0-0-7b407267c0ea8e2ec15d4e967041bdff
 #EXTINF:-1, ⚽ BLV COCA
-https://pull06.scstream.net/live/stream-327159_lhd.flv?auth_key=1780778991-0-0-9b83f7b5259354f96687a4cc31132cea
-#EXTINF:-1, ⚽ BLV 7UP
-https://pull06.scstream.net/live/stream-534219_lhd.flv?auth_key=1780774222-0-0-75f3fcb9b5298e56133692cc78e93089
+https://pull06.scstream.net/live/stream-327159_lhd.flv?auth_key=1780801571-0-0-a9dd2536ebd05a869a54e56fe72474e4
+#EXTINF:-1, ⚽ Live - BLV 7UP - 62.60k - JPN D2: Tokushima Vortis vs Iwaki FC
+https://pull06.scstream.net/live/stream-534219_lhd.flv?auth_key=1780808120-0-0-e95f1b995712c2f7203f695fe10871a7
 #EXTINF:-1, ⚽ THẠCH TÚ
 https://pull06.scstream.net/live/stream-9912116_lhd.flv?auth_key=1780781940-0-0-9bab22523d78d58584fdba9abbbdc4c7
 #EXTINF:-1, ⚽ SAO LA
@@ -23,43 +23,51 @@ https://pull06.scstream.net/live/stream-494201_lhd.flv?auth_key=1780740229-0-0-0
 https://pull.niur.live/live/stream-9912122_lhd.flv?txSecret=b9242508fd61a0454fd78f72ccae4fc0&txTime=6a21af9b
 #EXTINF:-1, ⚽ BLV Củ Cải
 https://pull06.scstream.net/live/stream-9912091_lhd.flv?auth_key=1780761705-0-0-951873773dd455d9308f7f2b31fc4fe2
-#EXTINF:-1, ⚽ Live - A PÁO - 35.40k - INTERF: Venezuela vs Turkiye
-https://pull06.scstream.net/live/stream-235232_lhd.flv?auth_key=1780791140-0-0-008db6c2750707f79c946f7c184d944b
-#EXTINF:-1, ⚽ Live - LOGAN - 40.92k - INTERF: Brazil vs Egypt
-https://pull06.scstream.net/live/stream-552832_lhd.flv?auth_key=1780791140-0-0-166a58f4a86f16ee2653d2415ad43567
-#EXTINF:-1, ⚽ Live - LÃO LÂM - 38.02k - INTERF: Brazil vs Egypt
-https://pull06.scstream.net/live/stream-527384_lhd.flv?auth_key=1780791140-0-0-741d1f167e837ae98d4b0ba7d50615fa
-#EXTINF:-1, ⚽ Live - BLV CÒ - 35.47k - INTERF: Venezuela vs Turkiye
-https://pull06.scstream.net/live/stream-582342_lhd.flv?auth_key=1780791140-0-0-2a9d2bf96e3343a3d22cbcdf96640584
-#EXTINF:-1, ⚽ Live - HÀ DUY KIÊN - 27.34k - INTERF: Venezuela vs Turkiye
-https://pull06.scstream.net/live/stream-607400_lhd.flv?auth_key=1780791200-0-0-6e1eaa4dc8fba4c4413ca122d92b602e
-#EXTINF:-1, ⚽ Live - KÉP - 28.45k - INTERF: Brazil vs Egypt
-https://pull06.scstream.net/live/stream-560690_lhd.flv?auth_key=1780791200-0-0-7ef220683cdc0e14379b603f68700e8f
-#EXTINF:-1, ⚽ Live - HẢI THANH - 37.86k - INTERF: Brazil vs Egypt
-https://pull06.scstream.net/live/stream-599634_lhd.flv?auth_key=1780791200-0-0-f1ac5c45449e9aa02daf9e993e31f5c5
-#EXTINF:-1, ⚽ Live - BLV FIREMAN - 36.66k - INTERF: Venezuela vs Turkiye
-https://pull06.scstream.net/live/stream-991140_lhd.flv?auth_key=1780791200-0-0-8cbbce8975493efbf35d67f73d05560a
-#EXTINF:-1, ⚽ Live - BLV TOMIA - 39.98k - INTERF: Brazil vs Egypt
-https://pull06.scstream.net/live/stream-9912008_lhd.flv?auth_key=1780791260-0-0-d5fa33c57c189420a7501a00f2883226
-#EXTINF:-1, ⚽ Live - BLV HÚP - 35.78k - INTERF: Venezuela vs Turkiye
-https://pull06.scstream.net/live/stream-611382_lhd.flv?auth_key=1780791260-0-0-d985a66cbeb5270d603fb3925cc23512
-#EXTINF:-1, ⚽ Live - BLV BÉO - 34.69k - INTERF: Venezuela vs Turkiye
-https://pull.niur.live/live/stream-459401_lhd.flv?txSecret=b95f4e7990414db908f3dcb690c4c033&txTime=6a24fe2c
-#EXTINF:-1, ⚽ Live - NGƯỜI CÁ - 36.89k - INTERF: Brazil vs Egypt
-https://pull06.scstream.net/live/stream-595335_lhd.flv?auth_key=1780791260-0-0-7b0e05cb7bc61ad6b287818cfa6ce466
-#EXTINF:-1, ⚽ Live - HUNTER - 26.37k - WNBA: Atlanta Dream W vs Washington Mystics W
-https://pull06.scstream.net/live/stream-558264_lhd.flv?auth_key=1780791320-0-0-5736ca18ed10281af2d448b7192b96a1
-#EXTINF:-1, ⚽ Live - BLV NẤM - 26.20k - USA MLSRv: Atlanta United FC II vs Chicago flame B
-https://pull06.scstream.net/live/stream-608899_lhd.flv?auth_key=1780791320-0-0-879694b6f1456755ce8760860890bd52
-#EXTINF:-1, ⚽ Live - BLV CHIVAS - 26.18k - USA MLSRv: Chattanooga vs New York Red Bulls B
-https://pull.niur.live/live/stream-485739_lhd.flv?txSecret=f0c5c034c64c406e24f416d14b8e40b9&txTime=6a24fe68
-#EXTINF:-1, ⚽ Live - BLV YONE - 26.06k - CAN CPL: Supra Du Quebec vs Pacific FC
-https://pull06.scstream.net/live/stream-372746_lhd.flv?auth_key=1780791320-0-0-4e6e417451161711fe62c3fa645527f0
-#EXTINF:-1, ⚽ Live - BLV LUCAS - 25.60k - CAN CPL: Supra Du Quebec vs Pacific FC
-https://pull06.scstream.net/live/stream-304148_lhd.flv?auth_key=1780791320-0-0-0a830073216fef546ece4d0513a5bfb4
-#EXTINF:-1, ⚽ Live - BLV GÔN - 25.17k - CAN CPL: Supra Du Quebec vs Pacific FC
-https://pull.niur.live/live/stream-445260_lhd.flv?txSecret=00acc9f4e39b4eb0a3da0f89afff3d91&txTime=6a24fea4
-#EXTINF:-1, ⚽ Live - BLV RAMBO - 25.14k - CAN CPL: Supra Du Quebec vs Pacific FC
-https://pull.niur.live/live/stream-534055_lhd.flv?txSecret=d80924276334389b0e52c38016eac261&txTime=6a24fea4
-#EXTINF:-1, ⚽ Live - SOCOLIVE - 1.15k - BIT.LY/SOCOLIVE
-https://pull06.scstream.net/live/stream-175784_lhd.flv?auth_key=1780791380-0-0-2bb1a1bddb19d5d7cc1141ef86122e99
+#EXTINF:-1, ⚽ Live - BLV HÚP - 45.30k - JPN D2: Vanraure Hachinohe FC vs FC Imabari
+https://pull06.scstream.net/live/stream-611382_lhd.flv?auth_key=1780808180-0-0-5061b0599c1e81431f4a8bd159c9b94b
+#EXTINF:-1, ⚽ Live - A PÁO - 48.13k - USA MLSRv: Ventura County FC vs Houston Dynamo B
+https://pull06.scstream.net/live/stream-235232_lhd.flv?auth_key=1780808246-0-0-ff6320278cd10de902465802a4256cb8
+#EXTINF:-1, ⚽ Live - BLV BÉO - 47.85k - USA MLSRv: Ventura County FC vs Houston Dynamo B
+https://pull.niur.live/live/stream-459401_lhd.flv?txSecret=5fe3d38877339b13382e495dd5947263&txTime=6a254080
+#EXTINF:-1, ⚽ Live - KING - 43.09k - NZBL: Wellington Saints vs Otago Nuggets
+https://pull06.scstream.net/live/stream-9912099_lhd.flv?auth_key=1780808240-0-0-d3d1174458aff856e846b228c15cef3e
+#EXTINF:-1, ⚽ Live - BRIAN - 44.06k - NZBL: Wellington Saints vs Otago Nuggets
+https://pull06.scstream.net/live/stream-9912106_lhd.flv?auth_key=1780808240-0-0-1b619406c2a175cd2eca08029ba4a39f
+#EXTINF:-1, ⚽ Live - BLV RÔSI - 45.44k - JPN D2: Vanraure Hachinohe FC vs FC Imabari
+https://pull.niur.live/live/stream-9912102_lhd.flv?txSecret=ae33d621952411c0033571da957b424a&txTime=6a2540bc
+#EXTINF:-1, ⚽ Live - BLV PEWPEW - 46.00k - JPN D2: Vanraure Hachinohe FC vs FC Imabari
+https://pull06.scstream.net/live/stream-9912015_lhd.flv?auth_key=1780808300-0-0-7001b49079947c509206e62723500c47
+#EXTINF:-1, ⚽ Live - XUÂN SON - 42.68k - USL CUP: Las Vegas Lights vs Oakland Roots
+https://pull.niur.live/live/stream-501412_lhd.flv?txSecret=56e4d40e2efb00a5bd99e3a902d0397f&txTime=6a2540bc
+#EXTINF:-1, ⚽ Live - BLV A WIN - 44.18k - USL CUP: Sacramento Republic FC vs Monterey Bay FC
+https://pull06.scstream.net/live/stream-536185_lhd.flv?auth_key=1780808360-0-0-37faba4c378052ccdf9ef670d1581f99
+#EXTINF:-1, ⚽ Live - BLV ENZO - 48.02k - USA MLSRv: Ventura County FC vs Houston Dynamo B
+https://pull06.scstream.net/live/stream-380460_lhd.flv?auth_key=1780808360-0-0-ecb0a3366c12210ae1886b9564be6c64
+#EXTINF:-1, ⚽ Live - BLV LUCAS - 44.13k - USL CUP: Sacramento Republic FC vs Monterey Bay FC
+https://pull06.scstream.net/live/stream-304148_lhd.flv?auth_key=1780808360-0-0-5e271853e5e8db393325996983440005
+#EXTINF:-1, ⚽ Live - BLV NẤM - 36.41k - USL CUP: Las Vegas Lights vs Oakland Roots
+https://pull06.scstream.net/live/stream-608899_lhd.flv?auth_key=1780808360-0-0-def7a5bd5a8bdccba9bf9afba0696d68
+#EXTINF:-1, ⚽ Live - BLV TOMIA - 34.26k - JPN D2: Tokushima Vortis vs Iwaki FC
+https://pull06.scstream.net/live/stream-9912008_lhd.flv?auth_key=1780808360-0-0-3d107b0992a35dec6b216a64f6bb7e19
+#EXTINF:-1, ⚽ Live - BLV HENRY - 26.90k - NZBL: Wellington Saints vs Otago Nuggets
+https://pull06.scstream.net/live/stream-9912112_lhd.flv?auth_key=1780808420-0-0-c5c2a8c3df8952d12df3d3c424f0b469
+#EXTINF:-1, ⚽ Live - CHAN SENA - 26.78k - NZBL: Wellington Saints vs Otago Nuggets
+https://pull06.scstream.net/live/stream-9912115_lhd.flv?auth_key=1780808420-0-0-7fdfc3e5474da407097c49506d9bba87
+#EXTINF:-1, ⚽ Live - BLV RAMBO - 26.64k - USL CUP: Las Vegas Lights vs Oakland Roots
+https://pull.niur.live/live/stream-534055_lhd.flv?txSecret=8b2ae8375bf0f80ba4600b79b128d2f3&txTime=6a254134
+#EXTINF:-1, ⚽ Live - BLV CHIVAS - 26.62k - USL CUP: AV Alta vs Orange County SC
+https://pull.niur.live/live/stream-485739_lhd.flv?txSecret=4929f07d762c9f114718b038aaeb898a&txTime=6a254134
+#EXTINF:-1, ⚽ Live - QUÂN JK - 26.59k - USL CUP: Las Vegas Lights vs Oakland Roots
+https://pull06.scstream.net/live/stream-611178_lhd.flv?auth_key=1780808480-0-0-b32705647f387cb839c840f570409772
+#EXTINF:-1, ⚽ Live - A CHÈ - 26.37k - NZBL: Wellington Saints vs Otago Nuggets
+https://pull06.scstream.net/live/stream-356042_lhd.flv?auth_key=1780808480-0-0-b50afae4f851aaccd97c81751c55c778
+#EXTINF:-1, ⚽ Live - BLV GIÓ - 26.30k - USL CUP: AV Alta vs Orange County SC
+https://pull06.scstream.net/live/stream-321443_lhd.flv?auth_key=1780808480-0-0-1a77bb19f0f16fb27d9dd0a0437a7f86
+#EXTINF:-1, ⚽ Live - HUNTER - 26.22k - NZBL: Wellington Saints vs Otago Nuggets
+https://pull06.scstream.net/live/stream-558264_lhd.flv?auth_key=1780808540-0-0-7d6b7346e1c39b6fb0474ec1c648111a
+#EXTINF:-1, ⚽ Live - BEN 10 - 26.15k - JPN D2: Tokushima Vortis vs Iwaki FC
+https://pull06.scstream.net/live/stream-612098_lhd.flv?auth_key=1780808540-0-0-0c801fa6bac419ca941982e01b62cad6
+#EXTINF:-1, ⚽ Live - CƠM CHÁY - 26.08k - JPN D2: Tokushima Vortis vs Iwaki FC
+https://pull06.scstream.net/live/stream-611528_lhd.flv?auth_key=1780808540-0-0-164fe301d4c4321d3cdfb5f82c584a6c
+#EXTINF:-1, ⚽ Live - SOCOLIVE - 1.37k - BIT.LY/SOCOLIVE
+https://pull06.scstream.net/live/stream-175784_lhd.flv?auth_key=1780808540-0-0-c769a446327d236b21701182476f742c
