@@ -5,8 +5,8 @@ def san_full_server_qua_proxy():
     print("🚀 KHỞI ĐỘNG CHIẾN DỊCH VÉT SẠCH 2 SERVER (SOCOLIVE & XOILAC)...")
     
     # 1. KHAI BÁO CỨNG PROXY
-    proxy_ip = "171.236.188.19"
-    proxy_port = "41570"
+    proxy_ip = "14.239.239.8"
+    proxy_port = "10906"
     proxy_user = "hieumx"
     proxy_pass = "hieu123"
     
