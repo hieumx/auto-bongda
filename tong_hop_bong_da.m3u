@@ -1,8 +1,8 @@
 #EXTM3U
 #EXTINF:-1 group-title="Socolive", ⚽ TẠ BIÊN GIỚI
 https://pull06.scstream.net/live/stream-9912108_lhd.flv?auth_key=1781006662-0-0-704ee6170c790eecc45daccc406ec3cb
-#EXTINF:-1 group-title="Socolive", ⚽ Live - BLV TOMMY - 69.88k - INTERF: Hungary vs Kazakhstan
-https://pull.niur.live/live/stream-414317_lhd.flv?txSecret=3f33fef92e05b9d12cf7a071dbf8fc96&txTime=6a289ec4
+#EXTINF:-1 group-title="Socolive", ⚽ BLV TOMMY
+https://pull.niur.live/live/stream-414317_lhd.flv?txSecret=f5d6ca06d901ce4ff6bee88f70aead44&txTime=6a28b79b
 #EXTINF:-1 group-title="Socolive", ⚽ BLV TAP
 https://pull06.scstream.net/live/stream-9912041_lhd.flv?auth_key=1781020398-0-0-b21947fee9522deeb1c44e25d91d38ce
 #EXTINF:-1 group-title="Socolive", ⚽ DECO
@@ -15,85 +15,55 @@ https://pull06.scstream.net/live/stream-327159_lhd.flv?auth_key=1781020837-0-0-4
 https://pull06.scstream.net/live/stream-534219_lhd.flv?auth_key=1781006414-0-0-77d53863cb8033c5e1ec3167f8b5008d
 #EXTINF:-1 group-title="Socolive", ⚽ THẠCH TÚ
 https://pull06.scstream.net/live/stream-9912116_lhd.flv?auth_key=1780848021-0-0-151dffd651dba9e8ed70c65d0823e5c0
-#EXTINF:-1 group-title="Socolive", ⚽ Live - SAO LA - 65.42k - INTERF: Democratic Republic of the Congo vs Chile
-https://pull.niur.live/live/stream-462413_lhd.flv?txSecret=e7af8277f01542d0799b88d7b583c1d4&txTime=6a289fb4
+#EXTINF:-1 group-title="Socolive", ⚽ SAO LA
+https://pull.niur.live/live/stream-462413_lhd.flv?txSecret=9ca4916bf798db6ecaa646cba7d01cde&txTime=6a28a9aa
 #EXTINF:-1 group-title="Socolive", ⚽ BLV MESSI
 https://pull06.scstream.net/live/stream-494201_lhd.flv?auth_key=1780997621-0-0-dcf4b72e93ac66ee530c71e5317aa5ce
 #EXTINF:-1 group-title="Socolive", ⚽ RICKHANTER
 https://pull.niur.live/live/stream-9912122_lhd.flv?txSecret=2cd724bfa36a1c8e652f2d63a0705f02&txTime=6a28474e
 #EXTINF:-1 group-title="Socolive", ⚽ BLV Củ Cải
 https://pull06.scstream.net/live/stream-9912091_lhd.flv?auth_key=1780997602-0-0-788c46ce82bde5d17fe993296ddb717a
-#EXTINF:-1 group-title="Socolive", ⚽ Live - A BỆU - 58.49k - INTERF: Hungary vs Kazakhstan
-https://pull06.scstream.net/live/stream-484845_lhd.flv?auth_key=1781029340-0-0-13ac452f0c9b91c52b91cfbbf74bd8c2
-#EXTINF:-1 group-title="Socolive", ⚽ Live - BLV CÒ - 52.38k - INTERF: Democratic Republic of the Congo vs Chile
-https://pull06.scstream.net/live/stream-582342_lhd.flv?auth_key=1781029340-0-0-f46c9b7629149e7bc6463336d87beb62
-#EXTINF:-1 group-title="Socolive", ⚽ Live - LOKA - 53.92k - INTERF: Russia vs Trinidad and Tobago
-https://pull06.scstream.net/live/stream-589848_lhd.flv?auth_key=1781029400-0-0-a173947128dced6082a7eda91dc7976d
-#EXTINF:-1 group-title="Socolive", ⚽ Live - BLV ENZO - 54.87k - INTERF: Hungary vs Kazakhstan
-https://pull06.scstream.net/live/stream-380460_lhd.flv?auth_key=1781029400-0-0-7292287f10e3a2be826e7cdd60571651
-#EXTINF:-1 group-title="Socolive", ⚽ Live - A PÁO - 53.19k - INTERF: Hungary vs Kazakhstan
-https://pull06.scstream.net/live/stream-235232_lhd.flv?auth_key=1781029460-0-0-d86ea4211dc281cc77b388b1d3d96b99
-#EXTINF:-1 group-title="Socolive", ⚽ Live - NGƯỜI CÁ - 54.11k - INTERF: Russia vs Trinidad and Tobago
-https://pull06.scstream.net/live/stream-595335_lhd.flv?auth_key=1781029460-0-0-de9f25cdf291fc387e81cd2ca140af63
-#EXTINF:-1 group-title="Socolive", ⚽ Live - BLV KEM - 55.12k - INTERF: Hungary vs Kazakhstan
-https://pull06.scstream.net/live/stream-513394_lhd.flv?auth_key=1781029520-0-0-1e0c28c9fe0c6bbac66daaad12fcd1c1
-#EXTINF:-1 group-title="Socolive", ⚽ Live - BLV ROBBEN - 53.16k - INTERF: Russia vs Trinidad and Tobago
-https://pull06.scstream.net/live/stream-527383_lhd.flv?auth_key=1781029520-0-0-2b3cc7ef8eb5a1642f1b2c7494eaef2c
-#EXTINF:-1 group-title="Socolive", ⚽ Live - BLV HÚP - 53.80k - INTERF: Russia vs Trinidad and Tobago
-https://pull06.scstream.net/live/stream-611382_lhd.flv?auth_key=1781029580-0-0-02a6b6c8302bafb684cfd7e316e1dd4f
-#EXTINF:-1 group-title="Socolive", ⚽ Live - BLV TOMIA - 53.40k - INTERF: Democratic Republic of the Congo vs Chile
-https://pull06.scstream.net/live/stream-9912008_lhd.flv?auth_key=1781029640-0-0-f0df549a591221a42d10118b28f64231
-#EXTINF:-1 group-title="Socolive", ⚽ Live - BLV FIREMAN - 35.70k - INTERF: Democratic Republic of the Congo vs Chile
-https://pull06.scstream.net/live/stream-991140_lhd.flv?auth_key=1781029640-0-0-77d11c1776ee6feb0fac0792f50158ab
-#EXTINF:-1 group-title="Socolive", ⚽ Live - BLV CHIVAS - 30.96k - INTERF: Belarus vs Burkina Faso
-https://pull.niur.live/live/stream-485739_lhd.flv?txSecret=3fa53635dcd1f44bc95eee0f321886e8&txTime=6a28a194
-#EXTINF:-1 group-title="Socolive", ⚽ Live - BLV 24H - 29.52k - INTERF: Belarus vs Burkina Faso
-https://pull06.scstream.net/live/stream-612928_lhd.flv?auth_key=1781029700-0-0-7a4bd4c5a724e2abdd04814bdf48274e
-#EXTINF:-1 group-title="Socolive", ⚽ Live - BLV VIP - 28.73k - FIN Cup: Honka Espoo vs HJK Helsinki
-https://pull.niur.live/live/stream-491873_lhd.flv?txSecret=647c970c979f33eaad370ce07656373b&txTime=6a28a1d0
-#EXTINF:-1 group-title="Socolive", ⚽ Live - QUÂN JK - 28.60k - INTERF: Hungary vs Kazakhstan
-https://pull06.scstream.net/live/stream-611178_lhd.flv?auth_key=1781029760-0-0-d6d274c2d8a53f3d147ae5d0c005a816
-#EXTINF:-1 group-title="Socolive", ⚽ Live - BLV A WIN - 28.56k - FIN Cup: Honka Espoo vs HJK Helsinki
-https://pull06.scstream.net/live/stream-536185_lhd.flv?auth_key=1781029820-0-0-d59797001923a7122a31c11d9a6351ba
-#EXTINF:-1 group-title="Socolive", ⚽ Live - PINKMAN - 27.92k - WWCPE: Slovenia Women vs Germany Women
-https://pull.niur.live/live/stream-595715_lhd.flv?txSecret=30ef47a5c6dac8b1a5e75496ec0730db&txTime=6a28a20c
-#EXTINF:-1 group-title="Socolive", ⚽ Live - BLV RYO - 27.69k - WWCPE: Slovenia Women vs Germany Women
-https://pull06.scstream.net/live/stream-602019_lhd.flv?auth_key=1781029880-0-0-c4a3ed41302121245e9680e7c1a7ffa7
-#EXTINF:-1 group-title="Socolive", ⚽ Live - BLV HENRY - 27.03k - ISRBL: Elitzur Maccabi Netanya vs Nes Ziona
-https://pull06.scstream.net/live/stream-9912112_lhd.flv?auth_key=1781029032-0-0-e27956d49877697c1f3574ed8892d810
-#EXTINF:-1 group-title="Socolive", ⚽ Live - BLV WUKONG - 26.97k - WWCPE: Norway Women vs Austria Women
-https://pull06.scstream.net/live/stream-511367_lhd.flv?auth_key=1781029940-0-0-ebe9b6707bc607ca9260f4457df64d6e
-#EXTINF:-1 group-title="Socolive", ⚽ Live - BLV A TÚ - 26.93k - INTERF: Democratic Republic of the Congo vs Chile
-https://pull06.scstream.net/live/stream-557845_lhd.flv?auth_key=1781029940-0-0-b1db42d994db54aafd518147a84d912c
-#EXTINF:-1 group-title="Socolive", ⚽ Live - CƠM CHÁY - 26.69k - WWCPE: Norway Women vs Austria Women
-https://pull06.scstream.net/live/stream-611528_lhd.flv?auth_key=1781030000-0-0-aa834f291db4aa568f27e7bb0c20ac6a
-#EXTINF:-1 group-title="Socolive", ⚽ Live - A CHÈ - 26.64k - ISRBL: Elitzur Maccabi Netanya vs Nes Ziona
-https://pull06.scstream.net/live/stream-356042_lhd.flv?auth_key=1781029079-0-0-7ae73b217df4075583b307c9d277c85a
-#EXTINF:-1 group-title="Socolive", ⚽ Live - BLV XO - 26.53k - FIN D2: SJK Akatemia vs JIPPO
-https://pull06.scstream.net/live/stream-472241_lhd.flv?auth_key=1781030060-0-0-48f3bf9195a775da3cb369c068e3af6f
-#EXTINF:-1 group-title="Socolive", ⚽ Live - BLV LUCAS - 26.45k - UKR D1: Ahrobiznes Volochysk vs Kudrivka
-https://pull06.scstream.net/live/stream-304148_lhd.flv?auth_key=1781030060-0-0-7db28847d4eb88134063b58916da6b40
-#EXTINF:-1 group-title="Socolive", ⚽ Live - BLV CÁP - 26.35k - FIN D2: SJK Akatemia vs JIPPO
-https://pull06.scstream.net/live/stream-610677_lhd.flv?auth_key=1781030120-0-0-8f46bf22b12a907a7d45983a2ec882a3
-#EXTINF:-1 group-title="Socolive", ⚽ Live - BLV VITAMIN - 26.34k - SWE D2: IK Brage vs Ljungskile
-https://pull06.scstream.net/live/stream-400722_lhd.flv?auth_key=1781030120-0-0-e75ddef9b0152d8e925fc7dd134563a1
-#EXTINF:-1 group-title="Socolive", ⚽ Live - BLV A TINH - 26.34k - FIN D2: SJK Akatemia vs JIPPO
-https://pull.niur.live/live/stream-598119_lhd.flv?txSecret=7863a1be96befde53d079be721aa0c26&txTime=6a28a374
-#EXTINF:-1 group-title="Socolive", ⚽ Live - BEN 10 - 26.25k - SWE D2: Sandvikens IF vs Falkenberg
-https://pull06.scstream.net/live/stream-612098_lhd.flv?auth_key=1781030240-0-0-0abe57002592c6f08d71320de064b8c5
-#EXTINF:-1 group-title="Socolive", ⚽ Live - BLV RAMBO - 26.18k - SWE D2: Nordic United FC vs Ostersunds FK
-https://pull.niur.live/live/stream-534055_lhd.flv?txSecret=3a010980d96edaeafd91837cbb72e115&txTime=6a28a3b0
-#EXTINF:-1 group-title="Socolive", ⚽ Live - QUỐC KHÁNH - 26.17k - SWE D2: IK Brage vs Ljungskile
-https://pull06.scstream.net/live/stream-602153_lhd.flv?auth_key=1781030300-0-0-df4fdbce9e96412770a8ec1f47a1905d
-#EXTINF:-1 group-title="Socolive", ⚽ Live - ĐỖ TÚ TÀI - 26.09k - SWE D2: Nordic United FC vs Ostersunds FK
-https://pull06.scstream.net/live/stream-607552_lhd.flv?auth_key=1781030300-0-0-b904245e37e7d1436dbbada5c04f480a
-#EXTINF:-1 group-title="Socolive", ⚽ Live - BLV AB - 26.08k - SWE D2: Sandvikens IF vs Falkenberg
-https://pull06.scstream.net/live/stream-612980_lhd.flv?auth_key=1781029550-0-0-12c7b4af8b612d3aca6ccc746aba3529
-#EXTINF:-1 group-title="Socolive", ⚽ Live - BLV CÁO - 26.08k - SWE D2: Osters IF vs IFK Varnamo
-https://pull06.scstream.net/live/stream-597929_lhd.flv?auth_key=1781030360-0-0-6263d0d2682c49ee0db21459bbaa889b
-#EXTINF:-1 group-title="Socolive", ⚽ Live - BLV LONG - 26.06k - SWE D2: Osters IF vs IFK Varnamo
-https://pull.niur.live/live/stream-9912117_lhd.flv?txSecret=d3bf2bf497bc8427702a98e5e439c68a&txTime=6a28a428
-#EXTINF:-1 group-title="Socolive", ⚽ Live - BLV ANH TÀI - 26.00k - SWE D2: IK Oddevold vs IFK Norrkoping FK
-https://pull06.scstream.net/live/stream-406865_lhd.flv?auth_key=1781030420-0-0-d76e004a746c612404fb0b6bb7f2e4d8
-#EXTINF:-1 group-title="Socolive", ⚽ Live - SOCOLIVE - 1.20k - BIT.LY/SOCOLIVE
-https://pull06.scstream.net/live/stream-175784_lhd.flv?auth_key=1781030420-0-0-c57c7cb3ab70ca3fcb45d58d131256e5
+#EXTINF:-1 group-title="Socolive", ⚽ Live - BLV HÚP - 51.93k - WWCPE: Iceland Women vs Spain Women
+https://pull06.scstream.net/live/stream-611382_lhd.flv?auth_key=1781038700-0-0-bef6ae79fb445bb0461eb119b7127d88
+#EXTINF:-1 group-title="Socolive", ⚽ Live - LÃO LÂM - 54.19k - SPA D2: Almeria vs Castellon
+https://pull06.scstream.net/live/stream-527384_lhd.flv?auth_key=1781038700-0-0-29ff7ff569be25765507c5b451918539
+#EXTINF:-1 group-title="Socolive", ⚽ Live - HẢI THANH - 55.74k - INTERF: San Marino vs Azerbaijan
+https://pull06.scstream.net/live/stream-599634_lhd.flv?auth_key=1781038533-0-0-440b878fad484cb1f214dd4c502997a9
+#EXTINF:-1 group-title="Socolive", ⚽ Live - CR Bưởi - 53.88k - SPA D2: Almeria vs Castellon
+https://pull06.scstream.net/live/stream-387694_lhd.flv?auth_key=1781038760-0-0-0e61acbc2fb6d9fe16f62446f519dffd
+#EXTINF:-1 group-title="Socolive", ⚽ Live - BLV RAMBO - 51.61k - WWCPE: England Women vs Ukraine Women
+https://pull.niur.live/live/stream-534055_lhd.flv?txSecret=095f39353c279b47f9f2105546c0e852&txTime=6a28c534
+#EXTINF:-1 group-title="Socolive", ⚽ Live - BLV KEM - 52.14k - WWCPE: Iceland Women vs Spain Women
+https://pull06.scstream.net/live/stream-513394_lhd.flv?auth_key=1781038880-0-0-f1515986b7d1c78f853f24b9a73abd40
+#EXTINF:-1 group-title="Socolive", ⚽ Live - BLV XO - 52.09k - WWCPE: France Women vs Ireland Women
+https://pull06.scstream.net/live/stream-472241_lhd.flv?auth_key=1781038880-0-0-43f7452e7dbd74c043e1d6c5bf8e4ae7
+#EXTINF:-1 group-title="Socolive", ⚽ Live - BLV VITAMIN - 52.04k - WWCPE: Iceland Women vs Spain Women
+https://pull06.scstream.net/live/stream-400722_lhd.flv?auth_key=1781038940-0-0-5e5845f0041e8d011162c5c4763bfcc7
+#EXTINF:-1 group-title="Socolive", ⚽ Live - LOKA - 52.10k - WWCPE: England Women vs Ukraine Women
+https://pull06.scstream.net/live/stream-589848_lhd.flv?auth_key=1781038940-0-0-de60b9a69c2c44f30af01a10d3203a69
+#EXTINF:-1 group-title="Socolive", ⚽ Live - BLV ROBBEN - 51.99k - WWCPE: Iceland Women vs Spain Women
+https://pull06.scstream.net/live/stream-527383_lhd.flv?auth_key=1781039000-0-0-1831b262eece9a0099efff8d9297ecb1
+#EXTINF:-1 group-title="Socolive", ⚽ Live - BLV FIREMAN - 54.38k - SPA D2: Almeria vs Castellon
+https://pull06.scstream.net/live/stream-991140_lhd.flv?auth_key=1781039000-0-0-745d13e3ccaef569dfcba6caa95a3a59
+#EXTINF:-1 group-title="Socolive", ⚽ Live - A BỆU - 54.18k - SPA D2: Almeria vs Castellon
+https://pull06.scstream.net/live/stream-484845_lhd.flv?auth_key=1781039060-0-0-7dc9272064cbf78707ddb7affc007160
+#EXTINF:-1 group-title="Socolive", ⚽ Live - BLV A WIN - 30.38k - INTERF: San Marino vs Azerbaijan
+https://pull06.scstream.net/live/stream-536185_lhd.flv?auth_key=1781038563-0-0-d61c7fd3c45fbe6971c5a25f9ffd456b
+#EXTINF:-1 group-title="Socolive", ⚽ Live - BLV VIP - 29.12k - INTERF: San Marino vs Azerbaijan
+https://pull.niur.live/live/stream-491873_lhd.flv?txSecret=566b2b7a401651bcadef8302a56181ac&txTime=6a28c47b
+#EXTINF:-1 group-title="Socolive", ⚽ Live - CƠM CHÁY - 26.80k - WWCPE: France Women vs Ireland Women
+https://pull06.scstream.net/live/stream-611528_lhd.flv?auth_key=1781039120-0-0-4467675b18fe774a142f2964b1e8a027
+#EXTINF:-1 group-title="Socolive", ⚽ Live - BLV RYO - 26.77k - WWCPE: Netherlands Women vs Poland Women
+https://pull06.scstream.net/live/stream-602019_lhd.flv?auth_key=1781039180-0-0-1ff34c1590ecfeaa37d6cb8bb1390b3f
+#EXTINF:-1 group-title="Socolive", ⚽ Live - BLV WUKONG - 26.68k - WWCPE: France Women vs Ireland Women
+https://pull06.scstream.net/live/stream-511367_lhd.flv?auth_key=1781039180-0-0-1fb2cb768df96470646e322e802aedf2
+#EXTINF:-1 group-title="Socolive", ⚽ Live - QUỐC KHÁNH - 26.68k - WWCPE: England Women vs Ukraine Women
+https://pull06.scstream.net/live/stream-602153_lhd.flv?auth_key=1781039240-0-0-6eeb0919c78e1cec142ac8188970086f
+#EXTINF:-1 group-title="Socolive", ⚽ Live - BLV 24H - 26.64k - WWCPE: England Women vs Ukraine Women
+https://pull06.scstream.net/live/stream-612928_lhd.flv?auth_key=1781039240-0-0-be71b992f14713a2fd0dc901255d3818
+#EXTINF:-1 group-title="Socolive", ⚽ Live - PINKMAN - 26.53k - WWCPE: Netherlands Women vs Poland Women
+https://pull.niur.live/live/stream-595715_lhd.flv?txSecret=244a465de33e30a21d9c3c2eb36601a6&txTime=6a28c714
+#EXTINF:-1 group-title="Socolive", ⚽ Live - BLV A TINH - 26.46k - WWCPE: France Women vs Ireland Women
+https://pull.niur.live/live/stream-598119_lhd.flv?txSecret=a4e3932ae1d042ecbe0071b61d9961f4&txTime=6a28c714
+#EXTINF:-1 group-title="Socolive", ⚽ Live - SOCOLIVE - 1.06k - BIT.LY/SOCOLIVE
+https://pull06.scstream.net/live/stream-175784_lhd.flv?auth_key=1781039360-0-0-a1bf4791ccb67f0c69a2344879fbf7d0
