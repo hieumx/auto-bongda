@@ -1,67 +1,49 @@
 #EXTM3U
-#EXTINF:-1 group-title="Socolive", ⚽ Live - TẠ BIÊN GIỚI - 68.36k - VIE Cup: Ninh Binh FC vs The Cong Viettel
-https://pull06.scstream.net/live/stream-9912108_lhd.flv?auth_key=1781184920-0-0-4a3e58fc71fc1297d0c729f2cbfe63f6
-#EXTINF:-1 group-title="Socolive", ⚽ Live - BLV TOMMY - 66.41k - VIE Cup: Ninh Binh FC vs The Cong Viettel
-https://pull.niur.live/live/stream-414317_lhd.flv?txSecret=e2ce5e12de2d0ae7739eefbe40e14a9b&txTime=6a2affe8
-#EXTINF:-1 group-title="Socolive", ⚽ Live - BLV TAP - 74.07k - VIE Cup: Ninh Binh FC vs The Cong Viettel
-https://pull06.scstream.net/live/stream-9912041_lhd.flv?auth_key=1781184980-0-0-7348efd1584eb791bb930fca01d3bbb7
-#EXTINF:-1 group-title="Socolive", ⚽ Live - DECO - 71.51k - VIE Cup: Ninh Binh FC vs The Cong Viettel
-https://pull06.scstream.net/live/stream-9912060_lhd.flv?auth_key=1781184980-0-0-7ad36ffdc191690f81cbd9907a87e3fb
-#EXTINF:-1 group-title="Socolive", ⚽ Live - BLV ĐỐM - 66.22k - VIE Cup: Ninh Binh FC vs The Cong Viettel
-https://pull06.scstream.net/live/stream-9912110_lhd.flv?auth_key=1781185040-0-0-a8c42dcdbdf9c4cfe945b28156584c0a
-#EXTINF:-1 group-title="Socolive", ⚽ BLV COCA
-https://pull06.scstream.net/live/stream-327159_lhd.flv?auth_key=1781155914-0-0-300f777a0eac7aa94fd617c4d7077032
-#EXTINF:-1 group-title="Socolive", ⚽ BLV 7UP
-https://pull06.scstream.net/live/stream-534219_lhd.flv?auth_key=1781178993-0-0-ed07ca10ec835e29081fb0ed9e684b6d
-#EXTINF:-1 group-title="Socolive", ⚽ Live - THẠCH TÚ - 68.33k - VIE Cup: Thep Xanh Nam Dinh FC vs Cong An Ho Chi Minh City
-https://pull06.scstream.net/live/stream-9912116_lhd.flv?auth_key=1781185100-0-0-bf88807e058b9f516f15a50633c604e0
+#EXTINF:-1 group-title="Socolive", ⚽ Live - TẠ BIÊN GIỚI - 69.08k - WORLD CUP: Mexico vs South Africa
+https://pull.niur.live/live/stream-9912108_lhd.flv?txSecret=4aeba961ce68df12fc09ed9af25666e1&txTime=6a2b4bd8
+#EXTINF:-1 group-title="Socolive", ⚽ Live - BLV TOMMY - 63.79k - WORLD CUP: Mexico vs South Africa
+https://pull.niur.live/live/stream-414317_lhd.flv?txSecret=1b3e2ae8084d0fae9413e652e92404f7&txTime=6a2b4c14
+#EXTINF:-1 group-title="Socolive", ⚽ Live - BLV TAP - 70.05k - WORLD CUP: Mexico vs South Africa
+https://pull.niur.live/live/stream-9912041_lhd.flv?txSecret=6ffa274ca5d2fdb104eac49f9a498b41&txTime=6a2b4c14
+#EXTINF:-1 group-title="Socolive", ⚽ DECO
+https://pull06.scstream.net/live/stream-9912060_lhd.flv?auth_key=1781186195-0-0-5d820f1a54a20b9c8e6f4695901c6708
+#EXTINF:-1 group-title="Socolive", ⚽ Live - BLV ĐỐM - 66.25k - WORLD CUP: Mexico vs South Africa
+https://pull06.scstream.net/live/stream-9912110_lhd.flv?auth_key=1781204480-0-0-ce93d1510c61c17c731f9bd9f4bf096b
+#EXTINF:-1 group-title="Socolive", ⚽ Live - BLV COCA - 67.55k - WORLD CUP: Mexico vs South Africa
+https://pull06.scstream.net/live/stream-327159_lhd.flv?auth_key=1781204540-0-0-022430817a4dccdceef73d56512d561d
+#EXTINF:-1 group-title="Socolive", ⚽ Live - BLV 7UP - 65.40k - WORLD CUP: Mexico vs South Africa
+https://pull06.scstream.net/live/stream-534219_lhd.flv?auth_key=1781204540-0-0-dd54f441f77c4cf7920827a7a5be5dd3
+#EXTINF:-1 group-title="Socolive", ⚽ Live - THẠCH TÚ - 65.24k - WORLD CUP: Mexico vs South Africa
+https://pull06.scstream.net/live/stream-9912116_lhd.flv?auth_key=1781204600-0-0-bc6c598e801c402f0c37d3122ccdc101
 #EXTINF:-1 group-title="Socolive", ⚽ SAO LA
-https://pull.niur.live/live/stream-462413_lhd.flv?txSecret=1288843a1e3080ea1ed95a84616daa55&txTime=6a29ead1
-#EXTINF:-1 group-title="Socolive", ⚽ Live - BLV MESSI - 70.74k - VIE Cup: Thep Xanh Nam Dinh FC vs Cong An Ho Chi Minh City
-https://pull06.scstream.net/live/stream-494201_lhd.flv?auth_key=1781185160-0-0-54b73d64139e50d75a2e43a01d0bac24
-#EXTINF:-1 group-title="Socolive", ⚽ Live - RICKHANTER - 64.63k - TOUT: Venezuela U20 vs Japan U19
-https://pull.niur.live/live/stream-9912122_lhd.flv?txSecret=b90d5cf7f250fef62534b08bef7f777a&txTime=6a2b00d8
-#EXTINF:-1 group-title="Socolive", ⚽ Live - BLV Củ Cải - 65.49k - TOUT: Venezuela U20 vs Japan U19
-https://pull06.scstream.net/live/stream-9912091_lhd.flv?auth_key=1781185220-0-0-5915ca3fafb6b572055cdacccbe775f7
-#EXTINF:-1 group-title="Socolive", ⚽ Live - CR Bưởi - 68.64k - VIE Cup: Thep Xanh Nam Dinh FC vs Cong An Ho Chi Minh City
-https://pull.niur.live/live/stream-387694_lhd.flv?txSecret=610ba1caae8e1b0c1555cbd0d71ded0f&txTime=6a2b0114
-#EXTINF:-1 group-title="Socolive", ⚽ Live - BLV CÒ - 57.07k - VIE Cup: Thep Xanh Nam Dinh FC vs Cong An Ho Chi Minh City
-https://pull06.scstream.net/live/stream-582342_lhd.flv?auth_key=1781185280-0-0-7dad7a442833232395512916de8b63ba
-#EXTINF:-1 group-title="Socolive", ⚽ Live - BLV BÉO - 56.22k - VIE Cup: Thep Xanh Nam Dinh FC vs Cong An Ho Chi Minh City
-https://pull.niur.live/live/stream-459401_lhd.flv?txSecret=02af69c72d1a781145d2065658c76ff8&txTime=6a2b0150
-#EXTINF:-1 group-title="Socolive", ⚽ Live - A BỆU - 38.84k - VIE Cup: Thep Xanh Nam Dinh FC vs Cong An Ho Chi Minh City
-https://pull06.scstream.net/live/stream-484845_lhd.flv?auth_key=1781185340-0-0-1bbfecda899cb403f487fe237a49d1ee
-#EXTINF:-1 group-title="Socolive", ⚽ Live - BLV KEM - 36.55k - VIE Cup: Ninh Binh FC vs The Cong Viettel
-https://pull06.scstream.net/live/stream-513394_lhd.flv?auth_key=1781185340-0-0-953f0a64df056f91ee73e4f530c87b01
-#EXTINF:-1 group-title="Socolive", ⚽ Live - LOGAN - 35.52k - TOUT: Venezuela U20 vs Japan U19
-https://pull06.scstream.net/live/stream-552832_lhd.flv?auth_key=1781185400-0-0-46ead94b92057de76ab5fdeaf84d86f4
-#EXTINF:-1 group-title="Socolive", ⚽ Live - LÃO LÂM - 35.27k - TOUT: Venezuela U20 vs Japan U19
-https://pull06.scstream.net/live/stream-527384_lhd.flv?auth_key=1781185400-0-0-eb3f1b7667177aa0437c6b840c382232
-#EXTINF:-1 group-title="Socolive", ⚽ Live - BLV ENZO - 35.10k - TOUT: Venezuela U20 vs Japan U19
-https://pull06.scstream.net/live/stream-380460_lhd.flv?auth_key=1781185460-0-0-e8a7fff650bba24899eabe212a4d50b2
-#EXTINF:-1 group-title="Socolive", ⚽ Live - NGƯỜI CÁ - 34.72k - TOUT: Venezuela U20 vs Japan U19
-https://pull06.scstream.net/live/stream-595335_lhd.flv?auth_key=1781185460-0-0-2e78e4ba0daf20942e8f161ec6849eb5
-#EXTINF:-1 group-title="Socolive", ⚽ Live - BEN 10 - 26.54k - KAZ D1: FK Taraz vs Astana B
-https://pull06.scstream.net/live/stream-612098_lhd.flv?auth_key=1781185520-0-0-bafc167ecf6492ca4902d0c86240b0cf
-#EXTINF:-1 group-title="Socolive", ⚽ Live - BLV HENRY - 26.35k - VBA: Da Nang Dragons vs Can Tho Catfish
-https://pull06.scstream.net/live/stream-9912112_lhd.flv?auth_key=1781185520-0-0-0c4700c7a86a5823e96876bf85781052
-#EXTINF:-1 group-title="Socolive", ⚽ Live - QUỐC KHÁNH - 26.29k - KAZ D1: FK Yelimay Semey B vs Jaiyq
-https://pull06.scstream.net/live/stream-602153_lhd.flv?auth_key=1781185580-0-0-4514f3388ef9500db2dbf859bb01664c
-#EXTINF:-1 group-title="Socolive", ⚽ Live - BLV A TÚ - 26.29k - KAZ D1: FK Yelimay Semey B vs Jaiyq
-https://pull06.scstream.net/live/stream-557845_lhd.flv?auth_key=1781185580-0-0-81674083afda0e0e6ca44b5a5c195b00
-#EXTINF:-1 group-title="Socolive", ⚽ Live - A CHÈ - 26.27k - VBA: Da Nang Dragons vs Can Tho Catfish
-https://pull06.scstream.net/live/stream-356042_lhd.flv?auth_key=1781185640-0-0-ddfffbe2c84b7b33162722609fd6b99c
-#EXTINF:-1 group-title="Socolive", ⚽ Live - QUÂN JK - 26.20k - KAZ D1: FK Taraz vs Astana B
-https://pull06.scstream.net/live/stream-611178_lhd.flv?auth_key=1781185640-0-0-0902516a7a2b57cbcbbcae316a0011d2
-#EXTINF:-1 group-title="Socolive", ⚽ Live - BLV ANH TÀI - 25.46k - KAZ D1: FK Taraz vs Astana B
-https://pull06.scstream.net/live/stream-406865_lhd.flv?auth_key=1781185700-0-0-0c2934a1ee2ad1851ecf50c6998b4220
-#EXTINF:-1 group-title="Socolive", ⚽ Live - BLV THÓC - 25.07k - KAZ D1: FK Aktobe II vs Akademiya Ontustik
-https://pull06.scstream.net/live/stream-606448_lhd.flv?auth_key=1781185700-0-0-f4cf7aca4f3b3822f3cd987859e9f15f
-#EXTINF:-1 group-title="Socolive", ⚽ Live - BLV VITAMIN - 25.07k - KAZ D1: FK Aktobe II vs Akademiya Ontustik
-https://pull06.scstream.net/live/stream-400722_lhd.flv?auth_key=1781185760-0-0-e681e2573f95d29a2394efaff4c6d02d
-#EXTINF:-1 group-title="Socolive", ⚽ Live - BLV VIP - 25.05k - KAZ D1: FK Aktobe II vs Akademiya Ontustik
-https://pull.niur.live/live/stream-491873_lhd.flv?txSecret=37bd551f37d753a587387cd257973c9d&txTime=6a2b0330
-#EXTINF:-1 group-title="Socolive", ⚽ Live - BLV YONE - 25.02k - KAZ D1: FK Aktobe II vs Akademiya Ontustik
-https://pull06.scstream.net/live/stream-372746_lhd.flv?auth_key=1781185760-0-0-f71d3f082c06beeed87a17c718c4f6ce
-#EXTINF:-1 group-title="Socolive", ⚽ Live - SOCOLIVE - 1.59k - BIT.LY/SOCOLIVE
-https://pull06.scstream.net/live/stream-175784_lhd.flv?auth_key=1781185760-0-0-31a4bc24bc39522aaae8d06bf7621fe9
+https://pull.niur.live/live/stream-462413_lhd.flv?txSecret=f8fc4e336897c5c40da28449db968f30&txTime=6a2b23e0
+#EXTINF:-1 group-title="Socolive", ⚽ Live - BLV MESSI - 65.75k - WORLD CUP: Mexico vs South Africa
+https://pull06.scstream.net/live/stream-494201_lhd.flv?auth_key=1781204660-0-0-647143384532e556603f1f5d4349bcbf
+#EXTINF:-1 group-title="Socolive", ⚽ Live - RICKHANTER - 65.67k - WORLD CUP: Mexico vs South Africa
+https://pull.niur.live/live/stream-9912122_lhd.flv?txSecret=8e9d5b387c026a4dc4ba01f36a0c1132&txTime=6a2b4d40
+#EXTINF:-1 group-title="Socolive", ⚽ Live - BLV Củ Cải - 70.15k - WORLD CUP: Mexico vs South Africa
+https://pull06.scstream.net/live/stream-9912091_lhd.flv?auth_key=1781204720-0-0-68158a2fa3ca820af36f5569eab9d24f
+#EXTINF:-1 group-title="Socolive", ⚽ Live - BLV BÉO - 37.18k - TOUT: Portugal U20 vs Canada U20
+https://pull.niur.live/live/stream-459401_lhd.flv?txSecret=da97cb89ccbd55da38b93968ef23e80f&txTime=6a2b4d7c
+#EXTINF:-1 group-title="Socolive", ⚽ Live - CR Bưởi - 65.61k - WORLD CUP: Mexico vs South Africa
+https://pull06.scstream.net/live/stream-387694_lhd.flv?auth_key=1781204840-0-0-61f02f20e86c1bad0de3e0a4127337ab
+#EXTINF:-1 group-title="Socolive", ⚽ Live - BLV ALEX - 36.69k - TOUT: Portugal U20 vs Canada U20
+https://pull06.scstream.net/live/stream-532081_lhd.flv?auth_key=1781204840-0-0-cd7422f060ba810d5f2f61ea5cb8571d
+#EXTINF:-1 group-title="Socolive", ⚽ Live - BLV FIREMAN - 36.48k - TOUT: Portugal U20 vs Canada U20
+https://pull06.scstream.net/live/stream-991140_lhd.flv?auth_key=1781204840-0-0-2fd7568c2b697b22d08216df5ae1a77a
+#EXTINF:-1 group-title="Socolive", ⚽ Live - LOKA - 36.38k - TOUT: Portugal U20 vs Canada U20
+https://pull06.scstream.net/live/stream-589848_lhd.flv?auth_key=1781204840-0-0-90e4602202c57651212fd0c8ed918a73
+#EXTINF:-1 group-title="Socolive", ⚽ Live - HẢI THANH - 36.00k - TOUT: Portugal U20 vs Canada U20
+https://pull06.scstream.net/live/stream-599634_lhd.flv?auth_key=1781204900-0-0-2a0a118c349a93bcd58b9921f31c1f61
+#EXTINF:-1 group-title="Socolive", ⚽ Live - BLV CÁP - 27.19k - SWE D2: Helsingborg vs Landskrona BoIS
+https://pull06.scstream.net/live/stream-610677_lhd.flv?auth_key=1781204960-0-0-cb3faef36fffa6b189578ffd4acfe221
+#EXTINF:-1 group-title="Socolive", ⚽ Live - BLV LONG - 27.13k - SWE D2: Helsingborg vs Landskrona BoIS
+https://pull.niur.live/live/stream-9912117_lhd.flv?txSecret=aa2c5fa5efdc5b4a16165598a9fab6b4&txTime=6a2b4e30
+#EXTINF:-1 group-title="Socolive", ⚽ Live - BLV CÁO - 27.04k - SWE D2: Helsingborg vs Landskrona BoIS
+https://pull06.scstream.net/live/stream-597929_lhd.flv?auth_key=1781205020-0-0-cf66c68d434a5426bcb9527514a66d41
+#EXTINF:-1 group-title="Socolive", ⚽ Live - BLV WUKONG - 26.88k - SWE D2: Helsingborg vs Landskrona BoIS
+https://pull06.scstream.net/live/stream-511367_lhd.flv?auth_key=1781205020-0-0-53c61d107620d794e959fcc624dec2fa
+#EXTINF:-1 group-title="Socolive", ⚽ Live - BLV VIP - 26.79k - SWE D2: Helsingborg vs Landskrona BoIS
+https://pull.niur.live/live/stream-491873_lhd.flv?txSecret=f09470ddd08989b4f2ad32dcc6eace82&txTime=6a2b4ea8
+#EXTINF:-1 group-title="Socolive", ⚽ Live - SOCOLIVE - 1.09k - BIT.LY/SOCOLIVE
+https://pull06.scstream.net/live/stream-175784_lhd.flv?auth_key=1781205080-0-0-3a1fbf45a2525c26b876bb757f1b8584
