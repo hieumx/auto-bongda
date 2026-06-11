@@ -1,16 +1,16 @@
 #EXTM3U
-#EXTINF:-1 group-title="Socolive", ⚽ Live - TẠ BIÊN GIỚI - 64.41k - USLC: Monterey Bay FC vs Sporting Jax
-https://pull06.scstream.net/live/stream-9912108_lhd.flv?auth_key=1781147300-0-0-1719292a13c6fac950ba2ad756958f7c
-#EXTINF:-1 group-title="Socolive", ⚽ Live - BLV TOMMY - 62.66k - USLC: Phoenix Rising FC vs Louisville City FC
-https://pull.niur.live/live/stream-414317_lhd.flv?txSecret=9c16626f2fe4e22c1824204f7f03cb8c&txTime=6a2a6d30
-#EXTINF:-1 group-title="Socolive", ⚽ Live - BLV TAP - 62.50k - USLC: Phoenix Rising FC vs Louisville City FC
-https://pull06.scstream.net/live/stream-9912041_lhd.flv?auth_key=1781147420-0-0-f4f05722a0167ce219bbfa67b717a2ad
-#EXTINF:-1 group-title="Socolive", ⚽ Live - DECO - 62.89k - USLC: Phoenix Rising FC vs Louisville City FC
-https://pull06.scstream.net/live/stream-9912060_lhd.flv?auth_key=1781147420-0-0-d0f4193df15dcb1c8098015f862db471
-#EXTINF:-1 group-title="Socolive", ⚽ Live - BLV ĐỐM - 62.61k - USLC: Phoenix Rising FC vs Louisville City FC
-https://pull06.scstream.net/live/stream-9912110_lhd.flv?auth_key=1781147480-0-0-35b6779efe996df1a0f3191d008f1aac
+#EXTINF:-1 group-title="Socolive", ⚽ TẠ BIÊN GIỚI
+https://pull06.scstream.net/live/stream-9912108_lhd.flv?auth_key=1781154149-0-0-0790c41411ff3df9d85a38095d96f2e7
+#EXTINF:-1 group-title="Socolive", ⚽ BLV TOMMY
+https://pull.niur.live/live/stream-414317_lhd.flv?txSecret=20b86d42a67114f3185c1b93f870705f&txTime=6a2a90c0
+#EXTINF:-1 group-title="Socolive", ⚽ BLV TAP
+https://pull06.scstream.net/live/stream-9912041_lhd.flv?auth_key=1781156026-0-0-9c18d100965f99769f8744710694c94d
+#EXTINF:-1 group-title="Socolive", ⚽ DECO
+https://pull06.scstream.net/live/stream-9912060_lhd.flv?auth_key=1781156066-0-0-7ff4a6f34d3ecf98066ad28abe15001a
+#EXTINF:-1 group-title="Socolive", ⚽ BLV ĐỐM
+https://pull06.scstream.net/live/stream-9912110_lhd.flv?auth_key=1781156166-0-0-ef505f355c656a59adca1c107afcecf0
 #EXTINF:-1 group-title="Socolive", ⚽ BLV COCA
-https://pull06.scstream.net/live/stream-327159_lhd.flv?auth_key=1781131574-0-0-971ba76f05293e26d804c5803eb9bf79
+https://pull06.scstream.net/live/stream-327159_lhd.flv?auth_key=1781155914-0-0-300f777a0eac7aa94fd617c4d7077032
 #EXTINF:-1 group-title="Socolive", ⚽ BLV 7UP
 https://pull06.scstream.net/live/stream-534219_lhd.flv?auth_key=1781147023-0-0-2d93ea542790703e4dbfeac287638cc3
 #EXTINF:-1 group-title="Socolive", ⚽ THẠCH TÚ
@@ -21,49 +21,21 @@ https://pull.niur.live/live/stream-462413_lhd.flv?txSecret=1288843a1e3080ea1ed95
 https://pull06.scstream.net/live/stream-494201_lhd.flv?auth_key=1781131607-0-0-ed6d8aeea92d40e91e124b0af455f4be
 #EXTINF:-1 group-title="Socolive", ⚽ RICKHANTER
 https://pull.niur.live/live/stream-9912122_lhd.flv?txSecret=9ab6c7109175876e96664bde175eb90f&txTime=6a2a6c6d
-#EXTINF:-1 group-title="Socolive", ⚽ Live - BLV Củ Cải - 64.84k - USLC: Monterey Bay FC vs Sporting Jax
-https://pull06.scstream.net/live/stream-9912091_lhd.flv?auth_key=1781147720-0-0-7a10e2926bf2e69de35e3be9905a8b71
-#EXTINF:-1 group-title="Socolive", ⚽ Live - BLV HÚP - 54.27k - USLC: Monterey Bay FC vs Sporting Jax
-https://pull06.scstream.net/live/stream-611382_lhd.flv?auth_key=1781147720-0-0-b10250b79bb1eeef1906165860c2e6a2
-#EXTINF:-1 group-title="Socolive", ⚽ Live - BLV TOMIA - 55.42k - USA MLSRv: Vancouver Whitecaps Reserve vs North Texas SC
-https://pull06.scstream.net/live/stream-9912008_lhd.flv?auth_key=1781147780-0-0-993ef88cb403c50e7eb083878ec96927
-#EXTINF:-1 group-title="Socolive", ⚽ Live - BLV ROBBEN - 54.51k - USA MLSRv: Vancouver Whitecaps Reserve vs North Texas SC
-https://pull06.scstream.net/live/stream-527383_lhd.flv?auth_key=1781147780-0-0-b135cf5c1ddee567a1f9e938f16250b0
-#EXTINF:-1 group-title="Socolive", ⚽ Live - BLV CUỘI - 55.23k - USA MLSRv: Vancouver Whitecaps Reserve vs North Texas SC
-https://pull06.scstream.net/live/stream-256080_lhd.flv?auth_key=1781147840-0-0-b2dadf67affbc00e8bee8bb1fbed318f
-#EXTINF:-1 group-title="Socolive", ⚽ Live - BLV PEWPEW - 34.96k - USLC: Monterey Bay FC vs Sporting Jax
-https://pull06.scstream.net/live/stream-9912015_lhd.flv?auth_key=1781147840-0-0-293a3dbcf89ffc3d13306cdc026a2d4a
-#EXTINF:-1 group-title="Socolive", ⚽ Live - BLV RÔSI - 54.12k - USLC: Monterey Bay FC vs Sporting Jax
-https://pull.niur.live/live/stream-9912102_lhd.flv?txSecret=9b3515f6a86bcca49cf8449dfb70fdd9&txTime=6a2a6f4c
-#EXTINF:-1 group-title="Socolive", ⚽ Live - A PÁO - 34.52k - USLC: Monterey Bay FC vs Sporting Jax
-https://pull06.scstream.net/live/stream-235232_lhd.flv?auth_key=1781147900-0-0-8889c7bdba260b10307ce673d961c4a3
-#EXTINF:-1 group-title="Socolive", ⚽ Live - BLV HENRY - 29.09k - NBA: New York Knicks vs San Antonio Spurs
-https://pull06.scstream.net/live/stream-9912112_lhd.flv?auth_key=1781147960-0-0-7dd3112f6124b6fb5fe0b7c0826bfda4
-#EXTINF:-1 group-title="Socolive", ⚽ Live - BRIAN - 28.99k - NBA: New York Knicks vs San Antonio Spurs
-https://pull06.scstream.net/live/stream-9912106_lhd.flv?auth_key=1781147960-0-0-e1970d99b2e72837a9c479bbebdef2bc
-#EXTINF:-1 group-title="Socolive", ⚽ Live - A CHÈ - 28.45k - NBA: New York Knicks vs San Antonio Spurs
-https://pull06.scstream.net/live/stream-356042_lhd.flv?auth_key=1781148020-0-0-6aec1cfd1b78555e1cd3b1a7694d400a
-#EXTINF:-1 group-title="Socolive", ⚽ Live - KING - 27.58k - NBA: New York Knicks vs San Antonio Spurs
-https://pull06.scstream.net/live/stream-9912099_lhd.flv?auth_key=1781148080-0-0-ef5404ffb1236aa0b5afefbd572efff6
-#EXTINF:-1 group-title="Socolive", ⚽ Live - CHAN SENA - 27.45k - NBA: New York Knicks vs San Antonio Spurs
-https://pull06.scstream.net/live/stream-9912115_lhd.flv?auth_key=1781148080-0-0-ec2ba89eaa2701e9fd991272d53eecaa
-#EXTINF:-1 group-title="Socolive", ⚽ Live - BLV LUCAS - 26.49k - USA MLSRv: Vancouver Whitecaps Reserve vs North Texas SC
-https://pull06.scstream.net/live/stream-304148_lhd.flv?auth_key=1781148140-0-0-f0bee9e1f2346b3c3d36f80f49558b4a
-#EXTINF:-1 group-title="Socolive", ⚽ Live - QUÂN JK - 26.46k - USA MLSRv: Vancouver Whitecaps Reserve vs North Texas SC
-https://pull06.scstream.net/live/stream-611178_lhd.flv?auth_key=1781148140-0-0-662f817a0833b07f76d3250342d2fa3e
-#EXTINF:-1 group-title="Socolive", ⚽ Live - HUNTER - 26.29k - WNBA: Seattle Storm W vs Los Angeles Sparks W
-https://pull06.scstream.net/live/stream-558264_lhd.flv?auth_key=1781148200-0-0-44cd79e8ad2949b9638610f5151fdb01
-#EXTINF:-1 group-title="Socolive", ⚽ Live - BLV 24H - 25.90k - USA MLSRv: Vancouver Whitecaps Reserve vs North Texas SC
-https://pull06.scstream.net/live/stream-612928_lhd.flv?auth_key=1781148200-0-0-1ba7c294ea1f5cdfb9d8ecc89e985fb0
-#EXTINF:-1 group-title="Socolive", ⚽ Live - SOCOLIVE - 1.23k - BIT.LY/SOCOLIVE
-https://pull06.scstream.net/live/stream-175784_lhd.flv?auth_key=1781148260-0-0-3b3f4a1bfd9e2868b4233a60eabfb679
-#EXTINF:-1 group-title="Xoilac", ⚽ Trận đấu đang chờ cập nhật
-https://live1.pro2cdnlive.com/live/channel13.flv?wsSecret=17131a2267ccf9d5e420a9099bd53704&wsABSTime=1781187947
-#EXTINF:-1 group-title="Xoilac", ⚽ Trận đấu đang chờ cập nhật
-https://live1.pro2cdnlive.com/live/channel15.flv?wsSecret=99a779727ca2a803107825c68f924f99&wsABSTime=1781187980
-#EXTINF:-1 group-title="Xoilac", ⚽ Trận đấu đang chờ cập nhật
-https://live1.pro2cdnlive.com/live/channel16.flv?wsSecret=ccd7b6e2523a0ac9eddc2fdcc7c0d7cf&wsABSTime=1781187991
-#EXTINF:-1 group-title="Xoilac", ⚽ Trận đấu đang chờ cập nhật
-https://live1.pro2cdnlive.com/live/channel16.flv?wsSecret=ccd7b6e2523a0ac9eddc2fdcc7c0d7cf&wsABSTime=1781187991
-#EXTINF:-1 group-title="Xoilac", ⚽ SILVA
-https://live1.pro2cdnlive.com/live/channel16.flv?wsSecret=ccd7b6e2523a0ac9eddc2fdcc7c0d7cf&wsABSTime=1781187991
+#EXTINF:-1 group-title="Socolive", ⚽ BLV Củ Cải
+https://pull06.scstream.net/live/stream-9912091_lhd.flv?auth_key=1781154045-0-0-f02b9b49b548260ed34652c588cd0684
+#EXTINF:-1 group-title="Socolive", ⚽ Live - HUNTER - 25.18k - MPBL: Rizal Golden Coolers vs Pasig City
+https://pull06.scstream.net/live/stream-558264_lhd.flv?auth_key=1781166380-0-0-654e5b19c54a039f7012238717c73b94
+#EXTINF:-1 group-title="Socolive", ⚽ Live - SOCOLIVE - 1.50k - BIT.LY/SOCOLIVE
+https://pull06.scstream.net/live/stream-175784_lhd.flv?auth_key=1781166380-0-0-7508489f8245bdfa8004e7c3f777e4b7
+#EXTINF:-1 group-title="Socolive", ⚽ Live - Sóc đau cổ vai gáy - 1.11k - Tường thuật: INTERF - France vs Northern Ireland
+https://pull06.scstream.net/live/stream-179093_lhd.flv?auth_key=1781166440-0-0-bb754bb91a01deda18178f5125c22b59
+#EXTINF:-1 group-title="Socolive", ⚽ Live - Sóc mèo méo meo - 1.03k - Tường thuật: INTERF - Portugal vs Nigeria
+https://pull06.scstream.net/live/stream-343500_lhd.flv?auth_key=1781166440-0-0-619b5a11ce7b536b254d47ffb90838ef
+#EXTINF:-1 group-title="Socolive", ⚽ Live - Sóc trong rừng xà nu - 1.03k - Tường thuật: INTERF - England vs Costa Rica
+https://pull06.scstream.net/live/stream-9912079_lhd.flv?auth_key=1781166500-0-0-d282738bb79466abb1afe2cff1eb08de
+#EXTINF:-1 group-title="Socolive", ⚽ Live - Sóc nhàm nhang nhồ - 1.03k - Tường thuật: INTERF - Netherlands vs Uzbekistan
+https://pull06.scstream.net/live/stream-152898_lhd.flv?auth_key=1781166560-0-0-d0eb268e0b052f0186a28a203429949b
+#EXTINF:-1 group-title="Socolive", ⚽ Live - Sóc Nhó Nhịu Nhô Nhùng - 1.02k - Tường thuật: INTERF - Argentina vs Iceland
+https://pull06.scstream.net/live/stream-133277_lhd.flv?auth_key=1781166560-0-0-21b9840a34f8e72e5eeed851781f9ec4
+#EXTINF:-1 group-title="Socolive", ⚽ Live - Sóc trèo cây ngô đồng - 1.01k - Tường thuật: INTERF - Saudi Arabia vs Senegal
+https://pull06.scstream.net/live/stream-133824_lhd.flv?auth_key=1781166620-0-0-f75f3b3d38683da08ff1096a3485491e
