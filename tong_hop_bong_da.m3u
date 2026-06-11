@@ -1,201 +1,41 @@
 #EXTM3U
-#EXTINF:-1 group-title="Socolive", ⚽ Live - TẠ BIÊN GIỚI - 131.36k - WORLD CUP: Mexico vs South Africa
-https://pull.niur.live/live/stream-9912108_lhd.flv?txSecret=bbfcaf3323a9787c8227b37e6fac0001&txTime=6a2b6ca8
-#EXTINF:-1 group-title="Socolive", ⚽ Live - BLV TOMMY - 97.14k - WORLD CUP: Mexico vs South Africa
-https://pull.niur.live/live/stream-414317_lhd.flv?txSecret=269e979d283baa0f9f1d69cd8309fda3&txTime=6a2b6ca8
-#EXTINF:-1 group-title="Socolive", ⚽ Live - BLV TAP - 109.72k - WORLD CUP: Mexico vs South Africa
-https://pull.niur.live/live/stream-9912041_lhd.flv?txSecret=a24d837cfcbc3f7262223304a6eef890&txTime=6a2b6ce4
-#EXTINF:-1 group-title="Socolive", ⚽ Live - DECO - 196.79k - WORLD CUP: Mexico vs South Africa
-https://pull06.scstream.net/live/stream-9912060_lhd.flv?auth_key=1781212880-0-0-bc0a86d0bf0b803c3059c9aa6a0bd746
-#EXTINF:-1 group-title="Socolive", ⚽ Live - BLV ĐỐM - 81.89k - WORLD CUP: Mexico vs South Africa
-https://pull06.scstream.net/live/stream-9912110_lhd.flv?auth_key=1781212880-0-0-f6966104d5caabdf15a2e78255f93cc0
-#EXTINF:-1 group-title="Socolive", ⚽ Live - BLV COCA - 102.67k - WORLD CUP: Mexico vs South Africa
-https://pull06.scstream.net/live/stream-327159_lhd.flv?auth_key=1781212940-0-0-c983d534fd857cd6fabca06476484673
-#EXTINF:-1 group-title="Socolive", ⚽ Live - BLV 7UP - 89.42k - WORLD CUP: Mexico vs South Africa
-https://pull06.scstream.net/live/stream-534219_lhd.flv?auth_key=1781212940-0-0-12b26976737f3c24ce9fbb8cf0483773
-#EXTINF:-1 group-title="Socolive", ⚽ Live - THẠCH TÚ - 89.20k - WORLD CUP: Mexico vs South Africa
-https://pull06.scstream.net/live/stream-9912116_lhd.flv?auth_key=1781212940-0-0-eb2807f505879febaead998de9e1a8da
+#EXTINF:-1 group-title="Socolive", ⚽ TẠ BIÊN GIỚI
+https://pull.niur.live/live/stream-9912108_lhd.flv?txSecret=336094b169d0b581869fd3c939afb93c&txTime=6a2b78f8
+#EXTINF:-1 group-title="Socolive", ⚽ BLV TOMMY
+https://pull.niur.live/live/stream-414317_lhd.flv?txSecret=8fa4956524887e4a7195ec612d458a3f&txTime=6a2b7a06
+#EXTINF:-1 group-title="Socolive", ⚽ BLV TAP
+https://pull.niur.live/live/stream-9912041_lhd.flv?txSecret=4a1c7161086a16e1cdece35bdff7779c&txTime=6a2b77d8
+#EXTINF:-1 group-title="Socolive", ⚽ DECO
+https://pull06.scstream.net/live/stream-9912060_lhd.flv?auth_key=1781216185-0-0-a6c55e4f4f335af5ed2c13d852db355d
+#EXTINF:-1 group-title="Socolive", ⚽ BLV ĐỐM
+https://pull06.scstream.net/live/stream-9912110_lhd.flv?auth_key=1781216333-0-0-d01fcd23211c1f1957f6c339627c8a96
+#EXTINF:-1 group-title="Socolive", ⚽ BLV COCA
+https://pull06.scstream.net/live/stream-327159_lhd.flv?auth_key=1781215677-0-0-4725608e9f5a136f8efa858f58b6a308
+#EXTINF:-1 group-title="Socolive", ⚽ BLV 7UP
+https://pull06.scstream.net/live/stream-534219_lhd.flv?auth_key=1781215682-0-0-d9120d374379a21b7821dbe2bcc04c9f
+#EXTINF:-1 group-title="Socolive", ⚽ THẠCH TÚ
+https://pull06.scstream.net/live/stream-9912116_lhd.flv?auth_key=1781215784-0-0-46e9f757c5d34ac292905298cc474056
 #EXTINF:-1 group-title="Socolive", ⚽ SAO LA
 https://pull.niur.live/live/stream-462413_lhd.flv?txSecret=f8fc4e336897c5c40da28449db968f30&txTime=6a2b23e0
-#EXTINF:-1 group-title="Socolive", ⚽ Live - BLV MESSI - 85.55k - WORLD CUP: Mexico vs South Africa
-https://pull06.scstream.net/live/stream-494201_lhd.flv?auth_key=1781213060-0-0-e73527550b991cd997ec84d8530abb04
-#EXTINF:-1 group-title="Socolive", ⚽ Live - RICKHANTER - 88.63k - WORLD CUP: Mexico vs South Africa
-https://pull.niur.live/live/stream-9912122_lhd.flv?txSecret=a071f9909cacabaf71496b18d48cfaca&txTime=6a2b6dd4
-#EXTINF:-1 group-title="Socolive", ⚽ Live - BLV Củ Cải - 100.63k - WORLD CUP: Mexico vs South Africa
-https://pull06.scstream.net/live/stream-9912091_lhd.flv?auth_key=1781213120-0-0-1b793b3658b78bf4c3c7f092afbe7226
-#EXTINF:-1 group-title="Socolive", ⚽ Live - CR Bưởi - 80.74k - WORLD CUP: Mexico vs South Africa
-https://pull06.scstream.net/live/stream-387694_lhd.flv?auth_key=1781213120-0-0-6a3317dbb797ce5237518b31aad04449
-#EXTINF:-1 group-title="Socolive", ⚽ Live - SOCOLIVE - 1.14k - BIT.LY/SOCOLIVE
-https://pull06.scstream.net/live/stream-175784_lhd.flv?auth_key=1781213180-0-0-dc39eda7895a223baef843fdb8538c19
-#EXTINF:-1 group-title="Xoilac", ⚽ Trận đấu đang chờ cập nhật
-https://live2.pro2cdnlive.com/live/channel1.flv
-#EXTINF:-1 group-title="Xoilac", ⚽ ROY
-https://live2.pro2cdnlive.com/live/channel1.flv
-#EXTINF:-1 group-title="Xoilac", ⚽ NICK
-https://live2.pro2cdnlive.com/live/channel5.flv
-#EXTINF:-1 group-title="Xoilac", ⚽ MAX
-https://live2.pro2cdnlive.com/live/channel6.flv
-#EXTINF:-1 group-title="Xoilac", ⚽ Trận đấu đang chờ cập nhật
-https://live1.pro2cdnlive.com/live/channel6.flv?wsSecret=20c9bcca04a34efbbeddd415c981cad1&wsABSTime=1781252941
-#EXTINF:-1 group-title="Xoilac", ⚽ Trận đấu đang chờ cập nhật
-https://live1.pro2cdnlive.com/live/channel29.flv?wsSecret=d70f39c687436db6ee710f01f73c40df&wsABSTime=1781252952
-#EXTINF:-1 group-title="Xoilac", ⚽ Trận đấu đang chờ cập nhật
-https://live1.pro2cdnlive.com/live/channel8.flv?wsSecret=cda0df2c53b84b5db0e3f075617a1c69&wsABSTime=1781252963
-#EXTINF:-1 group-title="Xoilac", ⚽ Trận đấu đang chờ cập nhật
-https://live1.pro2cdnlive.com/live/channel33.flv?wsSecret=09cad3232d60a9b5cf71d57e1383cf62&wsABSTime=1781252976
-#EXTINF:-1 group-title="Xoilac", ⚽ Trận đấu đang chờ cập nhật
-https://live1.pro2cdnlive.com/live/channel34.flv?wsSecret=9bcd8c0f334b31d5e37aabdddbcada71&wsABSTime=1781252987
-#EXTINF:-1 group-title="Xoilac", ⚽ Trận đấu đang chờ cập nhật
-https://live1.pro2cdnlive.com/live/channel35.flv?wsSecret=b3092b92d94cf9444ebc81dfa653ac7a&wsABSTime=1781252998
-#EXTINF:-1 group-title="Xoilac", ⚽ Trận đấu đang chờ cập nhật
-https://live1.pro2cdnlive.com/live/channel36.flv?wsSecret=7cf783a56b5a71c827e79b2167039c6f&wsABSTime=1781253009
-#EXTINF:-1 group-title="Xoilac", ⚽ Trận đấu đang chờ cập nhật
-https://live1.pro2cdnlive.com/live/channel1.flv?wsSecret=edfb59d726c784336f26165fc0cf922e&wsABSTime=1781253020
-#EXTINF:-1 group-title="Xoilac", ⚽ Trận đấu đang chờ cập nhật
-https://live1.pro2cdnlive.com/live/channel2.flv?wsSecret=6868d4ed9bc81ae97dc95d6b1b0a4bdf&wsABSTime=1781253031
-#EXTINF:-1 group-title="Xoilac", ⚽ Trận đấu đang chờ cập nhật
-https://live1.pro2cdnlive.com/live/channel25.flv?wsSecret=57d8bd909a8a63193e1b56f4488c1040&wsABSTime=1781253042
-#EXTINF:-1 group-title="Xoilac", ⚽ Trận đấu đang chờ cập nhật
-https://live2.pro2cdnlive.com/live/channel28.flv
-#EXTINF:-1 group-title="Xoilac", ⚽ OLER
-https://live2.pro2cdnlive.com/live/channel28.flv
-#EXTINF:-1 group-title="Xoilac", ⚽ Trận đấu đang chờ cập nhật
-https://live1.pro2cdnlive.com/live/channel4.flv?wsSecret=01dd0271c20aeafc9283556151322ee3&wsABSTime=1781253076
-#EXTINF:-1 group-title="Xoilac", ⚽ Trận đấu đang chờ cập nhật
-https://live1.pro2cdnlive.com/live/channel26.flv?wsSecret=2a39698815adf3767fe603a6961273ac&wsABSTime=1781253086
-#EXTINF:-1 group-title="Xoilac", ⚽ Trận đấu đang chờ cập nhật
-https://live1.pro2cdnlive.com/live/channel27.flv?wsSecret=d65a674a8ebccd277e9262a6b30955bd&wsABSTime=1781253097
-#EXTINF:-1 group-title="Xoilac", ⚽ Trận đấu đang chờ cập nhật
-https://live1.pro2cdnlive.com/live/channel28.flv?wsSecret=338429bcca4d3ca915e2049a70292cf1&wsABSTime=1781253108
-#EXTINF:-1 group-title="Xoilac", ⚽ Trận đấu đang chờ cập nhật
-https://live1.pro2cdnlive.com/live/channel29.flv?wsSecret=6ae8758cfd7c03aad3100150aadcb0d7&wsABSTime=1781253119
-#EXTINF:-1 group-title="Xoilac", ⚽ Trận đấu đang chờ cập nhật
-https://live1.pro2cdnlive.com/live/channel30.flv?wsSecret=968ce1f8a690a528a71cb07562bd5d05&wsABSTime=1781253130
-#EXTINF:-1 group-title="Xoilac", ⚽ Trận đấu đang chờ cập nhật
-https://live2.pro2cdnlive.com/live/channel23.flv
-#EXTINF:-1 group-title="Xoilac", ⚽ LOGAN
-https://live2.pro2cdnlive.com/live/channel23.flv
-#EXTINF:-1 group-title="Xoilac", ⚽ Trận đấu đang chờ cập nhật
-https://live2.pro2cdnlive.com/live/channel1.flv
-#EXTINF:-1 group-title="Xoilac", ⚽ ROY
-https://live2.pro2cdnlive.com/live/channel1.flv
-#EXTINF:-1 group-title="Xoilac", ⚽ NICK
-https://live2.pro2cdnlive.com/live/channel5.flv
-#EXTINF:-1 group-title="Xoilac", ⚽ MAX
-https://live2.pro2cdnlive.com/live/channel6.flv
-#EXTINF:-1 group-title="Xoilac", ⚽ Trận đấu đang chờ cập nhật
-https://live2.pro2cdnlive.com/live/channel26.flv
-#EXTINF:-1 group-title="Xoilac", ⚽ STEP
-https://live2.pro2cdnlive.com/live/channel26.flv
-#EXTINF:-1 group-title="Xoilac", ⚽ Trận đấu đang chờ cập nhật
-https://live1.pro2cdnlive.com/live/channel42.flv?wsSecret=4bbe989ff21ba51b7f496c3f43f58011&wsABSTime=1781253233
-#EXTINF:-1 group-title="Xoilac", ⚽ Trận đấu đang chờ cập nhật
-https://live2.pro2cdnlive.com/live/channel29.flv
-#EXTINF:-1 group-title="Xoilac", ⚽ TOMMY
-https://live2.pro2cdnlive.com/live/channel29.flv
-#EXTINF:-1 group-title="Xoilac", ⚽ Trận đấu đang chờ cập nhật
-https://live1.pro2cdnlive.com/live/channel45.flv?wsSecret=7a9ce089d11460b866be6b3199a18ee9&wsABSTime=1781253265
-#EXTINF:-1 group-title="Xoilac", ⚽ Trận đấu đang chờ cập nhật
-https://live1.pro2cdnlive.com/live/channel43.flv?wsSecret=f0053103b32ed9b31e7d568a43f14f61&wsABSTime=1781253276
-#EXTINF:-1 group-title="Xoilac", ⚽ Trận đấu đang chờ cập nhật
-https://live1.pro2cdnlive.com/live/channel46.flv?wsSecret=504d779e7f17f53d6e7c12cb010489dd&wsABSTime=1781253287
-#EXTINF:-1 group-title="Xoilac", ⚽ Trận đấu đang chờ cập nhật
-https://live1.pro2cdnlive.com/live/channel47.flv?wsSecret=9cc0ec81d13cf4229f4e894f0c7cea1c&wsABSTime=1781253298
-#EXTINF:-1 group-title="Xoilac", ⚽ Trận đấu đang chờ cập nhật
-https://live2.pro2cdnlive.com/live/channel25.flv
-#EXTINF:-1 group-title="Xoilac", ⚽ ALAN
-https://live2.pro2cdnlive.com/live/channel25.flv
-#EXTINF:-1 group-title="Xoilac", ⚽ Trận đấu đang chờ cập nhật
-https://live1.pro2cdnlive.com/live/channel41.flv?wsSecret=e289f086aaf73f21ef104551f9460a1f&wsABSTime=1781253333
-#EXTINF:-1 group-title="Xoilac", ⚽ Trận đấu đang chờ cập nhật
-https://live1.pro2cdnlive.com/live/channel42.flv?wsSecret=96b1cd8237d15438419add24e5ad1bdf&wsABSTime=1781253343
-#EXTINF:-1 group-title="Xoilac", ⚽ Trận đấu đang chờ cập nhật
-https://live1.pro2cdnlive.com/live/channel43.flv?wsSecret=ce489d314496531f91afa3efc20be271&wsABSTime=1781253354
-#EXTINF:-1 group-title="Xoilac", ⚽ Trận đấu đang chờ cập nhật
-https://live1.pro2cdnlive.com/live/channel44.flv?wsSecret=30a428f7b55adc7f8052ba468f130ad2&wsABSTime=1781253364
-#EXTINF:-1 group-title="Xoilac", ⚽ Trận đấu đang chờ cập nhật
-https://live1.pro2cdnlive.com/live/channel45.flv?wsSecret=704c05fbf94125aa670226186a654219&wsABSTime=1781253374
-#EXTINF:-1 group-title="Xoilac", ⚽ Trận đấu đang chờ cập nhật
-https://live1.pro2cdnlive.com/live/channel46.flv?wsSecret=e95794d4549f167e899ed4a007adecab&wsABSTime=1781253385
-#EXTINF:-1 group-title="Xoilac", ⚽ Trận đấu đang chờ cập nhật
-https://live1.pro2cdnlive.com/live/channel41.flv?wsSecret=7b1fd6af42c3d8038b60ca017ee70ea7&wsABSTime=1781253396
-#EXTINF:-1 group-title="Xoilac", ⚽ Trận đấu đang chờ cập nhật
-https://live1.pro2cdnlive.com/live/channel42.flv?wsSecret=379590ebffcf6ddd19be5340a58554f2&wsABSTime=1781253406
-#EXTINF:-1 group-title="Xoilac", ⚽ Trận đấu đang chờ cập nhật
-https://live1.pro2cdnlive.com/live/channel43.flv?wsSecret=49aa9cb6caea1b1343b015273852226a&wsABSTime=1781253418
-#EXTINF:-1 group-title="Xoilac", ⚽ Trận đấu đang chờ cập nhật
-https://live1.pro2cdnlive.com/live/channel41.flv?wsSecret=c8794bdd4e07f17c9b95af3b9afbb9e7&wsABSTime=1781253429
-#EXTINF:-1 group-title="Xoilac", ⚽ Trận đấu đang chờ cập nhật
-https://live1.pro2cdnlive.com/live/channel42.flv?wsSecret=f63525881b13acf58e0b62b9e4c2b633&wsABSTime=1781253440
-#EXTINF:-1 group-title="Xoilac", ⚽ Trận đấu đang chờ cập nhật
-https://live1.pro2cdnlive.com/live/channel41.flv?wsSecret=f7f350d9652ed7f76d1668f8fc54f1f9&wsABSTime=1781253451
-#EXTINF:-1 group-title="Xoilac", ⚽ Trận đấu đang chờ cập nhật
-https://live1.pro2cdnlive.com/live/channel59.flv?wsSecret=20b0b948f81ebd902835eb047e3aa67d&wsABSTime=1781253463
-#EXTINF:-1 group-title="Xoilac", ⚽ Trận đấu đang chờ cập nhật
-https://live1.pro2cdnlive.com/live/channel60.flv?wsSecret=2f330e5a90f132c8f6a6c75a2356249c&wsABSTime=1781253473
-#EXTINF:-1 group-title="Xoilac", ⚽ Trận đấu đang chờ cập nhật
-https://live1.pro2cdnlive.com/live/channel89.flv?wsSecret=d18f102f16239e5618ec03e670081801&wsABSTime=1781253484
-#EXTINF:-1 group-title="Xoilac", ⚽ Trận đấu đang chờ cập nhật
-https://live1.pro2cdnlive.com/live/channel90.flv?wsSecret=54aa35c86b23541acdba6e5838812229&wsABSTime=1781253495
-#EXTINF:-1 group-title="Xoilac", ⚽ Trận đấu đang chờ cập nhật
-https://live1.pro2cdnlive.com/live/channel51.flv?wsSecret=d67d7db51327dc0e0dce4add16346354&wsABSTime=1781253506
-#EXTINF:-1 group-title="Xoilac", ⚽ Trận đấu đang chờ cập nhật
-https://live1.pro2cdnlive.com/live/channel88.flv?wsSecret=ffa3bdcc7b9e6c31d90e8f3dfbce6eb5&wsABSTime=1781253517
-#EXTINF:-1 group-title="Xoilac", ⚽ Trận đấu đang chờ cập nhật
-https://live1.pro2cdnlive.com/live/channel52.flv?wsSecret=2b924a7bb9c3bd51fb9ee9b65992e8af&wsABSTime=1781253528
-#EXTINF:-1 group-title="Xoilac", ⚽ Trận đấu đang chờ cập nhật
-https://live1.pro2cdnlive.com/live/channel58.flv?wsSecret=800a10c56f54f2c6712c6a15cab126e9&wsABSTime=1781253539
-#EXTINF:-1 group-title="Xoilac", ⚽ Trận đấu đang chờ cập nhật
-https://live1.pro2cdnlive.com/live/channel87.flv?wsSecret=474f58340d452f9e3da0b8c641d84ef0&wsABSTime=1781253550
-#EXTINF:-1 group-title="Xoilac", ⚽ Trận đấu đang chờ cập nhật
-https://live2.pro2cdnlive.com/live/channel32.flv
-#EXTINF:-1 group-title="Xoilac", ⚽ VIC
-https://live2.pro2cdnlive.com/live/channel32.flv
-#EXTINF:-1 group-title="Xoilac", ⚽ Trận đấu đang chờ cập nhật
-https://live1.pro2cdnlive.com/live/channel80.flv?wsSecret=be79f99551f1d5f2be9d949d017cf011&wsABSTime=1781253584
-#EXTINF:-1 group-title="Xoilac", ⚽ Trận đấu đang chờ cập nhật
-https://live1.pro2cdnlive.com/live/channel81.flv?wsSecret=39f8f6e14173fee9b13c72c946ae5fd6&wsABSTime=1781253594
-#EXTINF:-1 group-title="Xoilac", ⚽ Trận đấu đang chờ cập nhật
-https://live1.pro2cdnlive.com/live/channel82.flv?wsSecret=53d5e836ce16ff309c79d604aa34a65b&wsABSTime=1781253605
-#EXTINF:-1 group-title="Xoilac", ⚽ Trận đấu đang chờ cập nhật
-https://live1.pro2cdnlive.com/live/channel83.flv?wsSecret=7365a4b6cfcf5f63825dbc39feb87a41&wsABSTime=1781253616
-#EXTINF:-1 group-title="Xoilac", ⚽ Trận đấu đang chờ cập nhật
-https://live1.pro2cdnlive.com/live/channel84.flv?wsSecret=22c28edb18e514c91c4ab7a358907fe3&wsABSTime=1781253626
-#EXTINF:-1 group-title="Xoilac", ⚽ Trận đấu đang chờ cập nhật
-https://live1.pro2cdnlive.com/live/channel80.flv?wsSecret=3adc82745c2bf03848d609388da54f52&wsABSTime=1781253637
-#EXTINF:-1 group-title="Xoilac", ⚽ Trận đấu đang chờ cập nhật
-https://live1.pro2cdnlive.com/live/channel80.flv?wsSecret=a52013e7c232dd5827d21d84d7ef7276&wsABSTime=1781253649
-#EXTINF:-1 group-title="Xoilac", ⚽ Trận đấu đang chờ cập nhật
-https://live1.pro2cdnlive.com/live/channel81.flv?wsSecret=a9ee75ecbbdc1ea3b1836a5bb80801e4&wsABSTime=1781253659
-#EXTINF:-1 group-title="Xoilac", ⚽ Trận đấu đang chờ cập nhật
-https://live1.pro2cdnlive.com/live/channel82.flv?wsSecret=02d9dfad0e6c2a2e6fd845f910ba6ac8&wsABSTime=1781253670
-#EXTINF:-1 group-title="Xoilac", ⚽ Trận đấu đang chờ cập nhật
-https://live1.pro2cdnlive.com/live/channel83.flv?wsSecret=284c7515f212558dde65d8942c4c99e1&wsABSTime=1781253681
-#EXTINF:-1 group-title="Xoilac", ⚽ Trận đấu đang chờ cập nhật
-https://live1.pro2cdnlive.com/live/channel84.flv?wsSecret=1a56aafbe933e634dcca14f44495b400&wsABSTime=1781253692
-#EXTINF:-1 group-title="Xoilac", ⚽ Trận đấu đang chờ cập nhật
-https://live1.pro2cdnlive.com/live/channel85.flv?wsSecret=27c55ab5837f841b3ed1d36d654e435d&wsABSTime=1781253703
-#EXTINF:-1 group-title="Xoilac", ⚽ Trận đấu đang chờ cập nhật
-https://live1.pro2cdnlive.com/live/channel80.flv?wsSecret=8395782ab44dfc45691f4945fdbc1993&wsABSTime=1781253713
-#EXTINF:-1 group-title="Xoilac", ⚽ Trận đấu đang chờ cập nhật
-https://live1.pro2cdnlive.com/live/channel81.flv?wsSecret=e3068b1d6f3b5dda780c83ede41a08a1&wsABSTime=1781253724
-#EXTINF:-1 group-title="Xoilac", ⚽ Trận đấu đang chờ cập nhật
-https://live1.pro2cdnlive.com/live/channel82.flv?wsSecret=df97e997482e1cae14420f568f48fc9f&wsABSTime=1781253735
-#EXTINF:-1 group-title="Xoilac", ⚽ Trận đấu đang chờ cập nhật
-https://live1.pro2cdnlive.com/live/channel83.flv?wsSecret=95c0436ce89ca514d00b76af3c58874f&wsABSTime=1781253746
-#EXTINF:-1 group-title="Xoilac", ⚽ Trận đấu đang chờ cập nhật
-https://live1.pro2cdnlive.com/live/channel84.flv?wsSecret=787a4e7cc6e5fffa657889b6507c5818&wsABSTime=1781253757
-#EXTINF:-1 group-title="Xoilac", ⚽ Trận đấu đang chờ cập nhật
-https://live1.pro2cdnlive.com/live/channel85.flv?wsSecret=b12dd5eb55d4c599e0b77ffed6562e20&wsABSTime=1781253768
-#EXTINF:-1 group-title="Xoilac", ⚽ Trận đấu đang chờ cập nhật
-https://live1.pro2cdnlive.com/live/channel80.flv?wsSecret=49d9fe10dadd5d49d86cd8bcb3bbc025&wsABSTime=1781253778
-#EXTINF:-1 group-title="Xoilac", ⚽ Trận đấu đang chờ cập nhật
-https://live1.pro2cdnlive.com/live/channel81.flv?wsSecret=1c2d6c217c5d6b44af8535dea20dc691&wsABSTime=1781253789
-#EXTINF:-1 group-title="Xoilac", ⚽ Trận đấu đang chờ cập nhật
-https://live1.pro2cdnlive.com/live/channel72.flv?wsSecret=ef72d4751f0c5a455272de16308a65a3&wsABSTime=1781253801
-#EXTINF:-1 group-title="Xoilac", ⚽ Trận đấu đang chờ cập nhật
-https://live2.pro2cdnlive.com/live/channel30.flv
-#EXTINF:-1 group-title="Xoilac", ⚽ MARTY
-https://live2.pro2cdnlive.com/live/channel30.flv
-#EXTINF:-1 group-title="Xoilac", ⚽ Trận đấu đang chờ cập nhật
-https://live1.pro2cdnlive.com/live/channel74.flv?wsSecret=ef07738c645c82f421c2379f1d534923&wsABSTime=1781253837
+#EXTINF:-1 group-title="Socolive", ⚽ BLV MESSI
+https://pull06.scstream.net/live/stream-494201_lhd.flv?auth_key=1781215683-0-0-2099e23c30923cf8e45bfedc6636b10e
+#EXTINF:-1 group-title="Socolive", ⚽ RICKHANTER
+https://pull.niur.live/live/stream-9912122_lhd.flv?txSecret=eb89320b439bc639d3d11d058f23531c&txTime=6a2b7981
+#EXTINF:-1 group-title="Socolive", ⚽ BLV Củ Cải
+https://pull06.scstream.net/live/stream-9912091_lhd.flv?auth_key=1781216053-0-0-7a539d1b1859fdbaf9ce056e1dc64059
+#EXTINF:-1 group-title="Socolive", ⚽ Live - BLV HENRY - 25.14k - WNBA: Indiana Fever W vs Chicago Sky W
+https://pull06.scstream.net/live/stream-9912112_lhd.flv?auth_key=1781221880-0-0-aabf8961be7c4d746c7063dcf31756b5
+#EXTINF:-1 group-title="Socolive", ⚽ Live - Sóc trèo cây ngô đồng - 1.46k - Tường thuật: WORLD CUP - Mexico vs South Africa
+https://pull06.scstream.net/live/stream-133824_lhd.flv?auth_key=1781221880-0-0-470790c7d4089f9c704906a3e129e45d
+#EXTINF:-1 group-title="Socolive", ⚽ Live - Sóc nhàm nhang nhồ - 1.13k - Tường thuật: WORLD CUP - Mexico vs South Africa
+https://pull06.scstream.net/live/stream-152898_lhd.flv?auth_key=1781221940-0-0-9bc3a0532b71e6e69d966742228e60e8
+#EXTINF:-1 group-title="Socolive", ⚽ Live - Sóc đau cổ vai gáy - 1.12k - Tường thuật: WORLD CUP - Mexico vs South Africa
+https://pull06.scstream.net/live/stream-179093_lhd.flv?auth_key=1781221940-0-0-8dd9519081f9b548cb23ee5f5fad99c5
+#EXTINF:-1 group-title="Socolive", ⚽ Live - Sóc trong rừng xà nu - 1.10k - Tường thuật: WORLD CUP - Mexico vs South Africa
+https://pull06.scstream.net/live/stream-9912079_lhd.flv?auth_key=1781222000-0-0-1359506e6456e8318be07436e6de1a93
+#EXTINF:-1 group-title="Socolive", ⚽ Live - SOCOLIVE - 1.09k - BIT.LY/SOCOLIVE
+https://pull06.scstream.net/live/stream-175784_lhd.flv?auth_key=1781222000-0-0-62c2794242a9029a2aa5d7fb94b4e18a
+#EXTINF:-1 group-title="Socolive", ⚽ Live - Sóc Nhó Nhịu Nhô Nhùng - 1.07k - Tường thuật: WORLD CUP - Mexico vs South Africa
+https://pull06.scstream.net/live/stream-133277_lhd.flv?auth_key=1781222060-0-0-2f3c94a2f63f9f9c29ed7360a11085f8
+#EXTINF:-1 group-title="Socolive", ⚽ Live - Sóc mèo méo meo - 1.03k - Tường thuật: WORLD CUP - Mexico vs South Africa
+https://pull06.scstream.net/live/stream-343500_lhd.flv?auth_key=1781222060-0-0-e202629384f097306c6c9adda0e8b560
