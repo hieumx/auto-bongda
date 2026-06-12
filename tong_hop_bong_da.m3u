@@ -1,29 +1,187 @@
 #EXTM3U
-#EXTINF:-1 group-title="Socolive" tvg-logo="https://sta.vnres.co/web/assets/soco/img/live-cover.png", ⚽ Live - TẠ BIÊN GIỚI - 154.17k - WORLD CUP: Canada vs Bosnia and Herzegovina
-https://pull.niur.live/live/stream-9912108_lhd.flv?txSecret=dc81117971d85e2d0647f5e35c34501a&txTime=6a2cb6e4
-#EXTINF:-1 group-title="Socolive" tvg-logo="https://sta.vnres.co/web/assets/soco/img/live-cover.png", ⚽ Live - BLV TOMMY - 124.71k - WORLD CUP: Canada vs Bosnia and Herzegovina
-https://pull.niur.live/live/stream-414317_lhd.flv?txSecret=04f84a746606b71dbbda3d6e4f4e5476&txTime=6a2cb720
-#EXTINF:-1 group-title="Socolive" tvg-logo="https://sta.vnres.co/web/assets/soco/img/live-cover.png", ⚽ Live - BLV TAP - 157.70k - WORLD CUP: Canada vs Bosnia and Herzegovina
-https://pull06.scstream.net/live/stream-9912041_lhd.flv?auth_key=1781297360-0-0-dcb92bd7a3d79a208f18a96f6fe993c3
-#EXTINF:-1 group-title="Socolive" tvg-logo="https://sta.vnres.co/web/assets/soco/img/live-cover.png", ⚽ Live - DECO - 220.12k - WORLD CUP: Canada vs Bosnia and Herzegovina
-https://pull.niur.live/live/stream-9912060_lhd.flv?txSecret=ef34d488b0005cb99e3c1e2cc3eaf2a6&txTime=6a2cb75c
-#EXTINF:-1 group-title="Socolive" tvg-logo="https://sta.vnres.co/web/assets/soco/img/live-cover.png", ⚽ Live - BLV ĐỐM - 121.28k - WORLD CUP: Canada vs Bosnia and Herzegovina
-https://pull06.scstream.net/live/stream-9912110_lhd.flv?auth_key=1781297420-0-0-92e4f4749a1461817bcc52e792947914
-#EXTINF:-1 group-title="Socolive" tvg-logo="https://sta.vnres.co/web/assets/soco/img/live-cover.png", ⚽ Live - BLV COCA - 138.78k - WORLD CUP: Canada vs Bosnia and Herzegovina
-https://pull06.scstream.net/live/stream-327159_lhd.flv?auth_key=1781297480-0-0-b0be0343c4bdca5f66b13df15fc6d86b
-#EXTINF:-1 group-title="Socolive" tvg-logo="https://sta.vnres.co/web/assets/soco/img/live-cover.png", ⚽ Live - BLV 7UP - 124.85k - WORLD CUP: Canada vs Bosnia and Herzegovina
-https://pull06.scstream.net/live/stream-534219_lhd.flv?auth_key=1781297480-0-0-ff1daa0b8fef4c8bb003aefa6ae7bdf2
-#EXTINF:-1 group-title="Socolive" tvg-logo="https://sta.vnres.co/web/assets/soco/img/live-cover.png", ⚽ Live - THẠCH TÚ - 123.75k - WORLD CUP: Canada vs Bosnia and Herzegovina
-https://pull06.scstream.net/live/stream-9912116_lhd.flv?auth_key=1781297540-0-0-a8b2a1c6f7289820fa0697863271042f
+#EXTINF:-1 group-title="Socolive" tvg-logo="https://sta.vnres.co/file/head/20230309/c0c0b8a45186e11216edc9779ecad64c_ss300.jpg", ⚽ TẠ BIÊN GIỚI
+https://pull.niur.live/live/stream-9912108_lhd.flv?txSecret=83fbc0251921894e558ad2082f567ec1&txTime=6a2cc962
+#EXTINF:-1 group-title="Socolive" tvg-logo="https://sta.vnres.co/file/head/20240227/9d9b326c7ac20bff96ced5de9444331b_ss300.jpeg", ⚽ BLV TOMMY
+https://pull.niur.live/live/stream-414317_lhd.flv?txSecret=6d569cf92122773072eb81cc64a4aea6&txTime=6a2cca35
+#EXTINF:-1 group-title="Socolive" tvg-logo="https://sta.vnres.co/file/head/20220627/645b22573c567baf728a81e490f7e47e_ss300.jpg", ⚽ BLV TAP
+https://pull06.scstream.net/live/stream-9912041_lhd.flv?auth_key=1781301919-0-0-b59aab936104ea6f2c95f73eb89beaa3
+#EXTINF:-1 group-title="Socolive" tvg-logo="https://sta.vnres.co/file/head/20260318/43f452fd77ef9df1fffa7e4bce066968_ss300.jpg", ⚽ DECO
+https://pull.niur.live/live/stream-9912060_lhd.flv?txSecret=4c1973b3446da53fc68667486fecc084&txTime=6a2cc9b6
+#EXTINF:-1 group-title="Socolive" tvg-logo="https://sta.vnres.co/file/head/20231105/2cde19ee6fcf4eb1fb0b0accf5569f54_ss300.jpg", ⚽ BLV ĐỐM
+https://pull06.scstream.net/live/stream-9912110_lhd.flv?auth_key=1781301980-0-0-3cd95c17b6ce3f8ac27a478837357a78
+#EXTINF:-1 group-title="Socolive" tvg-logo="https://sta.vnres.co/file/head/20251104/80107907ad004f601acafc408b7a712f_ss300.jpg", ⚽ BLV COCA
+https://pull06.scstream.net/live/stream-327159_lhd.flv?auth_key=1781301743-0-0-f6c08eb79105f4bbe207e9332d53941b
+#EXTINF:-1 group-title="Socolive" tvg-logo="https://sta.vnres.co/file/head/20250824/aa462886f28897850b904f41ff2c0358_ss300.jpg", ⚽ BLV 7UP
+https://pull06.scstream.net/live/stream-534219_lhd.flv?auth_key=1781301666-0-0-4fc426d5b2c997dd838a2a7184516cd3
+#EXTINF:-1 group-title="Socolive" tvg-logo="https://sta.vnres.co/file/head/20260211/0a013f89ac6734e2c83dc8b36213bca3_ss300.jpg", ⚽ THẠCH TÚ
+https://pull06.scstream.net/live/stream-9912116_lhd.flv?auth_key=1781301822-0-0-7cf894bab0d3d5abf2f1eec5ff02553e
 #EXTINF:-1 group-title="Socolive" tvg-logo="https://sta.vnres.co/web/assets/soco/img/avatar.png", ⚽ SAO LA
 https://pull.niur.live/live/stream-462413_lhd.flv?txSecret=6b58fe804c1db2f45f7df7bcc8ce7458&txTime=6a2c5b45
-#EXTINF:-1 group-title="Socolive" tvg-logo="https://sta.vnres.co/web/assets/soco/img/live-cover.png", ⚽ Live - BLV MESSI - 120.00k - WORLD CUP: Canada vs Bosnia and Herzegovina
-https://pull06.scstream.net/live/stream-494201_lhd.flv?auth_key=1781297600-0-0-ec76ea3d16967588da3600d439467ceb
-#EXTINF:-1 group-title="Socolive" tvg-logo="https://sta.vnres.co/web/assets/soco/img/live-cover.png", ⚽ Live - RICKHANTER - 128.26k - WORLD CUP: Canada vs Bosnia and Herzegovina
-https://pull.niur.live/live/stream-9912122_lhd.flv?txSecret=4714218a633e94662eb1586f6cd4b3c9&txTime=6a2cb84c
-#EXTINF:-1 group-title="Socolive" tvg-logo="https://sta.vnres.co/web/assets/soco/img/live-cover.png", ⚽ Live - BLV Củ Cải - 129.99k - WORLD CUP: Canada vs Bosnia and Herzegovina
-https://pull.niur.live/live/stream-9912091_lhd.flv?txSecret=c9ec67b2bce98a61823c5014e62b5c75&txTime=6a2cb84c
-#EXTINF:-1 group-title="Socolive" tvg-logo="https://sta.vnres.co/web/assets/soco/img/live-cover.png", ⚽ Live - CR Bưởi - 125.43k - WORLD CUP: Canada vs Bosnia and Herzegovina
-https://pull06.scstream.net/live/stream-387694_lhd.flv?auth_key=1781297720-0-0-190ae456defd065836ac565194467e1a
-#EXTINF:-1 group-title="Socolive" tvg-logo="https://sta.vnres.co/web/assets/soco/img/live-cover.png", ⚽ Live - SOCOLIVE - 1.05k - BIT.LY/SOCOLIVE
-https://pull06.scstream.net/live/stream-175784_lhd.flv?auth_key=1781297720-0-0-03eaa93f4e8691b1a679fce1ae2dbe2d
+#EXTINF:-1 group-title="Socolive" tvg-logo="https://sta.vnres.co/web/assets/soco/img/avatar.png", ⚽ BLV MESSI
+https://pull06.scstream.net/live/stream-494201_lhd.flv?auth_key=1781302002-0-0-298ea6fced2482e41d4aff4b71e2acf4
+#EXTINF:-1 group-title="Socolive" tvg-logo="https://sta.vnres.co/web/assets/soco/img/avatar.png", ⚽ RICKHANTER
+https://pull.niur.live/live/stream-9912122_lhd.flv?txSecret=7aa392001fd59b8727b81ab6da763426&txTime=6a2ccb2d
+#EXTINF:-1 group-title="Socolive" tvg-logo="https://sta.vnres.co/web/assets/soco/img/avatar.png", ⚽ BLV Củ Cải
+https://pull.niur.live/live/stream-9912091_lhd.flv?txSecret=909e6c9620e4a54394a0e24ca2854d51&txTime=6a2cc955
+#EXTINF:-1 group-title="Socolive" tvg-logo="https://sta.vnres.co/web/assets/soco/img/live-cover.png", ⚽ Live - XUÂN SON - 27.95k - BRA D2: Atletico Clube Goianiense vs CRB AL
+https://pull.niur.live/live/stream-501412_lhd.flv?txSecret=df550857c2eae90a7f851c1f32984b04&txTime=6a2cdb38
+#EXTINF:-1 group-title="Socolive" tvg-logo="https://sta.vnres.co/web/assets/soco/img/live-cover.png", ⚽ Live - BLV YONE - 26.50k - BRA D2: Atletico Clube Goianiense vs CRB AL
+https://pull06.scstream.net/live/stream-372746_lhd.flv?auth_key=1781306600-0-0-dc2d97ce28af6872127c80e143431565
+#EXTINF:-1 group-title="Socolive" tvg-logo="https://sta.vnres.co/web/assets/soco/img/live-cover.png", ⚽ Live - BLV A TÚ - 26.98k - BRA D2: Atletico Clube Goianiense vs CRB AL
+https://pull06.scstream.net/live/stream-557845_lhd.flv?auth_key=1781306660-0-0-8bbd3d254d73f732f5b9c370cc437e93
+#EXTINF:-1 group-title="Socolive" tvg-logo="https://sta.vnres.co/web/assets/soco/img/live-cover.png", ⚽ Live - HÀ DUY KIÊN - 27.14k - BRA D2: Atletico Clube Goianiense vs CRB AL
+https://pull06.scstream.net/live/stream-607400_lhd.flv?auth_key=1781306660-0-0-7703f02c822ddb930cdb7c283b8c6f82
+#EXTINF:-1 group-title="Socolive" tvg-logo="https://sta.vnres.co/web/assets/soco/img/live-cover.png", ⚽ Live - BLV THÓC - 26.59k - BRA D2: Atletico Clube Goianiense vs CRB AL
+https://pull06.scstream.net/live/stream-606448_lhd.flv?auth_key=1781306720-0-0-a475394a16f7f00f156a7903f68583fe
+#EXTINF:-1 group-title="Socolive" tvg-logo="https://sta.vnres.co/web/assets/soco/img/live-cover.png", ⚽ Live - BLV NẤM - 26.83k - BRA D2: Atletico Clube Goianiense vs CRB AL
+https://pull06.scstream.net/live/stream-608899_lhd.flv?auth_key=1781306780-0-0-fbd56eaaa40d0b28b19611cb555e59ef
+#EXTINF:-1 group-title="Socolive" tvg-logo="https://sta.vnres.co/web/assets/soco/img/live-cover.png", ⚽ Live - Sóc đau cổ vai gáy - 1.12k - Tường thuật: WORLD CUP - South Korea vs Czechia
+https://pull06.scstream.net/live/stream-179093_lhd.flv?auth_key=1781306780-0-0-8793dd3491c17e86f2d07fa53a98ca3b
+#EXTINF:-1 group-title="Socolive" tvg-logo="https://sta.vnres.co/web/assets/soco/img/live-cover.png", ⚽ Live - SOCOLIVE - 1.08k - BIT.LY/SOCOLIVE
+https://pull06.scstream.net/live/stream-175784_lhd.flv?auth_key=1781306840-0-0-d1733a5a5eb0c87bd8860243f9b9254d
+#EXTINF:-1 group-title="Socolive" tvg-logo="https://sta.vnres.co/web/assets/soco/img/live-cover.png", ⚽ Live - Sóc mèo méo meo - 1.04k - Tường thuật: WORLD CUP - Mexico vs South Africa
+https://pull06.scstream.net/live/stream-343500_lhd.flv?auth_key=1781306840-0-0-60fc2a5919e5ba8c9234180e707b9583
+#EXTINF:-1 group-title="Socolive" tvg-logo="https://sta.vnres.co/web/assets/soco/img/live-cover.png", ⚽ Live - Sóc trong rừng xà nu - 1.02k - Tường thuật: WORLD CUP - Canada vs Bosnia and Herzegovina
+https://pull06.scstream.net/live/stream-9912079_lhd.flv?auth_key=1781306900-0-0-c8f1398313ba3d248cebb303a7a3e9e6
+#EXTINF:-1 group-title="Socolive" tvg-logo="https://sta.vnres.co/web/assets/soco/img/live-cover.png", ⚽ Live - Sóc trèo cây ngô đồng - 1.02k - Tường thuật: WORLD CUP - Canada vs Bosnia and Herzegovina
+https://pull06.scstream.net/live/stream-133824_lhd.flv?auth_key=1781306900-0-0-2c0448b32958e972f564ba508f9a3a99
+#EXTINF:-1 group-title="Socolive" tvg-logo="https://sta.vnres.co/web/assets/soco/img/live-cover.png", ⚽ Live - Sóc Nhó Nhịu Nhô Nhùng - 1.02k - Tường thuật: WORLD CUP - South Korea vs Czechia
+https://pull06.scstream.net/live/stream-133277_lhd.flv?auth_key=1781306960-0-0-4cff2ab6f2e6a260c648e2d6123c9b14
+#EXTINF:-1 group-title="Socolive" tvg-logo="https://sta.vnres.co/web/assets/soco/img/live-cover.png", ⚽ Live - Sóc nhàm nhang nhồ - 1.01k - Tường thuật: WORLD CUP - Mexico vs South Africa
+https://pull06.scstream.net/live/stream-152898_lhd.flv?auth_key=1781306960-0-0-ea495f476213e98ab627625db88afefb
+#EXTINF:-1 group-title="Xoilac" tvg-logo="https://img.icons8.com/color/512/football2.png", ⚽ Trận đấu đang chờ cập nhật
+https://live1.pro2cdnlive.com/live/channel1.flv?wsSecret=dd7b9427659a235c90fd403009b67b08&wsABSTime=1781346683
+#EXTINF:-1 group-title="Xoilac" tvg-logo="https://img.icons8.com/color/512/football2.png", ⚽ ROY
+https://live1.pro2cdnlive.com/live/channel1.flv?wsSecret=e61e22d746d2c1c2c547fc4ad0b11bf9&wsABSTime=1781346706
+#EXTINF:-1 group-title="Xoilac" tvg-logo="https://img.icons8.com/color/512/football2.png", ⚽ Trận đấu đang chờ cập nhật
+https://live1.pro2cdnlive.com/live/channel1.flv?wsSecret=0f69dd9a83cfaa034c5e2cb07d59cded&wsABSTime=1781346717
+#EXTINF:-1 group-title="Xoilac" tvg-logo="https://img.icons8.com/color/512/football2.png", ⚽ ROY
+https://live1.pro2cdnlive.com/live/channel1.flv?wsSecret=c0651c52c0ae58ea29b95b597aaa51cc&wsABSTime=1781346730
+#EXTINF:-1 group-title="Xoilac" tvg-logo="https://img.icons8.com/color/512/football2.png", ⚽ NICK
+https://live1.pro2cdnlive.com/live/channel5.flv?wsSecret=da06361b008196efa0502aea0959968d&wsABSTime=1781346742
+#EXTINF:-1 group-title="Xoilac" tvg-logo="https://img.icons8.com/color/512/football2.png", ⚽ MAX
+https://live1.pro2cdnlive.com/live/channel6.flv?wsSecret=1b9aba82f9c0f2eeadebf4488ea18be2&wsABSTime=1781346753
+#EXTINF:-1 group-title="Xoilac" tvg-logo="https://img.icons8.com/color/512/football2.png", ⚽ Trận đấu đang chờ cập nhật
+https://live3.procdnlive.com/livecdn/channel60.flv?auth_key=3000001781303564-0-0-ccc8556bc9b9fa34bb91f525d2462201
+#EXTINF:-1 group-title="Xoilac" tvg-logo="https://img.icons8.com/color/512/football2.png", ⚽ Trận đấu đang chờ cập nhật
+https://live3.procdnlive.com/livecdn/channel45.flv?auth_key=3000001781303575-0-0-0493feb6907b8644641a3e104582cf10
+#EXTINF:-1 group-title="Xoilac" tvg-logo="https://img.icons8.com/color/512/football2.png", ⚽ Trận đấu đang chờ cập nhật
+https://live1.pro2cdnlive.com/live/channel28.flv?wsSecret=3cf9883d10dfe1fdd79021858528d17c&wsABSTime=1781346786
+#EXTINF:-1 group-title="Xoilac" tvg-logo="https://img.icons8.com/color/512/football2.png", ⚽ OLER
+https://live1.pro2cdnlive.com/live/channel28.flv?wsSecret=ef6a5ba82919dfaa2b6be2a96c6d94b7&wsABSTime=1781346798
+#EXTINF:-1 group-title="Xoilac" tvg-logo="https://img.icons8.com/color/512/football2.png", ⚽ Trận đấu đang chờ cập nhật
+https://live3.procdnlive.com/livecdn/channel61.flv?auth_key=3000001781303609-0-0-3dabc27d98df9eb8bea809b2904b1e8c
+#EXTINF:-1 group-title="Xoilac" tvg-logo="https://img.icons8.com/color/512/football2.png", ⚽ Trận đấu đang chờ cập nhật
+https://live3.procdnlive.com/livecdn/channel62.flv?auth_key=3000001781303620-0-0-9d61532c0be8040026e0f78fad4a0fbf
+#EXTINF:-1 group-title="Xoilac" tvg-logo="https://img.icons8.com/color/512/football2.png", ⚽ Trận đấu đang chờ cập nhật
+https://live3.procdnlive.com/livecdn/channel63.flv?auth_key=3000001781303631-0-0-18f5d0440397f88485fa362e06bd6f18
+#EXTINF:-1 group-title="Xoilac" tvg-logo="https://img.icons8.com/color/512/football2.png", ⚽ Trận đấu đang chờ cập nhật
+https://live3.procdnlive.com/livecdn/channel47.flv?auth_key=3000001781303642-0-0-8c683952b06718029edf260f73bb2ae2
+#EXTINF:-1 group-title="Xoilac" tvg-logo="https://img.icons8.com/color/512/football2.png", ⚽ Trận đấu đang chờ cập nhật
+https://live3.procdnlive.com/livecdn/channel48.flv?auth_key=3000001781303653-0-0-60fc6bd48b479e10a93cfb5c6b7a33fd
+#EXTINF:-1 group-title="Xoilac" tvg-logo="https://img.icons8.com/color/512/football2.png", ⚽ Trận đấu đang chờ cập nhật
+https://live3.procdnlive.com/livecdn/channel64.flv?auth_key=3000001781303664-0-0-64ecb307722a98f2874afc13f940c011
+#EXTINF:-1 group-title="Xoilac" tvg-logo="https://img.icons8.com/color/512/football2.png", ⚽ Trận đấu đang chờ cập nhật
+https://live3.procdnlive.com/livecdn/channel65.flv?auth_key=3000001781303675-0-0-0c33c49fb97c1956f9c3052175cfb92c
+#EXTINF:-1 group-title="Xoilac" tvg-logo="https://img.icons8.com/color/512/football2.png", ⚽ Trận đấu đang chờ cập nhật
+https://live3.procdnlive.com/livecdn/channel66.flv?auth_key=3000001781303686-0-0-5d4150cc3bc09773ea5c86757f761ea1
+#EXTINF:-1 group-title="Xoilac" tvg-logo="https://img.icons8.com/color/512/football2.png", ⚽ Trận đấu đang chờ cập nhật
+https://live3.procdnlive.com/livecdn/channel67.flv?auth_key=3000001781303697-0-0-83865e32f29a91cace72043d4f5620fc
+#EXTINF:-1 group-title="Xoilac" tvg-logo="https://img.icons8.com/color/512/football2.png", ⚽ Trận đấu đang chờ cập nhật
+https://live1.pro2cdnlive.com/live/channel23.flv?wsSecret=b4e86771caa4807dc9b3e008a112d62b&wsABSTime=1781346908
+#EXTINF:-1 group-title="Xoilac" tvg-logo="https://img.icons8.com/color/512/football2.png", ⚽ LOGAN
+https://live1.pro2cdnlive.com/live/channel23.flv?wsSecret=57a0ea147e8f291a384da993b314a639&wsABSTime=1781346921
+#EXTINF:-1 group-title="Xoilac" tvg-logo="https://img.icons8.com/color/512/football2.png", ⚽ Trận đấu đang chờ cập nhật
+https://live3.procdnlive.com/livecdn/channel49.flv?auth_key=3000001781303732-0-0-375987ac4f0f469832d41619ff427802
+#EXTINF:-1 group-title="Xoilac" tvg-logo="https://img.icons8.com/color/512/football2.png", ⚽ Trận đấu đang chờ cập nhật
+https://live3.procdnlive.com/livecdn/channel68.flv?auth_key=3000001781303743-0-0-7496572d4e7fa1ecb690a0f324c2d58c
+#EXTINF:-1 group-title="Xoilac" tvg-logo="https://img.icons8.com/color/512/football2.png", ⚽ Trận đấu đang chờ cập nhật
+https://live3.procdnlive.com/livecdn/channel50.flv?auth_key=3000001781303754-0-0-28a2a8ffcf8e203b69ad6ff6a1767e84
+#EXTINF:-1 group-title="Xoilac" tvg-logo="https://img.icons8.com/color/512/football2.png", ⚽ Trận đấu đang chờ cập nhật
+https://live3.procdnlive.com/livecdn/channel51.flv?auth_key=3000001781303766-0-0-6e5c641521b2c9c4887364e477141edf
+#EXTINF:-1 group-title="Xoilac" tvg-logo="https://img.icons8.com/color/512/football2.png", ⚽ Trận đấu đang chờ cập nhật
+https://live3.procdnlive.com/livecdn/channel52.flv?auth_key=3000001781303777-0-0-1cbc2730d64b262b5a50a510eb754d97
+#EXTINF:-1 group-title="Xoilac" tvg-logo="https://img.icons8.com/color/512/football2.png", ⚽ Trận đấu đang chờ cập nhật
+https://live3.procdnlive.com/livecdn/channel71.flv?auth_key=3000001781303789-0-0-145e06c7d051aaf3deb1e89e4e868607
+#EXTINF:-1 group-title="Xoilac" tvg-logo="https://img.icons8.com/color/512/football2.png", ⚽ Trận đấu đang chờ cập nhật
+https://live3.procdnlive.com/livecdn/channel72.flv?auth_key=3000001781303800-0-0-f48366a6dd00a5633c741c08349ecbe0
+#EXTINF:-1 group-title="Xoilac" tvg-logo="https://img.icons8.com/color/512/football2.png", ⚽ Trận đấu đang chờ cập nhật
+https://live3.procdnlive.com/livecdn/channel73.flv?auth_key=3000001781303811-0-0-062a9c6315fab29fd65e37b5c6e84cad
+#EXTINF:-1 group-title="Xoilac" tvg-logo="https://img.icons8.com/color/512/football2.png", ⚽ Trận đấu đang chờ cập nhật
+https://live1.pro2cdnlive.com/live/channel44.flv?wsSecret=e4ff063271cdd19677d8f8a2e097e42f&wsABSTime=1781347021
+#EXTINF:-1 group-title="Xoilac" tvg-logo="https://img.icons8.com/color/512/football2.png", ⚽ Trận đấu đang chờ cập nhật
+https://live1.pro2cdnlive.com/live/channel25.flv?wsSecret=92f26076c829a2aa80faab62ca6da86a&wsABSTime=1781347032
+#EXTINF:-1 group-title="Xoilac" tvg-logo="https://img.icons8.com/color/512/football2.png", ⚽ ALAN
+https://live1.pro2cdnlive.com/live/channel25.flv?wsSecret=ff6269a390fefdd822471f7f878bf6dd&wsABSTime=1781347045
+#EXTINF:-1 group-title="Xoilac" tvg-logo="https://img.icons8.com/color/512/football2.png", ⚽ Trận đấu đang chờ cập nhật
+https://live1.pro2cdnlive.com/live/channel26.flv?wsSecret=5158fbbb2286e523dc26277fbf71de72&wsABSTime=1781347055
+#EXTINF:-1 group-title="Xoilac" tvg-logo="https://img.icons8.com/color/512/football2.png", ⚽ STEP
+https://live1.pro2cdnlive.com/live/channel26.flv?wsSecret=d2652ecbf6bde26475af2c86aac9419e&wsABSTime=1781347067
+#EXTINF:-1 group-title="Xoilac" tvg-logo="https://img.icons8.com/color/512/football2.png", ⚽ Trận đấu đang chờ cập nhật
+https://live3.procdnlive.com/livecdn/channel71.flv?auth_key=3000001781303878-0-0-d68e7a06ae23826402dc4bbe0c6f1e5d
+#EXTINF:-1 group-title="Xoilac" tvg-logo="https://img.icons8.com/color/512/football2.png", ⚽ Trận đấu đang chờ cập nhật
+https://live3.procdnlive.com/livecdn/channel72.flv?auth_key=3000001781303889-0-0-bdc14ccfa9031065eedbe3222ae3a8f6
+#EXTINF:-1 group-title="Xoilac" tvg-logo="https://img.icons8.com/color/512/football2.png", ⚽ Trận đấu đang chờ cập nhật
+https://live3.procdnlive.com/livecdn/channel73.flv?auth_key=3000001781303899-0-0-b30bcf86f1198fa372746280caff06e3
+#EXTINF:-1 group-title="Xoilac" tvg-logo="https://img.icons8.com/color/512/football2.png", ⚽ Trận đấu đang chờ cập nhật
+https://live3.procdnlive.com/livecdn/channel74.flv?auth_key=3000001781303910-0-0-d826fc9a5e61b001b21bdc9dc8110a8c
+#EXTINF:-1 group-title="Xoilac" tvg-logo="https://img.icons8.com/color/512/football2.png", ⚽ Trận đấu đang chờ cập nhật
+https://live1.pro2cdnlive.com/live/channel25.flv?wsSecret=c4fc18220829b4c94c41f96e741cd517&wsABSTime=1781347121
+#EXTINF:-1 group-title="Xoilac" tvg-logo="https://img.icons8.com/color/512/football2.png", ⚽ Trận đấu đang chờ cập nhật
+https://live1.pro2cdnlive.com/live/channel26.flv?wsSecret=b698b18ac04af3b6be6f962ad9613640&wsABSTime=1781347132
+#EXTINF:-1 group-title="Xoilac" tvg-logo="https://img.icons8.com/color/512/football2.png", ⚽ Trận đấu đang chờ cập nhật
+https://live3.procdnlive.com/livecdn/channel72.flv?auth_key=3000001781303943-0-0-24ff17b2c1c4bc2f91dab65d000571f3
+#EXTINF:-1 group-title="Xoilac" tvg-logo="https://img.icons8.com/color/512/football2.png", ⚽ Trận đấu đang chờ cập nhật
+https://live1.pro2cdnlive.com/live/channel25.flv?wsSecret=8b6fdc429d98a5304b791a601ae91160&wsABSTime=1781347154
+#EXTINF:-1 group-title="Xoilac" tvg-logo="https://img.icons8.com/color/512/football2.png", ⚽ Trận đấu đang chờ cập nhật
+https://live1.pro2cdnlive.com/live/channel29.flv?wsSecret=6f87218ba1a031e2d07dd3146f3c268d&wsABSTime=1781347165
+#EXTINF:-1 group-title="Xoilac" tvg-logo="https://img.icons8.com/color/512/football2.png", ⚽ Trận đấu đang chờ cập nhật
+https://live3.procdnlive.com/livecdn/channel71.flv?auth_key=3000001781303976-0-0-e259371e5b13cc7dd270442ad9aae798
+#EXTINF:-1 group-title="Xoilac" tvg-logo="https://img.icons8.com/color/512/football2.png", ⚽ Trận đấu đang chờ cập nhật
+https://live3.procdnlive.com/livecdn/channel72.flv?auth_key=3000001781303987-0-0-a5c40488bef4d2a16b6f3b451cf9993d
+#EXTINF:-1 group-title="Xoilac" tvg-logo="https://img.icons8.com/color/512/football2.png", ⚽ Trận đấu đang chờ cập nhật
+https://live1.pro2cdnlive.com/live/channel26.flv?wsSecret=5c88ec841717b36748db972085cf5019&wsABSTime=1781347198
+#EXTINF:-1 group-title="Xoilac" tvg-logo="https://img.icons8.com/color/512/football2.png", ⚽ Trận đấu đang chờ cập nhật
+https://live3.procdnlive.com/livecdn/channel74.flv?auth_key=3000001781304009-0-0-196a07b310090bb40ef89b92f4a09294
+#EXTINF:-1 group-title="Xoilac" tvg-logo="https://img.icons8.com/color/512/football2.png", ⚽ Trận đấu đang chờ cập nhật
+https://live1.pro2cdnlive.com/live/channel26.flv?wsSecret=538500f2598e0d81e398141b473e73f7&wsABSTime=1781347219
+#EXTINF:-1 group-title="Xoilac" tvg-logo="https://img.icons8.com/color/512/football2.png", ⚽ Trận đấu đang chờ cập nhật
+https://live3.procdnlive.com/livecdn/channel80.flv?auth_key=3000001781304031-0-0-258faa1b859483db4071c6cac3ddeaa6
+#EXTINF:-1 group-title="Xoilac" tvg-logo="https://img.icons8.com/color/512/football2.png", ⚽ Trận đấu đang chờ cập nhật
+https://live3.procdnlive.com/livecdn/channel81.flv?auth_key=3000001781304042-0-0-03f3334c1b9af64355a1f80e5a711d9d
+#EXTINF:-1 group-title="Xoilac" tvg-logo="https://img.icons8.com/color/512/football2.png", ⚽ Trận đấu đang chờ cập nhật
+https://live3.procdnlive.com/livecdn/channel82.flv?auth_key=3000001781304053-0-0-e1a831c877b8282d3bbc37fa1eb8b883
+#EXTINF:-1 group-title="Xoilac" tvg-logo="https://img.icons8.com/color/512/football2.png", ⚽ Trận đấu đang chờ cập nhật
+https://live3.procdnlive.com/livecdn/channel83.flv?auth_key=3000001781304064-0-0-2ec3c48ca36a1dd9954700cd24ea5ba2
+#EXTINF:-1 group-title="Xoilac" tvg-logo="https://img.icons8.com/color/512/football2.png", ⚽ Trận đấu đang chờ cập nhật
+https://live3.procdnlive.com/livecdn/channel84.flv?auth_key=3000001781304075-0-0-283de9faf8ed11232304fe22f9021f5e
+#EXTINF:-1 group-title="Xoilac" tvg-logo="https://img.icons8.com/color/512/football2.png", ⚽ Trận đấu đang chờ cập nhật
+https://live3.procdnlive.com/livecdn/channel80.flv?auth_key=3000001781304086-0-0-a4a56c143258d8aaa9213ca05a98026d
+#EXTINF:-1 group-title="Xoilac" tvg-logo="https://img.icons8.com/color/512/football2.png", ⚽ Trận đấu đang chờ cập nhật
+https://live3.procdnlive.com/livecdn/channel80.flv?auth_key=3000001781304097-0-0-ce25d27eaa5ee775555594fdbda38c10
+#EXTINF:-1 group-title="Xoilac" tvg-logo="https://img.icons8.com/color/512/football2.png", ⚽ Trận đấu đang chờ cập nhật
+https://live3.procdnlive.com/livecdn/channel80.flv?auth_key=3000001781304108-0-0-9da86624aa2b95ce2479f2e41b6a9f95
+#EXTINF:-1 group-title="Xoilac" tvg-logo="https://img.icons8.com/color/512/football2.png", ⚽ Trận đấu đang chờ cập nhật
+https://live3.procdnlive.com/livecdn/channel81.flv?auth_key=3000001781304119-0-0-0e2046d08e6deb0ba36c56d6805e78e1
+#EXTINF:-1 group-title="Xoilac" tvg-logo="https://img.icons8.com/color/512/football2.png", ⚽ Trận đấu đang chờ cập nhật
+https://live3.procdnlive.com/livecdn/channel82.flv?auth_key=3000001781304129-0-0-357970d26bb09bbdfad2d1010af1266f
+#EXTINF:-1 group-title="Xoilac" tvg-logo="https://img.icons8.com/color/512/football2.png", ⚽ Trận đấu đang chờ cập nhật
+https://live3.procdnlive.com/livecdn/channel83.flv?auth_key=3000001781304140-0-0-aa8e8ab441afd21efaf8738b2017f79a
+#EXTINF:-1 group-title="Xoilac" tvg-logo="https://img.icons8.com/color/512/football2.png", ⚽ Trận đấu đang chờ cập nhật
+https://live3.procdnlive.com/livecdn/channel84.flv?auth_key=3000001781304151-0-0-5be29b5c203171c82e99f0ca77fa4799
+#EXTINF:-1 group-title="Xoilac" tvg-logo="https://img.icons8.com/color/512/football2.png", ⚽ Trận đấu đang chờ cập nhật
+https://live3.procdnlive.com/livecdn/channel80.flv?auth_key=3000001781304162-0-0-79d787e015a81150e62fd25d097b1791
+#EXTINF:-1 group-title="Xoilac" tvg-logo="https://img.icons8.com/color/512/football2.png", ⚽ Trận đấu đang chờ cập nhật
+https://live3.procdnlive.com/livecdn/channel81.flv?auth_key=3000001781304173-0-0-6c7d8f3a33fa3f5e7bfaf7756f14dd58
+#EXTINF:-1 group-title="Xoilac" tvg-logo="https://img.icons8.com/color/512/football2.png", ⚽ Trận đấu đang chờ cập nhật
+https://live3.procdnlive.com/livecdn/channel80.flv?auth_key=3000001781304184-0-0-2768a4f833ad5b3246422036b1a3980e
+#EXTINF:-1 group-title="Xoilac" tvg-logo="https://img.icons8.com/color/512/football2.png", ⚽ Trận đấu đang chờ cập nhật
+https://live3.procdnlive.com/livecdn/channel81.flv?auth_key=3000001781304195-0-0-fb1345f06ce66800b103001c1fa05cce
+#EXTINF:-1 group-title="Xoilac" tvg-logo="https://img.icons8.com/color/512/football2.png", ⚽ Trận đấu đang chờ cập nhật
+https://live3.procdnlive.com/livecdn/channel82.flv?auth_key=3000001781304207-0-0-8f2dcc204a75a2965d8d54a8a020de11
+#EXTINF:-1 group-title="Xoilac" tvg-logo="https://img.icons8.com/color/512/football2.png", ⚽ Trận đấu đang chờ cập nhật
+https://live3.procdnlive.com/livecdn/channel83.flv?auth_key=3000001781304218-0-0-832358a392fc4ac01ee56eef557a5fbb
+#EXTINF:-1 group-title="Xoilac" tvg-logo="https://img.icons8.com/color/512/football2.png", ⚽ Trận đấu đang chờ cập nhật
+https://live3.procdnlive.com/livecdn/channel84.flv?auth_key=3000001781304229-0-0-ba7bfe968884e7c64a00590c223bbc06
+#EXTINF:-1 group-title="Xoilac" tvg-logo="https://img.icons8.com/color/512/football2.png", ⚽ Trận đấu đang chờ cập nhật
+https://live3.procdnlive.com/livecdn/channel90.flv?auth_key=3000001781304241-0-0-cd78c8e1e70817f7ac0d627e8c20621e
