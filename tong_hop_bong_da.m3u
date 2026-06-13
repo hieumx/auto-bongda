@@ -1,95 +1,71 @@
 #EXTM3U
 #EXTINF:-1 group-title="Socolive" tvg-logo="https://sta.vnres.co/file/head/20230309/c0c0b8a45186e11216edc9779ecad64c_ss300.jpg", ⚽ TẠ BIÊN GIỚI
-https://pull06.scstream.net/live/stream-9912108_lhd.flv?auth_key=1781334098-0-0-f279b7dc5260015fad34ff3299c6b2c7
-#EXTINF:-1 group-title="Socolive" tvg-logo="https://sta.vnres.co/file/head/20240227/9d9b326c7ac20bff96ced5de9444331b_ss300.jpeg", ⚽ BLV TOMMY
-https://pull06.scstream.net/live/stream-380460_lhd.flv?auth_key=1781336660-0-0-0904423a071bd0db6cb56b3a09835b82
+https://pull.niur.live/live/stream-9912060_lhd.flv?txSecret=8d7bc30c42074830d91c7f4d422a9757&txTime=6a2d67d8
+#EXTINF:-1 group-title="Socolive" tvg-logo="https://sta.vnres.co/web/assets/soco/img/live-cover.png", ⚽ Live - BLV TOMMY - 72.87k - CHA D1: Changchun Yatai vs Dalian K'un City
+https://pull.niur.live/live/stream-414317_lhd.flv?txSecret=3f22060bbd8d8d1f84d74fed1371a382&txTime=6a2d67d9
 #EXTINF:-1 group-title="Socolive" tvg-logo="https://sta.vnres.co/file/head/20220627/645b22573c567baf728a81e490f7e47e_ss300.jpg", ⚽ BLV TAP
 https://pull06.scstream.net/live/stream-9912041_lhd.flv?auth_key=1781324159-0-0-7abcc8a316be170aa2aafbaf2ede6da2
-#EXTINF:-1 group-title="Socolive" tvg-logo="https://sta.vnres.co/file/head/20260318/43f452fd77ef9df1fffa7e4bce066968_ss300.jpg", ⚽ DECO
-https://pull.niur.live/live/stream-9912060_lhd.flv?txSecret=f8477273f0c21e4a29a772b5cff652e8&txTime=6a2d1f42
-#EXTINF:-1 group-title="Socolive" tvg-logo="https://sta.vnres.co/file/head/20231105/2cde19ee6fcf4eb1fb0b0accf5569f54_ss300.jpg", ⚽ BLV ĐỐM
-https://pull06.scstream.net/live/stream-9912110_lhd.flv?auth_key=1781324174-0-0-64286a2fb88700b6fe5a27eed999df7d
-#EXTINF:-1 group-title="Socolive" tvg-logo="https://sta.vnres.co/file/head/20251104/80107907ad004f601acafc408b7a712f_ss300.jpg", ⚽ BLV COCA
-https://pull06.scstream.net/live/stream-527383_lhd.flv?auth_key=1781336840-0-0-64f42c989912cd7e941ea2c99fd93b00
+#EXTINF:-1 group-title="Socolive" tvg-logo="https://sta.vnres.co/web/assets/soco/img/live-cover.png", ⚽ Live - DECO - 76.70k - CHA D1: Changchun Yatai vs Dalian K'un City
+https://pull.niur.live/live/stream-9912060_lhd.flv?txSecret=c2e144b8985286cc19dfd47447114bb3&txTime=6a2d6814
+#EXTINF:-1 group-title="Socolive" tvg-logo="https://sta.vnres.co/web/assets/soco/img/live-cover.png", ⚽ Live - BLV ĐỐM - 72.55k - CHA D1: Changchun Yatai vs Dalian K'un City
+https://pull06.scstream.net/live/stream-9912110_lhd.flv?auth_key=1781342661-0-0-8923afd0f3ae54e8e06d429f72bfaed4
+#EXTINF:-1 group-title="Socolive" tvg-logo="https://sta.vnres.co/web/assets/soco/img/live-cover.png", ⚽ Live - BLV COCA - 73.01k - CHA D1: Changchun Yatai vs Dalian K'un City
+https://pull06.scstream.net/live/stream-327159_lhd.flv?auth_key=1781342720-0-0-7daa34cdebe923551b19ed19be38f60d
 #EXTINF:-1 group-title="Socolive" tvg-logo="https://sta.vnres.co/file/head/20250824/aa462886f28897850b904f41ff2c0358_ss300.jpg", ⚽ BLV 7UP
-https://pull.niur.live/live/stream-462413_lhd.flv?txSecret=0847eb087f9089570479ea6cb89fc579&txTime=6a2d5158
+https://pull06.scstream.net/live/stream-327159_lhd.flv?auth_key=1781342780-0-0-4fc169b82a06c8650072376392878628
 #EXTINF:-1 group-title="Socolive" tvg-logo="https://sta.vnres.co/file/head/20260211/0a013f89ac6734e2c83dc8b36213bca3_ss300.jpg", ⚽ THẠCH TÚ
-https://pull.niur.live/live/stream-462413_lhd.flv?txSecret=21a616e8d314eba97ae17b044b125fd2&txTime=6a2d5194
-#EXTINF:-1 group-title="Socolive" tvg-logo="https://sta.vnres.co/web/assets/soco/img/live-cover.png", ⚽ Live - SAO LA - 54.32k - AUS NSW: University NSW vs St George Saints
-https://pull.niur.live/live/stream-462413_lhd.flv?txSecret=21a616e8d314eba97ae17b044b125fd2&txTime=6a2d5194
+https://pull06.scstream.net/live/stream-235232_lhd.flv?auth_key=1781342780-0-0-2b837d14603d891bacc804083dac8570
+#EXTINF:-1 group-title="Socolive" tvg-logo="https://sta.vnres.co/web/assets/soco/img/live-cover.png", ⚽ Live - SAO LA - 53.70k - CHA D1: Changchun Yatai vs Dalian K'un City
+https://pull.niur.live/live/stream-462413_lhd.flv?txSecret=fa3a68229dd011fc6d9bb041312f8a47&txTime=6a2d688d
 #EXTINF:-1 group-title="Socolive" tvg-logo="https://sta.vnres.co/web/assets/soco/img/avatar.png", ⚽ BLV MESSI
-https://pull06.scstream.net/live/stream-589848_lhd.flv?auth_key=1781336961-0-0-6a35602b641322d097c0929835e20cb1
+https://pull06.scstream.net/live/stream-595335_lhd.flv?auth_key=1781342841-0-0-65e7d6020d321beeac2602bd14a395c5
 #EXTINF:-1 group-title="Socolive" tvg-logo="https://sta.vnres.co/web/assets/soco/img/avatar.png", ⚽ RICKHANTER
-https://pull06.scstream.net/live/stream-531989_lhd.flv?auth_key=1781336960-0-0-0352b4ef2988e024cc9e3c60a6ae3669
+https://pull06.scstream.net/live/stream-595335_lhd.flv?auth_key=1781342901-0-0-7da17b80631ab28acedf86b0f04e82cf
 #EXTINF:-1 group-title="Socolive" tvg-logo="https://sta.vnres.co/web/assets/soco/img/avatar.png", ⚽ BLV Củ Cải
-https://pull06.scstream.net/live/stream-531989_lhd.flv?auth_key=1781336960-0-0-0352b4ef2988e024cc9e3c60a6ae3669
-#EXTINF:-1 group-title="Socolive" tvg-logo="https://sta.vnres.co/web/assets/soco/img/live-cover.png", ⚽ Live - LOKA - 53.44k - FFSA SL: Para Hills Knlghts SC vs White City Woodville
-https://pull06.scstream.net/live/stream-589848_lhd.flv?auth_key=1781336961-0-0-6a35602b641322d097c0929835e20cb1
-#EXTINF:-1 group-title="Socolive" tvg-logo="https://sta.vnres.co/web/assets/soco/img/live-cover.png", ⚽ Live - BLV ROBBEN - 53.80k - AUS NNSW: Edgeworth Eagles FC vs Cooks Hill United
-https://pull06.scstream.net/live/stream-527383_lhd.flv?auth_key=1781337020-0-0-d8f68c0ad19bc4aac9090734fd8f6cbb
-#EXTINF:-1 group-title="Socolive" tvg-logo="https://sta.vnres.co/web/assets/soco/img/live-cover.png", ⚽ Live - NGƯỜI CÁ - 53.53k - FFSA SL: Para Hills Knlghts SC vs White City Woodville
-https://pull06.scstream.net/live/stream-595335_lhd.flv?auth_key=1781337021-0-0-4f30a306d19d18837e2b14d55e41ac7c
-#EXTINF:-1 group-title="Socolive" tvg-logo="https://sta.vnres.co/web/assets/soco/img/live-cover.png", ⚽ Live - BLV LION - 36.36k - FFSA SL: Croydon Kings vs Playford City
-https://pull06.scstream.net/live/stream-603255_lhd.flv?auth_key=1781337081-0-0-0b5c0dd9089a8fee36fb800bd758af65
-#EXTINF:-1 group-title="Socolive" tvg-logo="https://sta.vnres.co/web/assets/soco/img/live-cover.png", ⚽ Live - BLV CÒ - 53.21k - AUS CGP: Queanbeyan City vs Monaro Panthers
-https://pull06.scstream.net/live/stream-582342_lhd.flv?auth_key=1781337141-0-0-e7bf6dca228799404ce5eb4ed08d07a7
-#EXTINF:-1 group-title="Socolive" tvg-logo="https://sta.vnres.co/web/assets/soco/img/live-cover.png", ⚽ Live - BLV ALEX - 53.34k - AUS CGP: OConnor Knights vs Tuggeranong United
-https://pull06.scstream.net/live/stream-532081_lhd.flv?auth_key=1781337140-0-0-5b2378e9b64217515d54de96c402e3e3
-#EXTINF:-1 group-title="Socolive" tvg-logo="https://sta.vnres.co/web/assets/soco/img/live-cover.png", ⚽ Live - BLV ENZO - 54.66k - AUS NSW: Western Sydney Wanderers Youth vs St George City FA
-https://pull06.scstream.net/live/stream-380460_lhd.flv?auth_key=1781337200-0-0-0fb63fbbe1b4fee8ff91fd8877902fb0
-#EXTINF:-1 group-title="Socolive" tvg-logo="https://sta.vnres.co/web/assets/soco/img/live-cover.png", ⚽ Live - BLV KEM - 55.00k - AUS NSW: Western Sydney Wanderers Youth vs St George City FA
-https://pull06.scstream.net/live/stream-513394_lhd.flv?auth_key=1781337200-0-0-9c1237f0691e3814d2c6e028349f70f5
-#EXTINF:-1 group-title="Socolive" tvg-logo="https://sta.vnres.co/web/assets/soco/img/live-cover.png", ⚽ Live - BLV VOI - 53.57k - AUS NNSW: Maitland vs Valentine
-https://pull06.scstream.net/live/stream-9912114_lhd.flv?auth_key=1781337260-0-0-db806baa74053600443d02a2644a1a0a
-#EXTINF:-1 group-title="Socolive" tvg-logo="https://sta.vnres.co/web/assets/soco/img/live-cover.png", ⚽ Live - BLV COZY - 53.81k - AUS NNSW: Edgeworth Eagles FC vs Cooks Hill United
-https://pull06.scstream.net/live/stream-531989_lhd.flv?auth_key=1781337260-0-0-6c4bc96ed1d38134953a04be5a6d4b51
-#EXTINF:-1 group-title="Socolive" tvg-logo="https://sta.vnres.co/web/assets/soco/img/live-cover.png", ⚽ Live - BLV RÔSI - 53.77k - AUS NSW: University NSW vs St George Saints
-https://pull.niur.live/live/stream-9912102_lhd.flv?txSecret=45082c9a66f9c0d75f2b983c7818d2a3&txTime=6a2d5338
-#EXTINF:-1 group-title="Socolive" tvg-logo="https://sta.vnres.co/web/assets/soco/img/live-cover.png", ⚽ Live - BRIAN - 28.09k - NZBL: Bay Hawks vs Franklin Bulls
-https://pull06.scstream.net/live/stream-9912106_lhd.flv?auth_key=1781337320-0-0-972b12b5f049eabf2d5334b8e7cc4bc4
-#EXTINF:-1 group-title="Socolive" tvg-logo="https://sta.vnres.co/web/assets/soco/img/live-cover.png", ⚽ Live - CHAN SENA - 27.00k - NZBL: Bay Hawks vs Franklin Bulls
-https://pull06.scstream.net/live/stream-9912115_lhd.flv?auth_key=1781337320-0-0-f0dfb876411ff9670da7c88345cf6bf1
-#EXTINF:-1 group-title="Socolive" tvg-logo="https://sta.vnres.co/web/assets/soco/img/live-cover.png", ⚽ Live - BLV CHIVAS - 26.70k - AUS NPLQ: Gold Coast United vs Brisbane City
-https://pull.niur.live/live/stream-485739_lhd.flv?txSecret=07f92d76967cd986093d5428b000bb93&txTime=6a2d536c
-#EXTINF:-1 group-title="Socolive" tvg-logo="https://sta.vnres.co/web/assets/soco/img/live-cover.png", ⚽ Live - A CHÈ - 26.55k - NZBL: Bay Hawks vs Franklin Bulls
-https://pull06.scstream.net/live/stream-356042_lhd.flv?auth_key=1781337380-0-0-b32ea9b4bdbc245af8de973a7818aa01
-#EXTINF:-1 group-title="Socolive" tvg-logo="https://sta.vnres.co/web/assets/soco/img/live-cover.png", ⚽ Live - BLV LUCAS - 26.50k - FFSA SL: Croydon Kings vs Playford City
-https://pull06.scstream.net/live/stream-304148_lhd.flv?auth_key=1781337380-0-0-47e5d8e3730bf19bdc2c5e9204df3968
-#EXTINF:-1 group-title="Socolive" tvg-logo="https://sta.vnres.co/web/assets/soco/img/live-cover.png", ⚽ Live - BLV PICK - 26.46k - AUS NPLQ: Gold Coast United vs Brisbane City
-https://pull.niur.live/live/stream-414317_lhd.flv?txSecret=7c7146c9a034d5a481ca9fd8a09b36c5&txTime=6a2d5374
-#EXTINF:-1 group-title="Socolive" tvg-logo="https://sta.vnres.co/web/assets/soco/img/live-cover.png", ⚽ Live - BLV A TINH - 26.37k - AUS NNSW: Maitland vs Valentine
-https://pull.niur.live/live/stream-598119_lhd.flv?txSecret=47eef701c95abcb99e928962055cfe95&txTime=6a2d53b0
-#EXTINF:-1 group-title="Socolive" tvg-logo="https://sta.vnres.co/web/assets/soco/img/live-cover.png", ⚽ Live - BLV RYO - 26.34k - AUS CGP: OConnor Knights vs Tuggeranong United
-https://pull.niur.live/live/stream-414317_lhd.flv?txSecret=78eacc4e82c585b6c4242987b5c83b04&txTime=6a2d53b0
-#EXTINF:-1 group-title="Socolive" tvg-logo="https://sta.vnres.co/web/assets/soco/img/live-cover.png", ⚽ Live - BLV XO - 26.32k - AUS CGP: Queanbeyan City vs Monaro Panthers
-https://pull.niur.live/live/stream-414317_lhd.flv?txSecret=78eacc4e82c585b6c4242987b5c83b04&txTime=6a2d53b0
-#EXTINF:-1 group-title="Socolive" tvg-logo="https://sta.vnres.co/web/assets/soco/img/live-cover.png", ⚽ Live - BLV GÔN - 26.10k - AUS FWP: Armadale SC vs Bayswater City
-https://pull06.scstream.net/live/stream-445260_lhd.flv?auth_key=1781337440-0-0-ca52b1657d8c543c7311e9ec1944a7ca
-#EXTINF:-1 group-title="Socolive" tvg-logo="https://sta.vnres.co/web/assets/soco/img/live-cover.png", ⚽ Live - BLV 24H - 25.53k - AUS FWP: Perth Glory Youth vs Perth SC
-https://pull06.scstream.net/live/stream-612928_lhd.flv?auth_key=1781337500-0-0-b02851820ec2e08f760b2f637d3d9b42
-#EXTINF:-1 group-title="Socolive" tvg-logo="https://sta.vnres.co/web/assets/soco/img/live-cover.png", ⚽ Live - HUNTER - 25.18k - NZBL: Bay Hawks vs Franklin Bulls
-https://pull06.scstream.net/live/stream-558264_lhd.flv?auth_key=1781337500-0-0-e37f19d446c780d168c8eb737c4b6bfe
-#EXTINF:-1 group-title="Socolive" tvg-logo="https://sta.vnres.co/web/assets/soco/img/live-cover.png", ⚽ Live - BLV KAN - 25.09k - AUS FWP: Stirling Macedonia vs Sorrento F.C.
-https://pull.niur.live/live/stream-283501_lhd.flv?txSecret=00d4c5ccd980fea09ea5492bd1638325&txTime=6a2d53ec
-#EXTINF:-1 group-title="Socolive" tvg-logo="https://sta.vnres.co/web/assets/soco/img/live-cover.png", ⚽ Live - XUÂN TÓC ĐỎ - 25.08k - AUS FWP: Macedonia vs Sorrento F.C.
-https://pull.niur.live/live/stream-610518_lhd.flv?txSecret=5c6dee276233578f30dd387d97d05020&txTime=6a2d53ec
-#EXTINF:-1 group-title="Socolive" tvg-logo="https://sta.vnres.co/web/assets/soco/img/live-cover.png", ⚽ Live - PINKMAN - 25.06k - AUS FWP: Fremantle City vs Balcatta FC
-https://pull.niur.live/live/stream-595715_lhd.flv?txSecret=c627f450320b0e65a42503226ddadb7e&txTime=6a2d5428
-#EXTINF:-1 group-title="Socolive" tvg-logo="https://sta.vnres.co/web/assets/soco/img/live-cover.png", ⚽ Live - CHÍ PHÈO - 25.06k - AUS FWP: Armadale SC vs Bayswater City
-https://pull06.scstream.net/live/stream-273736_lhd.flv?auth_key=1781337560-0-0-5c74ab8bf275e11cd374a9f6e89b1f2b
-#EXTINF:-1 group-title="Socolive" tvg-logo="https://sta.vnres.co/web/assets/soco/img/live-cover.png", ⚽ Live - TRÀ ĐÁ - 25.05k - AUS FWP: Fremantle City vs Balcatta FC
-https://pull06.scstream.net/live/stream-603914_lhd.flv?auth_key=1781337560-0-0-a22c4a70524bea06e3d7ae0292f6a9d0
-#EXTINF:-1 group-title="Socolive" tvg-logo="https://sta.vnres.co/web/assets/soco/img/live-cover.png", ⚽ Live - SOCOLIVE - 1.12k - BIT.LY/SOCOLIVE
-https://pull06.scstream.net/live/stream-175784_lhd.flv?auth_key=1781337560-0-0-15b73e94bf8423db6ee2f2d30b694632
-#EXTINF:-1 group-title="Socolive" tvg-logo="https://sta.vnres.co/web/assets/soco/img/live-cover.png", ⚽ Live - Sóc đau cổ vai gáy - 1.09k - Tường thuật: WORLD CUP - South Korea vs Czechia
-https://pull06.scstream.net/live/stream-179093_lhd.flv?auth_key=1781337620-0-0-466bb48166894da775d93a3d88c5e3da
-#EXTINF:-1 group-title="Socolive" tvg-logo="https://sta.vnres.co/web/assets/soco/img/live-cover.png", ⚽ Live - Sóc mèo méo meo - 1.07k - Tường thuật: WORLD CUP - Canada vs Bosnia and Herzegovina
-https://pull06.scstream.net/live/stream-343500_lhd.flv?auth_key=1781337620-0-0-5d23452f86a16d5a6c789cd34ccb967c
-#EXTINF:-1 group-title="Socolive" tvg-logo="https://sta.vnres.co/web/assets/soco/img/live-cover.png", ⚽ Live - Sóc Nhó Nhịu Nhô Nhùng - 1.02k - Tường thuật: WORLD CUP - USA vs Paraguay
-https://pull06.scstream.net/live/stream-133277_lhd.flv?auth_key=1781337620-0-0-3b641d8094d8c3da99957729e9a6c831
-#EXTINF:-1 group-title="Socolive" tvg-logo="https://sta.vnres.co/web/assets/soco/img/live-cover.png", ⚽ Live - Sóc trong rừng xà nu - 1.02k - Tường thuật: WORLD CUP - USA vs Paraguay
-https://pull06.scstream.net/live/stream-9912079_lhd.flv?auth_key=1781337680-0-0-1fc94c2d15109495760c10ad678d8b0c
-#EXTINF:-1 group-title="Socolive" tvg-logo="https://sta.vnres.co/web/assets/soco/img/live-cover.png", ⚽ Live - Sóc nhàm nhang nhồ - 1.01k - Tường thuật: WORLD CUP - Mexico vs South Africa
-https://pull06.scstream.net/live/stream-152898_lhd.flv?auth_key=1781337680-0-0-4c842c23f038eeca4fa5869bc1f3b98f
-#EXTINF:-1 group-title="Socolive" tvg-logo="https://sta.vnres.co/web/assets/soco/img/live-cover.png", ⚽ Live - Sóc trèo cây ngô đồng - 1.01k - Tường thuật: WORLD CUP - Canada vs Bosnia and Herzegovina
-https://pull06.scstream.net/live/stream-133824_lhd.flv?auth_key=1781337680-0-0-7dce07a4608fff90da6c7a49c8ea68dd
+https://pull06.scstream.net/live/stream-9912110_lhd.flv?auth_key=1781342901-0-0-b9cb30fa5f63a8a5582fa7971f2f2cca
+#EXTINF:-1 group-title="Socolive" tvg-logo="https://sta.vnres.co/web/assets/soco/img/live-cover.png", ⚽ Live - BLV A TINH - 36.73k - AUS NNSW: Maitland vs Valentine
+https://pull.niur.live/live/stream-598119_lhd.flv?txSecret=12fe3539a9afcdc32c89e5bdbcdf1fcc&txTime=6a2d6905
+#EXTINF:-1 group-title="Socolive" tvg-logo="https://sta.vnres.co/web/assets/soco/img/live-cover.png", ⚽ Live - BLV VOI - 52.98k - AUS NNSW: Maitland vs Valentine
+https://pull.niur.live/live/stream-552832_lhd.flv?txSecret=63a99112187cf53042502b57c6d15742&txTime=6a2d6941
+#EXTINF:-1 group-title="Socolive" tvg-logo="https://sta.vnres.co/web/assets/soco/img/live-cover.png", ⚽ Live - LOGAN - 53.55k - CHA D2: Shanghai Second vs Tai'an Tiankuang
+https://pull.niur.live/live/stream-552832_lhd.flv?txSecret=63a99112187cf53042502b57c6d15742&txTime=6a2d6941
+#EXTINF:-1 group-title="Socolive" tvg-logo="https://sta.vnres.co/web/assets/soco/img/live-cover.png", ⚽ Live - NGƯỜI CÁ - 53.24k - CHA D2: Shanghai Second vs Tai'an Tiankuang
+https://pull06.scstream.net/live/stream-595335_lhd.flv?auth_key=1781343021-0-0-8a3916544a165cbb08681b12d6dec9e2
+#EXTINF:-1 group-title="Socolive" tvg-logo="https://sta.vnres.co/web/assets/soco/img/live-cover.png", ⚽ Live - BLV ENZO - 51.72k - CHA D1: Changchun Yatai vs Dalian K'un City
+https://pull06.scstream.net/live/stream-380460_lhd.flv?auth_key=1781343021-0-0-081cf458dc9885a5dea4bec21719bca7
+#EXTINF:-1 group-title="Socolive" tvg-logo="https://sta.vnres.co/web/assets/soco/img/live-cover.png", ⚽ Live - BLV ROBBEN - 53.40k - AUS NNSW: Edgeworth Eagles FC vs Cooks Hill United
+https://pull.niur.live/live/stream-414317_lhd.flv?txSecret=d6c16f3ebbdd94835b47e995c02112e8&txTime=6a2d69b9
+#EXTINF:-1 group-title="Socolive" tvg-logo="https://sta.vnres.co/web/assets/soco/img/live-cover.png", ⚽ Live - BLV TOMIA - 35.01k - AUS NSW: Wollongong Wolves vs APIA Leichhardt Tigers
+https://pull06.scstream.net/live/stream-9912008_lhd.flv?auth_key=1781343080-0-0-c219f9f71a85b31ca543dcafd1e7d6dd
+#EXTINF:-1 group-title="Socolive" tvg-logo="https://sta.vnres.co/web/assets/soco/img/live-cover.png", ⚽ Live - A PÁO - 34.63k - AUS NSW: Wollongong Wolves vs APIA Leichhardt Tigers
+https://pull06.scstream.net/live/stream-235232_lhd.flv?auth_key=1781343080-0-0-800a20fcf43201a510af32e4f43d5753
+#EXTINF:-1 group-title="Socolive" tvg-logo="https://sta.vnres.co/web/assets/soco/img/live-cover.png", ⚽ Live - HẢI THANH - 34.38k - AUS NSW: Wollongong Wolves vs APIA Leichhardt Tigers
+https://pull06.scstream.net/live/stream-599634_lhd.flv?auth_key=1781343141-0-0-7cce533922ba432f4a46cc2d9fee0555
+#EXTINF:-1 group-title="Socolive" tvg-logo="https://sta.vnres.co/web/assets/soco/img/live-cover.png", ⚽ Live - LÃO LÂM - 34.26k - CHA D2: Dalian Kewei vs Changchun Xidu
+https://pull06.scstream.net/live/stream-527384_lhd.flv?auth_key=1781343141-0-0-354723b3290edd15598648da350fdeb8
+#EXTINF:-1 group-title="Socolive" tvg-logo="https://sta.vnres.co/web/assets/soco/img/live-cover.png", ⚽ Live - A BỆU - 34.17k - CHA D2: Dalian Kewei vs Changchun Xidu
+https://pull06.scstream.net/live/stream-484845_lhd.flv?auth_key=1781343201-0-0-ad249aad27e1590a513ce3376083fd24
+#EXTINF:-1 group-title="Socolive" tvg-logo="https://sta.vnres.co/web/assets/soco/img/live-cover.png", ⚽ Live - BLV PEWPEW - 33.04k - AFF U19: Indonesia U19 vs Cambodia U19
+https://pull06.scstream.net/live/stream-9912015_lhd.flv?auth_key=1781343200-0-0-992b3f9acc1dc3a7944c12627041e782
+#EXTINF:-1 group-title="Socolive" tvg-logo="https://sta.vnres.co/web/assets/soco/img/live-cover.png", ⚽ Live - BLV ANH TÀI - 27.04k - AUS NSW: Spirit FC vs Sydney Olympic
+https://pull06.scstream.net/live/stream-406865_lhd.flv?auth_key=1781343261-0-0-24a43c6e29f667c559b7352afd7dd3cb
+#EXTINF:-1 group-title="Socolive" tvg-logo="https://sta.vnres.co/web/assets/soco/img/live-cover.png", ⚽ Live - BRIAN - 27.00k - NZBL: Otago Nuggets vs Canterbury Rams
+https://pull06.scstream.net/live/stream-9912106_lhd.flv?auth_key=1781343260-0-0-c9e98faa5893691289e03dd7900c5c81
+#EXTINF:-1 group-title="Socolive" tvg-logo="https://sta.vnres.co/web/assets/soco/img/live-cover.png", ⚽ Live - BLV VITAMIN - 26.88k - AUS NSW: Sutherland Sharks vs Blacktown City Demons
+https://pull06.scstream.net/live/stream-400722_lhd.flv?auth_key=1781343321-0-0-fb0e5a6a0ffdd5aef1b710bb6a308762
+#EXTINF:-1 group-title="Socolive" tvg-logo="https://sta.vnres.co/web/assets/soco/img/live-cover.png", ⚽ Live - BLV CHIVAS - 26.73k - AUS FWP: Perth Glory Youth vs Perth SC
+https://pull.niur.live/live/stream-485739_lhd.flv?txSecret=ceccfb32ff399bb3c43a918a2edfe342&txTime=6a2d6ae5
+#EXTINF:-1 group-title="Socolive" tvg-logo="https://sta.vnres.co/web/assets/soco/img/live-cover.png", ⚽ Live - QUỐC KHÁNH - 26.70k - AUS NSW: Sutherland Sharks vs Blacktown City Demons
+https://pull06.scstream.net/live/stream-602153_lhd.flv?auth_key=1781343381-0-0-e3349dde7e9b1b82e017ef0980d048bf
+#EXTINF:-1 group-title="Socolive" tvg-logo="https://sta.vnres.co/web/assets/soco/img/live-cover.png", ⚽ Live - QUÂN JK - 26.64k - FFSA SL: Metrostars SC vs Sturt Lions
+https://pull06.scstream.net/live/stream-611178_lhd.flv?auth_key=1781343441-0-0-0ebea7074d487e9aa75fbde9b76532cc
+#EXTINF:-1 group-title="Socolive" tvg-logo="https://sta.vnres.co/web/assets/soco/img/live-cover.png", ⚽ Live - KÉP - 26.58k - AUS NSW: Spirit FC vs Sydney Olympic
+https://pull06.scstream.net/live/stream-560690_lhd.flv?auth_key=1781343441-0-0-0e4e6cc02c8bbf4437866740da6fa9be
+#EXTINF:-1 group-title="Socolive" tvg-logo="https://sta.vnres.co/web/assets/soco/img/live-cover.png", ⚽ Live - BLV GÔN - 26.56k - AUS FWP: Armadale SC vs Bayswater City
+https://pull06.scstream.net/live/stream-445260_lhd.flv?auth_key=1781343501-0-0-fb84b6a029f0296a1c182324963da54f
+#EXTINF:-1 group-title="Socolive" tvg-logo="https://sta.vnres.co/web/assets/soco/img/live-cover.png", ⚽ Live - BEN 10 - 26.52k - FFSA SL: Metrostars SC vs Sturt Lions
+https://pull06.scstream.net/live/stream-612098_lhd.flv?auth_key=1781343561-0-0-566c8bb55c7509989ed196ec470b91ba
+#EXTINF:-1 group-title="Socolive" tvg-logo="https://sta.vnres.co/web/assets/soco/img/live-cover.png", ⚽ Live - BLV 24H - 26.49k - AUS FWP: Perth Glory Youth vs Perth SC
+https://pull06.scstream.net/live/stream-612928_lhd.flv?auth_key=1781343561-0-0-a9ea9a06c0f6fe0fde49095dfc12fbfd
+#EXTINF:-1 group-title="Socolive" tvg-logo="https://sta.vnres.co/web/assets/soco/img/live-cover.png", ⚽ Live - CHÍ PHÈO - 26.41k - AUS FWP: Armadale SC vs Bayswater City
+https://pull06.scstream.net/live/stream-273736_lhd.flv?auth_key=1781343620-0-0-1bfc6e4a2d935150939b343940e58e1d
