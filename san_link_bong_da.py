@@ -30,7 +30,7 @@ def lay_proxy_tu_api():
 # HÀM LÕI: ĐIỀU KHIỂN TRÌNH DUYỆT ĐI SĂN
 # ==========================================
 def san_full_server_qua_proxy():
-    print("🚀 KHỞI ĐỘNG CHIẾN DỊCH VÉT SẠCH 4 SERVER (KÈM THUMBNAIL)...", flush=True)
+    print("🚀 KHỞI ĐỘNG CHIẾN DỊCH VÉT SẠCH 4 SERVER (KÈM THUMBNAIL & CHUỘT ẢO)...", flush=True)
     
     MAX_RETRIES = 3 
 
@@ -49,7 +49,6 @@ def san_full_server_qua_proxy():
 
             try:
                 with sync_playwright() as p:
-                    # Chạy ngầm trên GitHub Actions
                     browser = p.chromium.launch(
                         headless=True, 
                         proxy=cau_hinh_proxy,
@@ -66,10 +65,12 @@ def san_full_server_qua_proxy():
                         try:
                             page.goto(url_trang_chu, timeout=60000)
                             print("⏳ Đang rình Cloudflare mở cửa...", flush=True)
-                            page.wait_for_selector(f'a[href*="{keyword_link}"]', timeout=40000)
+                            
+                            # Kiểm tra sự tồn tại trong DOM thay vì đợi hiển thị (Fix lỗi cho Gavang)
+                            page.wait_for_function(f"document.querySelectorAll('a[href*=\"{keyword_link}\"]').length > 0", timeout=40000)
                             page.wait_for_timeout(5000)
                         except Exception as e:
-                            print(f"⚠️ Kẹt tường lửa do Proxy hỏng hoặc web sập: {e}", flush=True)
+                            print(f"⚠️ Kẹt tường lửa hoặc không tìm thấy thẻ link: {e}", flush=True)
                             return
 
                         danh_sach_raw = page.evaluate(f"""
@@ -106,13 +107,22 @@ def san_full_server_qua_proxy():
                             stream_link = None
                             def bat_goi_tin(request):
                                 nonlocal stream_link
-                                if ".flv" in request.url or ".m3u8" in request.url:
+                                url_lower = request.url.lower()
+                                if ".flv" in url_lower or ".m3u8" in url_lower:
                                     stream_link = request.url
                             
                             page.on("request", bat_goi_tin)
                             try:
                                 page.goto(link_phong, timeout=30000)
-                                page.wait_for_timeout(8000) 
+                                page.wait_for_load_state("domcontentloaded")
+                                page.wait_for_timeout(3000) # Chờ giao diện tải xong
+                                
+                                # ⚡ VŨ KHÍ MỚI: Bắn click chuột ảo để đánh thức Player
+                                page.mouse.click(960, 300) # Click khu vực trên
+                                page.wait_for_timeout(500)
+                                page.mouse.click(960, 540) # Click chính giữa màn hình
+                                
+                                page.wait_for_timeout(8000) # Tiếp tục rình mạng sau khi click
                             except Exception:
                                 pass 
                             page.remove_listener("request", bat_goi_tin)
@@ -138,7 +148,7 @@ def san_full_server_qua_proxy():
                 print(f"🔥 Lỗi hệ thống: {e}", flush=True)
 
         # ==========================================
-        # ĐÓNG GÓI M3U CHIA FOLDER (GROUP-TITLE) VÀ LOGO (TVG-LOGO)
+        # ĐÓNG GÓI M3U CHIA FOLDER VÀ LOGO
         # ==========================================
         if len(danh_sach_phat) > 0:
             print("\n📦 ĐANG ĐÓNG GÓI M3U VÀ CHIA THƯ MỤC...", flush=True)
