@@ -1,93 +1,67 @@
 #EXTM3U
-#EXTINF:-1 group-title="Socolive" tvg-logo="https://sta.vnres.co/file/head/20230309/c0c0b8a45186e11216edc9779ecad64c_ss300.jpg", ⚽ TẠ BIÊN GIỚI
-https://pull.niur.live/live/stream-9912122_lhd.flv?txSecret=dc957b1a1d7d95c3276ccf2dd11f8bd5&txTime=6a2f05fd
-#EXTINF:-1 group-title="Socolive" tvg-logo="https://sta.vnres.co/file/head/20240227/9d9b326c7ac20bff96ced5de9444331b_ss300.jpeg", ⚽ BLV TOMMY
-https://pull.niur.live/live/stream-414317_lhd.flv?txSecret=50dc1677a39111dd29c3d6c1bd937a29&txTime=6a2f0457
-#EXTINF:-1 group-title="Socolive" tvg-logo="https://sta.vnres.co/web/assets/soco/img/live-cover.png", ⚽ Live - BLV TAP - 63.56k - NOR D2: Haugesund vs Ranheim IL
-https://pull06.scstream.net/live/stream-9912041_lhd.flv?auth_key=1781448681-0-0-772f157a3862f5f47b84c8e7bcafc4bf
-#EXTINF:-1 group-title="Socolive" tvg-logo="https://sta.vnres.co/file/head/20260318/43f452fd77ef9df1fffa7e4bce066968_ss300.jpg", ⚽ DECO
-https://pull.niur.live/live/stream-548860_lhd.flv?txSecret=6b04478d604b07d8a87a7c96606da812&txTime=6a2f0675
-#EXTINF:-1 group-title="Socolive" tvg-logo="https://sta.vnres.co/file/head/20231105/2cde19ee6fcf4eb1fb0b0accf5569f54_ss300.jpg", ⚽ BLV ĐỐM
-https://pull.niur.live/live/stream-459401_lhd.flv?txSecret=a3e054122346b42e2e88429eef508c01&txTime=6a2f0675
-#EXTINF:-1 group-title="Socolive" tvg-logo="https://sta.vnres.co/file/head/20251104/80107907ad004f601acafc408b7a712f_ss300.jpg", ⚽ BLV COCA
-https://pull.niur.live/live/stream-459401_lhd.flv?txSecret=a3e054122346b42e2e88429eef508c01&txTime=6a2f0675
-#EXTINF:-1 group-title="Socolive" tvg-logo="https://sta.vnres.co/file/head/20250824/aa462886f28897850b904f41ff2c0358_ss300.jpg", ⚽ BLV 7UP
-https://pull.niur.live/live/stream-459401_lhd.flv?txSecret=a3e054122346b42e2e88429eef508c01&txTime=6a2f0675
-#EXTINF:-1 group-title="Socolive" tvg-logo="https://sta.vnres.co/web/assets/soco/img/live-cover.png", ⚽ Live - THẠCH TÚ - 63.45k - BRA D2: Sao Bernardo vs Sport Club do Recife
-https://pull06.scstream.net/live/stream-9912116_lhd.flv?auth_key=1781448741-0-0-235694e136a0c1831fe3b6c734422b45
+#EXTINF:-1 group-title="Socolive" tvg-logo="https://sta.vnres.co/web/assets/soco/img/live-cover.png", ⚽ Live - TẠ BIÊN GIỚI - 130.52k - WORLD CUP: Germany vs Curacao
+https://pull.niur.live/live/stream-9912108_lhd.flv?txSecret=eae3f17c447138ddd444388d53ce2554&txTime=6a2f3519
+#EXTINF:-1 group-title="Socolive" tvg-logo="https://sta.vnres.co/web/assets/soco/img/live-cover.png", ⚽ Live - BLV TOMMY - 88.25k - WORLD CUP: Germany vs Curacao
+https://pull.niur.live/live/stream-414317_lhd.flv?txSecret=7cae7046d2b32519af072d04e86ab99e&txTime=6a2f3519
+#EXTINF:-1 group-title="Socolive" tvg-logo="https://sta.vnres.co/web/assets/soco/img/live-cover.png", ⚽ Live - BLV TAP - 134.22k - WORLD CUP: Germany vs Curacao
+https://pull06.scstream.net/live/stream-9912041_lhd.flv?auth_key=1781460741-0-0-4f4ebceaf3a5b0cd620251df78fbc5e3
+#EXTINF:-1 group-title="Socolive" tvg-logo="https://sta.vnres.co/web/assets/soco/img/live-cover.png", ⚽ Live - DECO - 197.18k - WORLD CUP: Germany vs Curacao
+https://pull06.scstream.net/live/stream-9912060_lhd.flv?auth_key=1781460741-0-0-695d3965108f212e8bd070ed974aed38
+#EXTINF:-1 group-title="Socolive" tvg-logo="https://sta.vnres.co/web/assets/soco/img/live-cover.png", ⚽ Live - BLV ĐỐM - 84.10k - WORLD CUP: Germany vs Curacao
+https://pull06.scstream.net/live/stream-9912110_lhd.flv?auth_key=1781460741-0-0-6e87b89c5ecef69c67e9e134c650a49d
+#EXTINF:-1 group-title="Socolive" tvg-logo="https://sta.vnres.co/web/assets/soco/img/live-cover.png", ⚽ Live - BLV COCA - 99.71k - WORLD CUP: Germany vs Curacao
+https://pull06.scstream.net/live/stream-327159_lhd.flv?auth_key=1781460801-0-0-5267a07098e02817d231d97cb20cbd66
+#EXTINF:-1 group-title="Socolive" tvg-logo="https://sta.vnres.co/web/assets/soco/img/live-cover.png", ⚽ Live - BLV 7UP - 92.14k - WORLD CUP: Germany vs Curacao
+https://pull06.scstream.net/live/stream-534219_lhd.flv?auth_key=1781460801-0-0-c22de0fcc373051e331e3c55de106d43
+#EXTINF:-1 group-title="Socolive" tvg-logo="https://sta.vnres.co/web/assets/soco/img/live-cover.png", ⚽ Live - THẠCH TÚ - 86.18k - WORLD CUP: Germany vs Curacao
+https://pull.niur.live/live/stream-9912116_lhd.flv?txSecret=0be5d1f96b951a9e5100d507827c70bf&txTime=6a2f3591
 #EXTINF:-1 group-title="Socolive" tvg-logo="https://sta.vnres.co/web/assets/soco/img/avatar.png", ⚽ SAO LA
-https://pull.niur.live/live/stream-610518_lhd.flv?txSecret=6beeeedd4a65b39431e5e922cdc30923&txTime=6a2f06b1
-#EXTINF:-1 group-title="Socolive" tvg-logo="https://sta.vnres.co/web/assets/soco/img/avatar.png", ⚽ BLV MESSI
-https://pull.niur.live/live/stream-610518_lhd.flv?txSecret=6beeeedd4a65b39431e5e922cdc30923&txTime=6a2f06b1
-#EXTINF:-1 group-title="Socolive" tvg-logo="https://sta.vnres.co/web/assets/soco/img/live-cover.png", ⚽ Live - RICKHANTER - 63.03k - NOR D2: Haugesund vs Ranheim IL
-https://pull.niur.live/live/stream-9912122_lhd.flv?txSecret=eb1593c3f3da6b98e6d809d9cf14c11d&txTime=6a2f06b1
-#EXTINF:-1 group-title="Socolive" tvg-logo="https://sta.vnres.co/web/assets/soco/img/avatar.png", ⚽ BLV Củ Cải
-https://pull.niur.live/live/stream-610518_lhd.flv?txSecret=c15f6396c6c4743336eb2fc708275ce9&txTime=6a2f06ed
-#EXTINF:-1 group-title="Socolive" tvg-logo="https://sta.vnres.co/web/assets/soco/img/live-cover.png", ⚽ Live - A PÁO - 52.51k - SWE D2: Falkenberg vs Orebro
-https://pull06.scstream.net/live/stream-235232_lhd.flv?auth_key=1781448861-0-0-fc8941ae960f5973011972fcbb063150
-#EXTINF:-1 group-title="Socolive" tvg-logo="https://sta.vnres.co/web/assets/soco/img/live-cover.png", ⚽ Live - BLV HÚP - 50.06k - BRA D2: Sao Bernardo vs Sport Club do Recife
-https://pull06.scstream.net/live/stream-611382_lhd.flv?auth_key=1781448861-0-0-26b488c81fe3f21f51b2e2f575388154
-#EXTINF:-1 group-title="Socolive" tvg-logo="https://sta.vnres.co/web/assets/soco/img/live-cover.png", ⚽ Live - XUÂN TÓC ĐỎ - 50.56k - NOR D2: Haugesund vs Ranheim IL
-https://pull.niur.live/live/stream-610518_lhd.flv?txSecret=c15f6396c6c4743336eb2fc708275ce9&txTime=6a2f06ed
-#EXTINF:-1 group-title="Socolive" tvg-logo="https://sta.vnres.co/web/assets/soco/img/live-cover.png", ⚽ Live - BLV BÉO - 52.38k - SWE D2: Ljungskile vs Ostersunds FK
-https://pull.niur.live/live/stream-459401_lhd.flv?txSecret=59194b3f9a719281536c132c2fb22414&txTime=6a2f0729
-#EXTINF:-1 group-title="Socolive" tvg-logo="https://sta.vnres.co/web/assets/soco/img/live-cover.png", ⚽ Live - BLV ROBBEN - 50.61k - BRA D2: Sao Bernardo vs Sport Club do Recife
-https://pull06.scstream.net/live/stream-527383_lhd.flv?auth_key=1781448921-0-0-1cb3d4c74ae9b8557f8a06fa7f865946
-#EXTINF:-1 group-title="Socolive" tvg-logo="https://sta.vnres.co/web/assets/soco/img/live-cover.png", ⚽ Live - VƯƠNG ANH - 50.19k - NOR D2: Stromsgodset vs Raufoss IL
-https://pull.niur.live/live/stream-548860_lhd.flv?txSecret=12805c26915ec902004868c1aaf0fe49&txTime=6a2f0729
-#EXTINF:-1 group-title="Socolive" tvg-logo="https://sta.vnres.co/web/assets/soco/img/live-cover.png", ⚽ Live - BLV KEM - 50.10k - NOR D2: Stromsgodset vs Raufoss IL
-https://pull06.scstream.net/live/stream-513394_lhd.flv?auth_key=1781448921-0-0-8b1fa86d3db7646aca971d2efc40a73c
-#EXTINF:-1 group-title="Socolive" tvg-logo="https://sta.vnres.co/web/assets/soco/img/live-cover.png", ⚽ Live - CR Bưởi - 66.15k - SWE D2: Ljungskile vs Ostersunds FK
-https://pull.niur.live/live/stream-387694_lhd.flv?txSecret=cfddf3fa120fe81e280b8f4b46813f6e&txTime=6a2f0765
-#EXTINF:-1 group-title="Socolive" tvg-logo="https://sta.vnres.co/web/assets/soco/img/live-cover.png", ⚽ Live - BLV VITAMIN - 55.32k - SWE D2: Falkenberg vs Orebro
-https://pull06.scstream.net/live/stream-400722_lhd.flv?auth_key=1781448981-0-0-ae430f6edb4c4d167975deb87a45c9b3
-#EXTINF:-1 group-title="Socolive" tvg-logo="https://sta.vnres.co/web/assets/soco/img/live-cover.png", ⚽ Live - CÔNG CHẤT - 33.61k - NOR D2: Haugesund vs Ranheim IL
-https://pull06.scstream.net/live/stream-291277_lhd.flv?auth_key=1781448981-0-0-25b2d53ef6f81ff29d62dac0d73a111f
-#EXTINF:-1 group-title="Socolive" tvg-logo="https://sta.vnres.co/web/assets/soco/img/live-cover.png", ⚽ Live - BLV XO - 29.84k - SWE D2: Falkenberg vs Orebro
-https://pull06.scstream.net/live/stream-472241_lhd.flv?auth_key=1781448985-0-0-846bbacb3d461d33b413e6384fe82a67
-#EXTINF:-1 group-title="Socolive" tvg-logo="https://sta.vnres.co/web/assets/soco/img/live-cover.png", ⚽ Live - BLV HENRY - 29.06k - PBCC: TNT Tropang 5G vs Barangay Ginebra San Miguel
-https://pull06.scstream.net/live/stream-9912112_lhd.flv?auth_key=1781449041-0-0-ef7f17956e07e07c6aa907799c18a18f
-#EXTINF:-1 group-title="Socolive" tvg-logo="https://sta.vnres.co/web/assets/soco/img/live-cover.png", ⚽ Live - BLV LONG - 27.42k - SWE D2: Ljungskile vs Ostersunds FK
-https://pull.niur.live/live/stream-9912117_lhd.flv?txSecret=e79a623f0bec8f45bd5894be2d8b64ad&txTime=6a2f07a1
-#EXTINF:-1 group-title="Socolive" tvg-logo="https://sta.vnres.co/web/assets/soco/img/live-cover.png", ⚽ Live - BLV THÓC - 26.83k - KAZ PR: Ulytau Zhezkazgan vs Zhenis Astana
-https://pull06.scstream.net/live/stream-611382_lhd.flv?auth_key=1781449041-0-0-ff820e55495094dab070213aa4b49675
-#EXTINF:-1 group-title="Socolive" tvg-logo="https://sta.vnres.co/web/assets/soco/img/live-cover.png", ⚽ Live - BLV AB - 26.52k - KAZ PR: Ulytau Zhezkazgan vs Zhenis Astana
-https://pull06.scstream.net/live/stream-611382_lhd.flv?auth_key=1781449101-0-0-b24c257b8b15b7ec24effdc7b1544c60
-#EXTINF:-1 group-title="Socolive" tvg-logo="https://sta.vnres.co/web/assets/soco/img/live-cover.png", ⚽ Live - TRÀ ĐÁ - 26.13k - SWE D2: Norrby IF vs IK Oddevold
-https://pull06.scstream.net/live/stream-603914_lhd.flv?auth_key=1781449101-0-0-ef0cb7a65c61ef6872add0afa619ce0d
-#EXTINF:-1 group-title="Socolive" tvg-logo="https://sta.vnres.co/web/assets/soco/img/live-cover.png", ⚽ Live - BLV RAMBO - 26.09k - NOR D2: Stromsgodset vs Raufoss IL
-https://pull.niur.live/live/stream-534055_lhd.flv?txSecret=40425ce9f0128d15c803a1b994c9e8cc&txTime=6a2f07dd
-#EXTINF:-1 group-title="Socolive" tvg-logo="https://sta.vnres.co/web/assets/soco/img/live-cover.png", ⚽ Live - BLV A TÚ - 26.04k - KAZ PR: FK Yelimay Semey vs Ordabasy
-https://pull06.scstream.net/live/stream-557845_lhd.flv?auth_key=1781449101-0-0-c7177c31430814677b145fa5eb365b39
-#EXTINF:-1 group-title="Socolive" tvg-logo="https://sta.vnres.co/web/assets/soco/img/live-cover.png", ⚽ Live - BLV GÔN - 26.04k - BRA D2: Sao Bernardo vs Sport Club do Recife
-https://pull06.scstream.net/live/stream-445260_lhd.flv?auth_key=1781449101-0-0-52c0e419412c54aa5bf6d6d273a63fa2
-#EXTINF:-1 group-title="Socolive" tvg-logo="https://sta.vnres.co/web/assets/soco/img/live-cover.png", ⚽ Live - BLV A TINH - 26.03k - BRA D2: Juventude vs Ponte Preta
-https://pull.niur.live/live/stream-598119_lhd.flv?txSecret=53b8e3ec6ab4dcdb1d999d0e46f55a0e&txTime=6a2f0819
-#EXTINF:-1 group-title="Socolive" tvg-logo="https://sta.vnres.co/web/assets/soco/img/live-cover.png", ⚽ Live - HÀ DUY KIÊN - 25.59k - NOR D2: Stromsgodset vs Raufoss IL
-https://pull06.scstream.net/live/stream-607400_lhd.flv?auth_key=1781449161-0-0-424db5eca80289286dbcc27b05c032f9
-#EXTINF:-1 group-title="Socolive" tvg-logo="https://sta.vnres.co/web/assets/soco/img/live-cover.png", ⚽ Live - BLV CHIVAS - 25.58k - BRA D2: Juventude vs Ponte Preta
-https://pull.niur.live/live/stream-485739_lhd.flv?txSecret=c6d562d546c3d0a9f8cd153505fd0f9a&txTime=6a2f0819
-#EXTINF:-1 group-title="Socolive" tvg-logo="https://sta.vnres.co/web/assets/soco/img/live-cover.png", ⚽ Live - BLV 24H - 25.57k - KAZ PR: FC Astana vs Irtysh Pavlodar
-https://pull06.scstream.net/live/stream-612928_lhd.flv?auth_key=1781449161-0-0-29723a0219d54ef9198df24fe0a41145
-#EXTINF:-1 group-title="Socolive" tvg-logo="https://sta.vnres.co/web/assets/soco/img/live-cover.png", ⚽ Live - QUỐC KHÁNH - 25.54k - KAZ PR: FC Astana vs Irtysh Pavlodar
-https://pull06.scstream.net/live/stream-602153_lhd.flv?auth_key=1781449221-0-0-a31b808c20c67380b544458c1830b9f2
-#EXTINF:-1 group-title="Socolive" tvg-logo="https://sta.vnres.co/web/assets/soco/img/live-cover.png", ⚽ Live - BLV LUCAS - 25.09k - BRA D2: Juventude vs Ponte Preta
-https://pull06.scstream.net/live/stream-304148_lhd.flv?auth_key=1781449221-0-0-335c71177ac9245882e19e319c47270a
-#EXTINF:-1 group-title="Socolive" tvg-logo="https://sta.vnres.co/web/assets/soco/img/live-cover.png", ⚽ Live - BLV ANH TÀI - 25.05k - KAZ PR: FK Yelimay Semey vs Ordabasy
-https://pull06.scstream.net/live/stream-406865_lhd.flv?auth_key=1781449221-0-0-8d757cd2659af3eb2ea413ad92294f22
-#EXTINF:-1 group-title="Socolive" tvg-logo="https://sta.vnres.co/web/assets/soco/img/live-cover.png", ⚽ Live - SOCOLIVE - 2.18k - BIT.LY/SOCOLIVE
-https://pull06.scstream.net/live/stream-175784_lhd.flv?auth_key=1781449221-0-0-51e17aa31ad5d0d19914b97877950ef7
-#EXTINF:-1 group-title="Socolive" tvg-logo="https://sta.vnres.co/web/assets/soco/img/live-cover.png", ⚽ Live - Sóc nhàm nhang nhồ - 1.11k - Tường thuật: WORLD CUP - Australia vs Turkiye
-https://pull06.scstream.net/live/stream-152898_lhd.flv?auth_key=1781449281-0-0-3be74894f2be899eb713f4fb5faa92fe
-#EXTINF:-1 group-title="Socolive" tvg-logo="https://sta.vnres.co/web/assets/soco/img/live-cover.png", ⚽ Live - Sóc Nhó Nhịu Nhô Nhùng - 1.05k - Tường thuật: WORLD CUP - Qatar vs Switzerland
-https://pull06.scstream.net/live/stream-133277_lhd.flv?auth_key=1781449281-0-0-b3a64f2e871fad1822be990e1acaf6d0
-#EXTINF:-1 group-title="Socolive" tvg-logo="https://sta.vnres.co/web/assets/soco/img/live-cover.png", ⚽ Live - Sóc trong rừng xà nu - 1.04k - Tường thuật: WORLD CUP - Canada vs Bosnia and Herzegovina
-https://pull06.scstream.net/live/stream-9912079_lhd.flv?auth_key=1781449281-0-0-563c13de7cbb96b19f2064e56884fc60
-#EXTINF:-1 group-title="Socolive" tvg-logo="https://sta.vnres.co/web/assets/soco/img/live-cover.png", ⚽ Live - Sóc trèo cây ngô đồng - 1.03k - Tường thuật: WORLD CUP - Brazil vs Morocco
-https://pull06.scstream.net/live/stream-133824_lhd.flv?auth_key=1781449281-0-0-c1df7b055a28165d40fb9050fee0dc3e
-#EXTINF:-1 group-title="Socolive" tvg-logo="https://sta.vnres.co/web/assets/soco/img/live-cover.png", ⚽ Live - Sóc mèo méo meo - 1.02k - Tường thuật: WORLD CUP - USA vs Paraguay
-https://pull06.scstream.net/live/stream-343500_lhd.flv?auth_key=1781449341-0-0-34bedb7c96b1c3f465babcb8833d2da4
-#EXTINF:-1 group-title="Socolive" tvg-logo="https://sta.vnres.co/web/assets/soco/img/live-cover.png", ⚽ Live - Sóc đau cổ vai gáy - 1.01k - Tường thuật: WORLD CUP - Haiti vs Scotland
-https://pull06.scstream.net/live/stream-179093_lhd.flv?auth_key=1781449341-0-0-3cc5cc8fcb6c6119f6028cbab362f1cb
+https://pull06.scstream.net/live/stream-9912122_lhd.flv?auth_key=1781460861-0-0-feda1b686af333c3d9418be0512465f3
+#EXTINF:-1 group-title="Socolive" tvg-logo="https://sta.vnres.co/web/assets/soco/img/live-cover.png", ⚽ Live - BLV MESSI - 84.95k - WORLD CUP: Germany vs Curacao
+https://pull06.scstream.net/live/stream-494201_lhd.flv?auth_key=1781460861-0-0-ff9c5069d632a1a1da875dd5c7a0d3e9
+#EXTINF:-1 group-title="Socolive" tvg-logo="https://sta.vnres.co/web/assets/soco/img/live-cover.png", ⚽ Live - RICKHANTER - 94.18k - WORLD CUP: Germany vs Curacao
+https://pull06.scstream.net/live/stream-9912122_lhd.flv?auth_key=1781460861-0-0-feda1b686af333c3d9418be0512465f3
+#EXTINF:-1 group-title="Socolive" tvg-logo="https://sta.vnres.co/web/assets/soco/img/live-cover.png", ⚽ Live - BLV Củ Cải - 99.49k - WORLD CUP: Germany vs Curacao
+https://pull06.scstream.net/live/stream-9912091_lhd.flv?auth_key=1781460921-0-0-67f134780010c545724855edab9ee319
+#EXTINF:-1 group-title="Socolive" tvg-logo="https://sta.vnres.co/web/assets/soco/img/live-cover.png", ⚽ Live - CR Bưởi - 84.37k - WORLD CUP: Germany vs Curacao
+https://pull.niur.live/live/stream-387694_lhd.flv?txSecret=0d8a2ac19a7a23cf3a3878e016f911a2&txTime=6a2f3609
+#EXTINF:-1 group-title="Socolive" tvg-logo="https://sta.vnres.co/web/assets/soco/img/live-cover.png", ⚽ Live - BLV CÒ - 33.22k - ICE PR: Keflavik vs Hafnarfjordur
+https://pull06.scstream.net/live/stream-582342_lhd.flv?auth_key=1781460921-0-0-725ccb4ccd95e8017211b65732824ed0
+#EXTINF:-1 group-title="Socolive" tvg-logo="https://sta.vnres.co/web/assets/soco/img/live-cover.png", ⚽ Live - BLV XO - 28.38k - FIN D2: Mikkelin Palloilijat vs Klubi 04 Helsinki
+https://pull06.scstream.net/live/stream-472241_lhd.flv?auth_key=1781460921-0-0-95878cf17fb45bce29f2821b30f46967
+#EXTINF:-1 group-title="Socolive" tvg-logo="https://sta.vnres.co/web/assets/soco/img/live-cover.png", ⚽ Live - BLV LONG - 28.06k - FIN D2: Mikkelin Palloilijat vs Klubi 04 Helsinki
+https://pull.niur.live/live/stream-9912117_lhd.flv?txSecret=11c81ef0fd99681b2f0db4ffe948e3cd&txTime=6a2f3645
+#EXTINF:-1 group-title="Socolive" tvg-logo="https://sta.vnres.co/web/assets/soco/img/live-cover.png", ⚽ Live - KÉP - 27.21k - CHI D1: D. Concepcion vs Deportes Limache
+https://pull06.scstream.net/live/stream-560690_lhd.flv?auth_key=1781460981-0-0-4acb7c4e85382bfd1ec00ccc6ce7ebec
+#EXTINF:-1 group-title="Socolive" tvg-logo="https://sta.vnres.co/web/assets/soco/img/live-cover.png", ⚽ Live - PINKMAN - 26.29k - ICE PR: Thor Akureyri vs IBV Vestmannaeyjar
+https://pull.niur.live/live/stream-595715_lhd.flv?txSecret=8df905b0ab059991768d267312391677&txTime=6a2f3645
+#EXTINF:-1 group-title="Socolive" tvg-logo="https://sta.vnres.co/web/assets/soco/img/live-cover.png", ⚽ Live - BLV LION - 26.27k - MAR D1: Ittihad Riadi Tanger vs Yacoub El Mansour
+https://pull.niur.live/live/stream-9912108_lhd.flv?txSecret=b02a6ae3789bd87f3576a5fe8c2ddef4&txTime=6a2f3681
+#EXTINF:-1 group-title="Socolive" tvg-logo="https://sta.vnres.co/web/assets/soco/img/live-cover.png", ⚽ Live - BLV CÁP - 26.20k - GEO D1: Gagra FC vs Dinamo Tbilisi
+https://pull06.scstream.net/live/stream-610677_lhd.flv?auth_key=1781461041-0-0-680ea3b81f3f1234bb5444b940d47f38
+#EXTINF:-1 group-title="Socolive" tvg-logo="https://sta.vnres.co/web/assets/soco/img/live-cover.png", ⚽ Live - BLV RAMBO - 26.19k - GEO D1: Gagra FC vs Dinamo Tbilisi
+https://pull.niur.live/live/stream-534055_lhd.flv?txSecret=10ec4bb2edb1b4dd35ab7acfac950f7c&txTime=6a2f3681
+#EXTINF:-1 group-title="Socolive" tvg-logo="https://sta.vnres.co/web/assets/soco/img/live-cover.png", ⚽ Live - HUNTER - 26.17k - ISRBL: Nes Ziona vs Elitzur Maccabi Netanya
+https://pull06.scstream.net/live/stream-558264_lhd.flv?auth_key=1781461041-0-0-2d1ce5a43b77037d91bb220243e45b0a
+#EXTINF:-1 group-title="Socolive" tvg-logo="https://sta.vnres.co/web/assets/soco/img/live-cover.png", ⚽ Live - XUÂN TÓC ĐỎ - 26.14k - BLR PL: FC Torpedo Zhodino vs Slavia Mozyr
+https://pull.niur.live/live/stream-610518_lhd.flv?txSecret=93d9f8c8530df605b2cf88c891b52413&txTime=6a2f36bd
+#EXTINF:-1 group-title="Socolive" tvg-logo="https://sta.vnres.co/web/assets/soco/img/live-cover.png", ⚽ Live - QUÂN JK - 26.11k - BLR PL: FC Torpedo Zhodino vs Slavia Mozyr
+https://pull06.scstream.net/live/stream-611178_lhd.flv?auth_key=1781461101-0-0-9a21f5f40ba75253db3a00b40de423b2
+#EXTINF:-1 group-title="Socolive" tvg-logo="https://sta.vnres.co/web/assets/soco/img/live-cover.png", ⚽ Live - TRÀ ĐÁ - 26.08k - ICE PR: Thor Akureyri vs IBV Vestmannaeyjar
+https://pull06.scstream.net/live/stream-603914_lhd.flv?auth_key=1781461101-0-0-5c60b8c5f222aea185a1d35742af7910
+#EXTINF:-1 group-title="Socolive" tvg-logo="https://sta.vnres.co/web/assets/soco/img/live-cover.png", ⚽ Live - BLV CÁO - 25.28k - ICE PR: Keflavik vs Hafnarfjordur
+https://pull06.scstream.net/live/stream-597929_lhd.flv?auth_key=1781461101-0-0-16b3ea4a0aa328ba55a70d44c2800471
+#EXTINF:-1 group-title="Socolive" tvg-logo="https://sta.vnres.co/web/assets/soco/img/live-cover.png", ⚽ Live - SOCOLIVE - 1.59k - BIT.LY/SOCOLIVE
+https://pull06.scstream.net/live/stream-175784_lhd.flv?auth_key=1781461161-0-0-87d823ef7936f304ca530dbc9799db1f
 #EXTINF:-1 group-title="Gavang" tvg-logo="https://img.icons8.com/color/512/football2.png", ⚽ Trận đấu đang chờ cập nhật
 https://playbacktemp001.com/live/69aa9525f5ec459ae275b43f.m3u8
+#EXTINF:-1 group-title="Gavang" tvg-logo="https://img.icons8.com/color/512/football2.png", ⚽ Trận đấu đang chờ cập nhật
+https://playbacktemp001.com/live/69aa9525f5ec459ae275b43f.flv
+#EXTINF:-1 group-title="Gavang" tvg-logo="https://img.icons8.com/color/512/football2.png", ⚽ Trận đấu đang chờ cập nhật
+https://playbacktemp001.com/live/69ff2c40bf9490b4aab22c9a.m3u8
+#EXTINF:-1 group-title="Gavang" tvg-logo="https://img.icons8.com/color/512/football2.png", ⚽ Trận đấu đang chờ cập nhật
+https://playbacktemp001.com/live/69ff2c40bf9490b4aab22c9a.m3u8
+#EXTINF:-1 group-title="Gavang" tvg-logo="https://img.icons8.com/color/512/football2.png", ⚽ Trận đấu đang chờ cập nhật
+https://playbacktemp001.com/live/69ef10b47146e04fbe6d4363.flv
+#EXTINF:-1 group-title="Gavang" tvg-logo="https://img.icons8.com/color/512/football2.png", ⚽ Trận đấu đang chờ cập nhật
+https://playbacktemp001.com/live/6a0ea6a6b89dded67b1171d3.m3u8
