@@ -42,7 +42,7 @@ def san_full_server_qua_proxy():
     tat_ca_server = [
         ("Socolive", "https://bit.ly/socolive", "/room/", "socolive"),
         ("Xoilac", "https://xoilaccg.tv", "/truc-tiep/", "xoilac"),
-        ("Gavang", "https://gavanglink.co", "/truc-tiep/", ""),
+        ("Gavang", "https://gavanglink.co", "/truc-tiep/", "gavang"),
         ("Quechoa", "https://quechoa11.live", "/truc-tiep/", ""),
         ("ThienDinh", "https://sv2.thiendinh3.live/trang-chu", "", "thiendinh"),
     ]
@@ -181,6 +181,46 @@ def san_full_server_qua_proxy():
                     """)
                     return _loc_trung(raw, url_goc)
 
+                def lay_phong_gavang(page, url_goc):
+                    """Gavang: đọc data-sport từ .match-card (Alpine.js với tab football/basketball)"""
+                    raw = page.evaluate("""
+                        (() => {
+                            const results = [];
+                            const hostname = location.hostname;
+                            document.querySelectorAll('.match-card').forEach(card => {
+                                const sport = card.getAttribute('data-sport') || 'football';
+                                // Link nằm trong thẻ a absolute inset-0
+                                const linkEl = card.querySelector('a[class*="absolute"]') || card.querySelector('a');
+                                if (!linkEl) return;
+                                const href = linkEl.getAttribute('href') || '';
+                                if (!href || href === '/' || href === '#') return;
+
+                                const title = linkEl.getAttribute('data-title') || linkEl.getAttribute('data-tooltip') || '';
+                                // Thumbnail từ img đội
+                                const imgs = card.querySelectorAll('img');
+                                let thumb = '';
+                                for (const img of imgs) {
+                                    const src = img.getAttribute('src') || img.getAttribute('data-src') || '';
+                                    if (src && !src.includes('flag') && src.includes('thesports')) {
+                                        thumb = src; break;
+                                    }
+                                }
+                                if (!thumb && imgs.length > 0) {
+                                    thumb = imgs[0].getAttribute('src') || '';
+                                }
+
+                                results.push({
+                                    url: linkEl.href,
+                                    ten: title || linkEl.innerText.trim().replace(/\\n/g, ' - '),
+                                    thumb: thumb || 'https://img.icons8.com/color/512/football2.png',
+                                    sport: sport
+                                });
+                            });
+                            return results;
+                        })()
+                    """)
+                    return _loc_trung(raw, url_goc)
+
                 def lay_phong_socolive(page, url_goc):
                     """Socolive: click từng tab thể loại (Bóng đá, Bóng rổ, Esports)"""
                     all_rooms = {}
@@ -198,7 +238,6 @@ def san_full_server_qua_proxy():
                         return page.evaluate("""
                             (() => {
                                 const results = [];
-                                // Lấy ul.live-type-content đang visible (không hidden)
                                 const containers = document.querySelectorAll('ul.hot-content, ul.live-type-content');
                                 let activeContainer = null;
                                 for (const c of containers) {
@@ -207,23 +246,8 @@ def san_full_server_qua_proxy():
                                         break;
                                     }
                                 }
-                                if (!activeContainer) {
-                                    // Fallback: lấy tất cả li trong .hot-content không bị hidden
-                                    document.querySelectorAll('.hot-content:not([hidden]) li a[href*="/room/"]').forEach(a => {
-                                        const parent = a.closest('li') || a;
-                                        const imgs = parent.querySelectorAll('img');
-                                        let thumb = '';
-                                        for (const img of imgs) {
-                                            const src = img.getAttribute('data-src') || img.getAttribute('src') || '';
-                                            if (src && !src.includes('avatar') && !src.includes('icon') && !src.includes('hot-live') && !src.includes('none')) {
-                                                thumb = src; break;
-                                            }
-                                        }
-                                        results.push({ url: a.href, ten: a.innerText.trim().replace(/\n/g, ' - '), thumb: thumb || '' });
-                                    });
-                                    return results;
-                                }
-                                activeContainer.querySelectorAll('li a[href*="/room/"]').forEach(a => {
+                                const cleanText = t => t.trim().split('\\n').join(' - ');
+                                const parseItem = a => {
                                     const parent = a.closest('li') || a;
                                     const imgs = parent.querySelectorAll('img');
                                     let thumb = '';
@@ -233,8 +257,13 @@ def san_full_server_qua_proxy():
                                             thumb = src; break;
                                         }
                                     }
-                                    results.push({ url: a.href, ten: a.innerText.trim().replace(/\n/g, ' - '), thumb: thumb || '' });
-                                });
+                                    return { url: a.href, ten: cleanText(a.innerText), thumb: thumb || '' };
+                                };
+                                if (!activeContainer) {
+                                    document.querySelectorAll('.hot-content:not([hidden]) li a[href*="/room/"]').forEach(a => results.push(parseItem(a)));
+                                    return results;
+                                }
+                                activeContainer.querySelectorAll('li a[href*="/room/"]').forEach(a => results.push(parseItem(a)));
                                 return results;
                             })()
                         """)
@@ -282,7 +311,7 @@ def san_full_server_qua_proxy():
                                 }
                                 return {
                                     url: a.href,
-                                    ten: a.innerText.trim().replace(/\\n/g, ' - '),
+                                    ten: a.innerText.trim().split('\\n').join(' - '),
                                     thumb: thumb || 'https://img.icons8.com/color/512/football2.png',
                                     sport: ''
                                 }
@@ -295,61 +324,68 @@ def san_full_server_qua_proxy():
                 def lay_phong_thiendinh(page, url_goc):
                     """ThienDinh: React SPA, click sidebar từng môn"""
                     all_rooms = {}
+                    NAV_TEXTS = ['Trực tuyến', 'Bóng đá', 'Bóng chuyền', 'Billiards', 'Esports', 'Cầu lông', 'Tennis', 'Trang chủ', 'Lịch thi đấu', 'Kết quả', 'Xem lại']
 
-                    # Danh sách môn trên sidebar ThienDinh
                     mon_sidebar = [
-                        ("Bóng đá", "Bóng đá"),
+                        ("Bóng đá",     "Bóng đá"),
                         ("Bóng chuyền", "Bóng chuyền"),
-                        ("Billiards", "Billiards"),
-                        ("Esports", "Esports"),
-                        ("Cầu lông", "Cầu lông"),
+                        ("Tennis",       "Tennis"),
+                        ("Billiards",    "Billiards"),
+                        ("Esports",      "Esports"),
+                        ("Cầu lông",    "Cầu lông"),
                     ]
+
+                    def _get_thiendinh_rooms():
+                        return page.evaluate("""
+                            (() => {
+                                const results = [];
+                                const seen = new Set();
+                                const navTexts = ['Trực tuyến','Bóng đá','Bóng chuyền','Billiards','Esports','Cầu lông','Tennis','Trang chủ','Lịch thi đấu','Kết quả','Xem lại'];
+                                const mainEl = document.querySelector('main, [class*="content"], [class*="match"], [class*="list"]') || document.body;
+                                mainEl.querySelectorAll('a[href]').forEach(a => {
+                                    const href = a.getAttribute('href') || '';
+                                    if (!href || href === '/' || href === '/trang-chu' || href === '#') return;
+                                    if (href.startsWith('javascript:')) return;
+                                    if (href.startsWith('http') && !href.includes(location.hostname)) return;
+                                    if (seen.has(href)) return;
+                                    const text = (a.textContent || '').trim();
+                                    if (navTexts.includes(text)) return;
+                                    if (!text || text.length < 2) return;
+                                    seen.add(href);
+                                    const img = a.querySelector('img');
+                                    const cleanText = text.split('\\n').join(' - ').replace(/  +/g, ' ').trim();
+                                    results.push({
+                                        url: a.href,
+                                        ten: cleanText || 'Trận đấu',
+                                        thumb: img ? (img.src || img.getAttribute('data-src') || '') : ''
+                                    });
+                                });
+                                return results;
+                            })()
+                        """)
 
                     for ten_mon, sport_tag in mon_sidebar:
                         try:
-                            # Click sidebar category
-                            locator = page.locator(f'text="{ten_mon}"').first
-                            if locator.count() == 0:
+                            found = False
+                            for el in page.query_selector_all('a, button, li, span'):
+                                try:
+                                    el_text = el.inner_text().strip()
+                                    if el_text == ten_mon or el_text.startswith(ten_mon + ' ') or el_text.startswith(ten_mon + '\n'):
+                                        el.click()
+                                        found = True
+                                        break
+                                except:
+                                    continue
+                            if not found:
+                                print(f"   ⚠️ Không tìm thấy sidebar: {ten_mon}", flush=True)
                                 continue
-                            locator.click()
                             page.wait_for_timeout(3000)
-
-                            # Lấy tất cả link trận đấu trên trang
-                            rooms = page.evaluate("""
-                                (() => {
-                                    const results = [];
-                                    const navPaths = ['/', '/trang-chu', ''];
-                                    
-                                    document.querySelectorAll('a[href]').forEach(a => {
-                                        const href = a.getAttribute('href') || '';
-                                        // Bỏ qua navigation links
-                                        if (navPaths.includes(href)) return;
-                                        if (href.startsWith('#') || href.startsWith('javascript:')) return;
-                                        // Bỏ qua external links
-                                        if (href.startsWith('http') && !href.includes(location.hostname)) return;
-                                        // Chỉ lấy link có nội dung (match cards)
-                                        const text = a.innerText.trim();
-                                        if (!text || text.length < 3) return;
-                                        // Bỏ sidebar items
-                                        if (['Trực tuyến', 'Bóng đá', 'Bóng chuyền', 'Billiards', 'Esports', 'Cầu lông'].includes(text)) return;
-                                        
-                                        const img = a.querySelector('img');
-                                        results.push({
-                                            url: a.href,
-                                            ten: text.replace(/\\n/g, ' - '),
-                                            thumb: img ? img.src : ''
-                                        });
-                                    });
-                                    return results;
-                                })()
-                            """)
-
-                            if rooms:
-                                print(f"   🏷️ {ten_mon}: {len(rooms)} link", flush=True)
+                            rooms = _get_thiendinh_rooms()
+                            print(f"   🏷️ {ten_mon}: {len(rooms)} link", flush=True)
                             for room in rooms:
                                 if room['url'] not in all_rooms:
                                     all_rooms[room['url']] = {
-                                        'ten': room['ten'] if room['ten'] else "Trận đấu",
+                                        'ten': room['ten'] or 'Trận đấu',
                                         'thumb': room['thumb'] or 'https://img.icons8.com/color/512/football2.png',
                                         'sport': sport_tag
                                     }
@@ -357,43 +393,21 @@ def san_full_server_qua_proxy():
                             print(f"   ⚠️ Lỗi sidebar {ten_mon}: {e}", flush=True)
                             continue
 
-                    # Fallback: nếu sidebar không hoạt động, click "Trực tuyến" lấy tất cả
                     if not all_rooms:
-                        print("   ℹ️ Sidebar không hoạt động, thử lấy từ Trực tuyến...", flush=True)
+                        print("   ℹ️ Sidebar không hoạt động, lấy tất cả...", flush=True)
                         try:
-                            locator = page.locator('text="Trực tuyến"').first
-                            if locator.count() > 0:
-                                locator.click()
-                                page.wait_for_timeout(3000)
-                            
-                            rooms = page.evaluate("""
-                                (() => {
-                                    const results = [];
-                                    document.querySelectorAll('a[href]').forEach(a => {
-                                        const href = a.getAttribute('href') || '';
-                                        if (!href || href === '/' || href === '/trang-chu') return;
-                                        if (href.startsWith('#') || href.startsWith('javascript:')) return;
-                                        if (href.startsWith('http') && !href.includes(location.hostname)) return;
-                                        const text = a.innerText.trim();
-                                        if (!text || text.length < 3) return;
-                                        if (['Trực tuyến', 'Bóng đá', 'Bóng chuyền', 'Billiards', 'Esports', 'Cầu lông'].includes(text)) return;
-                                        
-                                        const img = a.querySelector('img');
-                                        results.push({
-                                            url: a.href,
-                                            ten: text.replace(/\\n/g, ' - '),
-                                            thumb: img ? img.src : 'https://img.icons8.com/color/512/football2.png',
-                                            sport: ''
-                                        });
-                                    });
-                                    return results;
-                                })()
-                            """)
-                            return _loc_trung(rooms, url_goc)
+                            for el in page.query_selector_all('a, button, li'):
+                                try:
+                                    if 'Trực tuyến' in el.inner_text():
+                                        el.click()
+                                        break
+                                except:
+                                    continue
+                            page.wait_for_timeout(3000)
+                            rooms = _get_thiendinh_rooms()
+                            return _loc_trung([{**r, 'sport': ''} for r in rooms], url_goc)
                         except Exception:
                             pass
-
-                    return all_rooms
 
                 # ==========================================
                 # HÀM QUÉT TỔNG: DISPATCH THEO KIỂU SERVER
@@ -434,6 +448,11 @@ def san_full_server_qua_proxy():
                             page.wait_for_function(f"document.querySelectorAll('a[href*=\"{keyword_link}\"]').length > 0", timeout=60000)
                             page.wait_for_timeout(5000)
                             danh_sach_phong = lay_phong_socolive(page, url_trang_chu)
+                        elif kieu_quet == "gavang":
+                            # Alpine.js: chờ .match-card render
+                            page.wait_for_function("document.querySelectorAll('.match-card').length > 0", timeout=60000)
+                            page.wait_for_timeout(4000)
+                            danh_sach_phong = lay_phong_gavang(page, url_trang_chu)
                         elif kieu_quet == "thiendinh":
                             # React SPA: chờ render xong
                             page.wait_for_timeout(10000)
