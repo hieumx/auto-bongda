@@ -560,14 +560,23 @@ def san_full_server_qua_proxy():
                         print(f"✅ {ten_nhom}: Thu hoạch {len(ket_qua_tram)} luồng stream!", flush=True)
 
                     except Exception as e:
-                        print(f"⚠️ Kẹt tường lửa hoặc web sập: {e}", flush=True)
+                        error_msg = str(e)
+                        print(f"⚠️ Kẹt tường lửa hoặc web sập: {error_msg}", flush=True)
                         so_tram_loi_vong_nay += 1
+                        
+                        # Nếu lỗi là do proxy chết hẳn hoặc bị reset kết nối, báo hiệu để đổi proxy ngay
+                        if "ERR_CONNECTION_RESET" in error_msg or "ERR_PROXY_CONNECTION_FAILED" in error_msg or "ERR_TIMED_OUT" in error_msg:
+                            return "PROXY_DEAD"
                     finally:
                         page.close()
+                    return "OK"
 
                 # Quét từng server chưa thành công
                 for ten_nhom, url_tc, keyword, kieu_quet in server_can_quet:
-                    quet_trang(ten_nhom, url_tc, keyword, kieu_quet)
+                    status = quet_trang(ten_nhom, url_tc, keyword, kieu_quet)
+                    if status == "PROXY_DEAD":
+                        print("🚫 Proxy chết hoặc bị chặn toàn tập! Hủy vòng quét này để đổi IP mới ngay lập tức...", flush=True)
+                        break
 
                 browser.close()
         except Exception as e:
