@@ -30,7 +30,7 @@ def lay_proxy_tu_api():
 # HÀM LÕI: ĐIỀU KHIỂN TRÌNH DUYỆT ĐI SĂN
 # ==========================================
 def san_full_server_qua_proxy():
-    print("🚀 KHỞI ĐỘNG CHIẾN DỊCH VÉT SẠCH 5 SERVER (CHIA THỂ LOẠI & KIỂM ĐỊNH PROXY)...", flush=True)
+    print("🚀 KHỞI ĐỘNG CHIẾN DỊCH VÉT SẠCH 6 SERVER (CHIA THỂ LOẠI & KIỂM ĐỊNH PROXY)...", flush=True)
     
     MAX_RETRIES = 3
 
@@ -45,6 +45,7 @@ def san_full_server_qua_proxy():
         ("Gavang", "https://gavanglink.co", "/truc-tiep/", "gavang"),
         ("Quechoa", "https://quechoa11.live", "/truc-tiep/", ""),
         ("ThienDinh", "https://sv2.thiendinh3.live/trang-chu", "", "thiendinh"),
+        ("Thapcam", "https://bitly.ad/thapcam", "/truc-tiep", "thapcam"),
     ]
 
     # Domain dự phòng cho Xoilac (thử lần lượt)
@@ -321,6 +322,35 @@ def san_full_server_qua_proxy():
 
                     return all_rooms
 
+                def lay_phong_thapcam(page, url_goc):
+                    """Thapcam: Đọc match info từ thẻ cha của link"""
+                    raw = page.evaluate("""
+                        Array.from(document.querySelectorAll('a[href*="/truc-tiep"]')).map(a => {
+                            let img = a.querySelector('img');
+                            let parent = a.closest('.match-card') || a.closest('li') || a.closest('.item') || a.parentElement.parentElement;
+                            let rawText = parent ? parent.innerText : a.innerText;
+                            let cleanText = rawText.trim().split('\\n').join(' - ').replace(/  +/g, ' ').replace(/XEM LIVE/g, '').replace(/ - - /g, ' - ').trim();
+                            // Nếu cleanText bắt đầu hoặc kết thúc bằng " - ", cắt đi
+                            if (cleanText.startsWith('- ')) cleanText = cleanText.substring(2);
+                            if (cleanText.endsWith(' -')) cleanText = cleanText.substring(0, cleanText.length - 2);
+                            
+                            let sport = 'football';
+                            if (a.href.includes('bong-ro') || a.href.includes('basketball')) sport = 'basketball';
+                            else if (a.href.includes('tennis')) sport = 'tennis';
+                            else if (a.href.includes('bong-chuyen')) sport = 'volleyball';
+                            else if (a.href.includes('esport')) sport = 'esports';
+
+                            return {
+                                url: a.href,
+                                ten: cleanText || 'Trận đấu',
+                                thumb: img ? (img.getAttribute('src') || img.getAttribute('data-src') || '') : '',
+                                sport: sport
+                            }
+                        }).filter(r => r.ten.length > 3)
+                    """)
+                    # Lấy những phòng không bị trùng url
+                    return _loc_trung(raw, url_goc)
+
                 def lay_phong_thiendinh(page, url_goc):
                     """ThienDinh: React SPA, click sidebar từng môn"""
                     all_rooms = {}
@@ -453,6 +483,10 @@ def san_full_server_qua_proxy():
                             page.wait_for_function("document.querySelectorAll('.match-card').length > 0", timeout=60000)
                             page.wait_for_timeout(4000)
                             danh_sach_phong = lay_phong_gavang(page, url_trang_chu)
+                        elif kieu_quet == "thapcam":
+                            page.wait_for_function('document.querySelectorAll(\'a[href*="/truc-tiep"]\').length > 0', timeout=60000)
+                            page.wait_for_timeout(3000)
+                            danh_sach_phong = lay_phong_thapcam(page, url_trang_chu)
                         elif kieu_quet == "thiendinh":
                             # React SPA: chờ render xong
                             page.wait_for_timeout(10000)
