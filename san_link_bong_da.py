@@ -30,21 +30,32 @@ def lay_proxy_tu_api():
 # HÀM LÕI: ĐIỀU KHIỂN TRÌNH DUYỆT ĐI SĂN
 # ==========================================
 def san_full_server_qua_proxy():
-    print("🚀 KHỞI ĐỘNG CHIẾN DỊCH VÉT SẠCH 4 SERVER (CÁCH LY TAB & KIỂM ĐỊNH PROXY)...", flush=True)
+    print("🚀 KHỞI ĐỘNG CHIẾN DỊCH VÉT SẠCH 5 SERVER (CHIA THỂ LOẠI & KIỂM ĐỊNH PROXY)...", flush=True)
     
     MAX_RETRIES = 3
 
     # ==========================================
-    # DANH SÁCH BỘ TỨ SIÊU ĐẲNG
+    # DANH SÁCH NGŨ LONG (5 SERVER)
+    # (tên, url, keyword_link, kiểu_quét)
+    # kiểu_quét: "" = chuẩn, "xoilac", "socolive", "thiendinh"
     # ==========================================
     tat_ca_server = [
-        ("Socolive", "https://bit.ly/socolive", "/room/", False),
-        ("Xoilac", "https://xoilaccg.tv", "/truc-tiep/", True),   # Chia theo môn thể thao
-        ("Gavang", "https://gavanglink.co", "/truc-tiep/", False),
-        ("Quechoa", "https://quechoa11.live", "/truc-tiep/", False),
+        ("Socolive", "https://bit.ly/socolive", "/room/", "socolive"),
+        ("Xoilac", "https://xoilaccg.tv", "/truc-tiep/", "xoilac"),
+        ("Gavang", "https://gavanglink.co", "/truc-tiep/", ""),
+        ("Quechoa", "https://quechoa11.live", "/truc-tiep/", ""),
+        ("ThienDinh", "https://sv2.thiendinh3.live/trang-chu", "", "thiendinh"),
     ]
 
-    # Bảng ánh xạ data-sport → tên tiếng Việt cho Xoilac
+    # Domain dự phòng cho Xoilac (thử lần lượt)
+    XOILAC_DOMAINS = [
+        "https://xoilaccg.tv",
+        "https://xoilac.cfd",
+        "https://xoilactv.pro",
+        "https://xoilac7.tv",
+    ]
+
+    # Bảng ánh xạ tên môn thể thao
     SPORT_MAP = {
         "football": "Bóng đá",
         "basketball": "Bóng rổ",
@@ -56,6 +67,7 @@ def san_full_server_qua_proxy():
         "dota2": "Esports",
         "csgo": "Esports",
         "baseball": "Bóng chày",
+        "billiards": "Billiards",
     }
 
     danh_sach_phat = []           # Tích lũy kết quả xuyên suốt các vòng, KHÔNG reset
@@ -98,101 +110,361 @@ def san_full_server_qua_proxy():
                     user_agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
                 )
 
-                def quet_trang(ten_nhom, url_trang_chu, keyword_link, chia_mon=False):
+                # ==========================================
+                # CÁC HÀM TRÍCH XUẤT PHÒNG THEO KIỂU SERVER
+                # Mỗi hàm trả về dict: {url: {ten, thumb, sport}}
+                # ==========================================
+
+                def _loc_trung(danh_sach_raw, url_goc):
+                    """Lọc trùng & chuẩn hóa danh sách phòng"""
+                    result = {}
+                    for item in danh_sach_raw:
+                        url = item.get('url', '')
+                        ten = item.get('ten', '').strip()
+                        if not url or url == url_goc or url == url_goc + "/":
+                            continue
+                        if url not in result or len(ten) > len(result.get(url, {}).get('ten', '')):
+                            result[url] = {
+                                'ten': ten if ten else "Trận đấu đang chờ cập nhật",
+                                'thumb': item.get('thumb', 'https://img.icons8.com/color/512/football2.png'),
+                                'sport': item.get('sport', '')
+                            }
+                    return result
+
+                def lay_phong_chuan(page, url_goc, keyword_link):
+                    """Quét chuẩn: lấy tất cả link chứa keyword (Gavang, Quechoa)"""
+                    raw = page.evaluate(f"""
+                        Array.from(document.querySelectorAll('a[href*="{keyword_link}"]')).map(a => {{
+                            let img = a.querySelector('img');
+                            return {{
+                                url: a.href,
+                                ten: a.innerText.trim().replace(/\\n/g, ' - '),
+                                thumb: img ? img.src : "https://img.icons8.com/color/512/football2.png",
+                                sport: ''
+                            }}
+                        }})
+                    """)
+                    return _loc_trung(raw, url_goc)
+
+                def lay_phong_xoilac(page, url_goc, keyword_link):
+                    """Xoilac: đọc data-sport từ .grid-matches__item"""
+                    raw = page.evaluate(f"""
+                        (() => {{
+                            const results = [];
+                            // Grid chính (có data-sport)
+                            document.querySelectorAll('.grid-matches__item').forEach(item => {{
+                                const sport = item.getAttribute('data-sport') || 'football';
+                                const linkEl = item.querySelector('a[href*="{keyword_link}"]');
+                                if (!linkEl) return;
+                                const img = item.querySelector('img');
+                                results.push({{
+                                    url: linkEl.href,
+                                    ten: linkEl.getAttribute('title') || linkEl.innerText.trim().replace(/\\n/g, ' - '),
+                                    thumb: img ? img.src : "https://img.icons8.com/color/512/football2.png",
+                                    sport: sport
+                                }});
+                            }});
+                            // Thanh ngang (match-horizontals) mặc định football
+                            document.querySelectorAll('.match-horizontals-item[href*="{keyword_link}"]').forEach(a => {{
+                                const url = a.href;
+                                if (results.some(r => r.url === url)) return;
+                                const img = a.querySelector('img');
+                                results.push({{
+                                    url: url,
+                                    ten: a.innerText.trim().replace(/\\n/g, ' - '),
+                                    thumb: img ? img.src : "https://img.icons8.com/color/512/football2.png",
+                                    sport: 'football'
+                                }});
+                            }});
+                            return results;
+                        }})()
+                    """)
+                    return _loc_trung(raw, url_goc)
+
+                def lay_phong_socolive(page, url_goc):
+                    """Socolive: click từng tab thể loại (Bóng đá, Bóng rổ, Esports)"""
+                    all_rooms = {}
+
+                    # Lấy danh sách tab thể loại (bỏ qua "Trực tiếp" và "HOT")
+                    sport_tabs = page.evaluate("""
+                        Array.from(document.querySelectorAll('.live-type-item'))
+                            .map(li => li.innerText.trim())
+                            .filter(t => t && t !== 'Trực tiếp' && !t.includes('HOT') && !t.includes('Tất cả'))
+                    """)
+                    print(f"   🏷️ Tab thể loại Socolive: {sport_tabs}", flush=True)
+
+                    def _get_rooms_in_visible_container():
+                        """Lấy phòng từ container đang visible (không hidden)"""
+                        return page.evaluate("""
+                            (() => {
+                                const results = [];
+                                // Lấy ul.live-type-content đang visible (không hidden)
+                                const containers = document.querySelectorAll('ul.hot-content, ul.live-type-content');
+                                let activeContainer = null;
+                                for (const c of containers) {
+                                    if (!c.hidden && c.children.length > 0) {
+                                        activeContainer = c;
+                                        break;
+                                    }
+                                }
+                                if (!activeContainer) {
+                                    // Fallback: lấy tất cả li trong .hot-content không bị hidden
+                                    document.querySelectorAll('.hot-content:not([hidden]) li a[href*="/room/"]').forEach(a => {
+                                        const parent = a.closest('li') || a;
+                                        const imgs = parent.querySelectorAll('img');
+                                        let thumb = '';
+                                        for (const img of imgs) {
+                                            const src = img.getAttribute('data-src') || img.getAttribute('src') || '';
+                                            if (src && !src.includes('avatar') && !src.includes('icon') && !src.includes('hot-live') && !src.includes('none')) {
+                                                thumb = src; break;
+                                            }
+                                        }
+                                        results.push({ url: a.href, ten: a.innerText.trim().replace(/\n/g, ' - '), thumb: thumb || '' });
+                                    });
+                                    return results;
+                                }
+                                activeContainer.querySelectorAll('li a[href*="/room/"]').forEach(a => {
+                                    const parent = a.closest('li') || a;
+                                    const imgs = parent.querySelectorAll('img');
+                                    let thumb = '';
+                                    for (const img of imgs) {
+                                        const src = img.getAttribute('data-src') || img.getAttribute('src') || '';
+                                        if (src && !src.includes('avatar') && !src.includes('icon') && !src.includes('hot-live') && !src.includes('none')) {
+                                            thumb = src; break;
+                                        }
+                                    }
+                                    results.push({ url: a.href, ten: a.innerText.trim().replace(/\n/g, ' - '), thumb: thumb || '' });
+                                });
+                                return results;
+                            })()
+                        """)
+
+                    if sport_tabs and len(sport_tabs) > 0:
+                        for tab_name in sport_tabs:
+                            try:
+                                # Click tab thể loại
+                                tab_els = page.query_selector_all('.live-type-item')
+                                clicked = False
+                                for el in tab_els:
+                                    if el.inner_text().strip() == tab_name:
+                                        el.click()
+                                        clicked = True
+                                        break
+                                if not clicked:
+                                    continue
+                                page.wait_for_timeout(2500)
+
+                                rooms = _get_rooms_in_visible_container()
+                                print(f"   → {tab_name}: {len(rooms)} phòng", flush=True)
+
+                                for room in rooms:
+                                    if room['url'] not in all_rooms:
+                                        all_rooms[room['url']] = {
+                                            'ten': room['ten'] if room['ten'] else "Phòng BLV",
+                                            'thumb': room['thumb'] or 'https://img.icons8.com/color/512/football2.png',
+                                            'sport': tab_name
+                                        }
+                            except Exception as e:
+                                print(f"   ⚠️ Lỗi tab {tab_name}: {e}", flush=True)
+                                continue
+
+                    # Fallback: nếu không tìm thấy tab, lấy tất cả phòng
+                    if not all_rooms:
+                        print("   ℹ️ Không tìm tab thể loại, lấy toàn bộ phòng...", flush=True)
+                        rooms = page.evaluate("""
+                            Array.from(document.querySelectorAll('a[href*="/room/"]')).map(a => {
+                                const parent = a.closest('li') || a;
+                                const imgs = parent.querySelectorAll('img');
+                                let thumb = '';
+                                for (const img of imgs) {
+                                    const src = img.getAttribute('data-src') || img.src || '';
+                                    if (src && !src.includes('avatar') && !src.includes('icon')) { thumb = src; break; }
+                                }
+                                return {
+                                    url: a.href,
+                                    ten: a.innerText.trim().replace(/\\n/g, ' - '),
+                                    thumb: thumb || 'https://img.icons8.com/color/512/football2.png',
+                                    sport: ''
+                                }
+                            })
+                        """)
+                        return _loc_trung(rooms, url_goc)
+
+                    return all_rooms
+
+                def lay_phong_thiendinh(page, url_goc):
+                    """ThienDinh: React SPA, click sidebar từng môn"""
+                    all_rooms = {}
+
+                    # Danh sách môn trên sidebar ThienDinh
+                    mon_sidebar = [
+                        ("Bóng đá", "Bóng đá"),
+                        ("Bóng chuyền", "Bóng chuyền"),
+                        ("Billiards", "Billiards"),
+                        ("Esports", "Esports"),
+                        ("Cầu lông", "Cầu lông"),
+                    ]
+
+                    for ten_mon, sport_tag in mon_sidebar:
+                        try:
+                            # Click sidebar category
+                            locator = page.locator(f'text="{ten_mon}"').first
+                            if locator.count() == 0:
+                                continue
+                            locator.click()
+                            page.wait_for_timeout(3000)
+
+                            # Lấy tất cả link trận đấu trên trang
+                            rooms = page.evaluate("""
+                                (() => {
+                                    const results = [];
+                                    const navPaths = ['/', '/trang-chu', ''];
+                                    
+                                    document.querySelectorAll('a[href]').forEach(a => {
+                                        const href = a.getAttribute('href') || '';
+                                        // Bỏ qua navigation links
+                                        if (navPaths.includes(href)) return;
+                                        if (href.startsWith('#') || href.startsWith('javascript:')) return;
+                                        // Bỏ qua external links
+                                        if (href.startsWith('http') && !href.includes(location.hostname)) return;
+                                        // Chỉ lấy link có nội dung (match cards)
+                                        const text = a.innerText.trim();
+                                        if (!text || text.length < 3) return;
+                                        // Bỏ sidebar items
+                                        if (['Trực tuyến', 'Bóng đá', 'Bóng chuyền', 'Billiards', 'Esports', 'Cầu lông'].includes(text)) return;
+                                        
+                                        const img = a.querySelector('img');
+                                        results.push({
+                                            url: a.href,
+                                            ten: text.replace(/\\n/g, ' - '),
+                                            thumb: img ? img.src : ''
+                                        });
+                                    });
+                                    return results;
+                                })()
+                            """)
+
+                            if rooms:
+                                print(f"   🏷️ {ten_mon}: {len(rooms)} link", flush=True)
+                            for room in rooms:
+                                if room['url'] not in all_rooms:
+                                    all_rooms[room['url']] = {
+                                        'ten': room['ten'] if room['ten'] else "Trận đấu",
+                                        'thumb': room['thumb'] or 'https://img.icons8.com/color/512/football2.png',
+                                        'sport': sport_tag
+                                    }
+                        except Exception as e:
+                            print(f"   ⚠️ Lỗi sidebar {ten_mon}: {e}", flush=True)
+                            continue
+
+                    # Fallback: nếu sidebar không hoạt động, click "Trực tuyến" lấy tất cả
+                    if not all_rooms:
+                        print("   ℹ️ Sidebar không hoạt động, thử lấy từ Trực tuyến...", flush=True)
+                        try:
+                            locator = page.locator('text="Trực tuyến"').first
+                            if locator.count() > 0:
+                                locator.click()
+                                page.wait_for_timeout(3000)
+                            
+                            rooms = page.evaluate("""
+                                (() => {
+                                    const results = [];
+                                    document.querySelectorAll('a[href]').forEach(a => {
+                                        const href = a.getAttribute('href') || '';
+                                        if (!href || href === '/' || href === '/trang-chu') return;
+                                        if (href.startsWith('#') || href.startsWith('javascript:')) return;
+                                        if (href.startsWith('http') && !href.includes(location.hostname)) return;
+                                        const text = a.innerText.trim();
+                                        if (!text || text.length < 3) return;
+                                        if (['Trực tuyến', 'Bóng đá', 'Bóng chuyền', 'Billiards', 'Esports', 'Cầu lông'].includes(text)) return;
+                                        
+                                        const img = a.querySelector('img');
+                                        results.push({
+                                            url: a.href,
+                                            ten: text.replace(/\\n/g, ' - '),
+                                            thumb: img ? img.src : 'https://img.icons8.com/color/512/football2.png',
+                                            sport: ''
+                                        });
+                                    });
+                                    return results;
+                                })()
+                            """)
+                            return _loc_trung(rooms, url_goc)
+                        except Exception:
+                            pass
+
+                    return all_rooms
+
+                # ==========================================
+                # HÀM QUÉT TỔNG: DISPATCH THEO KIỂU SERVER
+                # ==========================================
+                def quet_trang(ten_nhom, url_trang_chu, keyword_link, kieu_quet=""):
                     nonlocal so_tram_loi_vong_nay, so_tram_ok_vong_nay
-                    page = context.new_page() # Mở Tab riêng biệt cho từng trạm
+                    page = context.new_page()
                     print(f"\n📥 ĐANG QUÉT SERVER: {ten_nhom.upper()}", flush=True)
                     
-                    ket_qua_tram = [] # Kết quả tạm của riêng trạm này
+                    ket_qua_tram = []
                     
                     try:
                         page.goto(url_trang_chu, timeout=60000)
                         print("⏳ Đang rình Cloudflare mở cửa...", flush=True)
                         
-                        page.wait_for_function(f"document.querySelectorAll('a[href*=\"{keyword_link}\"]').length > 0", timeout=60000)
-                        page.wait_for_timeout(5000)
-                        
-                        if chia_mon:
-                            # === XOILAC: Quét kèm môn thể thao từ data-sport ===
-                            danh_sach_raw = page.evaluate(f"""
-                                (() => {{
-                                    const results = [];
-                                    // Lấy từ grid chính (có data-sport)
-                                    document.querySelectorAll('.grid-matches__item').forEach(item => {{
-                                        const sport = item.getAttribute('data-sport') || 'football';
-                                        const linkEl = item.querySelector('a[href*="{keyword_link}"]');
-                                        if (!linkEl) return;
-                                        const img = item.querySelector('img');
-                                        results.push({{
-                                            url: linkEl.href,
-                                            ten: linkEl.getAttribute('title') || linkEl.innerText.trim().replace(/\\n/g, ' - '),
-                                            thumb: img ? img.src : "https://img.icons8.com/color/512/football2.png",
-                                            sport: sport
-                                        }});
-                                    }});
-                                    // Lấy thêm từ thanh ngang (match-horizontals) - mặc định là football
-                                    document.querySelectorAll('.match-horizontals-item[href*="{keyword_link}"]').forEach(a => {{
-                                        const url = a.href;
-                                        if (results.some(r => r.url === url)) return; // Đã có rồi thì bỏ qua
-                                        const img = a.querySelector('img');
-                                        results.push({{
-                                            url: url,
-                                            ten: a.innerText.trim().replace(/\\n/g, ' - '),
-                                            thumb: img ? img.src : "https://img.icons8.com/color/512/football2.png",
-                                            sport: 'football'
-                                        }});
-                                    }});
-                                    return results;
-                                }})()
-                            """)
+                        # === PHÁT HIỆN PHÒNG CHIẾU ===
+                        if kieu_quet == "xoilac":
+                            # Thử lần lượt các domain dự phòng cho Xoilac
+                            xoilac_ok = False
+                            xoilac_url_dung = url_trang_chu
+                            for xoilac_domain in XOILAC_DOMAINS:
+                                try:
+                                    print(f"   🔗 Thử Xoilac domain: {xoilac_domain}", flush=True)
+                                    page.goto(xoilac_domain, timeout=30000)
+                                    page.wait_for_function(f"document.querySelectorAll('a[href*=\"{keyword_link}\"]').length > 0", timeout=30000)
+                                    xoilac_url_dung = xoilac_domain
+                                    xoilac_ok = True
+                                    print(f"   ✅ Xoilac sống: {xoilac_domain}", flush=True)
+                                    break
+                                except Exception:
+                                    print(f"   ❌ Domain chết: {xoilac_domain}", flush=True)
+                                    continue
+                            if not xoilac_ok:
+                                raise Exception("Tất cả Xoilac domains đều chết!")
+                            page.wait_for_timeout(5000)
+                            danh_sach_phong = lay_phong_xoilac(page, xoilac_url_dung, keyword_link)
+                        elif kieu_quet == "socolive":
+                            page.wait_for_function(f"document.querySelectorAll('a[href*=\"{keyword_link}\"]').length > 0", timeout=60000)
+                            page.wait_for_timeout(5000)
+                            danh_sach_phong = lay_phong_socolive(page, url_trang_chu)
+                        elif kieu_quet == "thiendinh":
+                            # React SPA: chờ render xong
+                            page.wait_for_timeout(10000)
+                            danh_sach_phong = lay_phong_thiendinh(page, url_trang_chu)
                         else:
-                            # === CÁC SERVER KHÁC: Quét bình thường ===
-                            danh_sach_raw = page.evaluate(f"""
-                                Array.from(document.querySelectorAll('a[href*="{keyword_link}"]')).map(a => {{
-                                    let img = a.querySelector('img');
-                                    return {{
-                                        url: a.href,
-                                        ten: a.innerText.trim().replace(/\\n/g, ' - '),
-                                        thumb: img ? img.src : "https://img.icons8.com/color/512/football2.png",
-                                        sport: ''
-                                    }}
-                                }})
-                            """)
+                            page.wait_for_function(f"document.querySelectorAll('a[href*=\"{keyword_link}\"]').length > 0", timeout=60000)
+                            page.wait_for_timeout(5000)
+                            danh_sach_phong = lay_phong_chuan(page, url_trang_chu, keyword_link)
                         
-                        danh_sach_phong = {}
-                        for item in danh_sach_raw:
-                            url = item['url']
-                            ten = item['ten']
-                            thumb = item['thumb']
-                            sport = item.get('sport', '')
-                            if url == url_trang_chu or url == url_trang_chu + "/": continue
-                            
-                            if url not in danh_sach_phong or len(ten) > len(danh_sach_phong.get(url, {}).get('ten', "")):
-                                danh_sach_phong[url] = {
-                                    'ten': ten if ten else "Trận đấu đang chờ cập nhật",
-                                    'thumb': thumb,
-                                    'sport': sport
-                                }
-
                         tong_so_tran = len(danh_sach_phong)
                         print(f"🎯 Phát hiện {tong_so_tran} phòng chiếu tại {ten_nhom}!", flush=True)
                         
-                        # In chi tiết theo môn nếu chia môn
-                        if chia_mon:
-                            mon_dem = {}
-                            for d in danh_sach_phong.values():
-                                mon_vn = SPORT_MAP.get(d['sport'], d['sport'])
+                        # In chi tiết theo môn
+                        mon_dem = {}
+                        for d in danh_sach_phong.values():
+                            sport_key = d.get('sport', '')
+                            if sport_key:
+                                mon_vn = SPORT_MAP.get(sport_key, sport_key)
                                 mon_dem[mon_vn] = mon_dem.get(mon_vn, 0) + 1
+                        if mon_dem:
                             print(f"   📋 Chia theo môn: {', '.join(f'{k}: {v}' for k, v in mon_dem.items())}", flush=True)
 
+                        # === BẮT STREAM TỪNG PHÒNG ===
                         for stt, (link_phong, data_phong) in enumerate(danh_sach_phong.items(), 1):
                             ten_tran = data_phong['ten']
                             anh_thumb = data_phong['thumb']
                             sport_key = data_phong.get('sport', '')
                             
-                            # Xác định tên nhóm trong M3U
-                            if chia_mon and sport_key:
-                                ten_mon_vn = SPORT_MAP.get(sport_key, sport_key.capitalize())
+                            # Xác định tên nhóm M3U
+                            if sport_key:
+                                ten_mon_vn = SPORT_MAP.get(sport_key, sport_key)
                                 nhom_m3u = f"{ten_nhom} - {ten_mon_vn}"
                             else:
                                 nhom_m3u = ten_nhom
@@ -218,7 +490,6 @@ def san_full_server_qua_proxy():
                             except Exception:
                                 pass 
                             finally:
-                                # Luôn dọn listener dù có lỗi hay không
                                 page.remove_listener("request", bat_goi_tin)
                             
                             if stream_link:
@@ -229,7 +500,7 @@ def san_full_server_qua_proxy():
                                     'thumb': anh_thumb
                                 })
                         
-                        # Trạm này quét THÀNH CÔNG → ghi nhận & giữ kết quả
+                        # Trạm này quét THÀNH CÔNG
                         so_tram_ok_vong_nay += 1
                         server_da_thanh_cong.add(ten_nhom)
                         danh_sach_phat.extend(ket_qua_tram)
@@ -239,11 +510,11 @@ def san_full_server_qua_proxy():
                         print(f"⚠️ Kẹt tường lửa hoặc web sập: {e}", flush=True)
                         so_tram_loi_vong_nay += 1
                     finally:
-                        page.close() # Dọn dẹp sạch sẽ Tab sau khi xong việc
+                        page.close()
 
                 # Quét từng server chưa thành công
-                for ten_nhom, url_tc, keyword, chia_mon in server_can_quet:
-                    quet_trang(ten_nhom, url_tc, keyword, chia_mon)
+                for ten_nhom, url_tc, keyword, kieu_quet in server_can_quet:
+                    quet_trang(ten_nhom, url_tc, keyword, kieu_quet)
 
                 browser.close()
         except Exception as e:
@@ -255,13 +526,11 @@ def san_full_server_qua_proxy():
         print(f"\n📊 Kết quả vòng {lan_thu}: ✅ {so_tram_ok_vong_nay} OK, ❌ {so_tram_loi_vong_nay} fail", flush=True)
         print(f"📊 Tổng tích lũy: {len(danh_sach_phat)} luồng từ {len(server_da_thanh_cong)}/{len(tat_ca_server)} server", flush=True)
 
-        # Proxy hoàn toàn xịt nếu KHÔNG quét được server nào trong vòng này
         if so_tram_ok_vong_nay == 0 and so_tram_loi_vong_nay > 0 and lan_thu < MAX_RETRIES:
             print("⚠️ Proxy hoàn toàn xịt vòng này. Ngủ 60s xin IP mới...", flush=True)
             time.sleep(60)
             continue
 
-        # Vẫn còn server chưa quét được → thử tiếp vòng sau
         if len(server_da_thanh_cong) < len(tat_ca_server) and lan_thu < MAX_RETRIES:
             server_con_lai = [s[0] for s in tat_ca_server if s[0] not in server_da_thanh_cong]
             print(f"🔄 Còn {len(server_con_lai)} server chưa quét được: {', '.join(server_con_lai)}", flush=True)
@@ -269,7 +538,6 @@ def san_full_server_qua_proxy():
             time.sleep(60)
             continue
 
-        # Tất cả server đã OK
         print("🏆 Tất cả server đã quét xong!", flush=True)
         break
 
@@ -296,7 +564,6 @@ def san_full_server_qua_proxy():
                 file.write(f'{luong["link"]}\n')
                 
         print(f"🎉 ĐÃ VÉT SẠCH THÀNH CÔNG TỔNG CỘNG {len(danh_sach_sach)} TRẬN!", flush=True)
-        # In chi tiết theo từng nhóm
         nhom_count = {}
         for l in danh_sach_sach:
             nhom_count[l['nhom']] = nhom_count.get(l['nhom'], 0) + 1
