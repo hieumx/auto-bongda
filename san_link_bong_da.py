@@ -87,15 +87,12 @@ def san_full_server_qua_proxy():
 
         print(f"📋 Cần quét: {', '.join(s[0] for s in server_can_quet)}", flush=True)
 
-        proxy_moi = lay_proxy_tu_api()
-        if not proxy_moi:
-            print("🛑 Không lấy được Proxy. Tạm dừng vòng này...", flush=True)
-            if lan_thu < MAX_RETRIES:
-                print("⏳ Đang ngủ 60 giây trước khi thử lại...", flush=True)
-                time.sleep(60)
-            continue
-
-        cau_hinh_proxy = {"server": f"http://{proxy_moi}"}
+        print(f"🔄 Sử dụng Proxy tĩnh...", flush=True)
+        cau_hinh_proxy = {
+            "server": "http://14.241.72.139:10906",
+            "username": "hieumx",
+            "password": "hieu123"
+        }
         so_tram_loi_vong_nay = 0
         so_tram_ok_vong_nay = 0
 
