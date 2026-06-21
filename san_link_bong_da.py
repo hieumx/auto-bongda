@@ -108,6 +108,14 @@ def san_full_server_qua_proxy():
                     user_agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
                 )
 
+                # Chặn tải các tài nguyên không cần thiết để web chạy nhanh mượt & tiết kiệm băng thông proxy
+                def chan_tai_nguyen_thua(route):
+                    if route.request.resource_type in ["image", "media", "font", "stylesheet"]:
+                        route.abort()
+                    else:
+                        route.continue_()
+                context.route("**/*", chan_tai_nguyen_thua)
+
                 # ==========================================
                 # CÁC HÀM TRÍCH XUẤT PHÒNG THEO KIỂU SERVER
                 # Mỗi hàm trả về dict: {url: {ten, thumb, sport}}
