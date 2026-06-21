@@ -45,7 +45,7 @@ def san_full_server_qua_proxy():
         ("Gavang", "https://gavanglink.co", "/truc-tiep/", "gavang"),
         ("Quechoa", "https://quechoa11.live", "/truc-tiep/", ""),
         ("ThienDinh", "https://sv2.thiendinh3.live/trang-chu", "", "thiendinh"),
-        ("Thapcam", "https://bitly.ad/thapcam", "/truc-tiep", "thapcam"),
+        ("Thapcam", "https://thapcamtivi.app", "/truc-tiep", "thapcam"),
     ]
 
     # Domain dự phòng cho Xoilac (thử lần lượt)
@@ -108,9 +108,9 @@ def san_full_server_qua_proxy():
                     user_agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
                 )
 
-                # Chặn tải các tài nguyên không cần thiết để web chạy nhanh mượt & tiết kiệm băng thông proxy
+                # Chặn tải ảnh và video để web chạy nhanh mượt & tiết kiệm băng thông proxy (Không chặn css/font để giữ DOM hợp lệ cho Playwright click)
                 def chan_tai_nguyen_thua(route):
-                    if route.request.resource_type in ["image", "media", "font", "stylesheet"]:
+                    if route.request.resource_type in ["image", "media"]:
                         route.abort()
                     else:
                         route.continue_()
