@@ -456,7 +456,7 @@ def san_full_server_qua_proxy():
                     ket_qua_tram = []
                     
                     try:
-                        page.goto(url_trang_chu, timeout=60000)
+                        page.goto(url_trang_chu, timeout=60000, wait_until="domcontentloaded")
                         print("⏳ Đang rình Cloudflare mở cửa...", flush=True)
                         
                         # === PHÁT HIỆN PHÒNG CHIẾU ===
@@ -467,7 +467,7 @@ def san_full_server_qua_proxy():
                             for xoilac_domain in XOILAC_DOMAINS:
                                 try:
                                     print(f"   🔗 Thử Xoilac domain: {xoilac_domain}", flush=True)
-                                    page.goto(xoilac_domain, timeout=30000)
+                                    page.goto(xoilac_domain, timeout=30000, wait_until="domcontentloaded")
                                     page.wait_for_function(f"document.querySelectorAll('a[href*=\"{keyword_link}\"]').length > 0", timeout=30000)
                                     xoilac_url_dung = xoilac_domain
                                     xoilac_ok = True
@@ -537,7 +537,7 @@ def san_full_server_qua_proxy():
                             
                             page.on("request", bat_goi_tin)
                             try:
-                                page.goto(link_phong, timeout=30000)
+                                page.goto(link_phong, timeout=30000, wait_until="domcontentloaded")
                                 page.wait_for_load_state("domcontentloaded")
                                 page.wait_for_timeout(3000) 
                                 
