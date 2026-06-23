@@ -30,7 +30,7 @@ def lay_proxy_tu_api():
 # HÀM LÕI: ĐIỀU KHIỂN TRÌNH DUYỆT ĐI SĂN
 # ==========================================
 def san_full_server_qua_proxy():
-    print("🚀 KHỞI ĐỘNG CHIẾN DỊCH VÉT SẠCH 6 SERVER (CHIA THỂ LOẠI & KIỂM ĐỊNH PROXY)...", flush=True)
+    print("🚀 KHỞI ĐỘNG CHIẾN DỊCH VÉT SẠCH 7 SERVER (CHIA THỂ LOẠI & KIỂM ĐỊNH PROXY)...", flush=True)
     
     MAX_RETRIES = 3
 
@@ -45,6 +45,7 @@ def san_full_server_qua_proxy():
         ("Gavang", "https://gavanglink.co", "/truc-tiep/", "gavang"),
         ("Quechoa", "https://quechoa11.live", "/truc-tiep/", ""),
         ("ThienDinh", "https://sv2.thiendinh3.live/trang-chu", "", "thiendinh"),
+        ("Hoiquan", "https://sv2.hoiquan6.live/trang-chu", "", "thiendinh"),
         ("Thapcam", "https://thapcamtivi.app", "/truc-tiep", "thapcam"),
     ]
 
