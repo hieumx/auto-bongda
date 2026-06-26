@@ -1,239 +1,351 @@
 #EXTM3U
-#EXTINF:-1 group-title="Socolive - Bóng đá" tvg-logo="https://sta.vnres.co/file/common/20260615/0766b7087e4ac95d4c5788a60b6a6d42_wh320.png", ⚽ Live -                -              -              -               QUỐC KHÁNH -                -                  -                 27.25k -                -              -             KAZ D1: FK Taraz vs FC Shakhtyor Karagandy
-https://pull06.scstream.net/live/stream-602153_lhd.flv?auth_key=1782485602-0-0-7599092d7f2a3e5ec6bba7471fb00a1e
-#EXTINF:-1 group-title="Socolive - Bóng đá" tvg-logo="https://sta.vnres.co/file/common/20260609/b3e04b0f7d210d67052a911512e39f54_wh320.jpg", ⚽ Live -                -              -              -               CHÍ PHÈO -                -                  -                 27.32k -                -              -             KAZ D1: Ekibastuzets vs Astana B
-https://pull06.scstream.net/live/stream-273736_lhd.flv?auth_key=1782485662-0-0-7bbb43c992f8bea69d3a50ef85ccdb26
-#EXTINF:-1 group-title="Socolive - Bóng đá" tvg-logo="https://sta.vnres.co/file/common/20250723/6b83b847d8944b57cc13043bae9fa7a8_wh320.jpg", ⚽ Live -                -              -              -               BLV VIP -                -                  -                 27.24k -                -              -             KAZ D1: Ekibastuzets vs Astana B
-https://pull.niur.live/live/stream-491873_lhd.flv?txSecret=f6328ff0fd9a0916d3edf52322720ee5&txTime=6a3ed8ee
-#EXTINF:-1 group-title="Socolive - Bóng đá" tvg-logo="https://sta.vnres.co/file/common/20260610/adaaa74c2aac2662a9ec4e94395869c9_wh320.png", ⚽ Live -                -              -              -               QUÂN JK -                -                  -                 27.11k -                -              -             KAZ D1: Ekibastuzets vs Astana B
-https://pull06.scstream.net/live/stream-558264_lhd.flv?auth_key=1782485662-0-0-8093e7284c1e0eda2c95956c05ad603e
-#EXTINF:-1 group-title="Socolive - Bóng đá" tvg-logo="https://sta.vnres.co/file/common/20260119/f0bd8eecb590a8068d58dc584b5d6c16_wh320.png", ⚽ Live -                -              -              -               BLV LONG -                -                  -                 27.70k -                -              -             KAZ D1: FK Taraz vs FC Shakhtyor Karagandy
-https://pull06.scstream.net/live/stream-9912117_lhd.flv?auth_key=1782485662-0-0-622a25827890cacef3d6e9e882f6e8a3
-#EXTINF:-1 group-title="Socolive - Bóng đá" tvg-logo="https://sta.vnres.co/file/common/20260519/52ed5900f0f285a47dd6227792e94f9a_wh320.png", ⚽ Live -                -              -              -               SOCOLIVE -                -                  -                 1.12k -                -              -             BIT.LY/SOCOLIVE
-https://pull06.scstream.net/live/stream-175784_lhd.flv?auth_key=1782485722-0-0-b1953081c2b52a4218c5d534c63bf9da
-#EXTINF:-1 group-title="Socolive - Bóng đá" tvg-logo="https://sta.vnres.co/file/common/20251110/02d64554832d40e5884989e9d0f3be14_wh320.jpg", ⚽ Live -                -              -              -               Sóc Nhó Nhịu Nhô Nhùng -                -                  -                 1.10k -                -              -             Tường thuật: WORLD CUP - Curacao vs Cote d'Ivoire
-https://pull06.scstream.net/live/stream-133277_lhd.flv?auth_key=1782485722-0-0-ce2dce91e6c2d48151fcf742f3b5fc83
-#EXTINF:-1 group-title="Socolive - Bóng đá" tvg-logo="https://sta.vnres.co/file/common/20250424/a28542dbd508468d0a495a510077aa7b_wh320.jpg", ⚽ Live -                -              -              -               Sóc trong rừng xà nu -                -                  -                 1.07k -                -              -             Tường thuật: WORLD CUP - Japan vs Sweden
-https://pull06.scstream.net/live/stream-9912079_lhd.flv?auth_key=1782485722-0-0-dbde0a6d3bd2234b4b98c672921a9e81
-#EXTINF:-1 group-title="Socolive - Bóng đá" tvg-logo="https://sta.vnres.co/file/common/20251110/4c45f54b9476f5b0c43acd88b6835e2e_wh320.png", ⚽ Live -                -              -              -               Sóc mèo méo meo -                -                  -                 1.06k -                -              -             Tường thuật: WORLD CUP - Ecuador vs Germany
-https://pull06.scstream.net/live/stream-343500_lhd.flv?auth_key=1782485722-0-0-bb7814105892c530c13321fc172220aa
+#EXTINF:-1 group-title="Socolive - Bóng đá" tvg-logo="https://sta.vnres.co/file/common/20260123/f00d0acc7b73214f834ad859c1c30130_wh320.jpg", ⚽ Live -                -              -              -               BLV PEWPEW -                -                  -                 45.42k -                -              -             LAT D1: Ogre United vs Tukums-2000
+https://pull06.scstream.net/live/stream-9912015_lhd.flv?auth_key=1782496462-0-0-48468803c84e942421165d0da6f5ccc5
+#EXTINF:-1 group-title="Socolive - Bóng đá" tvg-logo="https://sta.vnres.co/file/common/20260601/f268d15483336442bf06e36ccde72bad_wh320.jpg", ⚽ Live -                -              -              -               BLV THÓC -                -                  -                 43.12k -                -              -             LAT D1: Ogre United vs Tukums-2000
+https://pull06.scstream.net/live/stream-606448_lhd.flv?auth_key=1782496462-0-0-1c088ef5cdecc50830a91408f70137c1
+#EXTINF:-1 group-title="Socolive - Bóng đá" tvg-logo="https://sta.vnres.co/file/common/20260415/3b743d940a5eddcb5351484c20e8f449_wh320.jpg", ⚽ Live -                -              -              -               BLV RÔSI -                -                  -                 42.84k -                -              -             LAT D1: FK Liepaja vs Rigas Futbola Skola
+https://pull.niur.live/live/stream-9912102_lhd.flv?txSecret=db4bff73feb8389d0d38d8c051c84162&txTime=6a3f031e
+#EXTINF:-1 group-title="Socolive - Bóng đá" tvg-logo="https://sta.vnres.co/file/common/20260601/0ef26a05cc5531ef3fc63f77d5475ef0_wh320.jpg", ⚽ Live -                -              -              -               BLV PICK -                -                  -                 42.59k -                -              -             FIN D2: PK-35 Vantaa vs Mikkelin Palloilijat
+https://pull06.scstream.net/live/stream-598549_lhd.flv?auth_key=1782496462-0-0-0205743c1ba89e195977c4c8ca9d615d
+#EXTINF:-1 group-title="Socolive - Bóng đá" tvg-logo="https://sta.vnres.co/file/common/20260328/01acc641be84c58f2062ca50bf94b25a_wh320.jpg", ⚽ Live -                -              -              -               A PÁO -                -                  -                 43.76k -                -              -             LAT D1: Ogre United vs Tukums-2000
+https://pull06.scstream.net/live/stream-235232_lhd.flv?auth_key=1782496462-0-0-986cbfc68584d712ce4e9bbc0c87be8f
+#EXTINF:-1 group-title="Socolive - Bóng đá" tvg-logo="https://sta.vnres.co/file/common/20260517/1c87a17d31a71d2da14d518431673f75_wh320.JPG", ⚽ Live -                -              -              -               KÉP -                -                  -                 42.60k -                -              -             FIN D2: PK-35 Vantaa vs Mikkelin Palloilijat
+https://pull06.scstream.net/live/stream-560690_lhd.flv?auth_key=1782496522-0-0-da8e342b7bf013e40d7473df3ccf79af
+#EXTINF:-1 group-title="Socolive - Bóng đá" tvg-logo="https://sta.vnres.co/file/common/20260626/7da9dfb3ba40be529af8bf214688d3ae_wh320.jpg", ⚽ Live -                -              -              -               BLV ENZO -                -                  -                 43.32k -                -              -             LAT D1: Ogre United vs Tukums-2000
+https://pull06.scstream.net/live/stream-380460_lhd.flv?auth_key=1782496522-0-0-cc0f3d551e271d0983660853858044fc
+#EXTINF:-1 group-title="Socolive - Bóng đá" tvg-logo="https://sta.vnres.co/file/common/20250723/6b83b847d8944b57cc13043bae9fa7a8_wh320.jpg", ⚽ Live -                -              -              -               BLV VIP -                -                  -                 42.50k -                -              -             LAT D1: FK Liepaja vs Rigas Futbola Skola
+https://pull.niur.live/live/stream-491873_lhd.flv?txSecret=3c6a509725b07415312aa0741ee97293&txTime=6a3f035a
+#EXTINF:-1 group-title="Socolive - Bóng đá" tvg-logo="https://sta.vnres.co/file/common/20260402/d2f4689c880967dce02e423c71668bd7_wh320.png", ⚽ Live -                -              -              -               BLV LION -                -                  -                 42.46k -                -              -             LAT D1: FK Liepaja vs Rigas Futbola Skola
+https://pull06.scstream.net/live/stream-603255_lhd.flv?auth_key=1782496522-0-0-82421f60008c77fce4ab8680ea8d2e43
+#EXTINF:-1 group-title="Socolive - Bóng đá" tvg-logo="https://sta.vnres.co/file/common/20251106/3935c1d673a689eaacac4f3c21389289_wh320.jpg", ⚽ Live -                -              -              -               BLV GÔN -                -                  -                 42.54k -                -              -             BLR PL: FC Baranovichi vs Slavia Mozyr
+https://pull.niur.live/live/stream-445260_lhd.flv?txSecret=24696d271385a60d618bd387155e8c55&txTime=6a3f0396
+#EXTINF:-1 group-title="Socolive - Bóng đá" tvg-logo="https://sta.vnres.co/file/common/20260312/cb002ebc914e9240a9242c43ec27aacb_wh320.jpg", ⚽ Live -                -              -              -               BLV CÁO -                -                  -                 42.93k -                -              -             FIN D2: Klubi 04 Helsinki vs SJK Akatemia
+https://pull06.scstream.net/live/stream-597929_lhd.flv?auth_key=1782496582-0-0-22d0d71a8b1b5b2a63d4931912ad7006
+#EXTINF:-1 group-title="Socolive - Bóng đá" tvg-logo="https://sta.vnres.co/file/common/20251017/95aeab3d0e40306db5109d3e96afb8f4_wh320.jpg", ⚽ Live -                -              -              -               BLV BÉO -                -                  -                 43.06k -                -              -             LAT D1: FK Liepaja vs Rigas Futbola Skola
+https://pull.niur.live/live/stream-459401_lhd.flv?txSecret=39524ea8fcd670ad3c43c8e2345567d1&txTime=6a3f0396
+#EXTINF:-1 group-title="Socolive - Bóng đá" tvg-logo="https://sta.vnres.co/file/common/20240921/29f418af36dd0862deb5b7daef605d6e_wh320.jpg", ⚽ Live -                -              -              -               BLV LUCAS -                -                  -                 27.80k -                -              -             LAT D1: Ogre United vs Tukums-2000
+https://pull06.scstream.net/live/stream-304148_lhd.flv?auth_key=1782496642-0-0-d7a018cd39a360e62692c4ff49b5d82e
+#EXTINF:-1 group-title="Socolive - Bóng đá" tvg-logo="https://sta.vnres.co/file/common/20260119/f0bd8eecb590a8068d58dc584b5d6c16_wh320.png", ⚽ Live -                -              -              -               BLV LONG -                -                  -                 26.94k -                -              -             FIN D2: Klubi 04 Helsinki vs SJK Akatemia
+https://pull06.scstream.net/live/stream-9912117_lhd.flv?auth_key=1782496642-0-0-adbe7f9ece0254d8b2f12b9e9f463975
+#EXTINF:-1 group-title="Socolive - Bóng đá" tvg-logo="https://sta.vnres.co/file/common/20260203/726eb47f2559a4b1f3070ed1fdb8b151_wh320.png", ⚽ Live -                -              -              -               BLV VOI -                -                  -                 26.92k -                -              -             LAT D1: Ogre United vs Tukums-2000
+https://pull06.scstream.net/live/stream-598549_lhd.flv?auth_key=1782496642-0-0-21ed59fa5a0a9cd23a252ae8c81ce96d
+#EXTINF:-1 group-title="Socolive - Bóng đá" tvg-logo="https://sta.vnres.co/file/common/20250821/4599267bc7061b982db36b4dded95de2_wh320.jpg", ⚽ Live -                -              -              -               BLV A WIN -                -                  -                 26.91k -                -              -             BLR PL: FC Baranovichi vs Slavia Mozyr
+https://pull06.scstream.net/live/stream-536185_lhd.flv?auth_key=1782496642-0-0-e48c695225ffa6573dd505d9d0c852cb
+#EXTINF:-1 group-title="Socolive - Bóng đá" tvg-logo="https://sta.vnres.co/file/common/20250712/2393d45d9eea730803dd5f7a0bda12c8_wh320.jpg", ⚽ Live -                -              -              -               BLV VITAMIN -                -                  -                 26.63k -                -              -             LAT D1: FK Liepaja vs Rigas Futbola Skola
+https://pull06.scstream.net/live/stream-400722_lhd.flv?auth_key=1782496702-0-0-a65437d3cb8750b01c63a617f64a046e
+#EXTINF:-1 group-title="Socolive - Bóng đá" tvg-logo="https://sta.vnres.co/file/common/20260406/de5933be539e85bbac3c5fdbddfe54b7_wh320.jpg", ⚽ Live -                -              -              -               TRÀ ĐÁ -                -                  -                 26.62k -                -              -             FIN D2: PK-35 Vantaa vs Mikkelin Palloilijat
+https://pull06.scstream.net/live/stream-603914_lhd.flv?auth_key=1782496702-0-0-f32d6b1fe6471a0f9772bcc6e5f2a211
+#EXTINF:-1 group-title="Socolive - Bóng đá" tvg-logo="https://sta.vnres.co/file/common/20260325/722d1da185daba12f8d4e84bec611a75_wh320.jpg", ⚽ Live -                -              -              -               PINKMAN -                -                  -                 26.48k -                -              -             BLR PL: FC Baranovichi vs Slavia Mozyr
+https://pull.niur.live/live/stream-595715_lhd.flv?txSecret=9b710a8a5a309d3ff32dfc526dd162bb&txTime=6a3f040e
+#EXTINF:-1 group-title="Socolive - Bóng đá" tvg-logo="https://sta.vnres.co/file/common/20260518/bfb6774f9a24fdd88696619a1f2284e1_wh320.jpg", ⚽ Live -                -              -              -               HÀ DUY KIÊN -                -                  -                 26.39k -                -              -             FIN D2: Klubi 04 Helsinki vs SJK Akatemia
+https://pull06.scstream.net/live/stream-607400_lhd.flv?auth_key=1782496702-0-0-0e6df781adf0049ee2c8e6198ab8f495
+#EXTINF:-1 group-title="Socolive - Bóng đá" tvg-logo="https://sta.vnres.co/file/common/20260626/aaabd8040ed01637740820313690c301_wh320.jpg", ⚽ Live -                -              -              -               BLV CÁP -                -                  -                 26.35k -                -              -             LAT D1: FK Liepaja vs Rigas Futbola Skola
+https://pull06.scstream.net/live/stream-610677_lhd.flv?auth_key=1782496762-0-0-c1472f2b4124f86f8befb4348e4b1951
+#EXTINF:-1 group-title="Socolive - Bóng đá" tvg-logo="https://sta.vnres.co/file/common/20260613/cc7eb6fb9d74dfa083a48c861b135ae8_wh320.jpg", ⚽ Live -                -              -              -               BLV XO -                -                  -                 26.35k -                -              -             FIN D2: PK-35 Vantaa vs Mikkelin Palloilijat
+https://pull06.scstream.net/live/stream-472241_lhd.flv?auth_key=1782496762-0-0-b823ad7db5deeaac209bdb55a127a032
+#EXTINF:-1 group-title="Socolive - Bóng đá" tvg-logo="https://sta.vnres.co/file/common/20260531/a44085bd0a0451b447f24abf420bc722_wh320.jpg", ⚽ Live -                -              -              -               BLV RAMBO -                -                  -                 26.27k -                -              -             SWE D2: IK Brage vs Falkenberg
+https://pull.niur.live/live/stream-534055_lhd.flv?txSecret=13f92c5d044c3a24d6aa76822c121e0a&txTime=6a3f044a
+#EXTINF:-1 group-title="Socolive - Bóng đá" tvg-logo="https://sta.vnres.co/file/common/20260622/7fd54121a16da864908c6bb593721b3d_wh320.jpg", ⚽ Live -                -              -              -               XUÂN TÓC ĐỎ -                -                  -                 26.10k -                -              -             FIN D2: Klubi 04 Helsinki vs SJK Akatemia
+https://pull.niur.live/live/stream-610518_lhd.flv?txSecret=8cf1f2c44e05f54ff4676d8e7205d2c4&txTime=6a3f044a
+#EXTINF:-1 group-title="Socolive - Bóng đá" tvg-logo="https://sta.vnres.co/file/common/20260531/f58c956b8f45ab4ad85d5115ecf6a2dd_wh320.png", ⚽ Live -                -              -              -               BLV 24H -                -                  -                 26.06k -                -              -             EST D1: Pärnu JK Vaprus vs FC Kuressaare
+https://pull06.scstream.net/live/stream-612928_lhd.flv?auth_key=1782496822-0-0-bdc9d85ab2cd820a3a7c119e51483adc
+#EXTINF:-1 group-title="Socolive - Bóng đá" tvg-logo="https://sta.vnres.co/file/common/20260605/e6cff4bf25cb17c2958cb2483e0c6635_wh320.png", ⚽ Live -                -              -              -               CƠM CHÁY -                -                  -                 25.61k -                -              -             SWE D2: IK Brage vs Falkenberg
+https://pull06.scstream.net/live/stream-611528_lhd.flv?auth_key=1782496822-0-0-f6d5a773ba06b63d672d2ef25450b250
+#EXTINF:-1 group-title="Socolive - Bóng đá" tvg-logo="https://sta.vnres.co/file/common/20260615/0766b7087e4ac95d4c5788a60b6a6d42_wh320.png", ⚽ Live -                -              -              -               QUỐC KHÁNH -                -                  -                 25.59k -                -              -             EST D1: Parnu JK Vaprus vs FC Kuressaare
+https://pull06.scstream.net/live/stream-602153_lhd.flv?auth_key=1782496822-0-0-4b4fd2eeb2b672fb9f7672b02d67c150
+#EXTINF:-1 group-title="Socolive - Bóng đá" tvg-logo="https://sta.vnres.co/file/common/20260519/52ed5900f0f285a47dd6227792e94f9a_wh320.png", ⚽ Live -                -              -              -               SOCOLIVE -                -                  -                 1.27k -                -              -             BIT.LY/SOCOLIVE
+https://pull06.scstream.net/live/stream-175784_lhd.flv?auth_key=1782496822-0-0-7b108986f418d63f5de72fa0cdccaa7e
+#EXTINF:-1 group-title="Socolive - Bóng đá" tvg-logo="https://sta.vnres.co/file/common/20251110/02d64554832d40e5884989e9d0f3be14_wh320.jpg", ⚽ Live -                -              -              -               Sóc Nhó Nhịu Nhô Nhùng -                -                  -                 1.12k -                -              -             Tường thuật: WORLD CUP - Curacao vs Cote d'Ivoire
+https://pull06.scstream.net/live/stream-133277_lhd.flv?auth_key=1782496882-0-0-4f927378e80c1f5215f199f48a39f2b5
+#EXTINF:-1 group-title="Socolive - Bóng đá" tvg-logo="https://sta.vnres.co/file/common/20251110/4c45f54b9476f5b0c43acd88b6835e2e_wh320.png", ⚽ Live -                -              -              -               Sóc mèo méo meo -                -                  -                 1.03k -                -              -             Tường thuật: WORLD CUP - Ecuador vs Germany
+https://pull06.scstream.net/live/stream-343500_lhd.flv?auth_key=1782496882-0-0-6e7596d15ab52a8112e3203a888bc384
 #EXTINF:-1 group-title="Socolive - Bóng đá" tvg-logo="https://sta.vnres.co/file/common/20251110/4002a0edf64934e2ce7cc8a90291d9df_wh320.png", ⚽ Live -                -              -              -               Sóc nhàm nhang nhồ -                -                  -                 1.02k -                -              -             Tường thuật: WORLD CUP - Turkiye vs USA
-https://pull06.scstream.net/live/stream-152898_lhd.flv?auth_key=1782485782-0-0-e1d4ce3a0b8f524a41b88f443d6af6bc
-#EXTINF:-1 group-title="Socolive - Bóng đá" tvg-logo="https://sta.vnres.co/file/common/20251110/0fe737964c8881084743ca046a2b2b2a_wh320.jpg", ⚽ Live -                -              -              -               Sóc đau cổ vai gáy -                -                  -                 1.02k -                -              -             Tường thuật: WORLD CUP - Paraguay vs Australia
-https://pull06.scstream.net/live/stream-179093_lhd.flv?auth_key=1782485782-0-0-a0dfb66cb16a0f5ed10f401609bb7938
+https://pull06.scstream.net/live/stream-152898_lhd.flv?auth_key=1782496882-0-0-15cfd8fd71d2e85e5f2eb584f172702c
+#EXTINF:-1 group-title="Socolive - Bóng đá" tvg-logo="https://sta.vnres.co/file/common/20251110/0fe737964c8881084743ca046a2b2b2a_wh320.jpg", ⚽ Live -                -              -              -               Sóc đau cổ vai gáy -                -                  -                 1.01k -                -              -             Tường thuật: WORLD CUP - Paraguay vs Australia
+https://pull06.scstream.net/live/stream-179093_lhd.flv?auth_key=1782496882-0-0-5cbdf241677a95be22653032dc7719c9
+#EXTINF:-1 group-title="Socolive - Bóng đá" tvg-logo="https://sta.vnres.co/file/common/20250424/a28542dbd508468d0a495a510077aa7b_wh320.jpg", ⚽ Live -                -              -              -               Sóc trong rừng xà nu -                -                  -                 1.01k -                -              -             Tường thuật: WORLD CUP - Japan vs Sweden
+https://pull06.scstream.net/live/stream-9912079_lhd.flv?auth_key=1782496942-0-0-b408f472dbc8529e6d2ac48f1eb14293
 #EXTINF:-1 group-title="Socolive - Bóng đá" tvg-logo="https://sta.vnres.co/file/common/20251110/87f096ccaede473efa0e2ed78d9544c3_wh320.jpg", ⚽ Live -                -              -              -               Sóc trèo cây ngô đồng -                -                  -                 1.01k -                -              -             Tường thuật: WORLD CUP - Tunisia vs Netherlands
-https://pull06.scstream.net/live/stream-133824_lhd.flv?auth_key=1782485782-0-0-7b3982b48f52ddcf8cb0f2a92b797f13
-#EXTINF:-1 group-title="Gavang - Bóng đá" tvg-logo="https://img.thesports.com/football/competition/da617cd58cd9cffaae0daec865457fb5.png", ⚽ Norway vs France luc 02:00 ngay 27/06/2026
-https://playback.livetl001.com/live/69a1aaa7230584579e2d5ce1.flv
-#EXTINF:-1 group-title="Gavang - Bóng đá" tvg-logo="https://img.thesports.com/football/competition/da617cd58cd9cffaae0daec865457fb5.png", ⚽ Senegal vs Iraq luc 02:00 ngay 27/06/2026
-https://playback.livetl001.com/live/69ff2c40bf9490b4aab22c9a.m3u8
-#EXTINF:-1 group-title="Gavang - Bóng đá" tvg-logo="https://img.thesports.com/football/competition/da617cd58cd9cffaae0daec865457fb5.png", ⚽ Uruguay vs Spain luc 07:00 ngay 27/06/2026
-https://playback.livetl001.com/live/69aa9525f5ec459ae275b43f.m3u8
-#EXTINF:-1 group-title="Gavang - Bóng đá" tvg-logo="https://img.thesports.com/football/competition/2b22d40c7f9716b666bb8b6b37de313e.png", ⚽ St. George vs Fasil Ketema luc 19:00 ngay 26/06/2026
-https://playback.livetl001.com/live/69ef10b47146e04fbe6d4363.flv
-#EXTINF:-1 group-title="Gavang - Bóng đá" tvg-logo="https://img.thesports.com/football/competition/2b22d40c7f9716b666bb8b6b37de313e.png", ⚽ Ethiopia Bunna vs Mekelle 70 Enderta luc 20:00 ngay 26/06/2026
-https://playback.livetl001.com/live/69cf6331585c5992182f4160.m3u8
-#EXTINF:-1 group-title="ThienDinh" tvg-logo="https://i.imgur.com/Ne0x6Ea.png", ⚽ 14:3026/06Nation League MenTrung Quốc---0-0ArgentinaBLV PHAN BỐNGTrực tiếpĐặt cược
-https://tfx23gr3dgmtugrzdgpbqgrhdommeqfsg17uff3hsnhuqcp1ghmucpf5gk.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanbong/playlist.m3u8?wsSession=c50d510e5c2770b5f7074422-178248384729694&wsIPSercert=f9ea261b9d651c924d668d4c9f053b80&wsBindIP=2&wsserid=1168239032780249394
-#EXTINF:-1 group-title="ThienDinh" tvg-logo="https://i.imgur.com/Ne0x6Ea.png", ⚽ 14:3026/06Nation League MenUkraina---0-0CanadaBLV PHAN CATrực tiếpĐặt cược
-https://tfx23gr3dgmtugrzdgpbqgrhdommeqfsg17uff3hsnhuqcp1ghmucpf5gk.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanca/playlist.m3u8?wsSession=6931d1040439771ff9a052ea-178248385971470&wsIPSercert=f9ea261b9d651c924d668d4c9f053b80&wsBindIP=2&wsserid=1168239032787589538
-#EXTINF:-1 group-title="ThienDinh" tvg-logo="https://i.imgur.com/Ne0x6Ea.png", ⚽ 14:3026/06Nation League MenIran ---0-0Nhật BảnBLV PHAN HẢITrực tiếpĐặt cược
-https://tfx23gr3dgmtugrzdgpbqgrhdommeqfsg17uff3hsnhuqcp1ghmucpf5gk.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanhai/playlist.m3u8?wsSession=6931d1040439771ff9a052ea-178248387295233&wsIPSercert=f9ea261b9d651c924d668d4c9f053b80&wsBindIP=2&wsserid=1168239032787589538
-#EXTINF:-1 group-title="ThienDinh" tvg-logo="https://i.imgur.com/30aaqin.png", ⚽ ● Live13:0026/061. DivisionH2 - 60'0-2TarazShakhter KaragandyBLV PHAN ANH
-https://tfx23gr3dgmtugrzdgpbqgrhdommeqfsg17uff3hsnhuqcp1ghmucpf5gk.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phananh/playlist.m3u8?wsSession=e203e6ad827735e88b522884-178248388655552&wsIPSercert=f9ea261b9d651c924d668d4c9f053b80&wsBindIP=2&wsserid=1168239032773957826
-#EXTINF:-1 group-title="ThienDinh" tvg-logo="https://i.imgur.com/Ne0x6Ea.png", ⚽ ● Live12:3026/06AVC Nations Cup 2026---0-0IndonesiaOman BLV TÁO GIÀ
-https://tfx23gr4nhct1gwzdrcbqgrhdqmmwctsg17uff3hsnhuqcp1ghmucpf5gk.100ycdn.com/tdlive.yarncdn.live/live/tdtv_blv_taotinhtao/playlist.m3u8?wsSession=1f88bd588885ab981ac4b881-178248445364809&wsIPSercert=f9ea261b9d651c924d668d4c9f053b80&wsBindIP=2&wsserid=1168239097222411122
-#EXTINF:-1 group-title="Hoiquan" tvg-logo="https://i.imgur.com/30aaqin.png", ⚽ LIVEBóng đá
-https://tfx23gr4nhct1gwzdrcbqgrhdqmmeqfsg17uff3hsnhuqcp1ghmucpf5gk.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phananh/playlist.m3u8?wsSession=2e5a83285eb0604249cc923f-178248534395980&wsIPSercert=f9ea261b9d651c924d668d4c9f053b80&wsBindIP=2&wsserid=1168239097241285722
-#EXTINF:-1 group-title="Hoiquan" tvg-logo="https://i.imgur.com/Ne0x6Ea.png", ⚽ LIVEBóng chuyền
-https://tfx23gr4nhct1gwzdrcbqgrhdqmmeqfsg17uff3hsnhuqcp1ghmucpf5gk.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanca/playlist.m3u8?wsSession=1f88bd588885ab981ac4b881-178248535702172&wsIPSercert=f9ea261b9d651c924d668d4c9f053b80&wsBindIP=2&wsserid=1168239097222411122
-#EXTINF:-1 group-title="Hoiquan" tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/1c/FIVB_Volleyball_Nations_League_logo.jpg", ⚽ Nation League MenBóng chuyềnTrung QuốcLive0-014:3026/06/2026ArgentinaBLV PHAN BỐNGĐặt cược
-https://tfx23gr4nhct1gwzdrcbqgrhdqmmeqfsg17uff3hsnhuqcp1ghmucpf5gk.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanbong/playlist.m3u8?wsSession=1f88bd588885ab981ac4b881-178248542387116&wsIPSercert=f9ea261b9d651c924d668d4c9f053b80&wsBindIP=2&wsserid=1168239097222411122
-#EXTINF:-1 group-title="Hoiquan" tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/1c/FIVB_Volleyball_Nations_League_logo.jpg", ⚽ Nation League MenBóng chuyềnUkrainaLive0-014:3026/06/2026CanadaBLV PHAN CAĐặt cược
-https://tfx23gr4nhct1gwzdrcbqgrhdqmmeqfsg17uff3hsnhuqcp1ghmucpf5gk.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanca/playlist.m3u8?wsSession=1f88bd588885ab981ac4b881-178248543737132&wsIPSercert=f9ea261b9d651c924d668d4c9f053b80&wsBindIP=2&wsserid=1168239097222411122
-#EXTINF:-1 group-title="Hoiquan" tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/1c/FIVB_Volleyball_Nations_League_logo.jpg", ⚽ Nation League MenBóng chuyềnIran Live0-015:0026/06/2026Nhật BảnBLV PHAN HẢIĐặt cược
-https://tfx23gr4nhct1gwzdrcbqgrhdqmmeqfsg17uff3hsnhuqcp1ghmucpf5gk.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanhai/playlist.m3u8?wsSession=1f88bd588885ab981ac4b881-178248545063394&wsIPSercert=f9ea261b9d651c924d668d4c9f053b80&wsBindIP=2&wsserid=1168239097222411122
-#EXTINF:-1 group-title="Hoiquan" tvg-logo="https://media.api-sports.io/football/leagues/388.png", ⚽ 1. DivisionBóng đáTarazH2 - 86'0-213:0026/06/2026Shakhter KaragandyBLV PHAN ANHĐặt cược
-https://tfx23gr4nhct1gwzdrcbqgrhdqmmeqfsg17uff3hsnhuqcp1ghmucpf5gk.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phananh/playlist.m3u8?wsSession=2e5a83285eb0604249cc923f-178248546545182&wsIPSercert=f9ea261b9d651c924d668d4c9f053b80&wsBindIP=2&wsserid=1168239097241285722
-#EXTINF:-1 group-title="Hoiquan" tvg-logo="https://media.api-sports.io/football/leagues/365.png", ⚽ VirsligaBóng đáOgre UnitedSắp bắt đầu - null'0-015:0026/06/2026TukumsBLV PHAN ANHĐặt cược
-https://tfx23gr4nhct1gwzdrcbqgrhdqmmeqfsg17uff3hsnhuqcp1ghmucpf5gk.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phananh/playlist.m3u8?wsSession=2e5a83285eb0604249cc923f-178248548038561&wsIPSercert=f9ea261b9d651c924d668d4c9f053b80&wsBindIP=2&wsserid=1168239097241285722
-#EXTINF:-1 group-title="Thapcam - Bóng đá" tvg-logo="", ⚽ FK Rostov Youth - 2 - 1 -  - Fakel Youth
-https://station1-global.ebaclofen.org/live/0875959a800b9d0db59665b752908f7e/playlist.m3u8
-#EXTINF:-1 group-title="Thapcam - Bóng đá" tvg-logo="", ⚽ TUT FC Women - 1 - 4 -  - Johannesburg Uni Women
-https://station1-global.ebaclofen.org/live/1353192cb5914d3b3c52f0e5ddb8cc01/playlist.m3u8
-#EXTINF:-1 group-title="Thapcam - Bóng đá" tvg-logo="", ⚽ Scottland FC - 5 - 0 -  - Manica Diamond
-https://station1-global.ebaclofen.org/live/24419e953e519ef4e1969429d9c63d7e/playlist.m3u8
-#EXTINF:-1 group-title="Thapcam - Bóng đá" tvg-logo="", ⚽ T - Torpedo Kutaisi B - 0 - 4 -  - Margveti 2006
-https://station1-global.ebaclofen.org/live/794fc16753d2f4690a51a6aeebe31d31/playlist.m3u8
-#EXTINF:-1 group-title="Thapcam - Bóng đá" tvg-logo="", ⚽ Ethiopia Bunna - 3 - 0 -  - Mekelle 70 Enderta
-https://station1-global.ebaclofen.org/live/adca3db36e25c5a801aae83181b83cf6/playlist.m3u8
-#EXTINF:-1 group-title="Thapcam - Bóng đá" tvg-logo="", ⚽ FK Taraz - 0 - 2 -  - FC Shakhtyor Karagandy
-https://station1-global.ebaclofen.org/live/0e7402a1084fce892ee54c06b7f024bf/playlist.m3u8
-#EXTINF:-1 group-title="Thapcam - Bóng đá" tvg-logo="", ⚽ FC Istaravshan - 1 - 1 -  - FK Parvoz Bobojon Ghafurov
-https://station1-global.ebaclofen.org/live/d8aebc5e83566a3c42a09a2ece8c062f/playlist.m3u8
-#EXTINF:-1 group-title="Thapcam - Bóng đá" tvg-logo="", ⚽ Baumit Jablonec - 1 - 1 -  - FK Graffin Vlasim
-https://station1-global.ebaclofen.org/live/8c9dc8319da02df07c385d5065e550cf/playlist.m3u8
-#EXTINF:-1 group-title="Xoilac - Bóng đá" tvg-logo="https://imgts.sportpulseapiz.com/football/competition/kp3glrw7hwqdyjv/image/small", ⚽ Na Uy vs Pháp lúc 02:00 ngày 27/06/2026
-https://live3.procdnlive.com/livecdn/channel1.flv?auth_key=3000001782486034-0-0-faf64dbd87740251a1011bb79dc59479
+https://pull06.scstream.net/live/stream-133824_lhd.flv?auth_key=1782496942-0-0-accc9fd046abccc96fb74b1b884b963b
 #EXTINF:-1 group-title="Xoilac - Bóng đá" tvg-logo="https://imgts.sportpulseapiz.com/football/competition/kp3glrw7hwqdyjv/image/small", ⚽ Senegal vs Iraq lúc 02:00 ngày 27/06/2026
-https://live3.procdnlive.com/livecdn/channel11.flv?auth_key=3000001782486053-0-0-b31974a0fad234217efa62fa16e1c373
-#EXTINF:-1 group-title="Xoilac - Bóng đá" tvg-logo="https://imgts.sportpulseapiz.com/football/competition/d23xmvkhynqg8ny/image/small", ⚽ FK Taraz vs Shakhter lúc 20:00 ngày 26/06/2026
-https://live2.pro2cdnlive.com/live/channel28.flv
-#EXTINF:-1 group-title="Xoilac - Bóng đá" tvg-logo="https://imgts.sportpulseapiz.com/football/competition/gy0or5jhexdqwzv/image/small", ⚽ Ethiopia Bunna vs Mekelle 70 Enderta lúc 20:00 ngày 26/06/2026
-https://live1.pro2cdnlive.com/live/channel10.flv?wsSecret=dbf8ce822a2436c286c1ba3a209ec718&wsABSTime=1782529310
-#EXTINF:-1 group-title="Xoilac - Bóng đá" tvg-logo="https://imgts.sportpulseapiz.com/football/competition/p3glrw7h1d4qdyj/image/small", ⚽ Agua Santa SP (Y) vs Flamengo-SP (R) lúc 20:00 ngày 26/06/2026
-https://live1.pro2cdnlive.com/live/channel11.flv?wsSecret=781744acce1950f7f13db9dc221855a2&wsABSTime=1782529327
-#EXTINF:-1 group-title="Xoilac - Bóng đá" tvg-logo="https://imgts.sportpulseapiz.com/football/competition/gpxwrxlhgpryk0j/image/small", ⚽ SV Ried vs SV Austria Salzburg lúc 21:00 ngày 26/06/2026
-https://live1.pro2cdnlive.com/live/channel13.flv?wsSecret=0ba5fd7bbd32db13ef4469ea62b97de3&wsABSTime=1782529346
-#EXTINF:-1 group-title="Xoilac - Bóng đá" tvg-logo="https://imgts.sportpulseapiz.com/football/competition/gpxwrxlhgpryk0j/image/small", ⚽ Rubin Kazan vs FC KAMAZ  lúc 21:00 ngày 26/06/2026
-https://live2.pro2cdnlive.com/live/channel14.flv
-#EXTINF:-1 group-title="Xoilac - Bóng đá" tvg-logo="https://imgts.sportpulseapiz.com/football/competition/9dn1m1gh04moepl/image/small", ⚽ Zenit St.Petersburg (R) vs Nizhniy Novgorod (Y) lúc 21:00 ngày 26/06/2026
-https://live1.pro2cdnlive.com/live/channel15.flv?wsSecret=8ffa17a34ab79bd36d047a713e9d4c32&wsABSTime=1782529383
-#EXTINF:-1 group-title="Xoilac - Bóng đá" tvg-logo="https://imgts.sportpulseapiz.com/football/competition/9dn1m1gh04moepl/image/small", ⚽ FK Rostov (Y) vs Fakel (Y) lúc 21:00 ngày 26/06/2026
-https://live1.pro2cdnlive.com/live/channel16.flv?wsSecret=df4eceb61552b6c992e82c1e86e68a0a&wsABSTime=1782529403
+https://live3.procdnlive.com/livecdn/channel11.flv?auth_key=3000001782493399-0-0-7dc4ba90c14a64b71b9734189c7b2f7d
+#EXTINF:-1 group-title="Xoilac - Bóng đá" tvg-logo="https://imgts.sportpulseapiz.com/football/competition/kp3glrw7hwqdyjv/image/small", ⚽ Na Uy vs Pháp lúc 02:00 ngày 27/06/2026
+https://live3.procdnlive.com/livecdn/channel1.flv?auth_key=3000001782493420-0-0-94e04355bbeff4b0cae96f70703fb3f7
+#EXTINF:-1 group-title="Xoilac - Bóng đá" tvg-logo="https://imgts.sportpulseapiz.com/football/competition/kp3glrw7hwqdyjv/image/small", ⚽ Uruguay vs Tây Ban Nha lúc 07:00 ngày 27/06/2026
+https://live3.procdnlive.com/livecdn/channel1.flv?auth_key=3000001782493437-0-0-89148e8b6571bfbc09f5458a396057e2
+#EXTINF:-1 group-title="Xoilac - Bóng đá" tvg-logo="https://imgts.sportpulseapiz.com/football/competition/kp3glrw7hwqdyjv/image/small", ⚽ Cabo Verde vs Ả Rập Xê Út lúc 07:00 ngày 27/06/2026
+https://live3.procdnlive.com/livecdn/channel11.flv?auth_key=3000001782493456-0-0-468d1af9e09975fe787c146192cd3bb8
 #EXTINF:-1 group-title="Xoilac - Bóng đá" tvg-logo="https://imgts.sportpulseapiz.com/football/competition/vl7oqdeholr510j/image/small", ⚽ Ogre United vs Tukums-2000 lúc 22:00 ngày 26/06/2026
 https://live2.pro2cdnlive.com/live/channel12.flv
-#EXTINF:-1 group-title="Xoilac - Bóng đá" tvg-logo="https://imgts.sportpulseapiz.com/football/competition/z8yomo4h39q0j6l/image/small", ⚽ FC Baranovichi vs Slavia Mozyr lúc 22:00 ngày 26/06/2026
-https://live2.pro2cdnlive.com/live/channel19.flv
 #EXTINF:-1 group-title="Xoilac - Bóng đá" tvg-logo="https://imgts.sportpulseapiz.com/football/competition/gy0or5jhexdqwzv/image/small", ⚽ Arba Minch vs Welwalo Adigrat lúc 22:00 ngày 26/06/2026
-https://live1.pro2cdnlive.com/live/channel1.flv?wsSecret=baf2f54ef3e240d86643e4340ac18a58&wsABSTime=1782529459
-#EXTINF:-1 group-title="Xoilac - Bóng đá" tvg-logo="https://imgts.sportpulseapiz.com/football/competition/gpxwrxlhgpryk0j/image/small", ⚽ MTK Budapest vs Kazincbarcika lúc 22:00 ngày 26/06/2026
-https://live1.pro2cdnlive.com/live/channel2.flv?wsSecret=62fa690194bcfe90975e4f9d77653c89&wsABSTime=1782529477
+https://live1.pro2cdnlive.com/live/channel1.flv?wsSecret=55ffc1242338d2cd2d1f1d9aff63c77c&wsABSTime=1782536699
 #EXTINF:-1 group-title="Xoilac - Bóng đá" tvg-logo="https://imgts.sportpulseapiz.com/football/competition/9dn1m1gh04moepl/image/small", ⚽ FC Rodina Moscow (Y) vs CSKA Moscow (Y) lúc 22:00 ngày 26/06/2026
-https://live1.pro2cdnlive.com/live/channel3.flv?wsSecret=00151cc1aa8887b33d9c35f0ebb2d4f6&wsABSTime=1782529495
-#EXTINF:-1 group-title="Xoilac - Bóng đá" tvg-logo="https://imgts.sportpulseapiz.com/football/competition/gpxwrxlhgpryk0j/image/small", ⚽ IK Sirius FK vs Djurgardens lúc 22:00 ngày 26/06/2026
-https://live2.pro2cdnlive.com/live/channel8.flv
+https://live1.pro2cdnlive.com/live/channel3.flv?wsSecret=0bc2de48301bc1fd823b8acb4e8e4768&wsABSTime=1782536721
 #EXTINF:-1 group-title="Xoilac - Bóng đá" tvg-logo="https://imgts.sportpulseapiz.com/football/competition/gx7lm7phzjm2wdk/image/small", ⚽ BE1 NFA vs FK Zalgiris Vilnius B lúc 22:30 ngày 26/06/2026
-https://live1.pro2cdnlive.com/live/channel4.flv?wsSecret=9dc69d8e316ab358b43c72f8cd49e473&wsABSTime=1782529529
+https://live1.pro2cdnlive.com/live/channel4.flv?wsSecret=7f633989ac76d605c20e72f6dcf94a97&wsABSTime=1782536739
 #EXTINF:-1 group-title="Xoilac - Bóng đá" tvg-logo="https://imgts.sportpulseapiz.com/football/competition/gpxwrxlhgpryk0j/image/small", ⚽ SV Oberwart vs Sturm Graz (Y) lúc 22:30 ngày 26/06/2026
-https://live1.pro2cdnlive.com/live/channel5.flv?wsSecret=0fc71dd2cc071ef870186af7d6120fad&wsABSTime=1782529547
+https://live1.pro2cdnlive.com/live/channel5.flv?wsSecret=bedc67ed7cddc2533368de54f5f0be95&wsABSTime=1782536760
 #EXTINF:-1 group-title="Xoilac - Bóng đá" tvg-logo="https://imgts.sportpulseapiz.com/football/competition/vl7oqdeholr510j/image/small", ⚽ FK Liepaja vs Rigas FS lúc 23:00 ngày 26/06/2026
 https://live2.pro2cdnlive.com/live/channel7.flv
 #EXTINF:-1 group-title="Xoilac - Bóng đá" tvg-logo="https://imgts.sportpulseapiz.com/football/competition/56ypq3nhgwmd7oj/image/small", ⚽ Klubi 04 Helsinki vs SJK Akatemia lúc 23:00 ngày 26/06/2026
-https://live1.pro2cdnlive.com/live/channel6.flv?wsSecret=49e69e73a6d8a789681c164a9b624151&wsABSTime=1782529584
+https://live1.pro2cdnlive.com/live/channel6.flv?wsSecret=dbf0ac50e2aa0aed25dc125189bca569&wsABSTime=1782536796
 #EXTINF:-1 group-title="Xoilac - Bóng đá" tvg-logo="https://imgts.sportpulseapiz.com/football/competition/56ypq3nhgwmd7oj/image/small", ⚽ PK-35 Vantaa vs Mikkelin  lúc 23:00 ngày 26/06/2026
-https://live1.pro2cdnlive.com/live/channel7.flv?wsSecret=8676334cb37cb9f5070db263c9527277&wsABSTime=1782529606
+https://live1.pro2cdnlive.com/live/channel7.flv?wsSecret=f259511ccf96969ecdedaa60bc11bae9&wsABSTime=1782536815
+#EXTINF:-1 group-title="Xoilac - Bóng đá" tvg-logo="https://imgts.sportpulseapiz.com/football/competition/gpxwrxlhgpryk0j/image/small", ⚽ SV Seekirchen vs Red Bull Salzburg lúc 23:00 ngày 26/06/2026
+https://live1.pro2cdnlive.com/live/channel8.flv?wsSecret=6e58277768d5b44797bbd3574339201d&wsABSTime=1782536836
+#EXTINF:-1 group-title="Xoilac - Bóng đá" tvg-logo="https://imgts.sportpulseapiz.com/football/competition/gpxwrxlhgpryk0j/image/small", ⚽ SV Horn vs SKN St.Polten lúc 23:00 ngày 26/06/2026
+https://live1.pro2cdnlive.com/live/channel9.flv?wsSecret=d41ec8da8137980362394657a74aef0f&wsABSTime=1782536858
+#EXTINF:-1 group-title="Xoilac - Bóng đá" tvg-logo="https://imgts.sportpulseapiz.com/football/competition/gpxwrxlhgpryk0j/image/small", ⚽ Rapid Vienna (Y) vs SV Donau lúc 23:00 ngày 26/06/2026
+https://live1.pro2cdnlive.com/live/channel10.flv?wsSecret=6ed6b3265e502b7f7f6ed1284283e7df&wsABSTime=1782536877
+#EXTINF:-1 group-title="Xoilac - Bóng đá" tvg-logo="https://imgts.sportpulseapiz.com/football/competition/9dn1m1gh04moepl/image/small", ⚽ FK Krasnodar (Y) vs Dinamo Moscow (Y) lúc 23:00 ngày 26/06/2026
+https://live1.pro2cdnlive.com/live/channel11.flv?wsSecret=85c7d8f7f80e57b5df9352a8215b3b11&wsABSTime=1782536896
+#EXTINF:-1 group-title="Xoilac - Bóng đá" tvg-logo="https://imgts.sportpulseapiz.com/football/competition/e4wyrn4hd7lq86p/image/small", ⚽ Nữ River Plate vs Nữ Newells Old Boys lúc 23:00 ngày 26/06/2026
+https://live1.pro2cdnlive.com/live/channel28.flv?wsSecret=e32548bac8b51e1560baf1a55df77473&wsABSTime=1782536918
+#EXTINF:-1 group-title="Xoilac - Bóng đá" tvg-logo="https://imgts.sportpulseapiz.com/football/competition/gx7lm7phzjm2wdk/image/small", ⚽ FK Garliava vs FK Minija lúc 23:30 ngày 26/06/2026
+https://live1.pro2cdnlive.com/live/channel12.flv?wsSecret=ac14994c2199a9359ba771ee351495dd&wsABSTime=1782536937
+#EXTINF:-1 group-title="Xoilac - Bóng đá" tvg-logo="https://imgts.sportpulseapiz.com/football/competition/gpxwrxlhgpryk0j/image/small", ⚽ Mattersburg vs Kapfenberg SV 1919 lúc 23:30 ngày 26/06/2026
+https://live1.pro2cdnlive.com/live/channel14.flv?wsSecret=7c4cd4643c7fb596a701ea000a45a9fe&wsABSTime=1782536955
+#EXTINF:-1 group-title="Xoilac - Bóng đá" tvg-logo="https://imgts.sportpulseapiz.com/football/competition/jednm9whokryox8/image/small", ⚽ Parnu JK Vaprus vs FC Kuressaare lúc 00:00 ngày 27/06/2026
+https://live1.pro2cdnlive.com/live/channel30.flv?wsSecret=553b1f90b19736bff027ea0070c744d3&wsABSTime=1782536974
 #EXTINF:-1 group-title="Xoilac - Bóng rổ" tvg-logo="https://imgts.sportpulseapiz.com/basketball/competition/gpxwrx5tg1zqyk0/image/small", ⚽ Estonia vs Latvia lúc 22:30 ngày 26/06/2026
-https://live1.pro2cdnlive.com/live/channel43.flv?wsSecret=59d50059f0548bdfb2a6c639bfd556ce&wsABSTime=1782529625
+https://live1.pro2cdnlive.com/live/channel43.flv?wsSecret=1f0ea191b355ddf02618638e0d507c0c&wsABSTime=1782536993
 #EXTINF:-1 group-title="Xoilac - Bóng rổ" tvg-logo="https://imgts.sportpulseapiz.com/basketball/competition/gpxwrx5tg1zqyk0/image/small", ⚽ Bồ Đào Nha vs Thụy Sĩ lúc 01:00 ngày 27/06/2026
-https://live1.pro2cdnlive.com/live/channel44.flv?wsSecret=e024cb5ef505830f6f82e92ef3cdde35&wsABSTime=1782529642
+https://live1.pro2cdnlive.com/live/channel44.flv?wsSecret=4a08fd2561e3f4a4de7d76346efa113e&wsABSTime=1782537010
 #EXTINF:-1 group-title="Xoilac - Bóng rổ" tvg-logo="https://imgts.sportpulseapiz.com/basketball/competition/0gx7lm73tor2wdk/image/small", ⚽ Nữ Chicago Sky vs Nữ Portland Fire lúc 06:30 ngày 27/06/2026
 https://live2.pro2cdnlive.com/live/channel29.flv
 #EXTINF:-1 group-title="Xoilac - Bóng rổ" tvg-logo="https://imgts.sportpulseapiz.com/basketball/competition/0gx7lm73tor2wdk/image/small", ⚽ Nữ Connecticut Sun  vs Nữ Mystics lúc 06:30 ngày 27/06/2026
-https://live1.pro2cdnlive.com/live/channel42.flv?wsSecret=7b2d2f0e50773776d1e8e10bcbc97c8d&wsABSTime=1782529677
+https://live1.pro2cdnlive.com/live/channel42.flv?wsSecret=8645da1a86ce155a750242b204fc2b88&wsABSTime=1782537057
 #EXTINF:-1 group-title="Xoilac - Bóng rổ" tvg-logo="https://imgts.sportpulseapiz.com/basketball/competition/gy0or5gtlg9qwzv/image/small", ⚽ Gigantes Carolina vs Indios de Mayaguez lúc 07:00 ngày 27/06/2026
-https://live1.pro2cdnlive.com/live/channel43.flv?wsSecret=9e5da48b0cd5c46330357522b58bafb5&wsABSTime=1782529695
+https://live1.pro2cdnlive.com/live/channel43.flv?wsSecret=bb4c8b561399c4126593806b8c20c452&wsABSTime=1782537076
 #EXTINF:-1 group-title="Xoilac - Bóng rổ" tvg-logo="https://imgts.sportpulseapiz.com/basketball/competition/0gx7lm73tor2wdk/image/small", ⚽ Nữ Golden State  vs Nữ Atlanta Dream lúc 09:00 ngày 27/06/2026
 https://live2.pro2cdnlive.com/live/channel26.flv
 #EXTINF:-1 group-title="Xoilac - Bóng rổ" tvg-logo="https://imgts.sportpulseapiz.com/basketball/competition/9k82re8tvwrepzj/image/small", ⚽ Franklin Bulls vs Whai lúc 14:30 ngày 27/06/2026
-https://live3.procdnlive.com/livecdn/channel1.flv?auth_key=3000001782486550-0-0-7c8b805ef62e6af63ff86b1d126c109c
+https://live3.procdnlive.com/livecdn/channel1.flv?auth_key=3000001782493940-0-0-d466f0fec105b7a7427cb1f8c3c841a1
 #EXTINF:-1 group-title="Xoilac - Bóng rổ" tvg-logo="https://imgts.sportpulseapiz.com/basketball/competition/j1l4rjztzlem7vx/image/small", ⚽ GenSan Warriors vs Pasig City lúc 15:00 ngày 27/06/2026
-https://live3.procdnlive.com/livecdn/channel1.flv?auth_key=3000001782486568-0-0-e53508d1ffdffeebcda2ffe7f80d91f2
+https://live3.procdnlive.com/livecdn/channel1.flv?auth_key=3000001782493962-0-0-6297565588961e1785a63882ef3ca88b
 #EXTINF:-1 group-title="Xoilac - Bóng rổ" tvg-logo="https://imgts.sportpulseapiz.com/basketball/competition/p3glrwytoxjqdyj/image/small", ⚽ Brisbane Capitals vs Gold Coast Rollers lúc 16:00 ngày 27/06/2026
-https://live1.pro2cdnlive.com/live/channel41.flv?wsSecret=9c4a1c4ec18daef74314be5b9373ca4e&wsABSTime=1782529786
+https://live1.pro2cdnlive.com/live/channel41.flv?wsSecret=7094dda2ac1c5cd19bf2b999bf3c674d&wsABSTime=1782537182
 #EXTINF:-1 group-title="Xoilac - Bóng rổ" tvg-logo="https://imgts.sportpulseapiz.com/basketball/competition/j1l4rjztzlem7vx/image/small", ⚽ Bacolod Tubo Slashers vs Zamboanga Familys Brand Sardines lúc 17:00 ngày 27/06/2026
-https://live3.procdnlive.com/livecdn/channel1.flv?auth_key=3000001782486603-0-0-e3583fc0b70ebe08e293f7dc1fedcf0c
+https://live3.procdnlive.com/livecdn/channel1.flv?auth_key=3000001782494003-0-0-343cef9b9ec228d6bbf907f640fd26da
 #EXTINF:-1 group-title="Xoilac - Bóng rổ" tvg-logo="https://imgts.sportpulseapiz.com/basketball/competition/kdj2ry7t2zwr1zp/image/small", ⚽ Joondalup Wolves vs Perry Lake Eagle lúc 18:00 ngày 27/06/2026
-https://live1.pro2cdnlive.com/live/channel42.flv?wsSecret=13268b63006348379624355a88634771&wsABSTime=1782529819
+https://live1.pro2cdnlive.com/live/channel42.flv?wsSecret=b0e3ee2a84c0ca6b081eaee461abb445&wsABSTime=1782537222
 #EXTINF:-1 group-title="Xoilac - Bóng rổ" tvg-logo="https://imgts.sportpulseapiz.com/basketball/competition/j1l4rjztzlem7vx/image/small", ⚽ Imus Agimat vs Manila Batang Quiapo lúc 19:00 ngày 27/06/2026
-https://live3.procdnlive.com/livecdn/channel1.flv?auth_key=3000001782486637-0-0-1c288f373255149886833b191d6dbdb0
+https://live3.procdnlive.com/livecdn/channel1.flv?auth_key=3000001782494040-0-0-3871257015900392580ebc8a48d343ec
 #EXTINF:-1 group-title="Xoilac - Bóng rổ" tvg-logo="https://imgts.sportpulseapiz.com/basketball/competition/56ypq3kt1y9md7o/image/small", ⚽ Đà Nẵng Dragons vs Hà Nội Buffalo lúc 19:30 ngày 27/06/2026
-https://live3.procdnlive.com/livecdn/channel1.flv?auth_key=3000001782486654-0-0-05d5b4a558a402a868674eeffffa2826
+https://live3.procdnlive.com/livecdn/channel1.flv?auth_key=3000001782494058-0-0-c01db186f3954e384e7f960634f10568
 #EXTINF:-1 group-title="Xoilac - Bóng rổ" tvg-logo="https://imgts.sportpulseapiz.com/basketball/competition/gx7lm73t8zr2wdk/image/small", ⚽ USA U17 vs France U17 lúc 21:30 ngày 27/06/2026
-https://live1.pro2cdnlive.com/live/channel41.flv?wsSecret=6b00b628982814b4bbf134b0a58849e1&wsABSTime=1782529871
+https://live1.pro2cdnlive.com/live/channel41.flv?wsSecret=eac8f279891696ebf4614198b73ce7e3&wsABSTime=1782537276
 #EXTINF:-1 group-title="Xoilac - Bóng rổ" tvg-logo="https://imgts.sportpulseapiz.com/basketball/competition/gx7lm73t8zr2wdk/image/small", ⚽ New Zealand U17 vs Turkey U17 lúc 00:15 ngày 28/06/2026
-https://live1.pro2cdnlive.com/live/channel42.flv?wsSecret=f48672ea47043b6701818ec9b007e339&wsABSTime=1782529888
+https://live1.pro2cdnlive.com/live/channel42.flv?wsSecret=c92937ee2dbf62928e93e9896f026fd1&wsABSTime=1782537293
 #EXTINF:-1 group-title="Xoilac - Bóng rổ" tvg-logo="https://imgts.sportpulseapiz.com/basketball/competition/gx7lm73t8zr2wdk/image/small", ⚽ Slovenia U17 vs Puerto Rico U17 lúc 00:45 ngày 28/06/2026
-https://live1.pro2cdnlive.com/live/channel43.flv?wsSecret=66d99c6012c0f78362585ce21aa44e94&wsABSTime=1782529905
+https://live1.pro2cdnlive.com/live/channel43.flv?wsSecret=946dcbde0846cecf88552f190d2ce12f&wsABSTime=1782537310
 #EXTINF:-1 group-title="Xoilac - Bóng rổ" tvg-logo="https://imgts.sportpulseapiz.com/basketball/competition/0gx7lm73tor2wdk/image/small", ⚽ Toronto Tempo vs Nữ Phoenix Mercury lúc 01:00 ngày 28/06/2026
-https://live1.pro2cdnlive.com/live/channel44.flv?wsSecret=d181df5f515be438fbdf378e1644b3c7&wsABSTime=1782529922
+https://live1.pro2cdnlive.com/live/channel44.flv?wsSecret=1d167c7a80c7c2f66555f2f7415b77de&wsABSTime=1782537330
 #EXTINF:-1 group-title="Xoilac - Bóng rổ" tvg-logo="https://imgts.sportpulseapiz.com/basketball/competition/0gx7lm73tor2wdk/image/small", ⚽ Nữ Indiana Fever vs Nữ Los Angeles Sparks lúc 07:00 ngày 28/06/2026
-https://live1.pro2cdnlive.com/live/channel41.flv?wsSecret=d2e1b07477445438df62cb059a6d5ab7&wsABSTime=1782529939
+https://live1.pro2cdnlive.com/live/channel41.flv?wsSecret=4a7b26a07ef557758990eb9cb21025b4&wsABSTime=1782537351
 #EXTINF:-1 group-title="Xoilac - Bóng rổ" tvg-logo="https://imgts.sportpulseapiz.com/basketball/competition/0gx7lm73tor2wdk/image/small", ⚽ Nữ Seattle Storm vs Nữ Atlanta Dream lúc 08:00 ngày 28/06/2026
-https://live1.pro2cdnlive.com/live/channel42.flv?wsSecret=f04db5af5d9b8a55bd0b7a98a69c22a4&wsABSTime=1782529956
-#EXTINF:-1 group-title="Xoilac - Tennis" tvg-logo="https://imgts.sportpulseapiz.com/tennis/competition/gx7lm7nflxlq2wd/image/small", ⚽ Elena-Gabriela Ruse vs Karolina Muchova lúc 20:00 ngày 26/06/2026
-https://live2.pro2cdnlive.com/live/channel32.flv
-#EXTINF:-1 group-title="Xoilac - Tennis" tvg-logo="https://imgts.sportpulseapiz.com/tennis/competition/e4wyrnjf71nq86p/image/small", ⚽ Zizou Bergs vs Toby Samuel lúc 20:30 ngày 26/06/2026
-https://live2.pro2cdnlive.com/live/channel31.flv
+https://live1.pro2cdnlive.com/live/channel42.flv?wsSecret=0d23546a8afa72fa6051e61c80acc615&wsABSTime=1782537369
 #EXTINF:-1 group-title="Xoilac - Tennis" tvg-logo="https://imgts.sportpulseapiz.com/tennis/competition/4wyrnjf8311q86p/image/small", ⚽ Sandro Kopp vs Petr Nesterov lúc 22:00 ngày 26/06/2026
-https://live1.pro2cdnlive.com/live/channel56.flv?wsSecret=b6bb712bf2b2ed589924f69b8b2e3a55&wsABSTime=1782530026
+https://live1.pro2cdnlive.com/live/channel56.flv?wsSecret=015a2e72c30a7b8ac24a4e4adcc62376&wsABSTime=1782537388
 #EXTINF:-1 group-title="Xoilac - Tennis" tvg-logo="https://imgts.sportpulseapiz.com/tennis/competition/gx7lm7nfl2lq2wd/image/small", ⚽ Fabian Marozsan vs Alejandro Davidovich Fokina lúc 22:30 ngày 26/06/2026
-https://live1.pro2cdnlive.com/live/channel55.flv?wsSecret=2a11306d5ff3e79a3e5466540aa0e46d&wsABSTime=1782530043
-#EXTINF:-1 group-title="Xoilac - Cầu lông" tvg-logo="https://imgts.sportpulseapiz.com/badminton/competition/965mkyjs7xlgr1g/image/small", ⚽ Frost K / Woods P vs Rumpold L / Thurnherr A lúc 20:00 ngày 26/06/2026
-https://live1.pro2cdnlive.com/live/channel61.flv?wsSecret=c511d1e53df458df269a03e02b6bfae9&wsABSTime=1782530060
-#EXTINF:-1 group-title="Xoilac - Cầu lông" tvg-logo="https://imgts.sportpulseapiz.com/badminton/competition/y39mp1es3nvpmoj/image/small", ⚽ Thibault Robin/Gabriel Rodrigues  vs Danial Iman Marzuan/Aaron Sonnenschein lúc 20:50 ngày 26/06/2026
-https://live1.pro2cdnlive.com/live/channel61.flv?wsSecret=3a5c27a0802d9252105fee7518f42579&wsABSTime=1782530078
-#EXTINF:-1 group-title="Xoilac - Cầu lông" tvg-logo="https://imgts.sportpulseapiz.com/badminton/competition/y39mp1es3nvpmoj/image/small", ⚽ Mohamed Khalaf Imraan/Hassan Zayan vs Hess D / Krax S lúc 20:25 ngày 26/06/2026
-https://live1.pro2cdnlive.com/live/channel64.flv?wsSecret=4e571dcdbff920122c8516937ef72125&wsABSTime=1782530098
-#EXTINF:-1 group-title="Xoilac - Cầu lông" tvg-logo="https://imgts.sportpulseapiz.com/badminton/competition/y39mp1es3nvpmoj/image/small", ⚽ Bugra Aktas/Emre Sonmez vs Benjamin Horseman/Lee Jia Bin lúc 20:25 ngày 26/06/2026
-https://live1.pro2cdnlive.com/live/channel61.flv?wsSecret=4e522055e32a3f37fdd4642bec5d1df9&wsABSTime=1782530117
-#EXTINF:-1 group-title="Xoilac - Cầu lông" tvg-logo="https://imgts.sportpulseapiz.com/badminton/competition/y39mp1es3nvpmoj/image/small", ⚽ Binus F L / de Leon Z J vs Alexandre Bernardo/Diogo Gloria lúc 20:25 ngày 26/06/2026
-https://live1.pro2cdnlive.com/live/channel63.flv?wsSecret=c52f457d58172b9f0ce32166a9338431&wsABSTime=1782530135
-#EXTINF:-1 group-title="Xoilac - Cầu lông" tvg-logo="https://imgts.sportpulseapiz.com/badminton/competition/965mkyjs7xlgr1g/image/small", ⚽ Jazmine Lam/Lim Yee-Yuan vs Leonie Wronna/Aurelia Wulandoko lúc 20:00 ngày 26/06/2026
-https://live1.pro2cdnlive.com/live/channel62.flv?wsSecret=877e5e75b92a5788b7bb1b93129a85ce&wsABSTime=1782530152
-#EXTINF:-1 group-title="Xoilac - Cầu lông" tvg-logo="https://imgts.sportpulseapiz.com/badminton/competition/y39mp1es3nvpmoj/image/small", ⚽ Vojtech Havlicek/Tomas Svejda vs Phillip Halim/Landon Kurniawan lúc 20:25 ngày 26/06/2026
-https://live1.pro2cdnlive.com/live/channel62.flv?wsSecret=8dd65f8d0d20c504ace3916f2287352a&wsABSTime=1782530170
-#EXTINF:-1 group-title="Xoilac - Cầu lông" tvg-logo="https://imgts.sportpulseapiz.com/badminton/competition/y39mp1es3nvpmoj/image/small", ⚽ Gurschler A / Telfser A vs Nibal A / Shaheed H Z lúc 20:50 ngày 26/06/2026
-https://live1.pro2cdnlive.com/live/channel63.flv?wsSecret=4e770b95e3a513ff8038225ef7371c15&wsABSTime=1782530191
-#EXTINF:-1 group-title="Xoilac - Cầu lông" tvg-logo="https://imgts.sportpulseapiz.com/badminton/competition/y39mp1es3nvpmoj/image/small", ⚽ Gozzini A / Salutt D vs Robin Harper/Harry Wakefield lúc 21:15 ngày 26/06/2026
-https://live1.pro2cdnlive.com/live/channel61.flv?wsSecret=d594b2bb31f7d558ed784d797f051aa7&wsABSTime=1782530208
-#EXTINF:-1 group-title="Xoilac - Cầu lông" tvg-logo="https://imgts.sportpulseapiz.com/badminton/competition/y39mp1es3nvpmoj/image/small", ⚽ Burget A / Horácek D vs de Burgos J / Lopez A lúc 21:15 ngày 26/06/2026
-https://live1.pro2cdnlive.com/live/channel62.flv?wsSecret=1bc7dc6fe3a0d3aa746fb8fffa3135eb&wsABSTime=1782530225
-#EXTINF:-1 group-title="Xoilac - Cầu lông" tvg-logo="https://imgts.sportpulseapiz.com/badminton/competition/y39mp1es3nvpmoj/image/small", ⚽ Mark Aronchik/Adam Travinskiy vs Latheesh B / Vishnu D lúc 21:15 ngày 26/06/2026
-https://live1.pro2cdnlive.com/live/channel63.flv?wsSecret=856062d318058230710622373bea30fb&wsABSTime=1782530243
+https://live1.pro2cdnlive.com/live/channel55.flv?wsSecret=718034075091eb4697176ec090f704e7&wsABSTime=1782537407
+#EXTINF:-1 group-title="Xoilac - Tennis" tvg-logo="https://imgts.sportpulseapiz.com/tennis/competition/e4wyrnjf71nq86p/image/small", ⚽ Jack Draper vs Ugo Humbert lúc 22:10 ngày 26/06/2026
+https://live2.pro2cdnlive.com/live/channel31.flv
+#EXTINF:-1 group-title="Xoilac - Tennis" tvg-logo="https://imgts.sportpulseapiz.com/tennis/competition/ednm9efk270ryox/image/small", ⚽ Matias Soto/Federico Zeballos vs Gustavo Ribeiro de Almeida/Enzo Kohlmann de Freitas lúc 23:30 ngày 26/06/2026
+https://live1.pro2cdnlive.com/live/channel57.flv?wsSecret=85f4c7e09056f6e5e0f6c63c54935ff0&wsABSTime=1782537449
+#EXTINF:-1 group-title="Xoilac - Tennis" tvg-logo="https://imgts.sportpulseapiz.com/tennis/competition/4jwq2pf4zepm0ve/image/small", ⚽ Joaquin Aguilar Cardozo vs Matheus Pucinelli de Almeida lúc 01:05 ngày 27/06/2026
+https://live1.pro2cdnlive.com/live/channel58.flv?wsSecret=f0785f0e5a239e4b27647d3dc5226074&wsABSTime=1782537467
 #EXTINF:-1 group-title="Xoilac - Cầu lông" tvg-logo="https://imgts.sportpulseapiz.com/badminton/competition/y39mp1es3nvpmoj/image/small", ⚽ Timo Stoffelen/Joep Strooper vs Cervello N / Gallego A lúc 22:30 ngày 26/06/2026
-https://live1.pro2cdnlive.com/live/channel63.flv?wsSecret=add3c8cf30b98c0511636894dc9d0186&wsABSTime=1782530261
-#EXTINF:-1 group-title="Xoilac - Cầu lông" tvg-logo="https://imgts.sportpulseapiz.com/badminton/competition/y39mp1es3nvpmoj/image/small", ⚽ Andy Buijk/Brian Wassink vs Frank M / Ladurner K lúc 22:40 ngày 26/06/2026
-https://live1.pro2cdnlive.com/live/channel64.flv?wsSecret=6b2631fce945c45ff47d28267f791a88&wsABSTime=1782530279
-#EXTINF:-1 group-title="Xoilac - Bóng chuyền" tvg-logo="https://imgts.sportpulseapiz.com/volleyball/competition/e4wyrn3hexvm86p/image/small", ⚽ Ukraine vs Canada lúc 21:30 ngày 26/06/2026
-https://live1.pro2cdnlive.com/live/channel82.flv?wsSecret=9404ea10a7d9d5868740d8b09163bb0a&wsABSTime=1782530297
+https://live1.pro2cdnlive.com/live/channel63.flv?wsSecret=35f8bda7c0a23a9d92322e287b59779b&wsABSTime=1782537486
+#EXTINF:-1 group-title="Xoilac - Cầu lông" tvg-logo="https://imgts.sportpulseapiz.com/badminton/competition/y39mp1es3nvpmoj/image/small", ⚽ Burget A / Horácek D vs de Burgos J / Lopez A lúc 21:15 ngày 26/06/2026
+https://live1.pro2cdnlive.com/live/channel62.flv?wsSecret=f0b7bcfb454a41cea41effb71db695a2&wsABSTime=1782537505
+#EXTINF:-1 group-title="Xoilac - Cầu lông" tvg-logo="https://imgts.sportpulseapiz.com/badminton/competition/y39mp1es3nvpmoj/image/small", ⚽ Gozzini A / Salutt D vs Robin Harper/Harry Wakefield lúc 21:15 ngày 26/06/2026
+https://live1.pro2cdnlive.com/live/channel61.flv?wsSecret=b34c63153b3ed29510dc3eddbbf9bf88&wsABSTime=1782537524
+#EXTINF:-1 group-title="Xoilac - Cầu lông" tvg-logo="https://imgts.sportpulseapiz.com/badminton/competition/n54qllys2282qvy/image/small", ⚽ Presley Smith/Jennie Gai vs Timothy Lock/Chloe Hoang lúc 05:00 ngày 27/06/2026
+https://live1.pro2cdnlive.com/live/channel61.flv?wsSecret=c325aa8dd32dccc74e86412637d6d0a9&wsABSTime=1782537542
+#EXTINF:-1 group-title="Xoilac - Cầu lông" tvg-logo="https://imgts.sportpulseapiz.com/badminton/competition/n54qllys2282qvy/image/small", ⚽ Liu Kuang Heng/Hsu Yin-hui vs Kristoffer Kolding/Mette Werge lúc 05:00 ngày 27/06/2026
+https://live1.pro2cdnlive.com/live/channel62.flv?wsSecret=e1fd8365e4e262e853806dc56db4bf1e&wsABSTime=1782537563
+#EXTINF:-1 group-title="Xoilac - Cầu lông" tvg-logo="https://imgts.sportpulseapiz.com/badminton/competition/n54qllys2282qvy/image/small", ⚽ Lin B-W / Lin J Y vs Wu Hsuan-yi/Yang Chu Yun lúc 05:10 ngày 27/06/2026
+https://live1.pro2cdnlive.com/live/channel63.flv?wsSecret=a8e18ab8ce79328bd71d795947d9fa89&wsABSTime=1782537584
+#EXTINF:-1 group-title="Xoilac - Cầu lông" tvg-logo="https://imgts.sportpulseapiz.com/badminton/competition/3glrw74swwjvqdy/image/small", ⚽ Rounak Chouhan vs Misha Zilberman lúc 05:50 ngày 27/06/2026
+https://live1.pro2cdnlive.com/live/channel62.flv?wsSecret=f33a6b4f116b0c3ecc0ecf2de80e7b08&wsABSTime=1782537605
+#EXTINF:-1 group-title="Xoilac - Cầu lông" tvg-logo="https://imgts.sportpulseapiz.com/badminton/competition/n54qllys2282qvy/image/small", ⚽ Teges Satriaji Cahyo Hutomo/Chloe Ho vs Callum Hemming/Estelle van Leeuwen lúc 05:50 ngày 27/06/2026
+https://live1.pro2cdnlive.com/live/channel61.flv?wsSecret=47b65bf3048e299e0b708768d260b1c3&wsABSTime=1782537631
+#EXTINF:-1 group-title="Xoilac - Cầu lông" tvg-logo="https://imgts.sportpulseapiz.com/badminton/competition/vjxm8ges44jnr6o/image/small", ⚽ Tanvi Sharma vs Line Christophersen lúc 06:00 ngày 27/06/2026
+https://live1.pro2cdnlive.com/live/channel63.flv?wsSecret=0266cacd24f9cb381c39cde0517bf275&wsABSTime=1782537653
+#EXTINF:-1 group-title="Xoilac - Cầu lông" tvg-logo="https://imgts.sportpulseapiz.com/badminton/competition/vjxm8ges44jnr6o/image/small", ⚽ Devika Sihag vs Riko Gunji lúc 06:40 ngày 27/06/2026
+https://live1.pro2cdnlive.com/live/channel61.flv?wsSecret=ec8817cb20ea879706ade18e5b29d76f&wsABSTime=1782537672
+#EXTINF:-1 group-title="Xoilac - Cầu lông" tvg-logo="https://imgts.sportpulseapiz.com/badminton/competition/3glrw74swwjvqdy/image/small", ⚽ Brian Yang vs Li Yang Su lúc 06:40 ngày 27/06/2026
+https://live1.pro2cdnlive.com/live/channel62.flv?wsSecret=007f2c9667e6b665c3b689de6f284a8d&wsABSTime=1782537691
+#EXTINF:-1 group-title="Xoilac - Cầu lông" tvg-logo="https://imgts.sportpulseapiz.com/badminton/competition/vjxm8ges44jnr6o/image/small", ⚽ Kaloyana Nalbantova vs Sung Shuo Yun lúc 06:50 ngày 27/06/2026
+https://live1.pro2cdnlive.com/live/channel63.flv?wsSecret=2a58255cdeb26b64f10c9c4ce97bc16b&wsABSTime=1782537714
+#EXTINF:-1 group-title="Xoilac - Cầu lông" tvg-logo="https://imgts.sportpulseapiz.com/badminton/competition/3glrw74swwjvqdy/image/small", ⚽ Liao Jhuo-Fu vs Kidambi Srikanth lúc 07:30 ngày 27/06/2026
+https://live1.pro2cdnlive.com/live/channel61.flv?wsSecret=49badfe7007de3f91e1491f911cb719c&wsABSTime=1782537731
+#EXTINF:-1 group-title="Xoilac - Cầu lông" tvg-logo="https://imgts.sportpulseapiz.com/badminton/competition/vjxm8ges44jnr6o/image/small", ⚽ Rakshitha Sree Santhosh Ramraj vs Rachel Chan lúc 07:30 ngày 27/06/2026
+https://live1.pro2cdnlive.com/live/channel62.flv?wsSecret=eb93e1a5d1fe82989a134ccdbc263932&wsABSTime=1782537748
+#EXTINF:-1 group-title="Xoilac - Cầu lông" tvg-logo="https://imgts.sportpulseapiz.com/badminton/competition/3glrw74swwjvqdy/image/small", ⚽ Shogo Ogawa vs Yudai Okimoto lúc 07:40 ngày 27/06/2026
+https://live1.pro2cdnlive.com/live/channel63.flv?wsSecret=73dbec1fa063dafff1a1a19be9ba3d71&wsABSTime=1782537766
+#EXTINF:-1 group-title="Xoilac - Cầu lông" tvg-logo="https://imgts.sportpulseapiz.com/badminton/competition/x7lm7poskk04m2w/image/small", ⚽ Christian Faust Kjaer/Rasmus Kjaer vs Lai Po Yu/Tsai Fu Cheng lúc 08:20 ngày 27/06/2026
+https://live1.pro2cdnlive.com/live/channel61.flv?wsSecret=955930615434cf491fa92359c01cf126&wsABSTime=1782537784
+#EXTINF:-1 group-title="Xoilac - Cầu lông" tvg-logo="https://imgts.sportpulseapiz.com/badminton/competition/y0or5jzsll3xqwz/image/small", ⚽ Polina Buhrova/Yevheniia Kantemyr vs Kaho Osawa/Mai Tanabe lúc 08:20 ngày 27/06/2026
+https://live1.pro2cdnlive.com/live/channel62.flv?wsSecret=e245c3dcda3b8d824f78c01d3265300c&wsABSTime=1782537802
+#EXTINF:-1 group-title="Xoilac - Cầu lông" tvg-logo="https://imgts.sportpulseapiz.com/badminton/competition/x7lm7poskk04m2w/image/small", ⚽ Takuto Goto/Tsubasa Yoshida vs Chen Zhi Ray/Lin Yu Chieh lúc 08:30 ngày 27/06/2026
+https://live1.pro2cdnlive.com/live/channel63.flv?wsSecret=346ccbdb361c40d8f2666fabe3d0f2d6&wsABSTime=1782537820
+#EXTINF:-1 group-title="Xoilac - Cầu lông" tvg-logo="https://imgts.sportpulseapiz.com/badminton/competition/y0or5jzsll3xqwz/image/small", ⚽ Lin Chih-Chun/Yang Chu Yun vs Lauren Lam/Allison Lee lúc 09:10 ngày 27/06/2026
+https://live1.pro2cdnlive.com/live/channel61.flv?wsSecret=27ac1db69aaad6ad3fee1de11f5bfa07&wsABSTime=1782537839
+#EXTINF:-1 group-title="Xoilac - Cầu lông" tvg-logo="https://imgts.sportpulseapiz.com/badminton/competition/y0or5jzsll3xqwz/image/small", ⚽ Hsu Yin-hui/Lin Jhih Yun vs Sumire Nakade/Miyu Takahashi lúc 09:10 ngày 27/06/2026
+https://live1.pro2cdnlive.com/live/channel62.flv?wsSecret=afd112215529f96b820255cb782e9c1b&wsABSTime=1782537858
 #EXTINF:-1 group-title="Xoilac - Bóng chuyền" tvg-logo="https://imgts.sportpulseapiz.com/volleyball/competition/e4wyrn3hexvm86p/image/small", ⚽ Iran vs Nhật Bản lúc 22:00 ngày 26/06/2026
 https://live2.pro2cdnlive.com/live/channel25.flv
 #EXTINF:-1 group-title="Xoilac - Bóng chuyền" tvg-logo="https://imgts.sportpulseapiz.com/volleyball/competition/e4wyrn3hexvm86p/image/small", ⚽ Brazil vs Italy lúc 01:00 ngày 27/06/2026
-https://live1.pro2cdnlive.com/live/channel82.flv?wsSecret=30d0288860846d890c5d8470da769b12&wsABSTime=1782530352
-#EXTINF:-1 group-title="Xoilac - Esports" tvg-logo="https://imgts.sportpulseapiz.com/dota2/competition/zp5rz51czx8r82w/image/small", ⚽ Yellow Submarine vs Modus lúc 21:00 ngày 26/06/2026
-https://live1.pro2cdnlive.com/live/channel72.flv?wsSecret=b5bb76334c4b14f1775b3ead3da3fa55&wsABSTime=1782530369
-#EXTINF:-1 group-title="Xoilac - Esports" tvg-logo="https://imgts.sportpulseapiz.com/dota2/competition/zp5rz51czx8r82w/image/small", ⚽ Power Rangers vs Team Bald Reborn lúc 00:00 ngày 27/06/2026
-https://live1.pro2cdnlive.com/live/channel71.flv?wsSecret=9ed0f30ec10dbf6de96f0c919522370f&wsABSTime=1782530387
-#EXTINF:-1 group-title="Xoilac - Esports" tvg-logo="https://imgts.sportpulseapiz.com/dota2/competition/zp5rz51czx8r82w/image/small", ⚽ The Bug vs 4 Anchors And Ilmeria lúc 03:00 ngày 27/06/2026
-https://live1.pro2cdnlive.com/live/channel71.flv?wsSecret=90df2e6b6ed30d60b3272b302055553c&wsABSTime=1782530404
+https://live1.pro2cdnlive.com/live/channel82.flv?wsSecret=3099304eb336a33ee55cbecdb8b1a3b5&wsABSTime=1782537895
+#EXTINF:-1 group-title="Xoilac - Bóng chuyền" tvg-logo="https://imgts.sportpulseapiz.com/volleyball/competition/e4wyrn3hexvm86p/image/small", ⚽ Serbia vs Cuba lúc 01:30 ngày 27/06/2026
+https://live1.pro2cdnlive.com/live/channel83.flv?wsSecret=0e33c9de22aeee70b126bd36fdbaec73&wsABSTime=1782537916
+#EXTINF:-1 group-title="Xoilac - Bóng chuyền" tvg-logo="https://imgts.sportpulseapiz.com/volleyball/competition/kn54qldhen6rvy9/image/small", ⚽ Mexico U21 vs Guatemala U21 lúc 06:00 ngày 27/06/2026
+https://live1.pro2cdnlive.com/live/channel80.flv?wsSecret=4fbef8305130b63f635714c673216808&wsABSTime=1782537939
+#EXTINF:-1 group-title="Xoilac - Bóng chuyền" tvg-logo="https://imgts.sportpulseapiz.com/volleyball/competition/kn54qldhen6rvy9/image/small", ⚽ Costa Rica U21 vs Venezuela U21 lúc 08:00 ngày 27/06/2026
+https://live1.pro2cdnlive.com/live/channel81.flv?wsSecret=3b405dec57758d654c0b2562a4aabcb4&wsABSTime=1782537957
+#EXTINF:-1 group-title="Xoilac - Bóng chuyền" tvg-logo="https://imgts.sportpulseapiz.com/volleyball/competition/6ypq3xh0d2eqd7o/image/small", ⚽ Hàn Quốc vs Bahrain lúc 17:00 ngày 27/06/2026
+https://live1.pro2cdnlive.com/live/channel80.flv?wsSecret=cf527ba73fad10c5bbea5c49ab31c465&wsABSTime=1782537975
+#EXTINF:-1 group-title="Xoilac - Bóng chuyền" tvg-logo="https://imgts.sportpulseapiz.com/volleyball/competition/p4jwq23hk98r0ve/image/small", ⚽ Israel vs Hà Lan lúc 20:00 ngày 27/06/2026
+https://live1.pro2cdnlive.com/live/channel80.flv?wsSecret=074c56ac4497e9afeabd6ef302edbca0&wsABSTime=1782537993
+#EXTINF:-1 group-title="Xoilac - Bóng chuyền" tvg-logo="https://imgts.sportpulseapiz.com/volleyball/competition/6ypq3xh0d2eqd7o/image/small", ⚽ Ấn Độ vs Indonesia lúc 20:30 ngày 27/06/2026
+https://live1.pro2cdnlive.com/live/channel81.flv?wsSecret=a6f8be86eb3a89fbded59addf28578e7&wsABSTime=1782538011
+#EXTINF:-1 group-title="Xoilac - Bóng chuyền" tvg-logo="https://imgts.sportpulseapiz.com/volleyball/competition/e4wyrn3hexvm86p/image/small", ⚽ Bulgaria vs Canada lúc 21:30 ngày 27/06/2026
+https://live1.pro2cdnlive.com/live/channel82.flv?wsSecret=455df185d5a41198c5eca3ea887df84d&wsABSTime=1782538030
+#EXTINF:-1 group-title="Xoilac - Bóng chuyền" tvg-logo="https://imgts.sportpulseapiz.com/volleyball/competition/p4jwq23hk98r0ve/image/small", ⚽ Đan Mạch vs Phần Lan lúc 22:00 ngày 27/06/2026
+https://live1.pro2cdnlive.com/live/channel83.flv?wsSecret=d0b349e47cfa5a4a8d22df466d12823b&wsABSTime=1782538049
+#EXTINF:-1 group-title="Xoilac - Bóng chuyền" tvg-logo="https://imgts.sportpulseapiz.com/volleyball/competition/e4wyrn3hexvm86p/image/small", ⚽ Ba Lan vs Đức lúc 22:00 ngày 27/06/2026
+https://live1.pro2cdnlive.com/live/channel84.flv?wsSecret=23e8f2f6e01d803499b8c073ed7a9c21&wsABSTime=1782538069
+#EXTINF:-1 group-title="Xoilac - Bóng chuyền" tvg-logo="https://imgts.sportpulseapiz.com/volleyball/competition/e4wyrn3hexvm86p/image/small", ⚽ USA vs Nhật Bản lúc 22:00 ngày 27/06/2026
+https://live1.pro2cdnlive.com/live/channel86.flv?wsSecret=4d376b3cfd3d7359e297aed0b499a1c2&wsABSTime=1782538088
+#EXTINF:-1 group-title="Xoilac - Bóng chuyền" tvg-logo="https://imgts.sportpulseapiz.com/volleyball/competition/jednm9vh901qyox/image/small", ⚽ Nữ Hungary vs Nữ Thụy Điển lúc 23:00 ngày 27/06/2026
+https://live1.pro2cdnlive.com/live/channel85.flv?wsSecret=ac491aec72fb9d8ccdcb0164e86212a3&wsABSTime=1782538111
+#EXTINF:-1 group-title="Xoilac - Bóng chuyền" tvg-logo="https://imgts.sportpulseapiz.com/volleyball/competition/e4wyrn3hexvm86p/image/small", ⚽ Thổ Nhĩ Kỳ vs Argentina lúc 01:30 ngày 28/06/2026
+https://live1.pro2cdnlive.com/live/channel80.flv?wsSecret=0c8f116f281418ce125b32dc1d687965&wsABSTime=1782538131
+#EXTINF:-1 group-title="Xoilac - Bóng chuyền" tvg-logo="https://imgts.sportpulseapiz.com/volleyball/competition/e4wyrn3hexvm86p/image/small", ⚽ Slovenia vs Brazil lúc 01:30 ngày 28/06/2026
+https://live1.pro2cdnlive.com/live/channel81.flv?wsSecret=8cbbf12bd3634a77765821885c2da94e&wsABSTime=1782538150
+#EXTINF:-1 group-title="Xoilac - Bóng chuyền" tvg-logo="https://imgts.sportpulseapiz.com/volleyball/competition/e4wyrn3hexvm86p/image/small", ⚽ Pháp vs Serbia lúc 01:30 ngày 28/06/2026
+https://live1.pro2cdnlive.com/live/channel82.flv?wsSecret=c061e6546a4281a171988e147c728f7b&wsABSTime=1782538170
 #EXTINF:-1 group-title="Xoilac - Esports" tvg-logo="https://imgts.sportpulseapiz.com/csgo/competition/4wyrnxzfwj2m86p/image/small", ⚽ Sashi Academy vs eternal premium lúc 20:00 ngày 26/06/2026
-https://live1.pro2cdnlive.com/live/channel73.flv?wsSecret=4e0ddb35c5d2e93debbf907ab1a1d116&wsABSTime=1782530421
-#EXTINF:-1 group-title="Xoilac - Esports" tvg-logo="https://imgts.sportpulseapiz.com/csgo/competition/k82rep4fedvqepz/image/small", ⚽ Walczaki vs Inner Circle lúc 22:00 ngày 26/06/2026
-https://live1.pro2cdnlive.com/live/channel78.flv?wsSecret=55f7b985ed5aae26c9ff509c44b0726d&wsABSTime=1782530442
+https://live1.pro2cdnlive.com/live/channel73.flv?wsSecret=912dbd5644ba10b528a661e1b70c4ebb&wsABSTime=1782538189
 #EXTINF:-1 group-title="Xoilac - Esports" tvg-logo="https://imgts.sportpulseapiz.com/csgo/competition/4jwq2e6hw8kq0ve/image/small", ⚽ MIBR Academy vs Isurus lúc 01:00 ngày 27/06/2026
-https://live1.pro2cdnlive.com/live/channel75.flv?wsSecret=bd771139be37c8e402cefb4f672b52ad&wsABSTime=1782530460
+https://live1.pro2cdnlive.com/live/channel75.flv?wsSecret=90e7570510f42057daeddebe0fa90075&wsABSTime=1782538207
 #EXTINF:-1 group-title="Xoilac - Esports" tvg-logo="https://imgts.sportpulseapiz.com/csgo/competition/4jwq2e6hw8kq0ve/image/small", ⚽ Keyd Stars vs Yawara lúc 04:00 ngày 27/06/2026
-https://live1.pro2cdnlive.com/live/channel76.flv?wsSecret=089ef71d47dbc97cb01c82c92183a98a&wsABSTime=1782530478
-#EXTINF:-1 group-title="Xoilac - Bóng đá" tvg-logo="https://imgts.sportpulseapiz.com/football/team/z318q66hln7qo9j/image/small", ⚽ Ngày mai, 07:00 - Uruguay - Tây Ban Nha
-https://prd.jwpltx.com/v1/jwplayer6/ping.gif?h=-1938371853&e=pa&n=5861506174324187&aid=GCCG&amp=0&at=1&c=-1&ccp=0&cp=0&d=1&eb=0&ed=6&emi=11lhzvduraj8&et=classic&i=1&lid=y4n8ty16np9l&lsa=set&mt=1&pbd=1&pbr=1&pgi=tngypwx1ty2n&ph=0&pii=0&pl=493&plc=1&pli=6dee7e18pqi9&pp=hlsjs&prc=1&ps=3&pss=1&pt=&pu=https%3A%2F%2Fxoilac365xj.tv%2F&pv=8.31.0&pyc=0&s=0&sdk=0&stc=1&stpe=0&tv=4.0.15&vb=1&vi=0.89&vl=90&wd=877&ab=0&cme=0&flc=0&lng=en&mu=https%3A%2F%2Fvd.apisportpulse.com%2F2026%2F06%2F23%2F1782182179595%2Findex.m3u8&pd=2&plng=en&pni=0&pr=2&tb=0&vd=0&sa=1782487299486
-#EXTINF:-1 group-title="Xoilac - Bóng đá" tvg-logo="https://imgts.sportpulseapiz.com/football/team/9vjxm8ghdpdr6od/image/small", ⚽ Ngày mai, 07:00 - Cabo Verde - Ả Rập Xê Út
-https://prd.jwpltx.com/v1/jwplayer6/ping.gif?h=-1182703658&e=pa&n=9192853116107876&aid=GCCG&amp=0&at=1&c=-1&ccp=0&cp=0&d=1&eb=0&ed=6&emi=1bxbq36xgwpg&et=classic&i=1&lid=y4n8ty16np9l&lsa=read&mt=0&pbd=1&pbr=1&pgi=1b2frw4ez3j8&ph=0&pii=0&pl=493&plc=1&pli=mvv2ha14hfpt&pp=hlsjs&prc=1&ps=3&pss=1&pt=&pu=https%3A%2F%2Fxoilac365xj.tv%2F&pv=8.31.0&pyc=0&s=0&sdk=0&stc=1&stpe=0&tv=4.0.15&vb=1&vi=0.89&vl=90&wd=877&ab=0&bwe=500&cme=0&flc=0&lng=en&mu=https%3A%2F%2Fvd.apisportpulse.com%2F2026%2F06%2F23%2F1782182179595%2Findex.m3u8&pd=2&plng=en&pni=0&pr=2&tb=0&vd=0&sa=1782487318217
+https://live1.pro2cdnlive.com/live/channel76.flv?wsSecret=b827b258e1f995e9d2750ab59e4b9b8f&wsABSTime=1782538225
+#EXTINF:-1 group-title="Xoilac - Esports" tvg-logo="https://imgts.sportpulseapiz.com/dota2/competition/zp5rz51czx8r82w/image/small", ⚽ Power Rangers vs Team Bald Reborn lúc 00:00 ngày 27/06/2026
+https://live1.pro2cdnlive.com/live/channel71.flv?wsSecret=f3eea659b2064e6d25e128374ba086e8&wsABSTime=1782538242
+#EXTINF:-1 group-title="Xoilac - Esports" tvg-logo="https://imgts.sportpulseapiz.com/dota2/competition/zp5rz51czx8r82w/image/small", ⚽ The Bug vs 4 Anchors And Ilmeria lúc 03:00 ngày 27/06/2026
+https://live1.pro2cdnlive.com/live/channel71.flv?wsSecret=c755f33667331105ec772730a81f0c3f&wsABSTime=1782538260
+#EXTINF:-1 group-title="Xoilac - Bóng đá" tvg-logo="https://imgts.sportpulseapiz.com/football/team/2y8m4zhg939ql07/image/small", ⚽ Ngày mai, 00:00 - Arsenal Dzyarz - FC Gomel
+https://live2.pro2cdnlive.com/live/channel28.flv
 #EXTINF:-1 group-title="Xoilac - Bóng đá" tvg-logo="https://imgts.sportpulseapiz.com/football/team/y39mp1hj8ypmojx/image/small", ⚽ Ngày mai, 04:30 - HFX Wanderers - Pacific FC
 https://live2.pro2cdnlive.com/live/channel23.flv
-#EXTINF:-1 group-title="Xoilac - Bóng đá" tvg-logo="https://imgts.sportpulseapiz.com/football/team/n54qllh26g2qvy9/image/small", ⚽ Hôm nay, 23:00 - SV Seekirchen - Red Bull Salzburg
-https://live1.pro2cdnlive.com/live/channel8.flv?wsSecret=9fd0826f996a56abec4357c3d65aff3e&wsABSTime=1782530568
-#EXTINF:-1 group-title="Xoilac - Bóng đá" tvg-logo="https://imgts.sportpulseapiz.com/football/team/zp5rzghjegdq82w/image/small", ⚽ Hôm nay, 23:00 - SV Horn - SKN St.Polten
-https://live1.pro2cdnlive.com/live/channel9.flv?wsSecret=5b65c3066afd1e7fef94359074477616&wsABSTime=1782530586
-#EXTINF:-1 group-title="Xoilac - Bóng đá" tvg-logo="https://imgts.sportpulseapiz.com/football/team/4zp5rzghkdlq82w/image/small", ⚽ Hôm nay, 23:00 - Rapid Vienna (Y) - SV Donau
-https://live1.pro2cdnlive.com/live/channel10.flv?wsSecret=5e8d4cb13080aeb9258aebcb01541802&wsABSTime=1782530603
-#EXTINF:-1 group-title="Xoilac - Bóng đá" tvg-logo="https://imgts.sportpulseapiz.com/football/team/4jwq2gh48egm0ve/image/small", ⚽ Hôm nay, 23:00 - FK Krasnodar (Y) - Dinamo Moscow (Y)
-https://live1.pro2cdnlive.com/live/channel11.flv?wsSecret=1a54164e96bc973730bf633e3d1041b8&wsABSTime=1782530621
-#EXTINF:-1 group-title="Xoilac - Bóng đá" tvg-logo="https://imgts.sportpulseapiz.com/football/team/n54qllh2ggeqvy9/image/small", ⚽ Hôm nay, 23:00 - Nữ River Plate - Nữ Newells Old Boys
-https://live1.pro2cdnlive.com/live/channel1.flv?wsSecret=4ac7639c19369e5aa2342a30ee3a9e4b&wsABSTime=1782530640
-#EXTINF:-1 group-title="Xoilac - Bóng đá" tvg-logo="https://imgts.sportpulseapiz.com/football/team/9vjxm8gho9or6od/image/small", ⚽ Hôm nay, 23:30 - Mattersburg - Kapfenberg SV 1919
-https://live1.pro2cdnlive.com/live/channel14.flv?wsSecret=777f0d19e9f83be39185ef6dc44983a6&wsABSTime=1782530657
-#EXTINF:-1 group-title="Xoilac - Bóng đá" tvg-logo="https://imgts.sportpulseapiz.com/football/team/l5ergph3z2pr8k0/image/small", ⚽ Hôm nay, 23:30 - FK Garliava - FK Minija
-https://live1.pro2cdnlive.com/live/channel12.flv?wsSecret=d29db88d88001d724ef9b29e20e66cd0&wsABSTime=1782530675
-#EXTINF:-1 group-title="Xoilac - Bóng đá" tvg-logo="https://imgts.sportpulseapiz.com/football/team/6ypq3nhzyo2md7o/image/small", ⚽ Hôm nay, 23:30 - Phonix Lubeck - Hansa Rostock II
-https://live1.pro2cdnlive.com/live/channel13.flv?wsSecret=9d66b6503a1acd2d497a31ca10b6b8cc&wsABSTime=1782530693
-#EXTINF:-1 group-title="Xoilac - Bóng đá" tvg-logo="https://imgts.sportpulseapiz.com/football/team/x7lm7phkzz3m2wd/image/small", ⚽ Ngày mai, 00:00 - Parnu JK Vaprus - FC Kuressaare
-https://live1.pro2cdnlive.com/live/channel30.flv?wsSecret=394ba767b25afd9c574ed10198691648&wsABSTime=1782530711
 #EXTINF:-1 group-title="Xoilac - Bóng đá" tvg-logo="https://imgts.sportpulseapiz.com/football/team/56ypq3nhd8ymd7o/image/small", ⚽ Ngày mai, 00:00 - Sturm Graz - NS Mura
-https://live1.pro2cdnlive.com/live/channel35.flv?wsSecret=61a7af3e99e8da1f3d575ccb3dca1033&wsABSTime=1782530731
+https://live1.pro2cdnlive.com/live/channel35.flv?wsSecret=f562aa9baebe0f5897a9d317b08abbd0&wsABSTime=1782538317
 #EXTINF:-1 group-title="Xoilac - Bóng đá" tvg-logo="https://imgts.sportpulseapiz.com/football/team/4wyrn4h83yyq86p/image/small", ⚽ Ngày mai, 00:00 - SC Weiz - SC Mannsdorf
-https://live1.pro2cdnlive.com/live/channel16.flv?wsSecret=a56f1d26ce5097299260f949baedfb3d&wsABSTime=1782530747
+https://live1.pro2cdnlive.com/live/channel16.flv?wsSecret=2cd20772a9b08bace6bdc3d24a649c7d&wsABSTime=1782538337
 #EXTINF:-1 group-title="Xoilac - Bóng đá" tvg-logo="https://imgts.sportpulseapiz.com/football/team/z318q66he0nqo9j/image/small", ⚽ Ngày mai, 00:00 - IK Brage - Falkenberg
-https://live1.pro2cdnlive.com/live/channel17.flv?wsSecret=c336ae20a9116bbdd5eab42160fe59f5&wsABSTime=1782530765
+https://live1.pro2cdnlive.com/live/channel17.flv?wsSecret=2948f061d3b0f7af9a76d86eaa648ee5&wsABSTime=1782538356
 #EXTINF:-1 group-title="Xoilac - Bóng đá" tvg-logo="https://imgts.sportpulseapiz.com/football/team/jw2r09hngz3rz84/image/small", ⚽ Ngày mai, 00:00 - Kungsangens IF - Skiljebo SK
-https://live1.pro2cdnlive.com/live/channel18.flv?wsSecret=868a68c0f1cea8863a95a85c5a63d0cd&wsABSTime=1782530782
+https://live1.pro2cdnlive.com/live/channel18.flv?wsSecret=dbff7394f969a875a5eb68fb65e0b0c9&wsABSTime=1782538374
+#EXTINF:-1 group-title="Xoilac - Bóng đá" tvg-logo="https://imgts.sportpulseapiz.com/football/team/y39mp1h32demojx/image/small", ⚽ Ngày mai, 00:30 - Skara FC - Herrestads AIF
+https://live1.pro2cdnlive.com/live/channel19.flv?wsSecret=2c32f9d70fea3e2443967c4a6ac434e7&wsABSTime=1782538393
+#EXTINF:-1 group-title="Xoilac - Bóng đá" tvg-logo="https://imgts.sportpulseapiz.com/football/team/x7lm7phk7lxm2wd/image/small", ⚽ Ngày mai, 00:30 - IFK Berga - Vaxjo Norra IF
+https://live1.pro2cdnlive.com/live/channel20.flv?wsSecret=eb90bbc9aa96f67561444821d00e5efd&wsABSTime=1782538412
+#EXTINF:-1 group-title="Xoilac - Bóng đá" tvg-logo="https://imgts.sportpulseapiz.com/football/team/zp5rzgh7je1q82w/image/small", ⚽ Ngày mai, 00:30 - Dalstorps IF - Lindome GIF
+https://live1.pro2cdnlive.com/live/channel21.flv?wsSecret=ceb986f95b72a4d0214153a80bd4a616&wsABSTime=1782538430
+#EXTINF:-1 group-title="Xoilac - Bóng đá" tvg-logo="https://imgts.sportpulseapiz.com/football/team/3glrw7hwzo8qdyj/image/small", ⚽ Ngày mai, 00:45 - Al Ttadamon - Al-Shabab(KUW)
+https://live1.pro2cdnlive.com/live/channel39.flv?wsSecret=c5acb224ae3de94ed3e1ca5e5e6948c3&wsABSTime=1782538451
+#EXTINF:-1 group-title="Xoilac - Bóng đá" tvg-logo="https://imgts.sportpulseapiz.com/football/team/965mkyh7816r1ge/image/small", ⚽ Ngày mai, 00:45 - Al Naser SC - Al-Jahra
+https://live1.pro2cdnlive.com/live/channel40.flv?wsSecret=004c1253a660c8133bacc3f6693d2d95&wsABSTime=1782538473
+#EXTINF:-1 group-title="Xoilac - Bóng đá" tvg-logo="https://imgts.sportpulseapiz.com/football/team/x7lm7phkpx8m2wd/image/small", ⚽ Ngày mai, 01:00 - UTC Cajamarca - FC Cajamarca
+https://live1.pro2cdnlive.com/live/channel36.flv?wsSecret=ed7aeb799dbf5b911b8c5ac42cdc7f09&wsABSTime=1782538493
+#EXTINF:-1 group-title="Xoilac - Bóng đá" tvg-logo="https://imgts.sportpulseapiz.com/football/team/dj2ryoh26n7q1zp/image/small", ⚽ Ngày mai, 01:00 - Paulinense Youth - Desportivo Brasil (Y)
+https://live1.pro2cdnlive.com/live/channel2.flv?wsSecret=5c32c8bd87815bbe5adeeedc27a12ecf&wsABSTime=1782538512
+#EXTINF:-1 group-title="Xoilac - Bóng đá" tvg-logo="https://imgts.sportpulseapiz.com/football/team/23xmvkh38nvqg8n/image/small", ⚽ Ngày mai, 01:00 - Juventus AC (Y) - Uniao Suzano (Y)
+https://live1.pro2cdnlive.com/live/channel3.flv?wsSecret=e006201e7f9cd851f88e38ef2df6b404&wsABSTime=1782538532
+#EXTINF:-1 group-title="Xoilac - Bóng đá" tvg-logo="https://imgts.sportpulseapiz.com/football/team/6ypq3nhw7kpmd7o/image/small", ⚽ Ngày mai, 01:00 - Itapirense (Y) - Portuguesa Santista U20
+https://live1.pro2cdnlive.com/live/channel37.flv?wsSecret=7cb6dbba8c2a1c6861eb56f2483bc233&wsABSTime=1782538552
+#EXTINF:-1 group-title="Xoilac - Bóng đá" tvg-logo="https://imgts.sportpulseapiz.com/football/team/y39mp1h3d7nmojx/image/small", ⚽ Ngày mai, 01:00 - Mirassol U20 - Jabaquara SP U20
+https://live1.pro2cdnlive.com/live/channel5.flv?wsSecret=7ec7d44d77e3983f783b6cbbc177eb05&wsABSTime=1782538571
+#EXTINF:-1 group-title="Xoilac - Bóng đá" tvg-logo="https://imgts.sportpulseapiz.com/football/team/vjxm8ghggp7r6od/image/small", ⚽ Ngày mai, 01:00 - Tanabi U20 - XV de Jau (Y)
+https://live1.pro2cdnlive.com/live/channel6.flv?wsSecret=ec39931619f0875ba6a0818581008733&wsABSTime=1782538590
+#EXTINF:-1 group-title="Xoilac - Bóng đá" tvg-logo="https://imgts.sportpulseapiz.com/football/team/4zp5rzghengq82w/image/small", ⚽ Ngày mai, 01:30 - Shamrock Rovers - Galway United
+https://live1.pro2cdnlive.com/live/channel7.flv?wsSecret=00c0171a647e6d52554f5c42607960ec&wsABSTime=1782538608
+#EXTINF:-1 group-title="Xoilac - Bóng đá" tvg-logo="https://imgts.sportpulseapiz.com/football/team/x7lm7phkg02m2wd/image/small", ⚽ Ngày mai, 01:45 - Wexford - Treaty United
+https://live1.pro2cdnlive.com/live/channel12.flv?wsSecret=12143ba7cb8360755e083d823e3b7855&wsABSTime=1782538630
+#EXTINF:-1 group-title="Xoilac - Bóng đá" tvg-logo="https://imgts.sportpulseapiz.com/football/team/j1l4rjnh0xom7vx/image/small", ⚽ Ngày mai, 01:45 - Cork City - Bray Wanderers
+https://live1.pro2cdnlive.com/live/channel13.flv?wsSecret=386cade29ef87657da87bb6277ecc688&wsABSTime=1782538650
+#EXTINF:-1 group-title="Xoilac - Bóng đá" tvg-logo="https://imgts.sportpulseapiz.com/football/team/4zp5rzghvwxq82w/image/small", ⚽ Ngày mai, 01:45 - UC Dublin - Cobh Ramblers
+https://live1.pro2cdnlive.com/live/channel14.flv?wsSecret=8a248ee141821b52c6b5a7e8373f16eb&wsABSTime=1782538670
+#EXTINF:-1 group-title="Xoilac - Bóng đá" tvg-logo="https://imgts.sportpulseapiz.com/football/team/pxwrxlhz775ryk0/image/small", ⚽ Ngày mai, 01:45 - Kerry FC - Longford Town
+https://live1.pro2cdnlive.com/live/channel11.flv?wsSecret=e2ec7f2f79824a41eb1ba8335db30d4b&wsABSTime=1782538689
+#EXTINF:-1 group-title="Xoilac - Bóng đá" tvg-logo="https://imgts.sportpulseapiz.com/football/team/j1l4rjnh0zom7vx/image/small", ⚽ Ngày mai, 01:45 - Derry City - Drogheda Utd
+https://live1.pro2cdnlive.com/live/channel10.flv?wsSecret=a07e976c258f661c6a6710097163c042&wsABSTime=1782538710
+#EXTINF:-1 group-title="Xoilac - Bóng đá" tvg-logo="https://imgts.sportpulseapiz.com/football/team/p4jwq2ghjx2m0ve/image/small", ⚽ Ngày mai, 01:45 - Dundalk - Waterford United
+https://live1.pro2cdnlive.com/live/channel9.flv?wsSecret=c86db1d996bacc334a2e8ecfb262963d&wsABSTime=1782538728
+#EXTINF:-1 group-title="Xoilac - Bóng đá" tvg-logo="https://imgts.sportpulseapiz.com/football/team/kdj2ryoh3eeq1zp/image/small", ⚽ Ngày mai, 02:00 - Bohemians - St. Patricks
+https://live1.pro2cdnlive.com/live/channel8.flv?wsSecret=923af225ddcd29c44693218a18ff7903&wsABSTime=1782538747
+#EXTINF:-1 group-title="Gavang - Bóng đá" tvg-logo="https://img.thesports.com/football/competition/da617cd58cd9cffaae0daec865457fb5.png", ⚽ Norway vs France luc 02:00 ngay 27/06/2026
+https://playback.livetl001.com/live/69aa9525f5ec459ae275b43f.m3u8
+#EXTINF:-1 group-title="Gavang - Bóng đá" tvg-logo="https://img.thesports.com/football/competition/da617cd58cd9cffaae0daec865457fb5.png", ⚽ Cape Verde vs Saudi Arabia luc 07:00 ngay 27/06/2026
+https://playback.livetl001.com/live/69ff2c40bf9490b4aab22c9a.m3u8
+#EXTINF:-1 group-title="Gavang - Bóng đá" tvg-logo="https://img.thesports.com/football/competition/da617cd58cd9cffaae0daec865457fb5.png", ⚽ New Zealand vs Belgium luc 10:00 ngay 27/06/2026
+https://playback.livetl001.com/live/69a1aaa7230584579e2d5ce1.flv
+#EXTINF:-1 group-title="Gavang - Bóng đá" tvg-logo="https://img.thesports.com/football/competition/9267ee08759fdc25c89d3e4642303522.png", ⚽ PK-35 Vantaa vs Mikkelin Palloilijat luc 23:00 ngay 26/06/2026
+https://playback.livetl001.com/live/69cf6331585c5992182f4160.flv
+#EXTINF:-1 group-title="Gavang - Bóng đá" tvg-logo="https://img.thesports.com/football/competition/9267ee08759fdc25c89d3e4642303522.png", ⚽ Klubi 04 Helsinki vs SJK Seinäjoki luc 23:00 ngay 26/06/2026
+https://playback.livetl001.com/live/6a0c7c4b1ae4d6db02433c48.flv
+#EXTINF:-1 group-title="Gavang - Bóng đá" tvg-logo="https://img.thesports.com/football/competition/18c4076fb0c4bb2925f7c39f9ef3ceb2.png", ⚽ IK Brage vs Falkenberg luc 00:00 ngay 27/06/2026
+https://playback.livetl001.com/live/69ef10b47146e04fbe6d4363.flv
+#EXTINF:-1 group-title="Gavang - Bóng rổ" tvg-logo="https://img.thesports.com/basketball/competition/86f522333da4c3e2c144996fc4d2520b.png", ⚽ Chicago Sky vs Portland Fire lúc 06:30 ngày 27/06/2026
+https://playback.livetl001.com/live/69d37c3a4da3e15776b6db56.m3u8
+#EXTINF:-1 group-title="Gavang - Bóng rổ" tvg-logo="https://img.thesports.com/basketball/competition/86f522333da4c3e2c144996fc4d2520b.png", ⚽ Connecticut Sun vs Washington Mystics lúc 06:30 ngày 27/06/2026
+https://playback.livetl001.com/live/6a02c3637fd690a3410710a5.m3u8
+#EXTINF:-1 group-title="ThienDinh" tvg-logo="https://i.imgur.com/Ne0x6Ea.png", ⚽ ● Live18:0026/06Nation League Men---0-0BỉĐứcBLV PHAN PHÉP
+https://tfx23gr4nhct1gwzdrcbqgrhdqmmeqfsg17uff3hsnhuqcp1ghmucpf5gk.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanphep/playlist.m3u8?wsSession=1f88bd588885ab981ac4b881-178249778816549&wsIPSercert=f9ea261b9d651c924d668d4c9f053b80&wsBindIP=2&wsserid=1168239097222411122
+#EXTINF:-1 group-title="ThienDinh" tvg-logo="https://i.imgur.com/Ne0x6Ea.png", ⚽ ● Live18:0026/06Nation League Men---0-0Brazil ItalyBLV PHAN HẢI
+https://tfx23gr4nhct1gwzdrcbqgrhdqmmeqfsg17uff3hsnhuqcp1ghmucpf5gk.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanhai/playlist.m3u8?wsSession=1f88bd588885ab981ac4b881-178249780041282&wsIPSercert=f9ea261b9d651c924d668d4c9f053b80&wsBindIP=2&wsserid=1168239097222411122
+#EXTINF:-1 group-title="ThienDinh" tvg-logo="https://i.imgur.com/Ne0x6Ea.png", ⚽ Sắp diễn ra18:3026/06Nation League MenVSSerbiaCubaBLV PHAN BỐNG
+https://tfx23gr4nhct1gwzdrcbqgrhdqmmeqfsg17uff3hsnhuqcp1ghmucpf5gk.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanbong/playlist.m3u8?wsSession=e24bcf1796eb728dd287f0fc-178249781358964&wsIPSercert=f9ea261b9d651c924d668d4c9f053b80&wsBindIP=2&wsserid=1168239097219265334
+#EXTINF:-1 group-title="Hoiquan" tvg-logo="", ⚽ LỊCH THI ĐẤU
+https://tfx23gr4nhct1gwzdrcbqgrhdqmmwctsg17uff3hsnhuqcp1ghmucpf5gk.100ycdn.com/tdlive.yarncdn.live/live/tdtv_blv_taovannghe/playlist.m3u8?wsSession=818e70ee72aeb5357d9661a8-178249864606901&wsIPSercert=f9ea261b9d651c924d668d4c9f053b80&wsBindIP=2&wsserid=1168239097225556910
+#EXTINF:-1 group-title="Hoiquan" tvg-logo="", ⚽ KẾT QUẢ
+https://tfx23gr4nhct1gwzdrcbqgrhdqmmwctsg17uff3hsnhuqcp1ghmucpf5gk.100ycdn.com/tdlive.yarncdn.live/live/tdtv_blv_taovannghe/playlist.m3u8?wsSession=818e70ee72aeb5357d9661a8-178249866032120&wsIPSercert=f9ea261b9d651c924d668d4c9f053b80&wsBindIP=2&wsserid=1168239097225556910
+#EXTINF:-1 group-title="Hoiquan" tvg-logo="", ⚽ XEM LẠI
+https://tfx23gr4nhct1gwzdrcbqgrhdqmmwctsg17uff3hsnhuqcp1ghmucpf5gk.100ycdn.com/tdlive.yarncdn.live/live/tdtv_blv_taovannghe/playlist.m3u8?wsSession=818e70ee72aeb5357d9661a8-178249867306851&wsIPSercert=f9ea261b9d651c924d668d4c9f053b80&wsBindIP=2&wsserid=1168239097225556910
+#EXTINF:-1 group-title="Hoiquan" tvg-logo="https://i.imgur.com/30aaqin.png", ⚽ LIVEBóng đá
+https://tfx23gr4nhct1gwzdrcbqgrhdqmmwctsg17uff3hsnhuqcp1ghmucpf5gk.100ycdn.com/tdlive.yarncdn.live/live/tdtv_blv_taovannghe/playlist.m3u8?wsSession=818e70ee72aeb5357d9661a8-178249868748240&wsIPSercert=f9ea261b9d651c924d668d4c9f053b80&wsBindIP=2&wsserid=1168239097225556910
+#EXTINF:-1 group-title="Hoiquan" tvg-logo="https://i.imgur.com/Ne0x6Ea.png", ⚽ LIVEBóng chuyền
+https://tfx23gr4nhct1gwzdepjqgr5u1mmeqfsg17uff3hsnhuqcp1ghmucpf5gk.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanhai/playlist.m3u8?wsSession=b18edee1956aed49e1383aaf-178249870279321&wsIPSercert=f9ea261b9d651c924d668d4c9f053b80&wsBindIP=2&wsserid=1168271909248251247
+#EXTINF:-1 group-title="Hoiquan" tvg-logo="https://i.pinimg.com/originals/63/5d/5f/635d5f83049f08c3926756a234c206fb.jpg?nii=t", ⚽ World CupBóng đá NorwaySắp bắt đầu - null'0-019:0026/06/2026FranceBLV PHAN MÃ Đặt cược
+https://tfx23gr4nhct1gwzdrcbqgrhdqmmeqfsg17uff3hsnhuqcp1ghmucpf5gk.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanma/playlist.m3u8?wsSession=4f1615cb019f6d6a8dc54b5f-178249877354924&wsIPSercert=f9ea261b9d651c924d668d4c9f053b80&wsBindIP=2&wsserid=1168276518870124245
+#EXTINF:-1 group-title="Hoiquan" tvg-logo="https://i.pinimg.com/originals/63/5d/5f/635d5f83049f08c3926756a234c206fb.jpg?nii=t", ⚽ World CupBóng đá NorwaySắp diễn ravs19:0026/06/2026FranceBLV THẦN THÔNGĐặt cược
+https://tfx23gr4nhct1gwzdrcbqgrhdqmmwctsg17uff3hsnhuqcp1ghmucpf5gk.100ycdn.com/tdlive.yarncdn.live/live/tdtv_blv_taovannghe/playlist.m3u8?wsSession=818e70ee72aeb5357d9661a8-178249878802233&wsIPSercert=f9ea261b9d651c924d668d4c9f053b80&wsBindIP=2&wsserid=1168239097225556910
+#EXTINF:-1 group-title="Hoiquan" tvg-logo="https://i.pinimg.com/originals/63/5d/5f/635d5f83049f08c3926756a234c206fb.jpg?nii=t", ⚽ World CupBóng đáSenegalSắp diễn ravs19:0026/06/2026IraqBLV PHAN HÀ LINH Đặt cược
+https://tfx23gr4nhct1gwzdrcbqgrhdqmmeqfsg17uff3hsnhuqcp1ghmucpf5gk.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanhalinh/playlist.m3u8?wsSession=818e70ee72aeb5357d9661a8-178249881600383&wsIPSercert=f9ea261b9d651c924d668d4c9f053b80&wsBindIP=2&wsserid=1168239097225556910
+#EXTINF:-1 group-title="Hoiquan" tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/1c/FIVB_Volleyball_Nations_League_logo.jpg", ⚽ Nation League MenBóng chuyềnBỉLive0-018:0026/06/2026ĐứcBLV PHAN PHÉPĐặt cược
+https://tfx23gr4nhct1gwzdrcbqgrhdqmmeqfsg17uff3hsnhuqcp1ghmucpf5gk.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanphep/playlist.m3u8?wsSession=1f88bd588885ab981ac4b881-178249884510267&wsIPSercert=f9ea261b9d651c924d668d4c9f053b80&wsBindIP=2&wsserid=1168239097222411122
+#EXTINF:-1 group-title="Hoiquan" tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/1c/FIVB_Volleyball_Nations_League_logo.jpg", ⚽ Nation League MenBóng chuyềnBrazil Live0-018:0026/06/2026ItalyBLV PHAN HẢIĐặt cược
+https://tfx23gr4nhct1gwzdrcbqgrhdqmmeqfsg17uff3hsnhuqcp1ghmucpf5gk.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanhai/playlist.m3u8?wsSession=1f88bd588885ab981ac4b881-178249885966476&wsIPSercert=f9ea261b9d651c924d668d4c9f053b80&wsBindIP=2&wsserid=1168239097222411122
+#EXTINF:-1 group-title="Hoiquan" tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/1c/FIVB_Volleyball_Nations_League_logo.jpg", ⚽ Nation League MenBóng chuyềnSerbiaLive0-018:3026/06/2026CubaBLV PHAN BỐNGĐặt cược
+https://tfx23gr4nhct1gwzdrcbqgrhdqmmeqfsg17uff3hsnhuqcp1ghmucpf5gk.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanbong/playlist.m3u8?wsSession=e24bcf1796eb728dd287f0fc-178249887372787&wsIPSercert=f9ea261b9d651c924d668d4c9f053b80&wsBindIP=2&wsserid=1168239097219265334
+#EXTINF:-1 group-title="Thapcam - Bóng đá" tvg-logo="", ⚽ Assyriska FF - 2 - 1 -  - Vasalunds IF
+https://station1-global.ebaclofen.org/live/8e625cfb41a95c798f6244bee2b3d650/playlist.m3u8
+#EXTINF:-1 group-title="Thapcam - Bóng đá" tvg-logo="", ⚽ Hassleholms IF - 3 - 1 -  - Tvaakers IF
+https://station1-global.ebaclofen.org/live/6b6c66bbdda8755846712a9045dbb037/playlist.m3u8
+#EXTINF:-1 group-title="Thapcam - Bóng đá" tvg-logo="", ⚽ Star Sport Academy - 3 - 1 -  - Ports Authority FC
+https://station1-global.ebaclofen.org/live/f87376a3d8e036a4175e1b81714f1910/playlist.m3u8
+#EXTINF:-1 group-title="Thapcam - Bóng đá" tvg-logo="", ⚽ UTC Cajamarca - 0 - 0 -  - FC Cajamarca
+https://station1-global.ebaclofen.org/live/15034c7d789da035962362d24f00f3dd/playlist.m3u8
+#EXTINF:-1 group-title="Thapcam - Bóng đá" tvg-logo="", ⚽ Sturm Graz - 4 - 0 -  - NS Mura
+https://station1-global.ebaclofen.org/live/ee2eff95ac31f3170555127b4d0c41cc/playlist.m3u8
+#EXTINF:-1 group-title="Thapcam - Bóng đá" tvg-logo="", ⚽ Parnu JK Vaprus - 1 - 0 -  - FC Kuressaare
+https://station1-global.ebaclofen.org/live/57a4525f228bc7be09a151bef90e2e23/playlist.m3u8
+#EXTINF:-1 group-title="Thapcam - Bóng đá" tvg-logo="", ⚽ Arsenal Dzerzhinsk - 1 - 0 -  - FC Gomel
+https://station1-global.ebaclofen.org/live/3f3990a0419363dd1e7599bb3087e02e/playlist.m3u8
+#EXTINF:-1 group-title="Thapcam - Bóng đá" tvg-logo="", ⚽ Sollentuna United - 1 - 2 -  - AFC Eskilstuna
+https://station1-global.ebaclofen.org/live/f45f3c224d359ec328d45fb2de1e3cca/playlist.m3u8
+#EXTINF:-1 group-title="Thapcam - Bóng đá" tvg-logo="", ⚽ Kristianstads FF - 0 - 0 -  - Trelleborgs FF
+https://station1-global.ebaclofen.org/live/ecf0e7f92151c3ad62b35ede06db0d3f/playlist.m3u8
