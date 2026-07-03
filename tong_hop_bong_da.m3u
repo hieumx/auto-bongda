@@ -1,41 +1,113 @@
 #EXTM3U
-#EXTINF:-1 group-title="Socolive - Bóng đá" tvg-logo="https://sta.vnres.co/file/common/20250424/a28542dbd508468d0a495a510077aa7b_wh320.jpg", ⚽ Live -                -              -              -               Sóc trong rừng xà nu -                -                  -                 1.20k -                -              -             Tường thuật: WORLD CUP - Spain vs Austria
-https://pull06.scstream.net/live/stream-9912079_lhd.flv?auth_key=1783063103-0-0-733b21068b461586b5272a77a60fdfde
-#EXTINF:-1 group-title="Socolive - Bóng đá" tvg-logo="https://sta.vnres.co/file/common/20251110/0fe737964c8881084743ca046a2b2b2a_wh320.jpg", ⚽ Live -                -              -              -               Sóc đau cổ vai gáy -                -                  -                 1.07k -                -              -             Tường thuật: WORLD CUP - Switzerland vs Algeria
-https://pull06.scstream.net/live/stream-179093_lhd.flv?auth_key=1783063103-0-0-66cf0f03dcbc60d73623f1791e0b8bf8
-#EXTINF:-1 group-title="Socolive - Bóng đá" tvg-logo="https://sta.vnres.co/file/common/20251110/87f096ccaede473efa0e2ed78d9544c3_wh320.jpg", ⚽ Live -                -              -              -               Sóc trèo cây ngô đồng -                -                  -                 1.07k -                -              -             Tường thuật: WORLD CUP - Portugal vs Croatia
-https://pull06.scstream.net/live/stream-133824_lhd.flv?auth_key=1783063163-0-0-380518ab0cb5c682dcdf843c0f9fa8bb
-#EXTINF:-1 group-title="Socolive - Bóng đá" tvg-logo="https://sta.vnres.co/file/common/20260519/52ed5900f0f285a47dd6227792e94f9a_wh320.png", ⚽ Live -                -              -              -               SOCOLIVE -                -                  -                 1.05k -                -              -             BIT.LY/SOCOLIVE
-https://pull06.scstream.net/live/stream-175784_lhd.flv?auth_key=1783063163-0-0-18129abc479add5765b4cc514c792da9
+#EXTINF:-1 group-title="Socolive - Bóng đá" tvg-logo="https://sta.vnres.co/file/common/20251225/62f12103d05a57d803e8e23cecbd35cd_wh320.png", ⚽ Live -                -              -              -               BLV KEM -                -                  -                 45.96k -                -              -             Aus VPL: Heidelberg United vs St Albans Saints
+https://pull06.scstream.net/live/stream-513394_lhd.flv?auth_key=1783081343-0-0-2c60295a61f2f175929df18128df96eb
+#EXTINF:-1 group-title="Socolive - Bóng đá" tvg-logo="https://sta.vnres.co/file/common/20260317/5be300857a15349a5324be170237948b_wh320.png", ⚽ Live -                -              -              -               BLV A TINH -                -                  -                 36.49k -                -              -             FFSA SL: Adelaide Comets FC vs Croydon Kings
+https://pull.niur.live/live/stream-598119_lhd.flv?txSecret=33332070ef80b501385280e8cf8c8401&txTime=6a47efcf
+#EXTINF:-1 group-title="Socolive - Bóng đá" tvg-logo="https://sta.vnres.co/file/common/20260602/d3ae90ecee5d3c7de53185d58786e3b9_wh320.jpg", ⚽ Live -                -              -              -               BEN 10 -                -                  -                 36.69k -                -              -             AUS NPLQ: Brisbane Wolves vs Rochedale Rovers
+https://pull06.scstream.net/live/stream-612098_lhd.flv?auth_key=1783081343-0-0-c10acda8942fc87d1f8cc3222b25e215
+#EXTINF:-1 group-title="Socolive - Bóng đá" tvg-logo="https://sta.vnres.co/file/common/20251111/6a43978efb637082f6eb906c1e7f1621_wh320.jpg", ⚽ Live -                -              -              -               LOGAN -                -                  -                 44.63k -                -              -             Aus VPL: Green Gully Cavaliers vs Bentleigh greens
+https://pull06.scstream.net/live/stream-552832_lhd.flv?auth_key=1783081343-0-0-d839a2990e7abbaece03c5086a031950
+#EXTINF:-1 group-title="Socolive - Bóng đá" tvg-logo="https://sta.vnres.co/file/common/20260628/a262573632d6ba3d378621d84f099eca_wh320.jpg", ⚽ Live -                -              -              -               BLV ENZO -                -                  -                 45.41k -                -              -             Aus VPL: Heidelberg United vs St Albans Saints
+https://pull06.scstream.net/live/stream-380460_lhd.flv?auth_key=1783081403-0-0-d86caaec9a74f1a648aa2c5704b3cbe6
+#EXTINF:-1 group-title="Socolive - Bóng đá" tvg-logo="https://sta.vnres.co/file/common/20260628/44a31d4e656bac7d8d6e86243ddc3414_wh320.jpg", ⚽ Live -                -              -              -               BLV COZY -                -                  -                 43.98k -                -              -             Aus VPL: Green Gully Cavaliers vs Bentleigh greens
+https://pull06.scstream.net/live/stream-531989_lhd.flv?auth_key=1783081403-0-0-a0a8865d8a553d5bee16c5789ad7288c
+#EXTINF:-1 group-title="Socolive - Bóng đá" tvg-logo="https://sta.vnres.co/file/common/20250627/0d7bfc1ec670555acafeeffb5ffec84e_wh320.png", ⚽ Live -                -              -              -               BLV ALEX -                -                  -                 41.87k -                -              -             AUS NNSW: Cooks Hill United vs Valentine
+https://pull06.scstream.net/live/stream-532081_lhd.flv?auth_key=1783081403-0-0-e5983c5b7d7ae81b9cf608c1419c225e
+#EXTINF:-1 group-title="Socolive - Bóng đá" tvg-logo="https://sta.vnres.co/file/common/20260415/3b743d940a5eddcb5351484c20e8f449_wh320.jpg", ⚽ Live -                -              -              -               BLV RÔSI -                -                  -                 43.35k -                -              -             Aus VPL: Green Gully Cavaliers vs Bentleigh greens
+https://pull.niur.live/live/stream-9912102_lhd.flv?txSecret=fc3ac5e2ce48f58dbf988a5877652d97&txTime=6a47f00b
+#EXTINF:-1 group-title="Socolive - Bóng đá" tvg-logo="https://sta.vnres.co/file/common/20260613/cc7eb6fb9d74dfa083a48c861b135ae8_wh320.jpg", ⚽ Live -                -              -              -               BLV XO -                -                  -                 42.56k -                -              -             FFSA SL: Adelaide Comets FC vs Croydon Kings
+https://pull06.scstream.net/live/stream-472241_lhd.flv?auth_key=1783081463-0-0-52fee44fdc962df68e38f68cf7ca3926
+#EXTINF:-1 group-title="Socolive - Bóng đá" tvg-logo="https://sta.vnres.co/file/common/20260626/fcd1d9373f93de7ff3ebfbee3f073c7c_wh320.jpg", ⚽ Live -                -              -              -               BLV ROBBEN -                -                  -                 42.55k -                -              -             AUS NNSW: Cooks Hill United vs Valentine
+https://pull06.scstream.net/live/stream-527383_lhd.flv?auth_key=1783081463-0-0-d88d868be33594aac120d742c87b61a8
+#EXTINF:-1 group-title="Socolive - Bóng đá" tvg-logo="https://sta.vnres.co/file/common/20260610/adaaa74c2aac2662a9ec4e94395869c9_wh320.png", ⚽ Live -                -              -              -               QUÂN JK -                -                  -                 42.54k -                -              -             AUS NNSW: Cooks Hill United vs Valentine
+https://pull06.scstream.net/live/stream-611178_lhd.flv?auth_key=1783081463-0-0-b983c7c13029bb9ef7a8ce46ef5eb885
+#EXTINF:-1 group-title="Socolive - Bóng đá" tvg-logo="https://sta.vnres.co/file/common/20260507/f27519c438dedfaf3e72c09e21b66880_wh320.jpg", ⚽ Live -                -              -              -               CÔNG CHẤT -                -                  -                 43.85k -                -              -             Aus VPL: Green Gully Cavaliers vs Bentleigh greens
+https://pull06.scstream.net/live/stream-291277_lhd.flv?auth_key=1783081463-0-0-e7b13d79f14d85cf9e568a0b10f87b45
+#EXTINF:-1 group-title="Socolive - Bóng đá" tvg-logo="https://sta.vnres.co/file/common/20260702/96ce72cc25302df48a696d51f0b05cbb_wh320.jpg", ⚽ Live -                -              -              -               CR Bưởi -                -                  -                 33.20k -                -              -             CHA SL: Yunnan Yukun vs Henan FC
+https://pull.niur.live/live/stream-387694_lhd.flv?txSecret=f050e8a600b8f4a22dc7f081ea3c139d&txTime=6a47f083
+#EXTINF:-1 group-title="Socolive - Bóng đá" tvg-logo="https://sta.vnres.co/file/common/20260629/15a4e4b3233b174e59d4cd6ae5a8432c_wh320.png", ⚽ Live -                -              -              -               BLV TOMIA -                -                  -                 33.15k -                -              -             CHA SL: Yunnan Yukun vs Henan FC
+https://pull06.scstream.net/live/stream-9912008_lhd.flv?auth_key=1783081523-0-0-e7dd56d0e0c43956613451cbbff29730
+#EXTINF:-1 group-title="Socolive - Bóng đá" tvg-logo="https://sta.vnres.co/file/common/20251230/ed05555c76c867229b3ced63a841aae2_wh320.png", ⚽ Live -                -              -              -               XUÂN SON -                -                  -                 27.24k -                -              -             AUS NPLQ: Brisbane Wolves vs Rochedale Rovers
+https://pull.niur.live/live/stream-501412_lhd.flv?txSecret=cdfb06b20bf6cb8495e3287f28852d7b&txTime=6a47f083
+#EXTINF:-1 group-title="Socolive - Bóng đá" tvg-logo="https://sta.vnres.co/file/common/20250723/6b83b847d8944b57cc13043bae9fa7a8_wh320.jpg", ⚽ Live -                -              -              -               BLV VIP -                -                  -                 27.24k -                -              -             Aus VPL: Heidelberg United vs St Albans Saints
+https://pull.niur.live/live/stream-491873_lhd.flv?txSecret=58e935a27ee2093ee4fa9d4825dde5b2&txTime=6a47f083
+#EXTINF:-1 group-title="Socolive - Bóng đá" tvg-logo="https://sta.vnres.co/file/common/20260329/46d787b8716ab82aff515db39b5a55a1_wh320.jpg", ⚽ Live -                -              -              -               BLV RYO -                -                  -                 26.91k -                -              -             Aus VPL: Heidelberg United vs St Albans Saints
+https://pull06.scstream.net/live/stream-602019_lhd.flv?auth_key=1783081583-0-0-5958a23ec4845419356b4567009d872a
+#EXTINF:-1 group-title="Socolive - Bóng đá" tvg-logo="https://sta.vnres.co/file/common/20260222/4eac5c41021ca3f6e6d7694308af0a1d_wh320.jpg", ⚽ Live -                -              -              -               BRIAN -                -                  -                 26.71k -                -              -             FIBA WCQL: South Korea vs Chinese Taipei
+https://pull06.scstream.net/live/stream-9912106_lhd.flv?auth_key=1783081583-0-0-7bf48a06829fe0b3905a7a605f398520
+#EXTINF:-1 group-title="Socolive - Bóng đá" tvg-logo="https://sta.vnres.co/file/common/20260703/79591910b936b4ad6e71a696635913a9_wh320.png", ⚽ Live -                -              -              -               BLV KAN -                -                  -                 26.67k -                -              -             AUS NPLQ: Brisbane Wolves vs Rochedale Rovers
+https://pull06.scstream.net/live/stream-291277_lhd.flv?auth_key=1783081583-0-0-9a34908b0787ddf26fc7294b9485d8e2
+#EXTINF:-1 group-title="Socolive - Bóng đá" tvg-logo="https://sta.vnres.co/file/common/20260527/86e2d6082d35b8c905da5b66c29d4e3d_wh320.jpeg", ⚽ Live -                -              -              -               BLV HENRY -                -                  -                 26.56k -                -              -             FIBA WCQL: Australia vs Guam
+https://pull06.scstream.net/live/stream-9912112_lhd.flv?auth_key=1783081583-0-0-7a08ba252fa8bc9a1f1bee90010f1692
+#EXTINF:-1 group-title="Socolive - Bóng đá" tvg-logo="https://sta.vnres.co/file/common/20260609/b3e04b0f7d210d67052a911512e39f54_wh320.jpg", ⚽ Live -                -              -              -               CHÍ PHÈO -                -                  -                 26.42k -                -              -             FFSA SL: Adelaide Comets FC vs Croydon Kings
+https://pull06.scstream.net/live/stream-273736_lhd.flv?auth_key=1783081583-0-0-30d5586f896be3aa127d2d74d48dad17
+#EXTINF:-1 group-title="Socolive - Bóng đá" tvg-logo="https://sta.vnres.co/file/common/20260601/0ef26a05cc5531ef3fc63f77d5475ef0_wh320.jpg", ⚽ Live -                -              -              -               BLV PICK -                -                  -                 26.37k -                -              -             AUS NPLQ: Brisbane Wolves vs Rochedale Rovers
+https://pull.niur.live/live/stream-491873_lhd.flv?txSecret=5299cac05e34d5867eb18dfe17b21e97&txTime=6a47f0fb
+#EXTINF:-1 group-title="Socolive - Bóng đá" tvg-logo="https://sta.vnres.co/file/common/20251106/3935c1d673a689eaacac4f3c21389289_wh320.jpg", ⚽ Live -                -              -              -               BLV GÔN -                -                  -                 26.32k -                -              -             FFSA SL: Adelaide Comets FC vs Croydon Kings
+https://pull.niur.live/live/stream-445260_lhd.flv?txSecret=6347bb3bf8347fc857e173905bde0454&txTime=6a47f0fb
+#EXTINF:-1 group-title="Socolive - Bóng đá" tvg-logo="https://sta.vnres.co/file/common/20260123/52dc3dab350b955149adbb0e15459f75_wh320.jpg", ⚽ Live -                -              -              -               A CHÈ -                -                  -                 26.25k -                -              -             FIBA WCQL: Australia vs Guam
+https://pull06.scstream.net/live/stream-356042_lhd.flv?auth_key=1783081643-0-0-339becdf188bcec96f7c73486ea4a5be
+#EXTINF:-1 group-title="Socolive - Bóng đá" tvg-logo="https://sta.vnres.co/file/common/20260509/a4366dff27ce40b1dea66de6bcb4231b_wh320.jpg", ⚽ Live -                -              -              -               KING -                -                  -                 26.22k -                -              -             MPBL: Ilagan Isabela Cowboys vs Bacolod Masskara
+https://pull06.scstream.net/live/stream-9912099_lhd.flv?auth_key=1783081643-0-0-283edec7ffcd232721b3438f36105e2b
+#EXTINF:-1 group-title="Socolive - Bóng đá" tvg-logo="https://sta.vnres.co/file/common/20250309/327aeb19e28284f148ce2d4cd8b30472_wh320.jpg", ⚽ Live -                -              -              -               CHAN SENA -                -                  -                 26.13k -                -              -             MPBL: Ilagan Isabela Cowboys vs Bacolod Masskara
+https://pull06.scstream.net/live/stream-9912115_lhd.flv?auth_key=1783081703-0-0-5fdd727d39ede1a7ede13884cd72f785
+#EXTINF:-1 group-title="Socolive - Bóng đá" tvg-logo="https://sta.vnres.co/file/common/20260409/4bef5dd60673df0e61ac91db803e1191_wh320.jpg", ⚽ Live -                -              -              -               HUNTER -                -                  -                 25.67k -                -              -             FIBA WCQL: China vs Japan
+https://pull06.scstream.net/live/stream-558264_lhd.flv?auth_key=1783081703-0-0-2483d925b3b8cd9349515fe15a630045
+#EXTINF:-1 group-title="Socolive - Bóng đá" tvg-logo="https://sta.vnres.co/file/common/20260519/52ed5900f0f285a47dd6227792e94f9a_wh320.png", ⚽ Live -                -              -              -               SOCOLIVE -                -                  -                 1.31k -                -              -             BIT.LY/SOCOLIVE
+https://pull06.scstream.net/live/stream-175784_lhd.flv?auth_key=1783081703-0-0-ea365e9f07d4a7cd831f4e70747d241e
+#EXTINF:-1 group-title="Socolive - Bóng đá" tvg-logo="https://sta.vnres.co/file/common/20251110/87f096ccaede473efa0e2ed78d9544c3_wh320.jpg", ⚽ Live -                -              -              -               Sóc trèo cây ngô đồng -                -                  -                 1.06k -                -              -             Tường thuật: WORLD CUP - Portugal vs Croatia
+https://pull06.scstream.net/live/stream-133824_lhd.flv?auth_key=1783081703-0-0-37668f584940298d120bfffb4e991d55
+#EXTINF:-1 group-title="Socolive - Bóng đá" tvg-logo="https://sta.vnres.co/file/common/20250424/a28542dbd508468d0a495a510077aa7b_wh320.jpg", ⚽ Live -                -              -              -               Sóc trong rừng xà nu -                -                  -                 1.05k -                -              -             Tường thuật: WORLD CUP - Spain vs Austria
+https://pull06.scstream.net/live/stream-9912079_lhd.flv?auth_key=1783081763-0-0-df6739b9f6e1bc82c1073f6ff1ea8769
+#EXTINF:-1 group-title="Socolive - Bóng đá" tvg-logo="https://sta.vnres.co/file/common/20251110/0fe737964c8881084743ca046a2b2b2a_wh320.jpg", ⚽ Live -                -              -              -               Sóc đau cổ vai gáy -                -                  -                 1.05k -                -              -             Tường thuật: WORLD CUP - Switzerland vs Algeria
+https://pull06.scstream.net/live/stream-179093_lhd.flv?auth_key=1783081763-0-0-dd3125920ca13ae53969c8cb8031ae16
 #EXTINF:-1 group-title="Socolive - Bóng đá" tvg-logo="https://sta.vnres.co/file/common/20251110/4c45f54b9476f5b0c43acd88b6835e2e_wh320.png", ⚽ Live -                -              -              -               Sóc mèo méo meo -                -                  -                 1.03k -                -              -             Tường thuật: WORLD CUP - USA vs Bosnia and Herzegovina
-https://pull06.scstream.net/live/stream-343500_lhd.flv?auth_key=1783063163-0-0-5e9ae70ae2ce754269620ce67c456890
+https://pull06.scstream.net/live/stream-343500_lhd.flv?auth_key=1783081763-0-0-9f348d913c360febf654480d9e6e0161
 #EXTINF:-1 group-title="Socolive - Bóng đá" tvg-logo="https://sta.vnres.co/file/common/20251110/4002a0edf64934e2ce7cc8a90291d9df_wh320.png", ⚽ Live -                -              -              -               Sóc nhàm nhang nhồ -                -                  -                 1.02k -                -              -             Tường thuật: WORLD CUP - Belgium vs Senegal
-https://pull06.scstream.net/live/stream-152898_lhd.flv?auth_key=1783063163-0-0-d205fe08487c53fcd62511acd8f39e0d
-#EXTINF:-1 group-title="Socolive - Bóng đá" tvg-logo="https://sta.vnres.co/file/common/20251110/02d64554832d40e5884989e9d0f3be14_wh320.jpg", ⚽ Live -                -              -              -               Sóc Nhó Nhịu Nhô Nhùng -                -                  -                 1.01k -                -              -             Tường thuật: WORLD CUP - Mexico vs Ecuador
-https://pull06.scstream.net/live/stream-133277_lhd.flv?auth_key=1783063223-0-0-35140cb239aaa0071abfed05050c52a9
-#EXTINF:-1 group-title="Gavang - Bóng đá" tvg-logo="https://img.thesports.com/football/competition/df4c34bf97b380d1e30b84c509ff0354.png", ⚽ Yunnan Yukun vs Henan FC luc 19:00 ngay 03/07/2026
-https://playback.livetl001.com/live/6a2a5896b89dded67b19bcf5.flv
-#EXTINF:-1 group-title="Gavang - Bóng đá" tvg-logo="https://img.thesports.com/football/competition/e7475cfacb0bebd6ab81ae3f09efdb28.png", ⚽ Naftan Novopolock vs Dynamo-Brest luc 20:00 ngay 03/07/2026
-https://playback.livetl001.com/live/69ef10b47146e04fbe6d4363.flv
-#EXTINF:-1 group-title="Gavang - Bóng đá" tvg-logo="https://img.thesports.com/football/competition/db5bd04b2bd768144487ef32a4d482e5.png", ⚽ Astana vs Zhenis luc 21:00 ngay 03/07/2026
-https://playback.livetl001.com/live/69ff2c40bf9490b4aab22c9a.flv
-#EXTINF:-1 group-title="Gavang - Bóng đá" tvg-logo="https://img.thesports.com/football/competition/d5fcd3349b18dfb4e171868492c512a3.png", ⚽ Poland U19(w) vs Bosnia U19(w) luc 22:00 ngay 03/07/2026
-https://playback.livetl001.com/live/69be75e0a0a45974afb67776.flv
-#EXTINF:-1 group-title="Gavang - Bóng đá" tvg-logo="https://img.thesports.com/football/competition/9267ee08759fdc25c89d3e4642303522.png", ⚽ JaPS vs SJK Seinäjoki luc 22:30 ngay 03/07/2026
-https://playback.livetl001.com/live/6a2a59b347bbddd62a8dc4e4.flv
-#EXTINF:-1 group-title="Gavang - Bóng đá" tvg-logo="https://img.thesports.com/football/competition/9267ee08759fdc25c89d3e4642303522.png", ⚽ KTP Kotka vs JIPPO luc 22:30 ngay 03/07/2026
-https://playback.livetl001.com/live/6a01a2511e8555d7a3685f5c.flv
-#EXTINF:-1 group-title="Gavang - Bóng đá" tvg-logo="https://img.thesports.com/football/competition/76cf7670d30a48ad1437315a8c50acdb.png", ⚽ Kongsvinger vs Sogndal luc 23:00 ngay 03/07/2026
-https://playback.livetl001.com/live/69cf6331585c5992182f4160.flv
-#EXTINF:-1 group-title="Gavang - Bóng đá" tvg-logo="https://img.thesports.com/football/competition/c9c624c99f42be9d4c4f39a4477f02f4.png", ⚽ FC Nomme United vs Nomme JK Kalju luc 23:00 ngay 03/07/2026
-https://playback.livetl001.com/live/6a0ea6a6b89dded67b1171d3.flv
-#EXTINF:-1 group-title="Gavang - Bóng đá" tvg-logo="https://img.thesports.com/football/competition/71ec56470b1f954a153d98413368256e.png", ⚽ Riga FC vs Jelgava luc 23:00 ngay 03/07/2026
-https://playback.livetl001.com/live/6a0c7c4b1ae4d6db02433c48.flv
-#EXTINF:-1 group-title="Gavang - Bóng rổ" tvg-logo="https://img.thesports.com/basketball/competition/6e9bd36b5615a87ac0a1b610a323fd0f.png", ⚽ New Zealand vs Philippines lúc 14:00 ngày 03/07/2026
-https://playback.livetl001.com/live/6a02c3637fd690a3410710a5.flv
-#EXTINF:-1 group-title="Gavang - Bóng rổ" tvg-logo="https://img.thesports.com/basketball/competition/6ba16cfbda31aed288c6d50e4b11d710.png", ⚽ Canterbury Rams vs Manawatu Jets lúc 14:30 ngày 03/07/2026
-https://playback.livetl001.com/live/69d37c3a4da3e15776b6db56.flv
-#EXTINF:-1 group-title="ThienDinh" tvg-logo="https://i.imgur.com/Ne0x6Ea.png", ⚽ 06:0003/07U18 Châu ÁU18 Việt Nam---0-0U18 Ấn ĐộBLV TÁO GIÀTrực tiếpĐặt cược
-https://tfx93gr4nhct1gwzdrcbqgrhdqmmwctsg17uff3hsnhuqcp1ghmucpf5gk.100ycdn.com/tdlive.yarncdn.live/live/tdtv_blv_taotinhtao/playlist.m3u8?wsSession=1f88bd588885ab981ac4b881-178306122344200&wsIPSercert=f9ea261b9d651c924d668d4c9f053b80&wsBindIP=2&wsserid=1168239097222411122
-#EXTINF:-1 group-title="Hoiquan" tvg-logo="https://product.hstatic.net/1000135006/product/v200w_2-480x480_b50534a186f5494e888e948331790603_grande.png", ⚽ U18 Châu ÁBóng chuyềnU18 Việt NamLive0-006:0003/07/2026U18 Ấn ĐộBLV TÁO GIÀĐặt cược
-https://tfx93gr4nhct1gwzdepjqgr5u1mmwctsg17uff3hsnhuqcp1ghmucpf5gk.100ycdn.com/tdlive.yarncdn.live/live/tdtv_blv_taotinhtao/playlist.m3u8?wsSession=b18edee1956aed49e1383aaf-178306228645511&wsIPSercert=f9ea261b9d651c924d668d4c9f053b80&wsBindIP=2&wsserid=1168271909248251247
+https://pull06.scstream.net/live/stream-152898_lhd.flv?auth_key=1783081823-0-0-eb3d367216f42f900088ff8f57fda34b
+#EXTINF:-1 group-title="Socolive - Bóng đá" tvg-logo="https://sta.vnres.co/file/common/20251110/02d64554832d40e5884989e9d0f3be14_wh320.jpg", ⚽ Live -                -              -              -               Sóc Nhó Nhịu Nhô Nhùng -                -                  -                 1.00k -                -              -             Tường thuật: WORLD CUP - Mexico vs Ecuador
+https://pull06.scstream.net/live/stream-133277_lhd.flv?auth_key=1783081823-0-0-a92095a98419f4b066ecb8d2705ef443
+#EXTINF:-1 group-title="Gavang - Bóng rổ" tvg-logo="https://img.thesports.com/basketball/competition/a07e13b5b4e03beb0e060907570dd569.png", ⚽ Ilagan Isabela Cowboys vs Bacolod Tubo Slashers lúc 17:00 ngày 03/07/2026
+https://playback.livetl001.com/live/6a02c3637fd690a3410710a5.m3u8
+#EXTINF:-1 group-title="ThienDinh" tvg-logo="https://i.imgur.com/30aaqin.png", ⚽ ● Live12:0003/07Super LeagueH1 - 1'0-0Yunnan Yukun Henan JianyeBLV THẦN THÔNG
+https://tfx93gr4nhct1gwzdrcbqgrhdqmmwctsg17uff3hsnhuqcp1ghmucpf5gk.100ycdn.com/tdlive.yarncdn.live/live/tdtv_blv_taovannghe/playlist.m3u8?wsSession=818e70ee72aeb5357d9661a8-178308016271565&wsIPSercert=f9ea261b9d651c924d668d4c9f053b80&wsBindIP=2&wsserid=1168239097225556910
+#EXTINF:-1 group-title="ThienDinh" tvg-logo="https://res.cloudinary.com/dlwx7hywr/image/upload/v1752114457/tennis_sf3nca.png", ⚽ ● Live10:0003/07WTA500 ---0-0Belinda BencicAnna KalinskayaBLV PHAN BỐNG
+https://tfx93gr3dgmtugrzdgpbqgrhdommeqfsg17uff3hsnhuqcp1ghmucpf5gk.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanbong/playlist.m3u8?wsSession=b612aabc7b84e5e648c6ed5e-178308067506726&wsIPSercert=f9ea261b9d651c924d668d4c9f053b80&wsBindIP=2&wsserid=1168239032780249394
+#EXTINF:-1 group-title="ThienDinh" tvg-logo="https://res.cloudinary.com/dlwx7hywr/image/upload/v1752114457/tennis_sf3nca.png", ⚽ Sắp diễn ra12:3003/07ATP500VSArthur RinderknechNovak DjokovicBLV PHAN HẢI
+https://tfx93gr3dgmtugrzdgpbqgrhdommeqfsg17uff3hsnhuqcp1ghmucpf5gk.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanhai/playlist.m3u8?wsSession=dda2b2ce50b42f9e87a6c110-178308068846281&wsIPSercert=f9ea261b9d651c924d668d4c9f053b80&wsBindIP=2&wsserid=1168239032787589538
+#EXTINF:-1 group-title="Hoiquan" tvg-logo="https://res.cloudinary.com/dlwx7hywr/image/upload/v1752114457/tennis_sf3nca.png", ⚽ LIVETennis
+https://tfx93gr4nhct1gwzdrcbqgrhdqmmeqfsg17uff3hsnhuqcp1ghmucpf5gk.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanhai/playlist.m3u8?wsSession=d86c05b5291fe553a15ed5d2-178308122235328&wsIPSercert=f9ea261b9d651c924d668d4c9f053b80&wsBindIP=2&wsserid=1168239097216119550
+#EXTINF:-1 group-title="Hoiquan" tvg-logo="https://product.hstatic.net/1000135006/product/v200w_2-480x480_b50534a186f5494e888e948331790603_grande.png", ⚽ U18 Châu ÁBóng chuyềnU18 Thái LanLive0-012:0003/07/2026U18 UzbekistanBLV TÁO GIÀĐặt cược
+https://tfx93gr3dgmtugrzdgpbqgrhdommwctsg17uff3hsnhuqcp1ghmucpf5gk.100ycdn.com/tdlive.yarncdn.live/live/tdtv_blv_taotinhtao/playlist.m3u8?wsSession=b612aabc7b84e5e648c6ed5e-178308128740837&wsIPSercert=f9ea261b9d651c924d668d4c9f053b80&wsBindIP=2&wsserid=1168239032780249394
+#EXTINF:-1 group-title="Hoiquan" tvg-logo="https://media.api-sports.io/football/leagues/278.png", ⚽ Super LeagueBóng đáYunnan Yukun H1 - 19'0-012:0003/07/2026Henan JianyeBLV THẦN THÔNGĐặt cược
+https://tfx93gr3dgmtugrzdgpbqgrhdommwctsg17uff3hsnhuqcp1ghmucpf5gk.100ycdn.com/tdlive.yarncdn.live/live/tdtv_blv_taovannghe/playlist.m3u8?wsSession=4065ded9658e6ef9bb32ef69-178308130031920&wsIPSercert=f9ea261b9d651c924d668d4c9f053b80&wsBindIP=2&wsserid=1168239032784443754
+#EXTINF:-1 group-title="Hoiquan" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR2RSCLCraBCKwz4bDbS5nPwxkIHzogYITwIjzNqhYw5Q&s=10", ⚽ WTA500 TennisBelinda BencicLive0-010:0003/07/2026Anna KalinskayaBLV PHAN BỐNGĐặt cược
+https://tfx93gr3dgmtugrzdgpbqgrhdommeqfsg17uff3hsnhuqcp1ghmucpf5gk.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanbong/playlist.m3u8?wsSession=b612aabc7b84e5e648c6ed5e-178308136957834&wsIPSercert=f9ea261b9d651c924d668d4c9f053b80&wsBindIP=2&wsserid=1168239032780249394
+#EXTINF:-1 group-title="Hoiquan" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/63/ATP500-logo.jpg", ⚽ ATP500TennisArthur RinderknechLive0-012:3003/07/2026Novak DjokovicBLV PHAN HẢIĐặt cược
+https://tfx93gr3dgmtugrzdgpbqgrhdommeqfsg17uff3hsnhuqcp1ghmucpf5gk.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanhai/playlist.m3u8?wsSession=dda2b2ce50b42f9e87a6c110-178308138245301&wsIPSercert=f9ea261b9d651c924d668d4c9f053b80&wsBindIP=2&wsserid=1168239032787589538
+#EXTINF:-1 group-title="Thapcam - Bóng đá" tvg-logo="", ⚽ Bentleigh Greens Women - 0 - 1 -  - FC Bulleen Lions Women
+https://station1-global.ebaclofen.org/live/b99056510949bceace2f5b024521234a/playlist.m3u8
+#EXTINF:-1 group-title="Thapcam - Bóng đá" tvg-logo="", ⚽ Caboolture FC - 1 - 2 -  - Sunshine Coast Wanderers FC
+https://station1-global.ebaclofen.org/live/f085c3b6ffaddbb7ff26e06aa136a08a/playlist.m3u8
+#EXTINF:-1 group-title="Thapcam - Bóng đá" tvg-logo="", ⚽ Spring Hills FC Women - 1 - 0 -  - Heidelberg United Women
+https://station1-global.ebaclofen.org/live/42db99e5655aa2d9c16715668bd31bbd/playlist.m3u8
+#EXTINF:-1 group-title="Thapcam - Bóng đá" tvg-logo="", ⚽ Ipswich City - 3 - 3 -  - Holland Park Hawks FC
+https://station1-global.ebaclofen.org/live/e2680b8ed60e3997bfb8818c04c3312b/playlist.m3u8
+#EXTINF:-1 group-title="Thapcam - Bóng đá" tvg-logo="", ⚽ Shuiwei Village - 1 - 2 -  - Chejiang 2 Village
+https://station1-global.ebaclofen.org/live/f7a8a36c9c0559bf913f88583680bade/playlist.m3u8
+#EXTINF:-1 group-title="Thapcam - Bóng đá" tvg-logo="", ⚽ FK Arys - 1 - 0 -  - FK Yelimay Semey B
+https://station1-global.ebaclofen.org/live/17782f84cb43be3e03858bd3f33d7c17/playlist.m3u8
+#EXTINF:-1 group-title="Thapcam - Bóng đá" tvg-logo="", ⚽ Yunnan Yukun - 0 - 0 -  - Henan FC
+https://cdn1-global.ebaclofen.org/live/pro1/index.m3u8
+#EXTINF:-1 group-title="Thapcam - Bóng đá" tvg-logo="", ⚽ Sonderjyske - 0 - 0 -  - Viking
+https://station1-global.ebaclofen.org/live/cb6742c12d8258554f8599b801471c1a/playlist.m3u8
+#EXTINF:-1 group-title="Thapcam - Bóng đá" tvg-logo="", ⚽ Kairat Almaty II - 2 - 0 -  - FK Taraz
+https://station1-global.ebaclofen.org/live/99f7ac745052e80febc0e9f5f52cfdea/playlist.m3u8
+#EXTINF:-1 group-title="Thapcam - Bóng đá" tvg-logo="", ⚽ FK Minsk B - 0 - 0 -  - FC Gomel B
+https://station1-global.ebaclofen.org/live/d213492759d6897c838576a3e195dd9b/playlist.m3u8
+#EXTINF:-1 group-title="Thapcam - Bóng đá" tvg-logo="", ⚽ Khangarid FC - 1 - 2 -  - FC Ulaanbaatar
+https://station1-global.ebaclofen.org/live/739ad5016442dd2f162278a3926b7df3/playlist.m3u8
+#EXTINF:-1 group-title="Thapcam - Bóng đá" tvg-logo="", ⚽ Hellenic AC - 1 - 2 -  - Mindil Aces
+https://station1-global.ebaclofen.org/live/f7256c472c704027f7b879f34f0126db/playlist.m3u8
+#EXTINF:-1 group-title="Thapcam - Bóng đá" tvg-logo="", ⚽ Adelaide Comets FC - 1 - 3 -  - Croydon Kings
+https://station1-global.ebaclofen.org/live/0e5094268e9a65d0d31affe3aa21cc1b/playlist.m3u8
