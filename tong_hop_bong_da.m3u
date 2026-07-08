@@ -1,19 +1,61 @@
 #EXTM3U
-#EXTINF:-1 group-title="Gavang - Bóng đá" tvg-logo="https://img.thesports.com/football/competition/ebaaa1dd253d35d64b79237ac20b1d38.png", ⚽ FF Jaro II vs SJK Akatemia B luc 22:30 ngay 08/07/2026
-https://playback.livetl001.com/live/69ef10b47146e04fbe6d4363.flv
-#EXTINF:-1 group-title="Gavang - Bóng đá" tvg-logo="https://img.thesports.com/football/competition/a6a98d7ce26efc8afe56aa744eebcefd.png", ⚽ Spain U19 vs Croatia U19 luc 22:30 ngay 08/07/2026
-https://playback.livetl001.com/live/6a0ea6a6b89dded67b1171d3.flv
 #EXTINF:-1 group-title="Gavang - Bóng đá" tvg-logo="https://img.thesports.com/football/competition/88637a74a2cbd634b8b9504a60d711cd.png", ⚽ Zira FK vs Torpedo Kutaisi luc 23:00 ngay 08/07/2026
-https://playback.livetl001.com/live/6a01a2511e8555d7a3685f5c.flv
+https://playback.livetl001.com/live/6a01a2511e8555d7a3685f5c.m3u8
 #EXTINF:-1 group-title="Gavang - Bóng đá" tvg-logo="https://img.thesports.com/football/competition/4f75e9026f344c172306b440528a7018.png", ⚽ Charlestown Azzurri Reserves vs Weston Workers Reserves luc 15:00 ngay 08/07/2026
 https://playback.livetl001.com/live/69be75e0a0a45974afb67776.flv
-#EXTINF:-1 group-title="Gavang - Bóng rổ" tvg-logo="https://img.thesports.com/basketball/competition/a07e13b5b4e03beb0e060907570dd569.png", ⚽ Meycauayan vs Pasay Voyagers lúc 19:00 ngày 08/07/2026
-https://playback.livetl001.com/live/6a02c3637fd690a3410710a5.flv
-#EXTINF:-1 group-title="ThienDinh" tvg-logo="https://res.cloudinary.com/dlwx7hywr/image/upload/v1752114457/tennis_sf3nca.png", ⚽ 12:0008/07WTA1000 Miami Linda Noskova---0-0Elise MertensBLV PHAN HẢITrực tiếpĐặt cược
-https://tfxe3gr4nhct1gwzdepjqgrhuqmmeqfsg17uff3hsnhuqcp1ghmucpf5gk.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanhai/playlist.m3u8?wsSession=9b8bf03369d8c37d6cbc241f-178351836794671&wsIPSercert=f9ea261b9d651c924d668d4c9f053b80&wsBindIP=2&wsserid=1168276518868027036
-#EXTINF:-1 group-title="ThienDinh" tvg-logo="https://res.cloudinary.com/dlwx7hywr/image/upload/v1752114457/tennis_sf3nca.png", ⚽ 12:3008/07WTA1000 MiamiMarta Kostuyk---0-0Jasmine PaoliniBLV PHAN BỐNGTrực tiếpĐặt cược
-https://tfxe3gr4nhct1gwzdepjqgrhuqmmeqfsg17uff3hsnhuqcp1ghmucpf5gk.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanbong/playlist.m3u8?wsSession=bfcb1d389a0056e21942662f-178351837996255&wsIPSercert=f9ea261b9d651c924d668d4c9f053b80&wsBindIP=2&wsserid=1168276443747689227
-#EXTINF:-1 group-title="Thapcam - Bóng đá" tvg-logo="", ⚽ Denmark U19 - 0 - 0 -  - Italy U19
-https://station1-global.ebaclofen.org/live/a708e939177622623a0abdac4077df3a/playlist.m3u8
-#EXTINF:-1 group-title="Thapcam - Bóng đá" tvg-logo="", ⚽ Gutersloh - 0 - 0 -  - Arminia Bielefeld
-https://station1-global.ebaclofen.org/live/e559abb61a3ec593fd0224509bdf99bb/playlist.m3u8
+#EXTINF:-1 group-title="ThienDinh" tvg-logo="https://i.imgur.com/30aaqin.png", ⚽ 15:0008/07UEFA Champions LeagueKairat AlmatyH2 - 86'1-0SutjeskaBLV THẦN THÔNGTrực tiếpĐặt cược
+https://tfxe3gr4nhct1gwzdrcbqgrhdqmmwctsg17uff3hsnhuqcp1ghmucpf5gk.100ycdn.com/tdlive.yarncdn.live/live/tdtv_blv_taovannghe/playlist.m3u8?wsSession=1f88bd588885ab981ac4b881-178352918566519&wsIPSercert=f9ea261b9d651c924d668d4c9f053b80&wsBindIP=2&wsserid=1168239097222411122
+#EXTINF:-1 group-title="ThienDinh" tvg-logo="https://i.imgur.com/30aaqin.png", ⚽ 16:0008/07UEFA Champions LeagueFlora TallinnH1 - 45'1-2SaburtaloBLV LƯƠNG BỔNGTrực tiếpĐặt cược
+https://tfxe3gr4nhct1gwzdepjqgrhuqmmeqfsg17uff3hsnhuqcp1ghmucpf5gk.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanliem/playlist.m3u8?wsSession=9b8bf03369d8c37d6cbc241f-178352920002528&wsIPSercert=f9ea261b9d651c924d668d4c9f053b80&wsBindIP=2&wsserid=1168276518868027036
+#EXTINF:-1 group-title="Hoiquan" tvg-logo="", ⚽ LỊCH THI ĐẤU
+https://tfxe3gr4nhct1gwzdepjqgrhuqmmwctsg17uff3hsnhuqcp1ghmucpf5gk.100ycdn.com/tdlive.yarncdn.live/live/tdtv_blv_taovannghe/playlist.m3u8?wsSession=72422836e4507bfeef26efb4-178353019531232&wsIPSercert=f9ea261b9d651c924d668d4c9f053b80&wsBindIP=2&wsserid=1168271907035344675
+#EXTINF:-1 group-title="Hoiquan" tvg-logo="", ⚽ KẾT QUẢ
+https://tfxe3gr4nhct1gwzdepjqgrhuqmmwctsg17uff3hsnhuqcp1ghmucpf5gk.100ycdn.com/tdlive.yarncdn.live/live/tdtv_blv_taovannghe/playlist.m3u8?wsSession=72422836e4507bfeef26efb4-178353020857160&wsIPSercert=f9ea261b9d651c924d668d4c9f053b80&wsBindIP=2&wsserid=1168271907035344675
+#EXTINF:-1 group-title="Hoiquan" tvg-logo="", ⚽ XEM LẠI
+https://tfxe3gr4nhct1gwzdepjqgrhuqmmwctsg17uff3hsnhuqcp1ghmucpf5gk.100ycdn.com/tdlive.yarncdn.live/live/tdtv_blv_taovannghe/playlist.m3u8?wsSession=72422836e4507bfeef26efb4-178353022189129&wsIPSercert=f9ea261b9d651c924d668d4c9f053b80&wsBindIP=2&wsserid=1168271907035344675
+#EXTINF:-1 group-title="Hoiquan" tvg-logo="https://i.imgur.com/30aaqin.png", ⚽ LIVEBóng đá
+https://tfxe3gr4nhct1gwzdepjqgrhuqmmwctsg17uff3hsnhuqcp1ghmucpf5gk.100ycdn.com/tdlive.yarncdn.live/live/tdtv_blv_taovannghe/playlist.m3u8?wsSession=72422836e4507bfeef26efb4-178353023575938&wsIPSercert=f9ea261b9d651c924d668d4c9f053b80&wsBindIP=2&wsserid=1168271907035344675
+#EXTINF:-1 group-title="Hoiquan" tvg-logo="https://media.api-sports.io/football/leagues/2.png", ⚽ UEFA Champions LeagueBóng đáFlora TallinnGiữa Hiệp - 45+2'1-216:0008/07/2026SaburtaloBLV LƯƠNG BỔNGĐặt cược
+https://tfxe3gr4nhct1gwzdrcbqgrhdqmmeqfsg17uff3hsnhuqcp1ghmucpf5gk.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanliem/playlist.m3u8?wsSession=d86c05b5291fe553a15ed5d2-178353031986806&wsIPSercert=f9ea261b9d651c924d668d4c9f053b80&wsBindIP=2&wsserid=1168239097216119550
+#EXTINF:-1 group-title="Hoiquan" tvg-logo="https://upload.wikimedia.org/wikipedia/vi/5/54/UEFA_Conference_League_2024.png", ⚽ UEFA Europa Conference LeagueBóng đáGAP Connah S Quay FCSắp diễn ravs17:3008/07/2026BallkaniBLV THẦN THÔNGĐặt cược
+https://tfxe3gr4nhct1gwzdepjqgrhuqmmwctsg17uff3hsnhuqcp1ghmucpf5gk.100ycdn.com/tdlive.yarncdn.live/live/tdtv_blv_taovannghe/playlist.m3u8?wsSession=72422836e4507bfeef26efb4-178353033475145&wsIPSercert=f9ea261b9d651c924d668d4c9f053b80&wsBindIP=2&wsserid=1168271907035344675
+#EXTINF:-1 group-title="Hoiquan" tvg-logo="https://media.api-sports.io/football/leagues/493.png", ⚽ UEFA U19 ChampionshipBóng đáUkraine U19Sắp diễn ravs18:0008/07/2026Germany U19BLV PHAN CAĐặt cược
+https://tfxe3gr4nhct1gwzdrcbqgrhdqmmeqfsg17uff3hsnhuqcp1ghmucpf5gk.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanca/playlist.m3u8?wsSession=e24bcf1796eb728dd287f0fc-178353034672494&wsIPSercert=f9ea261b9d651c924d668d4c9f053b80&wsBindIP=2&wsserid=1168239097219265334
+#EXTINF:-1 group-title="Thapcam - Bóng đá" tvg-logo="", ⚽ Maxline Vitebsk - 0 - 1 -  - CS Universitatea Craiova
+https://cdn-global.ebaclofen.org/vsc/vsc-thai-tu-lion/index.m3u8
+#EXTINF:-1 group-title="Thapcam - Bóng đá" tvg-logo="", ⚽ Jadran Dekani - 0 - 0 -  - FC Bihor Oradea
+https://station1-global.ebaclofen.org/live/abeeb617aefc15c0effd0eb64e0e4e7a/playlist.m3u8
+#EXTINF:-1 group-title="Thapcam - Bóng đá" tvg-logo="", ⚽ CS Petrocub - 0 - 0 -  - Egnatia
+https://cdn1-global.ebaclofen.org/live/pro4/index.m3u8
+#EXTINF:-1 group-title="Thapcam - Bóng đá" tvg-logo="", ⚽ Zira FK - 2 - 0 -  - Torpedo Kutaisi
+https://cdn1-global.ebaclofen.org/live/pro2/index.m3u8
+#EXTINF:-1 group-title="Thapcam - Bóng đá" tvg-logo="", ⚽ Baumit Jablonec - 0 - 0 -  - Pafos FC
+https://station1-global.ebaclofen.org/live/1a87d1c4211f85da9d4d1abcac300c3e/playlist.m3u8
+#EXTINF:-1 group-title="Thapcam - Bóng đá" tvg-logo="", ⚽ Zenit St. Petersburg - 2 - 1 -  - Neftchi Fergana
+https://station1-global.ebaclofen.org/live/8cda739361993465a25f9e981f39f2d3/playlist.m3u8
+#EXTINF:-1 group-title="Thapcam - Bóng đá" tvg-logo="", ⚽ Rakow Czestochowa - 0 - 0 -  - Olympiacos Piraeus
+https://station1-global.ebaclofen.org/live/6f23f565e88f00c60adf9fca3cfe0f26/playlist.m3u8
+#EXTINF:-1 group-title="Thapcam - Bóng đá" tvg-logo="", ⚽ FC Flora Tallinn - 1 - 2 -  - FC Iberia 1999 Tbilisi
+https://cdn1-global.ebaclofen.org/live/pro3/index.m3u8
+#EXTINF:-1 group-title="Thapcam - Bóng đá" tvg-logo="", ⚽ FC Differdange 03 - 0 - 0 -  - Ilves Tampere
+https://cdn-global.ebaclofen.org/vsc/vsc-vuong-tu-neil/index.m3u8
+#EXTINF:-1 group-title="Thapcam - Bóng đá" tvg-logo="", ⚽ Huracan Women - 2 - 0 -  - Newells Old Boys Women
+https://station1-global.ebaclofen.org/live/2d5cc577659fa45442060aa934c5f148/playlist.m3u8
+#EXTINF:-1 group-title="Thapcam - Bóng đá" tvg-logo="", ⚽ Palestino Women - 1 - 2 -  - Deportes Recoleta(W)
+https://station1-global.ebaclofen.org/live/9508acbeb0d09dcc0f7227786a219029/playlist.m3u8
+#EXTINF:-1 group-title="Thapcam - Bóng đá" tvg-logo="", ⚽ FC Kairat Almaty - 2 - 1 -  - FK Sutjeska Niksic
+https://cdn1-global.ebaclofen.org/live/pro1/index.m3u8
+#EXTINF:-1 group-title="Thapcam - Bóng đá" tvg-logo="", ⚽ Dunajska Streda - 0 - 1 -  - Austria Vienna
+https://station1-global.ebaclofen.org/live/06598231bfd52a89b12a10d52ee4634e/playlist.m3u8
+#EXTINF:-1 group-title="Thapcam - Bóng đá" tvg-logo="", ⚽ Deportes Iquique Women - 0 - 0 -  - Union Espanola Women
+https://station1-global.ebaclofen.org/live/f0974c4abea99d9352fa3ec8a24987f5/playlist.m3u8
+#EXTINF:-1 group-title="Thapcam - Bóng đá" tvg-logo="", ⚽ TSV Hartberg - 2 - 0 -  - Brno
+https://station1-global.ebaclofen.org/live/a437d19bc1f311e2e295ec6c87c9e14a/playlist.m3u8
+#EXTINF:-1 group-title="Thapcam - Bóng đá" tvg-logo="", ⚽ Luawa FC - 0 - 2 -  - Star Sport Academy
+https://station1-global.ebaclofen.org/live/510bc439b8f910b0a4aed8545cf84b3f/playlist.m3u8
+#EXTINF:-1 group-title="Thapcam - Bóng đá" tvg-logo="", ⚽ FC Rapid 1923 - 1 - 0 -  - FK Kosice
+https://station1-global.ebaclofen.org/live/705213c7e397e9046e6be806fd61efbb/playlist.m3u8
+#EXTINF:-1 group-title="Thapcam - Bóng đá" tvg-logo="", ⚽ Slaven Belupo - 3 - 1 -  - FK Csikszereda Miercurea Ciuc
+https://station1-global.ebaclofen.org/live/d2b3039f622017e3aa6e7c906d25b886/playlist.m3u8
+#EXTINF:-1 group-title="Thapcam - Bóng đá" tvg-logo="", ⚽ Spain U19 - 2 - 0 -  - Croatia U19
+https://station1-global.ebaclofen.org/live/edb0f251bdcfd2c642686ca31d6ffbc9/playlist.m3u8
