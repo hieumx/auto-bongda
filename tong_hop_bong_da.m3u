@@ -1,23 +1,19 @@
 #EXTM3U
-#EXTINF:-1 group-title="Gavang - Bóng đá" tvg-logo="https://img.thesports.com/football/competition/ac05535bde17129cb598311242b3afba.png", ⚽ FC Kairat Almaty vs FK Sutjeska Niksic luc 22:00 ngay 08/07/2026
-https://playback.livetl001.com/live/69f42e961f739deff81510c0.flv
-#EXTINF:-1 group-title="Gavang - Bóng đá" tvg-logo="https://img.thesports.com/football/competition/ac05535bde17129cb598311242b3afba.png", ⚽ Flora vs FC Iberia 1999 luc 23:00 ngay 08/07/2026
-https://playback.livetl001.com/live/6a0c7c4b1ae4d6db02433c48.flv
-#EXTINF:-1 group-title="Gavang - Bóng đá" tvg-logo="https://img.thesports.com/football/competition/785cc536013fe705d519fb0ff095b6c1.png", ⚽ Paro United vs Tensung FC luc 17:00 ngay 08/07/2026
-https://playback.livetl001.com/live/69aa9525f5ec459ae275b43f.m3u8
-#EXTINF:-1 group-title="Gavang - Bóng đá" tvg-logo="https://img.thesports.com/football/competition/b6025970c665a7640122d6b3d156b0b8.png", ⚽ Hangzhou Linping Wuyue vs Jiangxi Lushan luc 18:30 ngay 08/07/2026
-https://playback.livetl001.com/live/6a2a59b347bbddd62a8dc4e4.flv
-#EXTINF:-1 group-title="Gavang - Bóng đá" tvg-logo="https://img.thesports.com/football/competition/a6a98d7ce26efc8afe56aa744eebcefd.png", ⚽ Denmark U19 vs Italy U19 luc 20:00 ngay 08/07/2026
-https://playback.livetl001.com/live/69a1aaa7230584579e2d5ce1.flv
 #EXTINF:-1 group-title="Gavang - Bóng đá" tvg-logo="https://img.thesports.com/football/competition/ebaaa1dd253d35d64b79237ac20b1d38.png", ⚽ FF Jaro II vs SJK Akatemia B luc 22:30 ngay 08/07/2026
 https://playback.livetl001.com/live/69ef10b47146e04fbe6d4363.flv
 #EXTINF:-1 group-title="Gavang - Bóng đá" tvg-logo="https://img.thesports.com/football/competition/a6a98d7ce26efc8afe56aa744eebcefd.png", ⚽ Spain U19 vs Croatia U19 luc 22:30 ngay 08/07/2026
-https://playback.livetl001.com/live/6a0ea6a6b89dded67b1171d3.m3u8
+https://playback.livetl001.com/live/6a0ea6a6b89dded67b1171d3.flv
 #EXTINF:-1 group-title="Gavang - Bóng đá" tvg-logo="https://img.thesports.com/football/competition/88637a74a2cbd634b8b9504a60d711cd.png", ⚽ Zira FK vs Torpedo Kutaisi luc 23:00 ngay 08/07/2026
 https://playback.livetl001.com/live/6a01a2511e8555d7a3685f5c.flv
 #EXTINF:-1 group-title="Gavang - Bóng đá" tvg-logo="https://img.thesports.com/football/competition/4f75e9026f344c172306b440528a7018.png", ⚽ Charlestown Azzurri Reserves vs Weston Workers Reserves luc 15:00 ngay 08/07/2026
 https://playback.livetl001.com/live/69be75e0a0a45974afb67776.flv
-#EXTINF:-1 group-title="Gavang - Bóng rổ" tvg-logo="https://img.thesports.com/basketball/competition/a07e13b5b4e03beb0e060907570dd569.png", ⚽ Sarangani vs Paranaque Patriots lúc 17:00 ngày 08/07/2026
-https://playback.livetl001.com/live/69d37c3a4da3e15776b6db56.flv
 #EXTINF:-1 group-title="Gavang - Bóng rổ" tvg-logo="https://img.thesports.com/basketball/competition/a07e13b5b4e03beb0e060907570dd569.png", ⚽ Meycauayan vs Pasay Voyagers lúc 19:00 ngày 08/07/2026
 https://playback.livetl001.com/live/6a02c3637fd690a3410710a5.flv
+#EXTINF:-1 group-title="ThienDinh" tvg-logo="https://res.cloudinary.com/dlwx7hywr/image/upload/v1752114457/tennis_sf3nca.png", ⚽ 12:0008/07WTA1000 Miami Linda Noskova---0-0Elise MertensBLV PHAN HẢITrực tiếpĐặt cược
+https://tfxe3gr4nhct1gwzdepjqgrhuqmmeqfsg17uff3hsnhuqcp1ghmucpf5gk.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanhai/playlist.m3u8?wsSession=9b8bf03369d8c37d6cbc241f-178351836794671&wsIPSercert=f9ea261b9d651c924d668d4c9f053b80&wsBindIP=2&wsserid=1168276518868027036
+#EXTINF:-1 group-title="ThienDinh" tvg-logo="https://res.cloudinary.com/dlwx7hywr/image/upload/v1752114457/tennis_sf3nca.png", ⚽ 12:3008/07WTA1000 MiamiMarta Kostuyk---0-0Jasmine PaoliniBLV PHAN BỐNGTrực tiếpĐặt cược
+https://tfxe3gr4nhct1gwzdepjqgrhuqmmeqfsg17uff3hsnhuqcp1ghmucpf5gk.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanbong/playlist.m3u8?wsSession=bfcb1d389a0056e21942662f-178351837996255&wsIPSercert=f9ea261b9d651c924d668d4c9f053b80&wsBindIP=2&wsserid=1168276443747689227
+#EXTINF:-1 group-title="Thapcam - Bóng đá" tvg-logo="", ⚽ Denmark U19 - 0 - 0 -  - Italy U19
+https://station1-global.ebaclofen.org/live/a708e939177622623a0abdac4077df3a/playlist.m3u8
+#EXTINF:-1 group-title="Thapcam - Bóng đá" tvg-logo="", ⚽ Gutersloh - 0 - 0 -  - Arminia Bielefeld
+https://station1-global.ebaclofen.org/live/e559abb61a3ec593fd0224509bdf99bb/playlist.m3u8
