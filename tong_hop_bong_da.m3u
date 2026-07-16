@@ -1,77 +1,57 @@
 #EXTM3U
-#EXTINF:-1 group-title="Gavang - Bóng đá" tvg-logo="https://img.thesports.com/football/competition/785cc536013fe705d519fb0ff095b6c1.png", ⚽ Thimphu Raven FC vs Paro United luc 19:00 ngay 16/07/2026
-https://playback.livetl001.com/live/6a439a7fb89dded67b208b87_1080p.flv
-#EXTINF:-1 group-title="Gavang - Bóng đá" tvg-logo="https://img.thesports.com/football/competition/29d9b5a07b9ef4c89588e271a263027d.png", ⚽ Khan Tengri FC vs FK Yelimay Semey B luc 21:00 ngay 16/07/2026
-https://playback.livetl001.com/live/6a0ea6a6b89dded67b1171d3_1080p.flv
+#EXTINF:-1 group-title="Gavang - Bóng đá" tvg-logo="https://img.thesports.com/football/competition/29d9b5a07b9ef4c89588e271a263027d.png", ⚽ FK Arys vs Turan luc 20:00 ngay 16/07/2026
+https://playback.livetl001.com/live/6a2a5896b89dded67b19bcf5_1080p.m3u8
 #EXTINF:-1 group-title="Gavang - Bóng đá" tvg-logo="https://img.thesports.com/football/competition/e02bafe2eecacc9e23c435c0160efa51.png", ⚽ Al Ahed SC vs Nejmeh luc 21:30 ngay 16/07/2026
 https://playback.livetl001.com/live/6a0c7c4b1ae4d6db02433c48_1080p.flv
 #EXTINF:-1 group-title="Gavang - Bóng đá" tvg-logo="https://img.thesports.com/football/competition/88637a74a2cbd634b8b9504a60d711cd.png", ⚽ Astana vs KS Dinamo Tirana luc 22:00 ngay 16/07/2026
 https://playback.livetl001.com/live/6a01a2511e8555d7a3685f5c_1080p.flv
 #EXTINF:-1 group-title="Gavang - Bóng đá" tvg-logo="https://img.thesports.com/football/competition/88637a74a2cbd634b8b9504a60d711cd.png", ⚽ Inter Turku vs Sarajevo luc 22:00 ngay 16/07/2026
-https://playback.livetl001.com/live/69aa9525f5ec459ae275b43f_1080p.flv
-#EXTINF:-1 group-title="Gavang - Bóng đá" tvg-logo="https://img.thesports.com/football/competition/1cf230cafec68bdffd2f7e87d9f6f511.png", ⚽ Neftchi Fargona vs Buxoro FK luc 22:00 ngay 16/07/2026
-https://playback.livetl001.com/live/6a2a5896b89dded67b19bcf5_1080p.flv
-#EXTINF:-1 group-title="Gavang - Bóng đá" tvg-logo="https://img.thesports.com/football/competition/1cf230cafec68bdffd2f7e87d9f6f511.png", ⚽ Sogdiana Jizak vs Xorazm Urganch luc 22:00 ngay 16/07/2026
-https://playback.livetl001.com/live/69b8e6f43bcf2231c35d5144_1080p.flv
-#EXTINF:-1 group-title="Gavang - Bóng đá" tvg-logo="https://img.thesports.com/football/competition/88637a74a2cbd634b8b9504a60d711cd.png", ⚽ FC Pyunik vs Marsaxlokk FC luc 23:00 ngay 16/07/2026
-https://playback.livetl001.com/live/69ef10b47146e04fbe6d4363_1080p.flv
-#EXTINF:-1 group-title="Gavang - Bóng đá" tvg-logo="https://img.thesports.com/football/competition/88637a74a2cbd634b8b9504a60d711cd.png", ⚽ Torpedo Kutaisi vs Zira FK luc 23:00 ngay 16/07/2026
-https://playback.livetl001.com/live/69f42e961f739deff81510c0_1080p.flv
-#EXTINF:-1 group-title="Gavang - Bóng đá" tvg-logo="https://img.thesports.com/football/competition/88637a74a2cbd634b8b9504a60d711cd.png", ⚽ Levadia Tallinn vs Caernarfon luc 23:30 ngay 16/07/2026
-https://playback.livetl001.com/live/69cf6331585c5992182f4160_1080p.flv
-#EXTINF:-1 group-title="Gavang - Bóng rổ" tvg-logo="https://img.thesports.com/basketball/competition/a07e13b5b4e03beb0e060907570dd569.png", ⚽ Cebu Classic vs Biñan Tatak Gel lúc 17:00 ngày 16/07/2026
-https://playback.livetl001.com/live/6a02c3637fd690a3410710a5_1080p.m3u8
-#EXTINF:-1 group-title="Socolive - Bóng đá" tvg-logo="https://sta.vnres.co/file/common/20260629/15a4e4b3233b174e59d4cd6ae5a8432c_wh320.png", ⚽ Live -                -              -              -               BLV TOMIA -                -                  -                 42.34k -                -              -             VIE U21: PVF CAND U21 vs An Giang U21
-https://pull06.scstream.net/live/stream-9912008_lhd.flv?auth_key=1784203284-0-0-5a68cd9e479267ebc80e70c854f08c2b
-#EXTINF:-1 group-title="Socolive - Bóng đá" tvg-logo="https://sta.vnres.co/file/common/20260522/f2b4ef051d1e02300d2d5bf24f3828f0_wh320.png", ⚽ Live -                -              -              -               ĐỖ TÚ TÀI -                -                  -                 42.27k -                -              -             VIE U21: Ha Noi U21 vs TP Ho Chi Minh U21
-https://pull06.scstream.net/live/stream-607552_lhd.flv?auth_key=1784203284-0-0-022aae85c2dc7e2edc23d843d4a77ed1
-#EXTINF:-1 group-title="Socolive - Bóng đá" tvg-logo="https://sta.vnres.co/file/common/20260313/d3e7aa331edde17be26fa1d5a42b4317_wh320.jpg", ⚽ Live -                -              -              -               NGƯỜI CÁ -                -                  -                 41.30k -                -              -             VIE U21: PVF CAND U21 vs An Giang U21
-https://pull06.scstream.net/live/stream-595335_lhd.flv?auth_key=1784203284-0-0-d17ff01f5bcf5fa27d99d5b6e93fd3d6
-#EXTINF:-1 group-title="Socolive - Bóng đá" tvg-logo="https://sta.vnres.co/file/common/20260706/41c5f168f17b3e83e68187fc8be370e5_wh320.jpg", ⚽ Live -                -              -              -               BLV CÒ -                -                  -                 42.25k -                -              -             VIE U21: PVF CAND U21 vs An Giang U21
-https://pull06.scstream.net/live/stream-582342_lhd.flv?auth_key=1784203344-0-0-d77d512c648d7fceface723670029c5e
-#EXTINF:-1 group-title="Socolive - Bóng đá" tvg-logo="https://sta.vnres.co/file/common/20260402/d2f4689c880967dce02e423c71668bd7_wh320.png", ⚽ Live -                -              -              -               BLV LION -                -                  -                 43.28k -                -              -             NPL SAL1: Fulham United FC vs Cumberland United FC
-https://pull06.scstream.net/live/stream-603255_lhd.flv?auth_key=1784203344-0-0-b8f2866efde45e5394923f7b60873ac9
-#EXTINF:-1 group-title="Socolive - Bóng đá" tvg-logo="https://sta.vnres.co/file/common/20260626/fcd1d9373f93de7ff3ebfbee3f073c7c_wh320.jpg", ⚽ Live -                -              -              -               BLV ROBBEN -                -                  -                 42.27k -                -              -             VIE U21: Ha Noi U21 vs TP Ho Chi Minh U21
-https://pull06.scstream.net/live/stream-527383_lhd.flv?auth_key=1784203344-0-0-3d445f07cf6ef49a6084dd685aec3070
-#EXTINF:-1 group-title="Socolive - Bóng đá" tvg-logo="https://sta.vnres.co/file/common/20250723/6b83b847d8944b57cc13043bae9fa7a8_wh320.jpg", ⚽ Live -                -              -              -               BLV VIP -                -                  -                 43.22k -                -              -             NPL SAL1: Fulham United FC vs Cumberland United FC
-https://pull.niur.live/live/stream-491873_lhd.flv?txSecret=bf1733bbcbe6f3689b6ee6a12b65342f&txTime=6a590ea0
-#EXTINF:-1 group-title="Socolive - Bóng đá" tvg-logo="https://sta.vnres.co/file/common/20260121/079db710976b60b0787b1e2729b56e56_wh320.jpg", ⚽ Live -                -              -              -               BLV TAP -                -                  -                 66.28k -                -              -             VIE U21: PVF CAND U21 vs An Giang U21
-https://pull06.scstream.net/live/stream-9912041_lhd.flv?auth_key=1784203404-0-0-31751067d994a91c4ccbcdbe5bea7fe5
-#EXTINF:-1 group-title="Socolive - Bóng đá" tvg-logo="https://sta.vnres.co/file/common/20260716/695ba5d112916a534c40df8e158bd3a8_wh320.jpg", ⚽ Live -                -              -              -               TẠ BIÊN GIỚI -                -                  -                 76.18k -                -              -             AFFWC: Indonesia Women vs Cambodia Women
-https://pull06.scstream.net/live/stream-9912108_lhd.flv?auth_key=1784203404-0-0-148c13bd9a4662191733abfb8282416f
-#EXTINF:-1 group-title="Socolive - Bóng đá" tvg-logo="https://sta.vnres.co/file/common/20260704/74315a684b105045a1c13a74c211658d_wh320.jpg", ⚽ Live -                -              -              -               BLV COZY -                -                  -                 42.26k -                -              -             VIE U21: Ha Noi U21 vs TP Ho Chi Minh U21
-https://pull06.scstream.net/live/stream-531989_lhd.flv?auth_key=1784203404-0-0-2bb1c3b3ff2cde86f303d866ff6c12f4
-#EXTINF:-1 group-title="Socolive - Bóng đá" tvg-logo="https://sta.vnres.co/file/common/20260716/a4c495f788a90c1440154c96cd52ca82_wh320.jpg", ⚽ Live -                -              -              -               BLV CUỘI -                -                  -                 69.24k -                -              -             AFFWC: Indonesia Women vs Cambodia Women
-https://pull06.scstream.net/live/stream-256080_lhd.flv?auth_key=1784203404-0-0-9715ac99edd53c7ce48045b36f52babf
-#EXTINF:-1 group-title="Socolive - Bóng đá" tvg-logo="https://sta.vnres.co/file/common/20260703/fe517d18a8df723cee92683347d70be9_wh320.jpg", ⚽ Live -                -              -              -               GRAP -                -                  -                 42.98k -                -              -             NPL SAL1: Fulham United FC vs Cumberland United FC
-https://pull06.scstream.net/live/stream-622093_lhd.flv?auth_key=1784203464-0-0-d25627950720141278dfb9fb3a8301a8
-#EXTINF:-1 group-title="Socolive - Bóng đá" tvg-logo="https://sta.vnres.co/file/common/20260710/2986a2ea0d4ca6c5c2462ea5eca7ae73_wh320.jpg", ⚽ Live -                -              -              -               TUẤN CÙI -                -                  -                 27.05k -                -              -             NPL SAL1: Fulham United FC vs Cumberland United FC
-https://pull06.scstream.net/live/stream-400722_lhd.flv?auth_key=1784203464-0-0-fcd1ee7ffb0df00698601b428d42099e
-#EXTINF:-1 group-title="Socolive - Bóng đá" tvg-logo="https://sta.vnres.co/file/common/20260628/336b2e008de11bb26c1d4e0e46bc9f95_wh320.jpg", ⚽ Live -                -              -              -               XUÂN TÓC ĐỎ -                -                  -                 25.69k -                -              -             VIE U21: Ha Noi U21 vs TP Ho Chi Minh U21
-https://pull.niur.live/live/stream-610518_lhd.flv?txSecret=126d95301cddbe98e7c118a51309bdd7&txTime=6a590f18
-#EXTINF:-1 group-title="Socolive - Bóng đá" tvg-logo="https://sta.vnres.co/file/common/20260519/52ed5900f0f285a47dd6227792e94f9a_wh320.png", ⚽ Live -                -              -              -               SOCOLIVE -                -                  -                 1.27k -                -              -             BIT.LY/SOCOLIVE
-https://pull06.scstream.net/live/stream-175784_lhd.flv?auth_key=1784203524-0-0-e502ad91fe4150f3cbe58772347e46ed
+https://playback.livetl001.com/live/69aa9525f5ec459ae275b43f_1080p.m3u8
+#EXTINF:-1 group-title="Gavang - Bóng rổ" tvg-logo="https://img.thesports.com/basketball/competition/449789c2ab1c50d5bba635ff557ee1d5.png", ⚽ Can Tho Catfish vs Da Nang Dragons lúc 19:30 ngày 16/07/2026
+https://playback.livetl001.com/live/69d37c3a4da3e15776b6db56_1080p.m3u8
+#EXTINF:-1 group-title="Socolive - Bóng đá" tvg-logo="https://sta.vnres.co/file/common/20260203/726eb47f2559a4b1f3070ed1fdb8b151_wh320.png", ⚽ Live -                -              -              -               BLV VOI -                -                  -                 42.73k -                -              -             KAZ D1: FK Taraz vs FK Aktobe II
+https://pull06.scstream.net/live/stream-9912114_lhd.flv?auth_key=1784211564-0-0-56de7c89065de6fe1e0caa3232d095dd
+#EXTINF:-1 group-title="Socolive - Bóng đá" tvg-logo="https://sta.vnres.co/file/common/20240921/29f418af36dd0862deb5b7daef605d6e_wh320.jpg", ⚽ Live -                -              -              -               BLV LUCAS -                -                  -                 42.84k -                -              -             KAZ D1: FK Arys vs Turan
+https://pull06.scstream.net/live/stream-304148_lhd.flv?auth_key=1784211564-0-0-ad70573ff208ee8127500ef5c03c3acd
+#EXTINF:-1 group-title="Socolive - Bóng đá" tvg-logo="https://sta.vnres.co/file/common/20260406/de5933be539e85bbac3c5fdbddfe54b7_wh320.jpg", ⚽ Live -                -              -              -               TRÀ ĐÁ -                -                  -                 43.72k -                -              -             BTN PL: Thimphu Raven FC vs Paro FC
+https://pull06.scstream.net/live/stream-603914_lhd.flv?auth_key=1784211624-0-0-e1b6e03040bac1c30bd79e79b12985a5
+#EXTINF:-1 group-title="Socolive - Bóng đá" tvg-logo="https://sta.vnres.co/file/common/20260716/325ba156f0fc8cfdb61d984be053dc5c_wh320.jpg", ⚽ Live -                -              -              -               BLV NOVA -                -                  -                 42.81k -                -              -             BTN PL: Thimphu Raven FC vs Paro FC
+https://pull06.scstream.net/live/stream-619108_lhd.flv?auth_key=1784211624-0-0-80568111231ebaaeea2c59e8d0d13b59
+#EXTINF:-1 group-title="Socolive - Bóng đá" tvg-logo="https://sta.vnres.co/file/common/20251111/6a43978efb637082f6eb906c1e7f1621_wh320.jpg", ⚽ Live -                -              -              -               LOGAN -                -                  -                 44.29k -                -              -             KAZ D1: FK Taraz vs FK Aktobe II
+https://pull06.scstream.net/live/stream-552832_lhd.flv?auth_key=1784211624-0-0-90396ea53fa491dee337060feb95ecc9
+#EXTINF:-1 group-title="Socolive - Bóng đá" tvg-logo="https://sta.vnres.co/file/common/20260328/01acc641be84c58f2062ca50bf94b25a_wh320.jpg", ⚽ Live -                -              -              -               A PÁO -                -                  -                 44.21k -                -              -             KAZ D1: Ekibastuzets vs FC Shakhtyor Karagandy
+https://pull06.scstream.net/live/stream-235232_lhd.flv?auth_key=1784211624-0-0-0940b68b3cf5d9f4c0ff47037ab4ed54
+#EXTINF:-1 group-title="Socolive - Bóng đá" tvg-logo="https://sta.vnres.co/file/common/20251230/ed05555c76c867229b3ced63a841aae2_wh320.png", ⚽ Live -                -              -              -               XUÂN SON -                -                  -                 43.08k -                -              -             KAZ D1: FK Arys vs Turan
+https://pull.niur.live/live/stream-501412_lhd.flv?txSecret=823c18b6c7d9109288c9c0489573b394&txTime=6a592f34
+#EXTINF:-1 group-title="Socolive - Bóng đá" tvg-logo="https://sta.vnres.co/file/common/20260628/2a7ee70b839ba5736326cce45a1678f6_wh320.jpg", ⚽ Live -                -              -              -               VƯƠNG ANH -                -                  -                 42.62k -                -              -             KAZ D1: FK Taraz vs FK Aktobe II
+https://pull.niur.live/live/stream-548860_lhd.flv?txSecret=fe6bdf28378ffc3be3b57df6edf5a591&txTime=6a592f34
+#EXTINF:-1 group-title="Socolive - Bóng đá" tvg-logo="https://sta.vnres.co/file/common/20241227/06e62c7bc4b2aa3e64a76a1b5af96d0b_wh320.jpg", ⚽ Live -                -              -              -               BLV CHIVAS -                -                  -                 27.78k -                -              -             BTN PL: Thimphu Raven FC vs Paro FC
+https://pull.niur.live/live/stream-485739_lhd.flv?txSecret=48d15e1d69ed99f6f23179db4ac45f06&txTime=6a592f34
+#EXTINF:-1 group-title="Socolive - Bóng đá" tvg-logo="https://sta.vnres.co/file/common/20260716/1f85dad26a7ed7e616e630db165dadd6_wh320.png", ⚽ Live -                -              -              -               BLV KAN -                -                  -                 43.31k -                -              -             KAZ D1: Ekibastuzets vs FC Shakhtyor Karagandy
+https://pull.niur.live/live/stream-283501_lhd.flv?txSecret=455c27d5c6c22679e652b6b6dd4d3b26&txTime=6a592f34
+#EXTINF:-1 group-title="Socolive - Bóng đá" tvg-logo="https://sta.vnres.co/file/common/20260716/4f6766e00bce1760df44bfccd9442852_wh320.jpg", ⚽ Live -                -              -              -               A BỆU -                -                  -                 43.67k -                -              -             KAZ D1: Ekibastuzets vs FC Shakhtyor Karagandy
+https://pull06.scstream.net/live/stream-484845_lhd.flv?auth_key=1784211744-0-0-79f46ef95757b84fccd96355a37b6dc3
+#EXTINF:-1 group-title="Socolive - Bóng đá" tvg-logo="https://sta.vnres.co/file/common/20260415/3b743d940a5eddcb5351484c20e8f449_wh320.jpg", ⚽ Live -                -              -              -               BLV RÔSI -                -                  -                 43.05k -                -              -             KAZ D1: FK Taraz vs FK Aktobe II
+https://pull.niur.live/live/stream-9912102_lhd.flv?txSecret=cf328759978cd44b07463d8c948dc6ca&txTime=6a592f70
+#EXTINF:-1 group-title="Socolive - Bóng đá" tvg-logo="https://sta.vnres.co/file/common/20260409/4bef5dd60673df0e61ac91db803e1191_wh320.jpg", ⚽ Live -                -              -              -               HUNTER -                -                  -                 26.82k -                -              -             VBA: Can Tho Catfish vs Da Nang Dragons
+https://pull06.scstream.net/live/stream-558264_lhd.flv?auth_key=1784211744-0-0-fb45cc7177593c3a192ca05fea58f25f
+#EXTINF:-1 group-title="Socolive - Bóng đá" tvg-logo="https://sta.vnres.co/file/common/20260517/1c87a17d31a71d2da14d518431673f75_wh320.JPG", ⚽ Live -                -              -              -               KÉP -                -                  -                 26.72k -                -              -             BTN PL: Thimphu Raven FC vs Paro FC
+https://pull06.scstream.net/live/stream-560690_lhd.flv?auth_key=1784211744-0-0-5a0ae342a9ca90b1791949a50f13ec8d
+#EXTINF:-1 group-title="Socolive - Bóng đá" tvg-logo="https://sta.vnres.co/file/common/20260601/0ef26a05cc5531ef3fc63f77d5475ef0_wh320.jpg", ⚽ Live -                -              -              -               BLV PICK -                -                  -                 26.23k -                -              -             KAZ D1: FK Arys vs Turan
+https://pull06.scstream.net/live/stream-598549_lhd.flv?auth_key=1784211804-0-0-40a10d70fffb47cee0ff951fb9749a3d
+#EXTINF:-1 group-title="Socolive - Bóng đá" tvg-logo="https://sta.vnres.co/file/common/20260714/9a9b9ddd89ef0074899885fac83d4808_wh320.jpg", ⚽ Live -                -              -              -               BLV YONE -                -                  -                 26.20k -                -              -             KAZ D1: FK Arys vs Turan
+https://pull06.scstream.net/live/stream-372746_lhd.flv?auth_key=1784211804-0-0-97dfed1e0ea32f03a8cb8278d344bfed
 #EXTINF:-1 group-title="Socolive - Bóng đá" tvg-logo="https://sta.vnres.co/file/common/20251110/87f096ccaede473efa0e2ed78d9544c3_wh320.jpg", ⚽ Live -                -              -              -               Sóc trèo cây ngô đồng -                -                  -                 1.08k -                -              -             Tường thuật: WORLD CUP - England vs Argentina
-https://pull06.scstream.net/live/stream-133824_lhd.flv?auth_key=1784203524-0-0-ac377bf9bb937a0211f308a9458c2264
-#EXTINF:-1 group-title="Socolive - Bóng đá" tvg-logo="https://sta.vnres.co/file/common/20251110/4002a0edf64934e2ce7cc8a90291d9df_wh320.png", ⚽ Live -                -              -              -               Sóc nhàm nhang nhồ -                -                  -                 1.03k -                -              -             Tường thuật: WORLD CUP - Norway vs England
-https://pull06.scstream.net/live/stream-152898_lhd.flv?auth_key=1784203524-0-0-36ff9d4a3e3ce7572656e72296bfd7b3
+https://pull06.scstream.net/live/stream-133824_lhd.flv?auth_key=1784211804-0-0-f8cb84ab548c2779ad29146eafe29908
+#EXTINF:-1 group-title="Socolive - Bóng đá" tvg-logo="https://sta.vnres.co/file/common/20260519/52ed5900f0f285a47dd6227792e94f9a_wh320.png", ⚽ Live -                -              -              -               SOCOLIVE -                -                  -                 1.04k -                -              -             BIT.LY/SOCOLIVE
+https://pull06.scstream.net/live/stream-175784_lhd.flv?auth_key=1784211804-0-0-735ad9f78aa1b3feefadffaa3f3fb183
 #EXTINF:-1 group-title="Socolive - Bóng đá" tvg-logo="https://sta.vnres.co/file/common/20250424/a28542dbd508468d0a495a510077aa7b_wh320.jpg", ⚽ Live -                -              -              -               Sóc trong rừng xà nu -                -                  -                 1.01k -                -              -             Tường thuật: WORLD CUP - Argentina vs Switzerland
-https://pull06.scstream.net/live/stream-9912079_lhd.flv?auth_key=1784203524-0-0-cf1d93b718aa07338e0c7888ddc23961
+https://pull06.scstream.net/live/stream-9912079_lhd.flv?auth_key=1784211864-0-0-88b4d0e6b4922434e188d70508f5a228
+#EXTINF:-1 group-title="Socolive - Bóng đá" tvg-logo="https://sta.vnres.co/file/common/20251110/02d64554832d40e5884989e9d0f3be14_wh320.jpg", ⚽ Live -                -              -              -               Sóc Nhó Nhịu Nhô Nhùng -                -                  -                 1.01k -                -              -             Tường thuật: WORLD CUP - France vs Morocco
+https://pull06.scstream.net/live/stream-133277_lhd.flv?auth_key=1784211864-0-0-dee3e565b3dfd7d82638e6e112ca172b
+#EXTINF:-1 group-title="Socolive - Bóng đá" tvg-logo="https://sta.vnres.co/file/common/20251110/0fe737964c8881084743ca046a2b2b2a_wh320.jpg", ⚽ Live -                -              -              -               Sóc đau cổ vai gáy -                -                  -                 1.01k -                -              -             Tường thuật: WORLD CUP - France vs Spain
+https://pull06.scstream.net/live/stream-179093_lhd.flv?auth_key=1784211864-0-0-5439ee4acedd8f558e7cb1ba8eff8648
 #EXTINF:-1 group-title="Socolive - Bóng đá" tvg-logo="https://sta.vnres.co/file/common/20251110/4c45f54b9476f5b0c43acd88b6835e2e_wh320.png", ⚽ Live -                -              -              -               Sóc mèo méo meo -                -                  -                 1.01k -                -              -             Tường thuật: WORLD CUP - Spain vs Belgium
-https://pull06.scstream.net/live/stream-343500_lhd.flv?auth_key=1784203584-0-0-2834f760c2af3ac947bcaab27be357b2
-#EXTINF:-1 group-title="Socolive - Bóng đá" tvg-logo="https://sta.vnres.co/file/common/20251110/0fe737964c8881084743ca046a2b2b2a_wh320.jpg", ⚽ Live -                -              -              -               Sóc đau cổ vai gáy -                -                  -                 1.00k -                -              -             Tường thuật: WORLD CUP - France vs Spain
-https://pull06.scstream.net/live/stream-179093_lhd.flv?auth_key=1784203584-0-0-4c29363fdb166de393735baf2760cd60
-#EXTINF:-1 group-title="Socolive - Bóng đá" tvg-logo="https://sta.vnres.co/file/common/20251110/02d64554832d40e5884989e9d0f3be14_wh320.jpg", ⚽ Live -                -              -              -               Sóc Nhó Nhịu Nhô Nhùng -                -                  -                 1.00k -                -              -             Tường thuật: WORLD CUP - France vs Morocco
-https://pull06.scstream.net/live/stream-133277_lhd.flv?auth_key=1784203584-0-0-19a67d8c98a803a0924b34e21243f859
-#EXTINF:-1 group-title="Thapcam - Bóng đá" tvg-logo="", ⚽ Malaysia Women - 0 - 2 -  - Singapore Women
-https://cdn1-global.ebaclofen.org/live/pro2/index.m3u8
-#EXTINF:-1 group-title="Thapcam - Bóng đá" tvg-logo="", ⚽ Paro FC (w) - 2 - 0 -  - Ugyen Academy (w)
-https://hls.streamhub.media/hls/thesport-api-96b0f863b89cd5ba5d42/ffmpeg_index_0.m3u8
-#EXTINF:-1 group-title="Thapcam - Bóng đá" tvg-logo="", ⚽ Tay Ninh U21 - 0 - 3 -  - Viettel FC U21
-https://hls.streamhub.media/hls/thesport-api-be7f31b5ddedfec9b745/ffmpeg_index_0.m3u8
-#EXTINF:-1 group-title="Thapcam - Bóng đá" tvg-logo="", ⚽ Hoang Anh Gia Lai U21 - 0 - 0 -  - Song Lam Nghe An U21
-https://hls.streamhub.media/hls/thesport-api-e4b6ba00238ba9a56f71/ffmpeg_index_0.m3u8
-#EXTINF:-1 group-title="Thapcam - Bóng đá" tvg-logo="", ⚽ Dagon Star United U20 - 1 - 0 -  - Ayeyawady Utd U20
-https://hls.streamhub.media/hls/thesport-api-9ad9966040cbdb747f99/ffmpeg_index_0.m3u8
-#EXTINF:-1 group-title="Thapcam - Bóng đá" tvg-logo="", ⚽ Mahar United U20 - 1 - 1 -  - Yadanarbon FC U20
-https://hls.streamhub.media/hls/thesport-api-aead8df6093a249137eb/ffmpeg_index_0.m3u8
+https://pull06.scstream.net/live/stream-343500_lhd.flv?auth_key=1784211864-0-0-0613f57e4a312f2b158ea9ed0063ecbb
+#EXTINF:-1 group-title="Socolive - Bóng đá" tvg-logo="https://sta.vnres.co/file/common/20251110/4002a0edf64934e2ce7cc8a90291d9df_wh320.png", ⚽ Live -                -              -              -               Sóc nhàm nhang nhồ -                -                  -                 1.01k -                -              -             Tường thuật: WORLD CUP - Norway vs England
+https://pull06.scstream.net/live/stream-152898_lhd.flv?auth_key=1784211924-0-0-9ad639bb1933fac3d30e2dd9f2e8fb75
