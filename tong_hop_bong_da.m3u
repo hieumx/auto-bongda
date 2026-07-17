@@ -1,41 +1,31 @@
 #EXTM3U
-#EXTINF:-1 group-title="Socolive - Bóng đá" tvg-logo="https://sta.vnres.co/file/common/20260519/52ed5900f0f285a47dd6227792e94f9a_wh320.png", ⚽ Live -                -              -              -               SOCOLIVE -                -                  -                 1.09k -                -              -             BIT.LY/SOCOLIVE
-https://pull06.scstream.net/live/stream-175784_lhd.flv?auth_key=1784269824-0-0-c546d9d8d3ecfa7467e752c20a2222be
-#EXTINF:-1 group-title="Socolive - Bóng đá" tvg-logo="https://sta.vnres.co/file/common/20250424/a28542dbd508468d0a495a510077aa7b_wh320.jpg", ⚽ Live -                -              -              -               Sóc trong rừng xà nu -                -                  -                 1.06k -                -              -             Tường thuật: WORLD CUP - England vs Argentina
-https://pull06.scstream.net/live/stream-9912079_lhd.flv?auth_key=1784269824-0-0-1d3f6a79e6106c22e2908eb1621547e2
-#EXTINF:-1 group-title="Socolive - Bóng đá" tvg-logo="https://sta.vnres.co/file/common/20251110/0fe737964c8881084743ca046a2b2b2a_wh320.jpg", ⚽ Live -                -              -              -               Sóc đau cổ vai gáy -                -                  -                 1.03k -                -              -             Tường thuật: WORLD CUP - Argentina vs Switzerland
-https://pull06.scstream.net/live/stream-179093_lhd.flv?auth_key=1784269824-0-0-64371abc6a024d0fcfadb45f2680cebc
-#EXTINF:-1 group-title="Socolive - Bóng đá" tvg-logo="https://sta.vnres.co/file/common/20251110/02d64554832d40e5884989e9d0f3be14_wh320.jpg", ⚽ Live -                -              -              -               Sóc Nhó Nhịu Nhô Nhùng -                -                  -                 1.03k -                -              -             Tường thuật: WORLD CUP - Spain vs Belgium
-https://pull06.scstream.net/live/stream-133277_lhd.flv?auth_key=1784269884-0-0-ff5554e2266aa21a566ed9a0f2c77d73
-#EXTINF:-1 group-title="Socolive - Bóng đá" tvg-logo="https://sta.vnres.co/file/common/20251110/4c45f54b9476f5b0c43acd88b6835e2e_wh320.png", ⚽ Live -                -              -              -               Sóc mèo méo meo -                -                  -                 1.02k -                -              -             Tường thuật: WORLD CUP - France vs Spain
-https://pull06.scstream.net/live/stream-343500_lhd.flv?auth_key=1784269884-0-0-c6bdce0ebd4aea4ec85ea5c18cd52f54
+#EXTINF:-1 group-title="Socolive - Bóng đá" tvg-logo="https://sta.vnres.co/file/common/20260123/52dc3dab350b955149adbb0e15459f75_wh320.jpg", ⚽ Live -                -              -              -               A CHÈ -                -                  -                 26.70k -                -              -             NZBL: Auckland Tuatara vs Manawatu Jets
+https://pull06.scstream.net/live/stream-356042_lhd.flv?auth_key=1784278044-0-0-4f7e5168467a9bbbe49d3f5214e15b0a
+#EXTINF:-1 group-title="Socolive - Bóng đá" tvg-logo="https://sta.vnres.co/file/common/20250309/327aeb19e28284f148ce2d4cd8b30472_wh320.jpg", ⚽ Live -                -              -              -               CHAN SENA -                -                  -                 27.02k -                -              -             NZBL: Auckland Tuatara vs Manawatu Jets
+https://pull06.scstream.net/live/stream-9912115_lhd.flv?auth_key=1784278044-0-0-ec0a628b99aaa89713e83816c12af91b
+#EXTINF:-1 group-title="Socolive - Bóng đá" tvg-logo="https://sta.vnres.co/file/common/20260527/86e2d6082d35b8c905da5b66c29d4e3d_wh320.jpeg", ⚽ Live -                -              -              -               BLV HENRY -                -                  -                 28.18k -                -              -             NZBL: Auckland Tuatara vs Manawatu Jets
+https://pull06.scstream.net/live/stream-9912112_lhd.flv?auth_key=1784278044-0-0-7af06198db15bdfcd3359fb6f0203708
+#EXTINF:-1 group-title="Socolive - Bóng đá" tvg-logo="https://sta.vnres.co/file/common/20260409/4bef5dd60673df0e61ac91db803e1191_wh320.jpg", ⚽ Live -                -              -              -               HUNTER -                -                  -                 26.45k -                -              -             NZBL: Auckland Tuatara vs Manawatu Jets
+https://pull06.scstream.net/live/stream-558264_lhd.flv?auth_key=1784278104-0-0-223049f746b3d73888726ecea09aed19
+#EXTINF:-1 group-title="Socolive - Bóng đá" tvg-logo="https://sta.vnres.co/file/common/20260519/52ed5900f0f285a47dd6227792e94f9a_wh320.png", ⚽ Live -                -              -              -               SOCOLIVE -                -                  -                 1.07k -                -              -             BIT.LY/SOCOLIVE
+https://pull06.scstream.net/live/stream-175784_lhd.flv?auth_key=1784278104-0-0-bfeb3b9b6451654e69e38bfe4fe4cafc
+#EXTINF:-1 group-title="Socolive - Bóng đá" tvg-logo="https://sta.vnres.co/file/common/20251110/0fe737964c8881084743ca046a2b2b2a_wh320.jpg", ⚽ Live -                -              -              -               Sóc đau cổ vai gáy -                -                  -                 1.04k -                -              -             Tường thuật: WORLD CUP - Argentina vs Switzerland
+https://pull06.scstream.net/live/stream-179093_lhd.flv?auth_key=1784278104-0-0-a19678557ed4207154e48b585d236046
+#EXTINF:-1 group-title="Socolive - Bóng đá" tvg-logo="https://sta.vnres.co/file/common/20251110/4c45f54b9476f5b0c43acd88b6835e2e_wh320.png", ⚽ Live -                -              -              -               Sóc mèo méo meo -                -                  -                 1.03k -                -              -             Tường thuật: WORLD CUP - France vs Spain
+https://pull06.scstream.net/live/stream-343500_lhd.flv?auth_key=1784278104-0-0-276682a2cbbf67765ce7bca83e9e94ea
+#EXTINF:-1 group-title="Socolive - Bóng đá" tvg-logo="https://sta.vnres.co/file/common/20251110/4002a0edf64934e2ce7cc8a90291d9df_wh320.png", ⚽ Live -                -              -              -               Sóc nhàm nhang nhồ -                -                  -                 1.02k -                -              -             Tường thuật: WORLD CUP - France vs Morocco
+https://pull06.scstream.net/live/stream-152898_lhd.flv?auth_key=1784278164-0-0-f85985db1f855c9a8adb52ec904a8009
+#EXTINF:-1 group-title="Socolive - Bóng đá" tvg-logo="https://sta.vnres.co/file/common/20250424/a28542dbd508468d0a495a510077aa7b_wh320.jpg", ⚽ Live -                -              -              -               Sóc trong rừng xà nu -                -                  -                 1.02k -                -              -             Tường thuật: WORLD CUP - England vs Argentina
+https://pull06.scstream.net/live/stream-9912079_lhd.flv?auth_key=1784278164-0-0-199b45b08671f6fb6b98ce637cb44781
+#EXTINF:-1 group-title="Socolive - Bóng đá" tvg-logo="https://sta.vnres.co/file/common/20251110/02d64554832d40e5884989e9d0f3be14_wh320.jpg", ⚽ Live -                -              -              -               Sóc Nhó Nhịu Nhô Nhùng -                -                  -                 1.02k -                -              -             Tường thuật: WORLD CUP - Spain vs Belgium
+https://pull06.scstream.net/live/stream-133277_lhd.flv?auth_key=1784278164-0-0-45ce8fc9fe9b94427f9799d15f61788e
 #EXTINF:-1 group-title="Socolive - Bóng đá" tvg-logo="https://sta.vnres.co/file/common/20251110/87f096ccaede473efa0e2ed78d9544c3_wh320.jpg", ⚽ Live -                -              -              -               Sóc trèo cây ngô đồng -                -                  -                 1.01k -                -              -             Tường thuật: WORLD CUP - Norway vs England
-https://pull06.scstream.net/live/stream-133824_lhd.flv?auth_key=1784269884-0-0-40bc2a9c5a07dcf4b97ffc677878af0f
-#EXTINF:-1 group-title="Socolive - Bóng đá" tvg-logo="https://sta.vnres.co/file/common/20251110/4002a0edf64934e2ce7cc8a90291d9df_wh320.png", ⚽ Live -                -              -              -               Sóc nhàm nhang nhồ -                -                  -                 1.01k -                -              -             Tường thuật: WORLD CUP - France vs Morocco
-https://pull06.scstream.net/live/stream-152898_lhd.flv?auth_key=1784269884-0-0-cafbf80ebe406df3a22f95d9ec044da4
-#EXTINF:-1 group-title="Gavang - Bóng đá" tvg-logo="https://img.thesports.com/football/competition/c1c958040a24d72e754fa04677b39f99.png", ⚽ Green Gully Cavaliers vs Dandenong Thunder luc 16:30 ngay 17/07/2026
-https://playback.livetl001.com/live/69be75e0a0a45974afb67776_1080p.flv
-#EXTINF:-1 group-title="Gavang - Bóng đá" tvg-logo="https://img.thesports.com/football/competition/1e50732ddc2f891dacff65e1642ee9b8.png", ⚽ Perth SC vs Western Knights luc 18:00 ngay 17/07/2026
-https://playback.livetl001.com/live/69ef10b47146e04fbe6d4363_1080p.flv
-#EXTINF:-1 group-title="Gavang - Bóng đá" tvg-logo="https://img.thesports.com/football/competition/df4c34bf97b380d1e30b84c509ff0354.png", ⚽ Qingdao West Coast FC vs Chengdu Rongcheng FC luc 18:00 ngay 17/07/2026
-https://playback.livetl001.com/live/6a439a7fb89dded67b208b87_1080p.flv
-#EXTINF:-1 group-title="Gavang - Bóng đá" tvg-logo="https://img.thesports.com/football/competition/df4c34bf97b380d1e30b84c509ff0354.png", ⚽ Beijing Guoan FC vs Liaoning Tieren luc 18:35 ngay 17/07/2026
-https://playback.livetl001.com/live/69b8e6f43bcf2231c35d5144_1080p.flv
-#EXTINF:-1 group-title="Gavang - Bóng đá" tvg-logo="https://img.thesports.com/football/competition/df4c34bf97b380d1e30b84c509ff0354.png", ⚽ Henan FC vs Qingdao Hainiu FC luc 18:35 ngay 17/07/2026
-https://playback.livetl001.com/live/69aa9525f5ec459ae275b43f_1080p.flv
-#EXTINF:-1 group-title="Gavang - Bóng đá" tvg-logo="https://img.thesports.com/football/competition/df4c34bf97b380d1e30b84c509ff0354.png", ⚽ Yunnan Yukun vs Shanghai Port FC luc 19:00 ngay 17/07/2026
-https://playback.livetl001.com/live/69f42e961f739deff81510c0_1080p.flv
-#EXTINF:-1 group-title="Gavang - Bóng đá" tvg-logo="https://img.thesports.com/football/competition/29d9b5a07b9ef4c89588e271a263027d.png", ⚽ Astana B vs Jaiyq luc 21:00 ngay 17/07/2026
-https://playback.livetl001.com/live/6a0ea6a6b89dded67b1171d3_1080p.flv
-#EXTINF:-1 group-title="Gavang - Bóng đá" tvg-logo="https://img.thesports.com/football/competition/2440249cd19586c39de8e05d55cc6b0d.png", ⚽ NK Lokomotiva Zagreb vs FC Karpaty Lviv luc 22:00 ngay 17/07/2026
-https://playback.livetl001.com/live/6a0c7c4b1ae4d6db02433c48_1080p.flv
-#EXTINF:-1 group-title="Gavang - Bóng đá" tvg-logo="https://img.thesports.com/football/competition/3888349404e5d5d09f977b30df0ee151.png", ⚽ CS Voluntari vs Botosani luc 22:30 ngay 17/07/2026
-https://playback.livetl001.com/live/6a2a5896b89dded67b19bcf5_1080p.flv
-#EXTINF:-1 group-title="Gavang - Bóng đá" tvg-logo="https://img.thesports.com/football/competition/9267ee08759fdc25c89d3e4642303522.png", ⚽ KaPa vs SJK Seinäjoki luc 23:00 ngay 17/07/2026
-https://playback.livetl001.com/live/6a01a2511e8555d7a3685f5c_1080p.flv
-#EXTINF:-1 group-title="Gavang - Bóng đá" tvg-logo="https://img.thesports.com/football/competition/9267ee08759fdc25c89d3e4642303522.png", ⚽ Klubi 04 Helsinki vs Haka luc 23:00 ngay 17/07/2026
+https://pull06.scstream.net/live/stream-133824_lhd.flv?auth_key=1784278164-0-0-7604fd69f865097c8da7c8dc2400565f
+#EXTINF:-1 group-title="Gavang - Bóng đá" tvg-logo="https://img.thesports.com/football/competition/29d9b5a07b9ef4c89588e271a263027d.png", ⚽ Tobol Kostanai B vs Akademiya Ontustik luc 20:00 ngay 17/07/2026
 https://playback.livetl001.com/live/69cf6331585c5992182f4160_1080p.flv
+#EXTINF:-1 group-title="Gavang - Bóng đá" tvg-logo="https://img.thesports.com/football/competition/38c435a724b4ab69e11ed2b65ed923bb.png", ⚽ Spartak Varna vs CSKA 1948 Sofia luc 23:00 ngay 17/07/2026
+https://playback.livetl001.com/live/69f42e961f739deff81510c0_1080p.m3u8
 #EXTINF:-1 group-title="Gavang - Bóng rổ" tvg-logo="https://img.thesports.com/basketball/competition/6ba16cfbda31aed288c6d50e4b11d710.png", ⚽ Auckland Tuatara vs Manawatu Jets lúc 14:30 ngày 17/07/2026
-https://playback.livetl001.com/live/6a02c3637fd690a3410710a5_1080p.flv
+https://playback.livetl001.com/live/6a02c3637fd690a3410710a5_1080p.m3u8
 #EXTINF:-1 group-title="Gavang - Bóng rổ" tvg-logo="https://img.thesports.com/basketball/competition/a07e13b5b4e03beb0e060907570dd569.png", ⚽ Valenzuela Classic vs Zamboanga Familys Brand Sardines lúc 15:00 ngày 17/07/2026
-https://playback.livetl001.com/live/69d37c3a4da3e15776b6db56_1080p.flv
+https://playback.livetl001.com/live/69d37c3a4da3e15776b6db56_1080p.m3u8
