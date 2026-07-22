@@ -1,15 +1,41 @@
 #EXTM3U
-#EXTINF:-1 group-title="Socolive" tvg-logo="https://sta.vnres.co/file/head/20260720/89f7346afbc83ddfcffd6587ab586c31_ss300.jpg", ⚽ ZIDANE
-https://pull06.scstream.net/live/stream-152898_lhd.flv?auth_key=1784702215-0-0-4617cd462dc614c6d5c8c76b0299ee35
-#EXTINF:-1 group-title="Socolive" tvg-logo="https://sta.vnres.co/file/pic/202201/04/0b8fba6a9be73ec9edad44bc4c9b0166", ⚽ RICKHANTER
-https://pull.niur.live/live/stream-9912122_lhd.flv?txSecret=c89785cf9d30ed5377ac156a4bfbf358&txTime=6a5fec20
-#EXTINF:-1 group-title="Socolive" tvg-logo="https://sta.vnres.co/file/head/20251104/80107907ad004f601acafc408b7a712f_ss300.jpg", ⚽ BLV COCA
-https://pull06.scstream.net/live/stream-152898_lhd.flv?auth_key=1784702275-0-0-6d60cdc5d16b3a61a7411a9ec6659edb
-#EXTINF:-1 group-title="Socolive" tvg-logo="https://sta.vnres.co/file/head/20230601/03efde81f6abd42cb48720814e89e673_ss300.jpg", ⚽ BLV MESSI
-https://pull06.scstream.net/live/stream-343500_lhd.flv?auth_key=1784702335-0-0-23ab6b99d90bc6666d5b43735c097f32
-#EXTINF:-1 group-title="Socolive" tvg-logo="https://sta.vnres.co/file/head/20240603/d34e97127bdca6842285fcf2a8b9d6c4_ss300.jpeg", ⚽ BLV CUỘI
-https://pull06.scstream.net/live/stream-343500_lhd.flv?auth_key=1784702395-0-0-ca59bf217b66776e1f7c28bc61712857
+#EXTINF:-1 group-title="Socolive - Bóng đá" tvg-logo="https://sta.vnres.co/file/common/20260222/4eac5c41021ca3f6e6d7694308af0a1d_wh320.jpg", ⚽ Live -                -              -              -               BRIAN -                -                  -                 26.96k -                -              -             NZBL: Tauranga Whai vs Otago Nuggets
+https://pull06.scstream.net/live/stream-9912106_lhd.flv?auth_key=1784710915-0-0-b605b09e7a7dee8904421315b3c7aa10
+#EXTINF:-1 group-title="Socolive - Bóng đá" tvg-logo="https://sta.vnres.co/file/common/20260509/a4366dff27ce40b1dea66de6bcb4231b_wh320.jpg", ⚽ Live -                -              -              -               KING -                -                  -                 26.06k -                -              -             MPBL: Negros Hacienderos vs Pasay Voyagers
+https://pull06.scstream.net/live/stream-9912099_lhd.flv?auth_key=1784710915-0-0-af2ea9323a0ff1e3ca0d1413c4daf1c6
+#EXTINF:-1 group-title="Socolive - Bóng đá" tvg-logo="https://sta.vnres.co/file/common/20260409/4bef5dd60673df0e61ac91db803e1191_wh320.jpg", ⚽ Live -                -              -              -               HUNTER -                -                  -                 26.15k -                -              -             NZBL: Tauranga Whai vs Otago Nuggets
+https://pull06.scstream.net/live/stream-558264_lhd.flv?auth_key=1784710915-0-0-b4ee13eb906cd0a03fa7c00da61a1d80
+#EXTINF:-1 group-title="Socolive - Bóng đá" tvg-logo="https://sta.vnres.co/file/common/20260527/86e2d6082d35b8c905da5b66c29d4e3d_wh320.jpeg", ⚽ Live -                -              -              -               BLV HENRY -                -                  -                 26.45k -                -              -             NZBL: Tauranga Whai vs Otago Nuggets
+https://pull06.scstream.net/live/stream-9912112_lhd.flv?auth_key=1784710915-0-0-c5c34a31f3d5760bac6c701bbfddfac5
+#EXTINF:-1 group-title="Socolive - Bóng đá" tvg-logo="https://sta.vnres.co/file/common/20260123/52dc3dab350b955149adbb0e15459f75_wh320.jpg", ⚽ Live -                -              -              -               A CHÈ -                -                  -                 26.45k -                -              -             NZBL: Tauranga Whai vs Otago Nuggets
+https://pull06.scstream.net/live/stream-356042_lhd.flv?auth_key=1784710975-0-0-554d3162a7cec9f737a8991f366a526b
+#EXTINF:-1 group-title="Socolive - Bóng đá" tvg-logo="https://sta.vnres.co/file/common/20250309/327aeb19e28284f148ce2d4cd8b30472_wh320.jpg", ⚽ Live -                -              -              -               CHAN SENA -                -                  -                 26.32k -                -              -             NZBL: Tauranga Whai vs Otago Nuggets
+https://pull06.scstream.net/live/stream-9912115_lhd.flv?auth_key=1784710975-0-0-4097e6ee8df29b437208f7fcb7e84e14
+#EXTINF:-1 group-title="Socolive - Bóng đá" tvg-logo="https://sta.vnres.co/file/common/20251110/02d64554832d40e5884989e9d0f3be14_wh320.jpg", ⚽ Live -                -              -              -               Sóc Nhó Nhịu Nhô Nhùng -                -                  -                 1.05k -                -              -             Tường thuật: WORLD CUP - Spain vs Belgium
+https://pull06.scstream.net/live/stream-133277_lhd.flv?auth_key=1784710975-0-0-2bf378e8ee97cd6fa063d2dc29f08c29
+#EXTINF:-1 group-title="Socolive - Bóng đá" tvg-logo="https://sta.vnres.co/file/common/20251110/0fe737964c8881084743ca046a2b2b2a_wh320.jpg", ⚽ Live -                -              -              -               Sóc đau cổ vai gáy -                -                  -                 1.04k -                -              -             Tường thuật: WORLD CUP - Spain vs Argentina
+https://pull06.scstream.net/live/stream-179093_lhd.flv?auth_key=1784710975-0-0-33c2d937dfb32a90b644e932194777a0
+#EXTINF:-1 group-title="Socolive - Bóng đá" tvg-logo="https://sta.vnres.co/file/common/20250424/a28542dbd508468d0a495a510077aa7b_wh320.jpg", ⚽ Live -                -              -              -               Sóc trong rừng xà nu -                -                  -                 1.01k -                -              -             Tường thuật: WORLD CUP - Argentina vs Switzerland
+https://pull06.scstream.net/live/stream-9912079_lhd.flv?auth_key=1784711035-0-0-0f076036083c00a8dde1aae76292b303
+#EXTINF:-1 group-title="Socolive - Bóng đá" tvg-logo="https://sta.vnres.co/file/common/20251110/87f096ccaede473efa0e2ed78d9544c3_wh320.jpg", ⚽ Live -                -              -              -               Sóc trèo cây ngô đồng -                -                  -                 1.01k -                -              -             Tường thuật: WORLD CUP - France vs England
+https://pull06.scstream.net/live/stream-133824_lhd.flv?auth_key=1784711035-0-0-304c33bba97b75decd457c8aa6abb107
+#EXTINF:-1 group-title="Socolive - Bóng đá" tvg-logo="https://sta.vnres.co/file/common/20251110/4002a0edf64934e2ce7cc8a90291d9df_wh320.png", ⚽ Live -                -              -              -               Sóc nhàm nhang nhồ -                -                  -                 1.01k -                -              -             Tường thuật: WORLD CUP - France vs Spain
+https://pull06.scstream.net/live/stream-152898_lhd.flv?auth_key=1784711035-0-0-1971b432f80104026afd77f02f483bf3
+#EXTINF:-1 group-title="Socolive - Bóng đá" tvg-logo="https://sta.vnres.co/file/common/20251110/4c45f54b9476f5b0c43acd88b6835e2e_wh320.png", ⚽ Live -                -              -              -               Sóc mèo méo meo -                -                  -                 1.00k -                -              -             Tường thuật: WORLD CUP - England vs Argentina
+https://pull06.scstream.net/live/stream-343500_lhd.flv?auth_key=1784711035-0-0-7926cc4072512abefebb2c0bcbe4927c
+#EXTINF:-1 group-title="Gavang - Bóng đá" tvg-logo="https://img.thesports.com/football/competition/2c764cfc9ae1beacd2dcb28cb831755a.png", ⚽ University Azzurri FC vs FC Macarthur luc 17:00 ngay 22/07/2026
+https://playback.livetl001.com/live/69ef10b47146e04fbe6d4363_1080p.flv
+#EXTINF:-1 group-title="Gavang - Bóng đá" tvg-logo="https://img.thesports.com/football/competition/c080bb97363f9be7ca4fca327c56ec0d.png", ⚽ FC Seoul vs Pohang Steelers luc 17:30 ngay 22/07/2026
+https://playback.livetl001.com/live/69f42e961f739deff81510c0_1080p.flv
+#EXTINF:-1 group-title="Gavang - Bóng đá" tvg-logo="https://img.thesports.com/football/competition/c080bb97363f9be7ca4fca327c56ec0d.png", ⚽ Gwangju FC vs Gimcheon Sangmu FC luc 17:30 ngay 22/07/2026
+https://playback.livetl001.com/live/6a2a5896b89dded67b19bcf5_1080p.flv
+#EXTINF:-1 group-title="Gavang - Bóng đá" tvg-logo="https://img.thesports.com/football/competition/c080bb97363f9be7ca4fca327c56ec0d.png", ⚽ Bucheon FC 1995 vs FC Anyang luc 17:30 ngay 22/07/2026
+https://playback.livetl001.com/live/69aa9525f5ec459ae275b43f_1080p.flv
+#EXTINF:-1 group-title="Gavang - Bóng đá" tvg-logo="https://img.thesports.com/football/competition/4acaf7b3bb3b7afdba60a02b02a600d1.png", ⚽ Lanzhou Longyuan Athletics vs Shaanxi Union luc 19:00 ngay 22/07/2026
+https://playback.livetl001.com/live/6a5df755b89dded67b39b8bc_1080p.flv
+#EXTINF:-1 group-title="Gavang - Bóng đá" tvg-logo="https://img.thesports.com/football/competition/1cf230cafec68bdffd2f7e87d9f6f511.png", ⚽ Lokomotiv Tashkent vs FK Andijon luc 22:00 ngay 22/07/2026
+https://playback.livetl001.com/live/6a01a2511e8555d7a3685f5c_1080p.flv
+#EXTINF:-1 group-title="Gavang - Bóng rổ" tvg-logo="https://img.thesports.com/basketball/competition/6ba16cfbda31aed288c6d50e4b11d710.png", ⚽ Whai vs Otago Nuggets lúc 14:00 ngày 22/07/2026
+https://playback.livetl001.com/live/6a02c3637fd690a3410710a5_1080p.m3u8
 #EXTINF:-1 group-title="Gavang - Bóng rổ" tvg-logo="https://img.thesports.com/basketball/competition/a07e13b5b4e03beb0e060907570dd569.png", ⚽ Negros Muscovados vs Pasay Voyagers lúc 15:00 ngày 22/07/2026
-https://playback.livetl001.com/live/69d37c3a4da3e15776b6db56_1080p.flv
-#EXTINF:-1 group-title="Gavang - Bóng rổ" tvg-logo="https://img.thesports.com/basketball/competition/a07e13b5b4e03beb0e060907570dd569.png", ⚽ Meycauayan vs Pasig City lúc 17:00 ngày 22/07/2026
-https://playback.livetl001.com/live/6a02c3637fd690a3410710a5_1080p.flv
+https://playback.livetl001.com/live/69d37c3a4da3e15776b6db56_1080p.m3u8
