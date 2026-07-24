@@ -1,16 +1,24 @@
 #EXTM3U
-#EXTINF:-1 group-title="Socolive - Bóng đá" tvg-logo="https://sta.vnres.co/file/common/20251110/02d64554832d40e5884989e9d0f3be14_wh320.jpg", ⚽ Live -                -              -              -               Sóc Nhó Nhịu Nhô Nhùng -                -                  -                 1.06k -                -              -             Tường thuật: WORLD CUP - Spain vs Argentina
-https://pull06.scstream.net/live/stream-133277_lhd.flv?auth_key=1784875075-0-0-694c67990e5818f43a52abbb28866ebe
-#EXTINF:-1 group-title="Socolive - Bóng đá" tvg-logo="https://sta.vnres.co/file/common/20251110/0fe737964c8881084743ca046a2b2b2a_wh320.jpg", ⚽ Live -                -              -              -               Sóc đau cổ vai gáy -                -                  -                 1.02k -                -              -             Tường thuật: WORLD CUP - Argentina vs Switzerland
-https://pull06.scstream.net/live/stream-179093_lhd.flv?auth_key=1784875075-0-0-f22f2901576aacc67d0cb7e3781cf2e1
-#EXTINF:-1 group-title="Socolive - Bóng đá" tvg-logo="https://sta.vnres.co/file/common/20251110/87f096ccaede473efa0e2ed78d9544c3_wh320.jpg", ⚽ Live -                -              -              -               Sóc trèo cây ngô đồng -                -                  -                 1.01k -                -              -             Tường thuật: WORLD CUP - France vs Spain
-https://pull06.scstream.net/live/stream-133824_lhd.flv?auth_key=1784875135-0-0-5901c765147794731ff81353c15fc05a
-#EXTINF:-1 group-title="Socolive - Bóng đá" tvg-logo="https://sta.vnres.co/file/common/20250424/a28542dbd508468d0a495a510077aa7b_wh320.jpg", ⚽ Live -                -              -              -               Sóc trong rừng xà nu -                -                  -                 1.01k -                -              -             Tường thuật: WORLD CUP - England vs Argentina
-https://pull06.scstream.net/live/stream-9912079_lhd.flv?auth_key=1784875135-0-0-6bfce141977c42d2c0fb57c1f05f6422
-#EXTINF:-1 group-title="Socolive - Bóng đá" tvg-logo="https://sta.vnres.co/file/common/20251110/4002a0edf64934e2ce7cc8a90291d9df_wh320.png", ⚽ Live -                -              -              -               Sóc nhàm nhang nhồ -                -                  -                 1.01k -                -              -             Tường thuật: WORLD CUP - Norway vs England
-https://pull06.scstream.net/live/stream-152898_lhd.flv?auth_key=1784875135-0-0-72c281c6213e7f79e2e9e34cc58de463
-#EXTINF:-1 group-title="Socolive - Bóng đá" tvg-logo="https://sta.vnres.co/file/common/20251110/4c45f54b9476f5b0c43acd88b6835e2e_wh320.png", ⚽ Live -                -              -              -               Sóc mèo méo meo -                -                  -                 1.00k -                -              -             Tường thuật: WORLD CUP - France vs England
-https://pull06.scstream.net/live/stream-343500_lhd.flv?auth_key=1784875135-0-0-52225d977a7a4ae6ea92d77cb416d467
+#EXTINF:-1 group-title="Socolive" tvg-logo="https://sta.vnres.co/file/head/20260720/89f7346afbc83ddfcffd6587ab586c31_ss300.jpg", ⚽ ZIDANE
+https://pull06.scstream.net/live/stream-9912115_lhd.flv?auth_key=1784883715-0-0-18f257fcb0d4ab1ddb7cfce666a390ca
+#EXTINF:-1 group-title="Socolive" tvg-logo="https://sta.vnres.co/file/head/20260418/e34877363f6823ef0c075d4cddc90c29_ss300.png", ⚽ A BỆU
+https://pull06.scstream.net/live/stream-484845_lhd.flv?auth_key=1784863663-0-0-0473b7a96304d612c388c1eb91fa9e26
+#EXTINF:-1 group-title="Socolive" tvg-logo="https://sta.vnres.co/file/head/20251104/80107907ad004f601acafc408b7a712f_ss300.jpg", ⚽ BLV COCA
+https://pull06.scstream.net/live/stream-9912106_lhd.flv?auth_key=1784883715-0-0-36127dabe372280af28e6b4252fe8bf9
+#EXTINF:-1 group-title="Socolive" tvg-logo="https://sta.vnres.co/file/head/20260722/b0937ed94dc5b75d71d16f6b249884df_ss300.jpg", ⚽ THOMAS
+https://pull06.scstream.net/live/stream-9912106_lhd.flv?auth_key=1784883775-0-0-b33845bf7b64bdaf46e91ea98752386a
+#EXTINF:-1 group-title="Socolive" tvg-logo="https://sta.vnres.co/file/head/20220627/645b22573c567baf728a81e490f7e47e_ss300.jpg", ⚽ BLV TAP
+https://pull06.scstream.net/live/stream-9912041_lhd.flv?auth_key=1784862494-0-0-e17cf1b7b98c3e6696f854eef94fb341
+#EXTINF:-1 group-title="Socolive" tvg-logo="https://sta.vnres.co/file/head/20230601/03efde81f6abd42cb48720814e89e673_ss300.jpg", ⚽ BLV MESSI
+https://pull06.scstream.net/live/stream-356042_lhd.flv?auth_key=1784883775-0-0-f20927997227f27d7f695270d50b7e24
+#EXTINF:-1 group-title="Socolive" tvg-logo="https://sta.vnres.co/file/head/20260713/3668e1fd3ec517804050a54a26011588_ss300.jpg", ⚽ HẢI THANH
+https://pull06.scstream.net/live/stream-9912115_lhd.flv?auth_key=1784883835-0-0-d515aa89002002aff2641858ba3b3404
+#EXTINF:-1 group-title="Gavang - Bóng đá" tvg-logo="https://img.thesports.com/football/competition/21df239119fe6638a523365947a2cfb2.png", ⚽ Manly United vs Sydney Olympic luc 16:30 ngay 24/07/2026
+https://playback.livetl001.com/live/6a0c7c4b1ae4d6db02433c48_1080p.flv
+#EXTINF:-1 group-title="Gavang - Bóng đá" tvg-logo="https://img.thesports.com/football/competition/c1c958040a24d72e754fa04677b39f99.png", ⚽ Green Gully Cavaliers vs Dandenong City SC luc 16:30 ngay 24/07/2026
+https://playback.livetl001.com/live/69aa9525f5ec459ae275b43f_1080p.flv
+#EXTINF:-1 group-title="Gavang - Bóng đá" tvg-logo="https://img.thesports.com/football/competition/c1c958040a24d72e754fa04677b39f99.png", ⚽ Heidelberg United vs Caroline Springs George Cross luc 16:30 ngay 24/07/2026
+https://playback.livetl001.com/live/69a1aaa7230584579e2d5ce1_1080p.flv
 #EXTINF:-1 group-title="Gavang - Bóng đá" tvg-logo="https://img.thesports.com/football/competition/c1c958040a24d72e754fa04677b39f99.png", ⚽ St Albans Saints vs Hume City luc 16:30 ngay 24/07/2026
 https://playback.livetl001.com/live/69be75e0a0a45974afb67776_1080p.flv
 #EXTINF:-1 group-title="Gavang - Bóng đá" tvg-logo="https://img.thesports.com/football/competition/c1c958040a24d72e754fa04677b39f99.png", ⚽ Oakleigh Cannons vs South Melbourne luc 17:15 ngay 24/07/2026
@@ -21,9 +29,11 @@ https://playback.livetl001.com/live/6a5df755b89dded67b39b8bc_1080p.flv
 https://playback.livetl001.com/live/6a439a7fb89dded67b208b87_1080p.flv
 #EXTINF:-1 group-title="Gavang - Bóng đá" tvg-logo="https://img.thesports.com/football/competition/cd536caf88f06782e8e5b2a89c0a5579.png", ⚽ Seoul E Land FC vs Cheonan City luc 17:30 ngay 24/07/2026
 https://playback.livetl001.com/live/69cf6331585c5992182f4160_1080p.flv
-#EXTINF:-1 group-title="Gavang - Bóng đá" tvg-logo="https://img.thesports.com/football/competition/31778c5ab158dc7d7563f959aec7a303.png", ⚽ Cambodia vs Singapore luc 19:00 ngay 24/07/2026
-https://playback.livetl001.com/live/6a0c7c4b1ae4d6db02433c48_1080p.flv
-#EXTINF:-1 group-title="Gavang - Bóng rổ" tvg-logo="https://img.thesports.com/basketball/competition/48168568dd824069e69edc3ccd7dc42a.png", ⚽ Abejas de León vs Correcaminos UAT Victoria lúc 09:00 ngày 24/07/2026
-https://playback.livetl001.com/live/6a02c3637fd690a3410710a5_1080p.flv
-#EXTINF:-1 group-title="Gavang - Bóng rổ" tvg-logo="https://img.thesports.com/basketball/competition/48168568dd824069e69edc3ccd7dc42a.png", ⚽ Santos del Potosí vs Mineros de Zacatecas lúc 09:00 ngày 24/07/2026
-https://playback.livetl001.com/live/69d37c3a4da3e15776b6db56_1080p.flv
+#EXTINF:-1 group-title="Gavang - Bóng đá" tvg-logo="https://img.thesports.com/football/competition/3888349404e5d5d09f977b30df0ee151.png", ⚽ FC UT Arad vs FC Otelul Galati luc 22:30 ngay 24/07/2026
+https://playback.livetl001.com/live/6a2a5896b89dded67b19bcf5_1080p.flv
+#EXTINF:-1 group-title="Gavang - Bóng đá" tvg-logo="https://img.thesports.com/football/competition/90f0e3d0c2b3d1d11df55d7d4a012f16.png", ⚽ Vejle vs AB Gladsaxe luc 23:00 ngay 24/07/2026
+https://playback.livetl001.com/live/6a01a2511e8555d7a3685f5c_1080p.flv
+#EXTINF:-1 group-title="Gavang - Bóng rổ" tvg-logo="https://img.thesports.com/basketball/competition/6ba16cfbda31aed288c6d50e4b11d710.png", ⚽ Manawatu Jets vs Franklin Bulls lúc 14:30 ngày 24/07/2026
+https://playback.livetl001.com/live/6a02c3637fd690a3410710a5_1080p.m3u8
+#EXTINF:-1 group-title="Gavang - Bóng rổ" tvg-logo="https://img.thesports.com/basketball/competition/a07e13b5b4e03beb0e060907570dd569.png", ⚽ Biñan Tatak Gel vs Ilagan Isabela Cowboys lúc 15:00 ngày 24/07/2026
+https://playback.livetl001.com/live/69d37c3a4da3e15776b6db56_1080p.m3u8
