@@ -1,25 +1,37 @@
 #EXTM3U
-#EXTINF:-1 group-title="Socolive" tvg-logo="https://sta.vnres.co/file/common/20260727/81d82329dafb6d20a18e3321f65fbd14_wh320.jpg", ⚽ Live - Mèo méo meo - 1.05k - Tường thuật: WORLD CUP - England vs Argentina
-https://pull06.scstream.net/live/stream-343500_lhd.flv?auth_key=1785220495-0-0-21ff50aba43ebdd48deb5c177e8828f5
-#EXTINF:-1 group-title="Socolive" tvg-logo="https://sta.vnres.co/file/common/20260727/6a1bd087526359e16b7bef9cd8f295f4_wh320.jpg", ⚽ Live - Gà xào sả ớt - 1.03k - Tường thuật: WORLD CUP - France vs England
-https://pull06.scstream.net/live/stream-133277_lhd.flv?auth_key=1785220495-0-0-e86af5900d54e9d36ad9c094c2327d03
-#EXTINF:-1 group-title="Socolive" tvg-logo="https://sta.vnres.co/file/common/20260727/f73cfd8a276f73997fc776b525386ab0_wh320.jpg", ⚽ Live - Bò leo rào - 1.01k - Tường thuật: WORLD CUP - France vs Morocco
-https://pull06.scstream.net/live/stream-133824_lhd.flv?auth_key=1785220495-0-0-0c14a8ae032b35a2d5e6816e75fd2acd
-#EXTINF:-1 group-title="Socolive" tvg-logo="https://sta.vnres.co/file/common/20260727/9769db97775961b80ef6744d3059db86_wh320.jpg", ⚽ Live - Hươu đau cổ - 1.01k - Tường thuật: WORLD CUP - Spain vs Belgium
-https://pull06.scstream.net/live/stream-179093_lhd.flv?auth_key=1785220495-0-0-ca20cd70831c62dc96e94410cb272f5b
-#EXTINF:-1 group-title="Socolive" tvg-logo="https://sta.vnres.co/file/common/20260727/64c252ea1e12ac9a5046ae2408d18ef2_wh320.png", ⚽ Live - Thỏ giang hồ - 1.01k - Tường thuật: WORLD CUP - Spain vs Argentina
-https://pull06.scstream.net/live/stream-152898_lhd.flv?auth_key=1785220555-0-0-a15c52e9fa8fc66f86dc111a994482be
-#EXTINF:-1 group-title="Socolive" tvg-logo="https://sta.vnres.co/file/common/20250424/a28542dbd508468d0a495a510077aa7b_wh320.jpg", ⚽ Live - Rắn ở đáy sông - 1.00k - Tường thuật: WORLD CUP - France vs Spain
-https://pull06.scstream.net/live/stream-9912079_lhd.flv?auth_key=1785220555-0-0-1dbef8c8063e9e0008cfe5c798cb686d
-#EXTINF:-1 group-title="Gavang - Bóng đá" tvg-logo="https://img.thesports.com/football/competition/785cc536013fe705d519fb0ff095b6c1.png", ⚽ Paro United vs Thimphu Raven FC luc 17:00 ngay 28/07/2026
+#EXTINF:-1 group-title="Socolive - Bóng đá" tvg-logo="https://sta.vnres.co/file/common/20260409/4bef5dd60673df0e61ac91db803e1191_wh320.jpg", ⚽ Live -                -              -              -               HUNTER -                -                  -                 26.11k -                -              -             MPBL: Bacolod Masskara vs Bulacan Kuyas
+https://pull.niur.live/live/stream-558264_lhd.flv?txSecret=5e97b5aed30bf0e8bdaa01ca66162fc3&txTime=6a68b7bc
+#EXTINF:-1 group-title="Socolive - Bóng đá" tvg-logo="https://sta.vnres.co/file/common/20260509/a4366dff27ce40b1dea66de6bcb4231b_wh320.jpg", ⚽ Live -                -              -              -               KING -                -                  -                 26.18k -                -              -             MPBL: Bacolod Masskara vs Bulacan Kuyas
+https://pull.niur.live/live/stream-9912099_lhd.flv?txSecret=cc20654d0ffc5305881ecba211a6c07f&txTime=6a68b7f7
+#EXTINF:-1 group-title="Socolive - Bóng đá" tvg-logo="https://sta.vnres.co/file/common/20260607/678f6480ad0d1ca70b81555c3f8eed28_wh320.png", ⚽ Live -                -              -              -               BLV A TÚ -                -                  -                 33.08k -                -              -             IDN PCup: Tampines Rovers FC vs Arema FC
+https://pull.niur.live/live/stream-557845_lhd.flv?txSecret=d621a9b9cbebe4304354e80420f1f0e8&txTime=6a68b7f8
+#EXTINF:-1 group-title="Socolive - Bóng đá" tvg-logo="https://sta.vnres.co/file/common/20250309/327aeb19e28284f148ce2d4cd8b30472_wh320.jpg", ⚽ Live -                -              -              -               CHAN SENA -                -                  -                 26.34k -                -              -             MPBL: Bacolod Masskara vs Bulacan Kuyas
+https://pull.niur.live/live/stream-9912115_lhd.flv?txSecret=ac7d025d542301a8b0abd9ba0e384899&txTime=6a68b7f7
+#EXTINF:-1 group-title="Socolive - Bóng đá" tvg-logo="https://sta.vnres.co/file/common/20240614/d900dd8841b1223c7b58554cde34df75_wh320.jpg", ⚽ Live -                -              -              -               BLV FIREMAN -                -                  -                 33.15k -                -              -             IDN PCup: Tampines Rovers FC vs Arema FC
+https://pull.niur.live/live/stream-991140_lhd.flv?txSecret=43032ec30e52d8f6dd0c7de734750a94&txTime=6a68b7a7
+#EXTINF:-1 group-title="Socolive - Bóng đá" tvg-logo="https://sta.vnres.co/file/common/20260626/fcd1d9373f93de7ff3ebfbee3f073c7c_wh320.jpg", ⚽ Live -                -              -              -               BLV ROBBEN -                -                  -                 33.11k -                -              -             IDN PCup: Tampines Rovers FC vs Arema FC
+https://pull.niur.live/live/stream-527383_lhd.flv?txSecret=21e0f016970ed3dc48b92145320e2561&txTime=6a68b834
+#EXTINF:-1 group-title="Socolive - Bóng đá" tvg-logo="https://sta.vnres.co/file/common/20260728/97c374cb3515f0837f27c9caf4b8466b_wh320.jpg", ⚽ Live -                -              -              -               BLV COCA -                -                  -                 62.28k -                -              -             IDN PCup: Tampines Rovers FC vs Arema FC
+https://pull.niur.live/live/stream-327159_lhd.flv?txSecret=e78f7b2def22f2759bc3238e0ef7945e&txTime=6a68b834
+#EXTINF:-1 group-title="Socolive - Bóng đá" tvg-logo="https://sta.vnres.co/file/common/20260518/bfb6774f9a24fdd88696619a1f2284e1_wh320.jpg", ⚽ Live -                -              -              -               HÀ DUY KIÊN -                -                  -                 25.02k -                -              -             IDN PCup: Tampines Rovers FC vs Arema FC
+https://pull.niur.live/live/stream-607400_lhd.flv?txSecret=30f6b14c1d8d379c449e0b3c301063ee&txTime=6a68b834
+#EXTINF:-1 group-title="Socolive - Bóng đá" tvg-logo="https://sta.vnres.co/file/common/20260727/64c252ea1e12ac9a5046ae2408d18ef2_wh320.png", ⚽ Live -                -              -              -               Thỏ giang hồ -                -                  -                 1.02k -                -              -             Tường thuật: WORLD CUP - Spain vs Argentina
+https://pull06.scstream.net/live/stream-152898_lhd.flv?auth_key=1785229795-0-0-4e32ec0c5b95e4a952294c1aadb74690
+#EXTINF:-1 group-title="Socolive - Bóng đá" tvg-logo="https://sta.vnres.co/file/common/20260727/81d82329dafb6d20a18e3321f65fbd14_wh320.jpg", ⚽ Live -                -              -              -               Mèo méo meo -                -                  -                 1.02k -                -              -             Tường thuật: WORLD CUP - England vs Argentina
+https://pull06.scstream.net/live/stream-343500_lhd.flv?auth_key=1785229796-0-0-1948430fe62fda917594b532bb711a64
+#EXTINF:-1 group-title="Socolive - Bóng đá" tvg-logo="https://sta.vnres.co/file/common/20260727/6a1bd087526359e16b7bef9cd8f295f4_wh320.jpg", ⚽ Live -                -              -              -               Gà xào sả ớt -                -                  -                 1.02k -                -              -             Tường thuật: WORLD CUP - France vs England
+https://pull06.scstream.net/live/stream-133277_lhd.flv?auth_key=1785229856-0-0-48ef16223c2e77365dec784a1f05038f
+#EXTINF:-1 group-title="Socolive - Bóng đá" tvg-logo="https://sta.vnres.co/file/common/20250424/a28542dbd508468d0a495a510077aa7b_wh320.jpg", ⚽ Live -                -              -              -               Rắn ở đáy sông -                -                  -                 1.01k -                -              -             Tường thuật: WORLD CUP - France vs Spain
+https://pull06.scstream.net/live/stream-9912079_lhd.flv?auth_key=1785229856-0-0-cd7584e6a47740c43fba7e206be9786f
+#EXTINF:-1 group-title="Socolive - Bóng đá" tvg-logo="https://sta.vnres.co/file/common/20260727/9769db97775961b80ef6744d3059db86_wh320.jpg", ⚽ Live -                -              -              -               Hươu đau cổ -                -                  -                 1.01k -                -              -             Tường thuật: WORLD CUP - Spain vs Belgium
+https://pull06.scstream.net/live/stream-179093_lhd.flv?auth_key=1785229856-0-0-05cfcc8fcc87fc7059c99087d20faa50
+#EXTINF:-1 group-title="Socolive - Bóng đá" tvg-logo="https://sta.vnres.co/file/common/20260727/f73cfd8a276f73997fc776b525386ab0_wh320.jpg", ⚽ Live -                -              -              -               Bò leo rào -                -                  -                 1.01k -                -              -             Tường thuật: WORLD CUP - France vs Morocco
+https://pull06.scstream.net/live/stream-133824_lhd.flv?auth_key=1785229856-0-0-ee10ed7572d8462b6bc0e9b65d29b2ae
+#EXTINF:-1 group-title="Gavang - Bóng đá" tvg-logo="https://img.thesports.com/football/competition/f5470371fbfd2700042bdc9801f08bab.png", ⚽ Anzhi Makhachkala vs Neftyanik Izberbash luc 21:00 ngay 28/07/2026
 https://playback.livetl001.com/live/69a1aaa7230584579e2d5ce1_1080p.flv
-#EXTINF:-1 group-title="Gavang - Bóng đá" tvg-logo="https://img.thesports.com/football/competition/f5470371fbfd2700042bdc9801f08bab.png", ⚽ Bomik Tsivilsk vs Broke Boys luc 19:00 ngay 28/07/2026
-https://playback.livetl001.com/live/6a0c7c4b1ae4d6db02433c48_1080p.flv
-#EXTINF:-1 group-title="Gavang - Bóng đá" tvg-logo="https://img.thesports.com/football/competition/efbdd8d0bbd12a7205f0751c0dd38f4e.png", ⚽ DPMM FC vs Persib Bandung luc 19:30 ngay 28/07/2026
-https://playback.livetl001.com/live/69be75e0a0a45974afb67776_1080p.flv
 #EXTINF:-1 group-title="Gavang - Bóng đá" tvg-logo="https://img.thesports.com/football/competition/1cf230cafec68bdffd2f7e87d9f6f511.png", ⚽ Neftchi Fargona vs Navbahor Namangan luc 22:00 ngay 28/07/2026
 https://playback.livetl001.com/live/6a01a2511e8555d7a3685f5c_1080p.flv
 #EXTINF:-1 group-title="Gavang - Bóng rổ" tvg-logo="https://img.thesports.com/basketball/competition/a07e13b5b4e03beb0e060907570dd569.png", ⚽ Bacolod Masskara vs Bulacan Kuyas lúc 15:00 ngày 28/07/2026
-https://playback.livetl001.com/live/6a02c3637fd690a3410710a5_1080p.flv
+https://playback.livetl001.com/live/6a02c3637fd690a3410710a5_1080p.m3u8
 #EXTINF:-1 group-title="Gavang - Bóng rổ" tvg-logo="https://img.thesports.com/basketball/competition/a07e13b5b4e03beb0e060907570dd569.png", ⚽ Zamboanga Familys Brand Sardines vs Paranaque Patriots lúc 17:00 ngày 28/07/2026
 https://playback.livetl001.com/live/69d37c3a4da3e15776b6db56_1080p.flv
