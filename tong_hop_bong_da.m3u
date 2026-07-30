@@ -1,35 +1,45 @@
 #EXTM3U
-#EXTINF:-1 group-title="Socolive" tvg-logo="https://sta.vnres.co/file/head/20260725/53f1843ec26e6e296eeb252b10bb7cb6_ss300.jpg", ⚽ ZIDANE
-https://pull.niur.live/live/stream-9912060_lhd.flv?txSecret=f55a6c5954fbd035803b33c04eb6e383&txTime=6a6b21ae
-#EXTINF:-1 group-title="Socolive" tvg-logo="https://sta.vnres.co/file/head/20251104/80107907ad004f601acafc408b7a712f_ss300.jpg", ⚽ BLV COCA
-https://pull.niur.live/live/stream-327159_lhd.flv?txSecret=a2f0f2fce103292d2c5f36332ec493ca&txTime=6a6b0c17
-#EXTINF:-1 group-title="Socolive" tvg-logo="https://sta.vnres.co/file/head/20230309/c0c0b8a45186e11216edc9779ecad64c_ss300.jpg", ⚽ TẠ BIÊN GIỚI
-https://pull.niur.live/live/stream-9912106_lhd.flv?txSecret=b92e764266780568172dcfde336dfc02&txTime=6a6b5954
-#EXTINF:-1 group-title="Socolive" tvg-logo="https://sta.vnres.co/file/head/20220627/645b22573c567baf728a81e490f7e47e_ss300.jpg", ⚽ BLV TAP
-https://pull.niur.live/live/stream-9912041_lhd.flv?txSecret=812e79393ef28e2fd2af7e98427e5196&txTime=6a6b21eb
-#EXTINF:-1 group-title="Socolive" tvg-logo="https://sta.vnres.co/file/head/20230601/03efde81f6abd42cb48720814e89e673_ss300.jpg", ⚽ BLV MESSI
-https://pull.niur.live/live/stream-494201_lhd.flv?txSecret=e0e912d0378bc5173eb6f9aa867ef244&txTime=6a6b0bfd
-#EXTINF:-1 group-title="Socolive" tvg-logo="https://sta.vnres.co/file/head/20250627/70007b7c4ccc48a204271b2b3bc22136_ss300.jpg", ⚽ BLV ALEX
-https://pull.niur.live/live/stream-532081_lhd.flv?txSecret=e9a26fce81e159d63910e3740469e51a&txTime=6a6b2227
-#EXTINF:-1 group-title="Socolive" tvg-logo="https://sta.vnres.co/file/head/20230410/530a7f04e4608e8d55d1b3159c8296a4_ss300.jpg", ⚽ BLV Củ Cải
-https://pull.niur.live/live/stream-9912091_lhd.flv?txSecret=da205a88f57590786be5113cca4611a9&txTime=6a6b220e
-#EXTINF:-1 group-title="Socolive" tvg-logo="https://sta.vnres.co/file/head/20260727/e0948062d4317f67870b408fc6b9c3ac_ss300.jpg", ⚽ HẢI THANH
-https://pull.niur.live/live/stream-599634_lhd.flv?txSecret=b21f46ef3763226e4553569708ae3808&txTime=6a6aef4f
-#EXTINF:-1 group-title="Socolive" tvg-logo="https://sta.vnres.co/file/head/20240603/d34e97127bdca6842285fcf2a8b9d6c4_ss300.jpeg", ⚽ BLV CUỘI
-https://pull.niur.live/live/stream-9912106_lhd.flv?txSecret=9e91597937fc6bee39ad0aa3677824c5&txTime=6a6b59cc
-#EXTINF:-1 group-title="Socolive" tvg-logo="https://sta.vnres.co/file/head/20240407/721552ace681d169b9ad9adaf3a71c17_ss300.jpg", ⚽ CR Bưởi
-https://pull.niur.live/live/stream-9912106_lhd.flv?txSecret=230215b9ea8df2f3fe53290b8c1c871f&txTime=6a6b5a08
-#EXTINF:-1 group-title="Gavang - Bóng đá" tvg-logo="https://img.thesports.com/football/competition/2440249cd19586c39de8e05d55cc6b0d.png", ⚽ Augsburg vs Bournemouth luc 21:00 ngay 30/07/2026
-https://playback.livetl001.com/live/6a439a7fb89dded67b208b87_1080p.flv
-#EXTINF:-1 group-title="Gavang - Bóng đá" tvg-logo="https://img.thesports.com/football/competition/88637a74a2cbd634b8b9504a60d711cd.png", ⚽ Inter Turku vs Basaksehir FK luc 23:00 ngay 30/07/2026
-https://playback.livetl001.com/live/69ef10b47146e04fbe6d4363_1080p.flv
-#EXTINF:-1 group-title="Gavang - Bóng đá" tvg-logo="https://img.thesports.com/football/competition/88637a74a2cbd634b8b9504a60d711cd.png", ⚽ Ilves Tampere vs Stjarnan Gardabaer luc 23:00 ngay 30/07/2026
-https://playback.livetl001.com/live/69cf6331585c5992182f4160_1080p.flv
-#EXTINF:-1 group-title="Gavang - Bóng đá" tvg-logo="https://img.thesports.com/football/competition/88637a74a2cbd634b8b9504a60d711cd.png", ⚽ Levadia Tallinn vs IFK Goteborg luc 23:30 ngay 30/07/2026
-https://playback.livetl001.com/live/69f42e961f739deff81510c0_1080p.flv
-#EXTINF:-1 group-title="Gavang - Bóng rổ" tvg-logo="https://img.thesports.com/basketball/competition/a07e13b5b4e03beb0e060907570dd569.png", ⚽ Marikina Shoemasters vs Cebu Classic lúc 17:00 ngày 30/07/2026
+#EXTINF:-1 group-title="Socolive - Bóng đá" tvg-logo="https://sta.vnres.co/file/common/20250723/6b83b847d8944b57cc13043bae9fa7a8_wh320.jpg", ⚽ Live -                -              -              -               BLV VIP -                -                  -                 34.58k -                -              -             AUS FFA: South Melbourne vs Adelaide United
+https://pull.niur.live/live/stream-491873_lhd.flv?txSecret=ca26b78757b868f3aec1e413ed5ed55b&txTime=6a6b81e0
+#EXTINF:-1 group-title="Socolive - Bóng đá" tvg-logo="https://sta.vnres.co/file/common/20260729/90d162164dcfb40047165ec309b5594c_wh320.png", ⚽ Live -                -              -              -               BLV Củ Cải -                -                  -                 65.93k -                -              -             AUS FFA: South Melbourne vs Adelaide United
+https://pull.niur.live/live/stream-9912091_lhd.flv?txSecret=814a53c65132532f84173ea0b47da924&txTime=6a6b821c
+#EXTINF:-1 group-title="Socolive - Bóng đá" tvg-logo="https://sta.vnres.co/file/common/20260729/a18ba8218238a7a30ba9ca1c0fa32fb7_wh320.jpg", ⚽ Live -                -              -              -               BLV COCA -                -                  -                 66.74k -                -              -             AUS FFA: Sydney Olympic vs Brisbane Roar
+https://pull.niur.live/live/stream-327159_lhd.flv?txSecret=af516c8a0624cf5f9149f76c510b26f7&txTime=6a6b821c
+#EXTINF:-1 group-title="Socolive - Bóng đá" tvg-logo="https://sta.vnres.co/file/common/20260123/f00d0acc7b73214f834ad859c1c30130_wh320.jpg", ⚽ Live -                -              -              -               BLV PEWPEW -                -                  -                 36.78k -                -              -             AUS FFA: Sydney Olympic vs Brisbane Roar
+https://pull.niur.live/live/stream-9912015_lhd.flv?txSecret=648025783f4a6c2f137c5df4220a9732&txTime=6a6b821c
+#EXTINF:-1 group-title="Socolive - Bóng đá" tvg-logo="https://sta.vnres.co/file/common/20240921/29f418af36dd0862deb5b7daef605d6e_wh320.jpg", ⚽ Live -                -              -              -               BLV LUCAS -                -                  -                 34.28k -                -              -             AUS FFA: Sydney Olympic vs Brisbane Roar
+https://pull06.scstream.net/live/stream-304148_lhd.flv?auth_key=1785412556-0-0-8381011c1c6a12b479e460774145ffc7
+#EXTINF:-1 group-title="Socolive - Bóng đá" tvg-logo="https://sta.vnres.co/file/common/20260716/a4c495f788a90c1440154c96cd52ca82_wh320.jpg", ⚽ Live -                -              -              -               BLV CUỘI -                -                  -                 65.79k -                -              -             AUS FFA: Sydney Olympic vs Brisbane Roar
+https://pull.niur.live/live/stream-256080_lhd.flv?txSecret=01e130075a9c41e79a1876dd7dfda850&txTime=6a6b821c
+#EXTINF:-1 group-title="Socolive - Bóng đá" tvg-logo="https://sta.vnres.co/file/common/20260507/f27519c438dedfaf3e72c09e21b66880_wh320.jpg", ⚽ Live -                -              -              -               CÔNG CHẤT -                -                  -                 37.42k -                -              -             AUS FFA: Sydney Olympic vs Brisbane Roar
+https://pull.niur.live/live/stream-291277_lhd.flv?txSecret=101212f69fce4fb8ecb78ea2bd1be98d&txTime=6a6b8258
+#EXTINF:-1 group-title="Socolive - Bóng đá" tvg-logo="https://sta.vnres.co/file/common/20260402/d2f4689c880967dce02e423c71668bd7_wh320.png", ⚽ Live -                -              -              -               BLV LION -                -                  -                 34.34k -                -              -             AUS FFA: South Melbourne vs Adelaide United
+https://pull06.scstream.net/live/stream-603255_lhd.flv?auth_key=1785412616-0-0-df4918e469bd5034a2388aa3e6874c0f
+#EXTINF:-1 group-title="Socolive - Bóng đá" tvg-logo="https://sta.vnres.co/file/common/20260609/b3e04b0f7d210d67052a911512e39f54_wh320.jpg", ⚽ Live -                -              -              -               CHÍ PHÈO -                -                  -                 35.02k -                -              -             AUS FFA: South Melbourne vs Adelaide United
+https://pull.niur.live/live/stream-273736_lhd.flv?txSecret=f0b90f15dd9c88da3ad540d26d4a09da&txTime=6a6b8258
+#EXTINF:-1 group-title="Socolive - Bóng đá" tvg-logo="https://sta.vnres.co/file/common/20260121/079db710976b60b0787b1e2729b56e56_wh320.jpg", ⚽ Live -                -              -              -               BLV TAP -                -                  -                 78.24k -                -              -             AUS FFA: South Melbourne vs Adelaide United
+https://pull.niur.live/live/stream-9912041_lhd.flv?txSecret=a5ac4996524a8d60ec4400db6dd73c7b&txTime=6a6b8258
+#EXTINF:-1 group-title="Socolive - Bóng đá" tvg-logo="https://sta.vnres.co/file/common/20260720/38eae31516d5e2b2dfdeb69b6e565fe4_wh320.jpg", ⚽ Live -                -              -              -               HẢI THANH -                -                  -                 64.35k -                -              -             AUS FFA: Sydney Olympic vs Brisbane Roar
+https://pull.niur.live/live/stream-599634_lhd.flv?txSecret=a8e695b13ad35b9c93e2b16d6a25d80e&txTime=6a6b8294
+#EXTINF:-1 group-title="Socolive - Bóng đá" tvg-logo="https://sta.vnres.co/file/common/20260723/f5a845dee4665c8be66ae0e1009b3a4b_wh320.jpg", ⚽ Live -                -              -              -               BLV ENZO -                -                  -                 35.35k -                -              -             AUS FFA: South Melbourne vs Adelaide United
+https://pull.niur.live/live/stream-380460_lhd.flv?txSecret=79a30092f2a7dc3c679ac4ac694891a8&txTime=6a6b8294
+#EXTINF:-1 group-title="Socolive - Bóng đá" tvg-logo="https://sta.vnres.co/file/common/20260222/4eac5c41021ca3f6e6d7694308af0a1d_wh320.jpg", ⚽ Live -                -              -              -               BRIAN -                -                  -                 26.47k -                -              -             MPBL: Marikina Shoemasters vs Cebu Greats
+https://pull.niur.live/live/stream-9912106_lhd.flv?txSecret=91294cad5c88c65bfe078eaf5f6018a9&txTime=6a6b8294
+#EXTINF:-1 group-title="Socolive - Bóng đá" tvg-logo="https://sta.vnres.co/file/common/20260729/9d1142c80b552213b4765003753c881b_wh320.jpg", ⚽ Live -                -              -              -               A CHÈ -                -                  -                 26.18k -                -              -             MPBL: Marikina Shoemasters vs Cebu Greats
+https://pull.niur.live/live/stream-356042_lhd.flv?txSecret=796e67adc753445d2d5e3af5d6086e1d&txTime=6a6b8294
+#EXTINF:-1 group-title="Socolive - Bóng đá" tvg-logo="https://sta.vnres.co/file/common/20260509/a4366dff27ce40b1dea66de6bcb4231b_wh320.jpg", ⚽ Live -                -              -              -               KING -                -                  -                 26.07k -                -              -             MPBL: San Juan Knights vs Quezon Huskers
+https://pull.niur.live/live/stream-9912099_lhd.flv?txSecret=43dcdaf5f5adea4dadabd8d8d8ebc47d&txTime=6a6b82d0
+#EXTINF:-1 group-title="Socolive - Bóng đá" tvg-logo="https://sta.vnres.co/file/common/20250309/327aeb19e28284f148ce2d4cd8b30472_wh320.jpg", ⚽ Live -                -              -              -               CHAN SENA -                -                  -                 26.04k -                -              -             MPBL: San Juan Knights vs Quezon Huskers
+https://pull.niur.live/live/stream-9912115_lhd.flv?txSecret=bcaf9b55d8627fbc5f8606cc9d47c636&txTime=6a6b82d0
+#EXTINF:-1 group-title="Socolive - Bóng đá" tvg-logo="https://sta.vnres.co/file/common/20260527/86e2d6082d35b8c905da5b66c29d4e3d_wh320.jpeg", ⚽ Live -                -              -              -               BLV HENRY -                -                  -                 25.52k -                -              -             VBA: Nhatrang Dolphins vs Ho Chi Minh City Wings
+https://pull.niur.live/live/stream-9912112_lhd.flv?txSecret=0f58b5203eaa716374f6b571ecdeac1f&txTime=6a6b82d0
+#EXTINF:-1 group-title="Socolive - Bóng đá" tvg-logo="https://sta.vnres.co/file/common/20260720/9b537b664ce0364f46b19b262f29b1d6_wh320.jpg", ⚽ Live -                -              -              -               BLV NOVA -                -                  -                 25.04k -                -              -             KAZ D1: Ekibastuzets vs FK Yelimay Semey B
+https://pull.niur.live/live/stream-619108_lhd.flv?txSecret=f0aedda9b7b53b58a51709b3508e3fe6&txTime=6a6b82d0
+#EXTINF:-1 group-title="Gavang - Bóng đá" tvg-logo="https://img.thesports.com/football/competition/1792ba5a12171fedc6d543bdf173f37c.png", ⚽ Maccabi Tel Aviv vs Sheriff Tiraspol luc 23:00 ngay 30/07/2026
+https://playback.livetl001.com/live/69aa9525f5ec459ae275b43f_1080p.flv
+#EXTINF:-1 group-title="Gavang - Bóng đá" tvg-logo="https://img.thesports.com/football/competition/29d9b5a07b9ef4c89588e271a263027d.png", ⚽ Ekibastuz vs FK Yelimay Semey B luc 19:00 ngay 30/07/2026
+https://playback.livetl001.com/live/6a5df755b89dded67b39b8bc_1080p.flv
+#EXTINF:-1 group-title="Gavang - Bóng rổ" tvg-logo="https://img.thesports.com/basketball/competition/a07e13b5b4e03beb0e060907570dd569.png", ⚽ Marikina Shoemasters vs Cebu Classic lúc 16:00 ngày 30/07/2026
 https://playback.livetl001.com/live/69d37c3a4da3e15776b6db56_1080p.flv
 #EXTINF:-1 group-title="Gavang - Bóng rổ" tvg-logo="https://img.thesports.com/basketball/competition/a07e13b5b4e03beb0e060907570dd569.png", ⚽ San Juan Knights vs Quezon Huskers lúc 18:00 ngày 30/07/2026
-https://playback.livetl001.com/live/6a02c3637fd690a3410710a5_1080p.flv
-#EXTINF:-1 group-title="Gavang - Bóng rổ" tvg-logo="https://img.thesports.com/basketball/competition/603222cf91fcdeb068b5e652d04034bf.png", ⚽ Woosuk University vs Hanyang University lúc 15:00 ngày 30/07/2026
-https://playback.livetl003.com/live/6a02c3637fd690a3410710a5.m3u8
+https://playback.livetl001.com/live/6a02c3637fd690a3410710a5_1080p.m3u8
