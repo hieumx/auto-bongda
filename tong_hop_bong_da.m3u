@@ -1,16 +1,38 @@
 #EXTM3U
-#EXTINF:-1 group-title="Socolive - Bóng đá" tvg-logo="https://sta.vnres.co/file/common/20260727/9769db97775961b80ef6744d3059db86_wh320.jpg", ⚽ Live -                -              -              -               Hươu đau cổ -                -                  -                 1.06k -                -              -             Tường thuật: CNCF CACup - LD Alajuelense vs Xelaju MC
-https://pull.niur.live/live/stream-179093_lhd.flv?txSecret=84bda7487bdd09d5a86efcd63465559f&txTime=6a6c8c98
+#EXTINF:-1 group-title="Socolive - Bóng đá" tvg-logo="https://sta.vnres.co/file/common/20260729/32864b982ba0170f6ed062af85514671_wh320.jpg", ⚽ Live -                -              -              -               BLV ALEX -                -                  -                 63.25k -                -              -             IDN PCup: Arema FC vs DPMM FC
+https://pull.niur.live/live/stream-532081_lhd.flv?txSecret=0ca4a245fce7812b345fc8858b63fa94&txTime=6a6cb01d
+#EXTINF:-1 group-title="Socolive - Bóng đá" tvg-logo="https://sta.vnres.co/file/common/20260729/a18ba8218238a7a30ba9ca1c0fa32fb7_wh320.jpg", ⚽ Live -                -              -              -               BLV COCA -                -                  -                 63.17k -                -              -             IDN PCup: Arema FC vs DPMM FC
+https://pull.niur.live/live/stream-327159_lhd.flv?txSecret=1e1b0877ec6bf3f34cb36ad35185e2f6&txTime=6a6cb059
+#EXTINF:-1 group-title="Socolive - Bóng đá" tvg-logo="https://sta.vnres.co/file/common/20260409/4bef5dd60673df0e61ac91db803e1191_wh320.jpg", ⚽ Live -                -              -              -               HUNTER -                -                  -                 25.54k -                -              -             TEST LIVE
+https://pull06.scstream.net/live/stream-558264_lhd.flv?auth_key=1785489929-0-0-9df52b617518a088dd3fdf190b24866b
+#EXTINF:-1 group-title="Socolive - Bóng đá" tvg-logo="https://sta.vnres.co/file/common/20260722/76e92a6a9007b87b8eae5006aaed3e51_wh320.jpg", ⚽ Live -                -              -              -               THOMAS -                -                  -                 63.41k -                -              -             IDN PCup: Arema FC vs DPMM FC
+https://pull.niur.live/live/stream-414317_lhd.flv?txSecret=a70c77132671b45eaee0d5c043fa1ea0&txTime=6a6cb059
+#EXTINF:-1 group-title="Socolive - Bóng đá" tvg-logo="https://sta.vnres.co/file/common/20260720/65001744bad6b371aa34efdfa4f6ebf4_wh320.jpg", ⚽ Live -                -              -              -               BLV MESSI -                -                  -                 62.45k -                -              -             IDN PCup: Arema FC vs DPMM FC
+https://pull.niur.live/live/stream-494201_lhd.flv?txSecret=b02e78d7e32ce838e391377c15439c33&txTime=6a6cb059
+#EXTINF:-1 group-title="Socolive - Bóng đá" tvg-logo="https://sta.vnres.co/file/common/20260723/f5a845dee4665c8be66ae0e1009b3a4b_wh320.jpg", ⚽ Live -                -              -              -               BLV ENZO -                -                  -                 33.12k -                -              -             IDN PCup: Arema FC vs DPMM FC
+https://pull.niur.live/live/stream-380460_lhd.flv?txSecret=8cc3ce11da0dc9ce7f24a6d293295005&txTime=6a6cb095
+#EXTINF:-1 group-title="Socolive - Bóng đá" tvg-logo="https://sta.vnres.co/file/common/20260731/407c01061bbcd9f0e57aff7f699fa996_wh320.PNG", ⚽ Live -                -              -              -               CR Bưởi -                -                  -                 62.81k -                -              -             IDN PCup: Arema FC vs DPMM FC
+https://pull.niur.live/live/stream-387694_lhd.flv?txSecret=a41fca26adac3b8f347894c5014462ee&txTime=6a6cb095
+#EXTINF:-1 group-title="Socolive - Bóng đá" tvg-logo="https://sta.vnres.co/file/common/20240614/d900dd8841b1223c7b58554cde34df75_wh320.jpg", ⚽ Live -                -              -              -               BLV FIREMAN -                -                  -                 33.56k -                -              -             Test live
+https://pull06.scstream.net/live/stream-991140_lhd.flv?auth_key=1785489989-0-0-591805608ebe4c7c712882a41e34183e
+#EXTINF:-1 group-title="Socolive - Bóng đá" tvg-logo="https://sta.vnres.co/file/common/20260727/9769db97775961b80ef6744d3059db86_wh320.jpg", ⚽ Live -                -              -              -               Hươu đau cổ -                -                  -                 1.04k -                -              -             Tường thuật: CNCF CACup - LD Alajuelense vs Xelaju MC
+https://pull.niur.live/live/stream-179093_lhd.flv?txSecret=fc7243a04eb33e10d2e6f4a23a2237e3&txTime=6a6cb095
+#EXTINF:-1 group-title="Socolive - Bóng đá" tvg-logo="https://sta.vnres.co/file/common/20260727/6a1bd087526359e16b7bef9cd8f295f4_wh320.jpg", ⚽ Live -                -              -              -               Gà xào sả ớt -                -                  -                 1.02k -                -              -             Tường thuật: UEFA EL - Benfica vs St. Gallen
+https://pull.niur.live/live/stream-133277_lhd.flv?txSecret=987b97aa30ce8ca7cd2b183889342da2&txTime=6a6cb0d1
 #EXTINF:-1 group-title="Socolive - Bóng đá" tvg-logo="https://sta.vnres.co/file/common/20260727/64c252ea1e12ac9a5046ae2408d18ef2_wh320.png", ⚽ Live -                -              -              -               Thỏ giang hồ -                -                  -                 1.02k -                -              -             Tường thuật: INT CF - Liverpool vs Wrexham
-https://pull.niur.live/live/stream-152898_lhd.flv?txSecret=f62b35de2c336fe89102baa1bb22b0a9&txTime=6a6c8cd4
-#EXTINF:-1 group-title="Socolive - Bóng đá" tvg-logo="https://sta.vnres.co/file/common/20260727/6a1bd087526359e16b7bef9cd8f295f4_wh320.jpg", ⚽ Live -                -              -              -               Gà xào sả ớt -                -                  -                 523 -                -              -             Tường thuật: UEFA EL - Benfica vs St. Gallen
-https://pull.niur.live/live/stream-133277_lhd.flv?txSecret=78e20cef9d036b9f6e1fe01a3432dbb0&txTime=6a6c8cd4
-#EXTINF:-1 group-title="Socolive - Bóng đá" tvg-logo="https://sta.vnres.co/file/common/20260727/81d82329dafb6d20a18e3321f65fbd14_wh320.jpg", ⚽ Live -                -              -              -               Mèo méo meo -                -                  -                 513 -                -              -             Tường thuật: UEFA EL - Midtjylland vs Besiktas JK
-https://pull.niur.live/live/stream-343500_lhd.flv?txSecret=fa6344b1caf5b3358b358cf96803d09e&txTime=6a6c8cd4
-#EXTINF:-1 group-title="Socolive - Bóng đá" tvg-logo="https://sta.vnres.co/file/common/20250424/a28542dbd508468d0a495a510077aa7b_wh320.jpg", ⚽ Live -                -              -              -               Rắn ở đáy sông -                -                  -                 512 -                -              -             Tường thuật: UEFA EL - Maccabi Tel Aviv vs Sheriff Tiraspol
-https://pull.niur.live/live/stream-9912079_lhd.flv?txSecret=89cb6adce9766f53758ed3e871302043&txTime=6a6c8cd4
-#EXTINF:-1 group-title="Socolive - Bóng đá" tvg-logo="https://sta.vnres.co/file/common/20260727/f73cfd8a276f73997fc776b525386ab0_wh320.jpg", ⚽ Live -                -              -              -               Bò leo rào -                -                  -                 89 -                -              -             Tường thuật: INT CF - Sunderland vs Leeds United
-https://pull.niur.live/live/stream-133824_lhd.flv?txSecret=04750fc7c4b578367f02538cf8b4b63a&txTime=6a6c8d10
+https://pull.niur.live/live/stream-152898_lhd.flv?txSecret=e5136034733f110ef928e522c19af63d&txTime=6a6cb0d1
+#EXTINF:-1 group-title="Socolive - Bóng đá" tvg-logo="https://sta.vnres.co/file/common/20260727/f73cfd8a276f73997fc776b525386ab0_wh320.jpg", ⚽ Live -                -              -              -               Bò leo rào -                -                  -                 1.01k -                -              -             Tường thuật: UEFA ECL - Inter Turku vs Başakşehir Futbol Kulübü
+https://pull.niur.live/live/stream-133824_lhd.flv?txSecret=78b2f80eefc4018d0f1468ede3bdb0f3&txTime=6a6cb0d1
+#EXTINF:-1 group-title="Socolive - Bóng đá" tvg-logo="https://sta.vnres.co/file/common/20260727/81d82329dafb6d20a18e3321f65fbd14_wh320.jpg", ⚽ Live -                -              -              -               Mèo méo meo -                -                  -                 1.01k -                -              -             Tường thuật: UEFA EL - Midtjylland vs Besiktas JK
+https://pull.niur.live/live/stream-343500_lhd.flv?txSecret=51a05bd9e779847c6388aba61249bf2a&txTime=6a6cb0d1
+#EXTINF:-1 group-title="Socolive - Bóng đá" tvg-logo="https://sta.vnres.co/file/common/20250424/a28542dbd508468d0a495a510077aa7b_wh320.jpg", ⚽ Live -                -              -              -               Rắn ở đáy sông -                -                  -                 1.01k -                -              -             Tường thuật: UEFA EL - Maccabi Tel Aviv vs Sheriff Tiraspol
+https://pull.niur.live/live/stream-9912079_lhd.flv?txSecret=c74d78e71cf517fd010938e9ce8f99fd&txTime=6a6cb10d
+#EXTINF:-1 group-title="Gavang - Bóng đá" tvg-logo="https://img.thesports.com/football/competition/efbdd8d0bbd12a7205f0751c0dd38f4e.png", ⚽ Arema FC vs DPMM FC luc 15:30 ngay 31/07/2026
+https://playback.livetl001.com/live/6a5b13ceb36a14387baeddaa_1080p.m3u8
+#EXTINF:-1 group-title="Gavang - Bóng đá" tvg-logo="https://img.thesports.com/football/competition/c1c958040a24d72e754fa04677b39f99.png", ⚽ Bentleigh Greens vs Oakleigh Cannons luc 16:30 ngay 31/07/2026
+https://playback.livetl001.com/live/69f42e961f739deff81510c0_1080p.flv
+#EXTINF:-1 group-title="Gavang - Bóng đá" tvg-logo="https://img.thesports.com/football/competition/c1c958040a24d72e754fa04677b39f99.png", ⚽ Preston Lions vs Green Gully Cavaliers luc 17:30 ngay 31/07/2026
+https://playback.livetl001.com/live/6a0c7c4b1ae4d6db02433c48_1080p.flv
 #EXTINF:-1 group-title="Gavang - Bóng đá" tvg-logo="https://img.thesports.com/football/competition/df4c34bf97b380d1e30b84c509ff0354.png", ⚽ Henan FC vs Dalian Yingbo FC luc 18:35 ngay 31/07/2026
 https://playback.livetl001.com/live/69be75e0a0a45974afb67776_1080p.flv
 #EXTINF:-1 group-title="Gavang - Bóng đá" tvg-logo="https://img.thesports.com/football/competition/efbdd8d0bbd12a7205f0751c0dd38f4e.png", ⚽ Persib Bandung vs Tampines Rovers FC luc 19:30 ngay 31/07/2026
@@ -24,8 +46,6 @@ https://playback.livetl001.com/live/6a01a2511e8555d7a3685f5c_1080p.flv
 #EXTINF:-1 group-title="Gavang - Bóng đá" tvg-logo="https://img.thesports.com/football/competition/2440249cd19586c39de8e05d55cc6b0d.png", ⚽ Juventus vs Nice luc 23:00 ngay 31/07/2026
 https://playback.livetl001.com/live/69aa9525f5ec459ae275b43f_1080p.flv
 #EXTINF:-1 group-title="Gavang - Bóng rổ" tvg-logo="https://img.thesports.com/basketball/competition/a07e13b5b4e03beb0e060907570dd569.png", ⚽ Manila Batang Quiapo vs Bataan Risers lúc 14:00 ngày 31/07/2026
-https://playback.livetl001.com/live/6a02c3637fd690a3410710a5_1080p.flv
+https://playback.livetl001.com/live/6a02c3637fd690a3410710a5_1080p.m3u8
 #EXTINF:-1 group-title="Gavang - Bóng rổ" tvg-logo="https://img.thesports.com/basketball/competition/a07e13b5b4e03beb0e060907570dd569.png", ⚽ Sarangani vs Caloocan Batang Kankaloo lúc 16:00 ngày 31/07/2026
 https://playback.livetl001.com/live/69d37c3a4da3e15776b6db56_1080p.flv
-#EXTINF:-1 group-title="Gavang - Bóng rổ" tvg-logo="https://img.thesports.com/basketball/competition/4e9c38d3348a4a7a33ed282d12145c22.png", ⚽ BNK Sum Women vs Bucheon Keb Hanabank lúc 12:00 ngày 31/07/2026
-https://playback.livetl003.com/live/69d37c3a4da3e15776b6db56.m3u8
