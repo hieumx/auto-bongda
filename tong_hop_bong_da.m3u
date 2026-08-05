@@ -1,11 +1,9 @@
 #EXTM3U
-#EXTINF:-1 group-title="Gavang - Bóng đá" tvg-logo="https://img.thesports.com/football/competition/1153a2a392758c4e220c71bd57a31052.png", ⚽ Club Internacional de Futbol Miami vs Atletico San Luis luc 06:30 ngay 06/08/2026
-https://playback.livetl001.com/live/6a2a59b347bbddd62a8dc4e4_1080p.flv
+#EXTINF:-1 group-title="Gavang - Bóng đá" tvg-logo="https://img.thesports.com/football/competition/983ffc6a4f71ff232bf96cf9475c7e5e.png", ⚽ Fortaleza vs Palmeiras luc 07:30 ngay 06/08/2026
+https://playback.livetl001.com/live/6a01a2511e8555d7a3685f5c_1080p.m3u8
+#EXTINF:-1 group-title="Gavang - Bóng đá" tvg-logo="https://img.thesports.com/football/competition/ac05535bde17129cb598311242b3afba.png", ⚽ Aarhus AGF vs Sabah Baku luc 00:10 ngay 06/08/2026
+https://playback.livetl001.com/live/69aa9525f5ec459ae275b43f_1080p.flv
 #EXTINF:-1 group-title="Gavang - Bóng đá" tvg-logo="https://img.thesports.com/football/competition/290427ceea9b5d643a3216c4ecfe9b80.png", ⚽ Hafnarfjordur vs KR luc 02:15 ngay 06/08/2026
 https://playback.livetl001.com/live/69ef10b47146e04fbe6d4363_1080p.m3u8
-#EXTINF:-1 group-title="Gavang - Bóng đá" tvg-logo="https://img.thesports.com/football/competition/983ffc6a4f71ff232bf96cf9475c7e5e.png", ⚽ Cruzeiro Esporte Clube vs Chapecoense SC luc 05:00 ngay 06/08/2026
-https://playback.livetl001.com/live/6a01a2511e8555d7a3685f5c_1080p.flv
-#EXTINF:-1 group-title="Gavang - Bóng đá" tvg-logo="https://img.thesports.com/football/competition/983ffc6a4f71ff232bf96cf9475c7e5e.png", ⚽ Fluminense RJ vs Vasco da Gama luc 07:30 ngay 06/08/2026
-https://playback.livetl001.com/live/69b8e6f43bcf2231c35d5144_1080p.flv
 #EXTINF:-1 group-title="Gavang - Bóng rổ" tvg-logo="https://img.thesports.com/basketball/competition/86f522333da4c3e2c144996fc4d2520b.png", ⚽ Washington Mystics vs Dallas Wings lúc 06:30 ngày 06/08/2026
 https://playback.livetl001.com/live/6a02c3637fd690a3410710a5_1080p.flv
