@@ -1,9 +1,19 @@
 #EXTM3U
-#EXTINF:-1 group-title="Gavang - Bóng đá" tvg-logo="https://img.thesports.com/football/competition/983ffc6a4f71ff232bf96cf9475c7e5e.png", ⚽ Fortaleza vs Palmeiras luc 07:30 ngay 06/08/2026
-https://playback.livetl001.com/live/6a01a2511e8555d7a3685f5c_1080p.m3u8
-#EXTINF:-1 group-title="Gavang - Bóng đá" tvg-logo="https://img.thesports.com/football/competition/ac05535bde17129cb598311242b3afba.png", ⚽ Aarhus AGF vs Sabah Baku luc 00:10 ngay 06/08/2026
+#EXTINF:-1 group-title="Gavang - Bóng đá" tvg-logo="https://img.thesports.com/football/competition/1153a2a392758c4e220c71bd57a31052.png", ⚽ Rayados de Monterrey vs Orlando City luc 07:50 ngay 06/08/2026
+https://playback.livetl001.com/live/69cf6331585c5992182f4160_1080p.m3u8
+#EXTINF:-1 group-title="Gavang - Bóng đá" tvg-logo="https://img.thesports.com/football/competition/1153a2a392758c4e220c71bd57a31052.png", ⚽ Toluca vs Seattle Sounders luc 09:00 ngay 06/08/2026
+https://playback.livetl001.com/live/6a2a59b347bbddd62a8dc4e4_1080p.m3u8
+#EXTINF:-1 group-title="Gavang - Bóng đá" tvg-logo="https://img.thesports.com/football/competition/1792ba5a12171fedc6d543bdf173f37c.png", ⚽ Jagiellonia Bialystok vs Rangers F.C. luc 23:00 ngay 06/08/2026
 https://playback.livetl001.com/live/69aa9525f5ec459ae275b43f_1080p.flv
-#EXTINF:-1 group-title="Gavang - Bóng đá" tvg-logo="https://img.thesports.com/football/competition/290427ceea9b5d643a3216c4ecfe9b80.png", ⚽ Hafnarfjordur vs KR luc 02:15 ngay 06/08/2026
-https://playback.livetl001.com/live/69ef10b47146e04fbe6d4363_1080p.m3u8
-#EXTINF:-1 group-title="Gavang - Bóng rổ" tvg-logo="https://img.thesports.com/basketball/competition/86f522333da4c3e2c144996fc4d2520b.png", ⚽ Washington Mystics vs Dallas Wings lúc 06:30 ngày 06/08/2026
-https://playback.livetl001.com/live/6a02c3637fd690a3410710a5_1080p.flv
+#EXTINF:-1 group-title="Gavang - Bóng đá" tvg-logo="https://img.thesports.com/football/competition/29d9b5a07b9ef4c89588e271a263027d.png", ⚽ FK Aktobe II vs Ekibastuz luc 20:00 ngay 06/08/2026
+https://playback.livetl001.com/live/6a5b13ceb36a14387baeddaa_1080p.flv
+#EXTINF:-1 group-title="Gavang - Bóng đá" tvg-logo="https://img.thesports.com/football/competition/88637a74a2cbd634b8b9504a60d711cd.png", ⚽ FK Jablonec vs RFS luc 23:00 ngay 06/08/2026
+https://playback.livetl001.com/live/6a01a2511e8555d7a3685f5c_1080p.m3u8
+#EXTINF:-1 group-title="Gavang - Bóng đá" tvg-logo="https://img.thesports.com/football/competition/88637a74a2cbd634b8b9504a60d711cd.png", ⚽ Paide Linnameeskond vs SK Rapid Wien luc 23:00 ngay 06/08/2026
+https://playback.livetl001.com/live/69be75e0a0a45974afb67776_1080p.flv
+#EXTINF:-1 group-title="Gavang - Bóng đá" tvg-logo="https://img.thesports.com/football/competition/88637a74a2cbd634b8b9504a60d711cd.png", ⚽ CFR Cluj vs Tromso IL luc 23:30 ngay 06/08/2026
+https://playback.livetl001.com/live/69ef10b47146e04fbe6d4363_1080p.flv
+#EXTINF:-1 group-title="Gavang - Bóng rổ" tvg-logo="https://img.thesports.com/basketball/competition/86f522333da4c3e2c144996fc4d2520b.png", ⚽ Chicago Sky vs Los Angeles Sparks lúc 08:00 ngày 06/08/2026
+https://playback.livetl001.com/live/69d37c3a4da3e15776b6db56_1080p.m3u8
+#EXTINF:-1 group-title="Gavang - Bóng rổ" tvg-logo="https://img.thesports.com/basketball/competition/a07e13b5b4e03beb0e060907570dd569.png", ⚽ Pasig City vs Bulacan Kuyas lúc 14:00 ngày 06/08/2026
+https://playback.livetl001.com/live/6a02c3637fd690a3410710a5_1080p.m3u8
