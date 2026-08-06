@@ -1,3 +1,5 @@
 #EXTM3U
-#EXTINF:-1 group-title="Gavang - Bóng đá" tvg-logo="https://img.thesports.com/football/competition/ac05535bde17129cb598311242b3afba.png", ⚽ Aarhus AGF vs Sabah Baku luc 00:10 ngay 06/08/2026
-https://playback.livetl001.com/live/69aa9525f5ec459ae275b43f_1080p.flv
+#EXTINF:-1 group-title="Gavang - Bóng rổ" tvg-logo="https://img.thesports.com/basketball/competition/86f522333da4c3e2c144996fc4d2520b.png", ⚽ Indiana Fever vs Las Vegas Aces lúc 06:00 ngày 07/08/2026
+https://playback.livetl001.com/live/69d37c3a4da3e15776b6db56_1080p.m3u8
+#EXTINF:-1 group-title="Gavang - Bóng rổ" tvg-logo="https://img.thesports.com/basketball/competition/86f522333da4c3e2c144996fc4d2520b.png", ⚽ Minnesota Lynx vs Los Angeles Sparks lúc 08:00 ngày 07/08/2026
+https://playback.livetl001.com/live/6a02c3637fd690a3410710a5_1080p.flv
