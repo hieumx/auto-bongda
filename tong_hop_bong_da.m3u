@@ -1,8 +1,4 @@
 #EXTM3U
-#EXTINF:-1 group-title="Gavang - Bóng đá" tvg-logo="https://img.thesports.com/football/competition/944fcefc160f78322ddcc68ec995040e.png", ⚽ Estoril vs FC Famalicao luc 02:15 ngay 08/08/2026
-https://playback.livetl001.com/live/69ef10b47146e04fbe6d4363_1080p.flv
-#EXTINF:-1 group-title="Gavang - Bóng đá" tvg-logo="https://img.thesports.com/football/competition/6813ba1ebe40c6bc7bb1b081d916a1a6.png", ⚽ Operario Ferroviario PR vs Sao Bernardo luc 05:30 ngay 08/08/2026
-https://playback.livetl001.com/live/69cf6331585c5992182f4160_1080p.flv
 #EXTINF:-1 group-title="Gavang - Bóng đá" tvg-logo="https://img.thesports.com/football/competition/6813ba1ebe40c6bc7bb1b081d916a1a6.png", ⚽ Ceara vs Ponte Preta luc 06:30 ngay 08/08/2026
 https://playback.livetl001.com/live/69a1aaa7230584579e2d5ce1_1080p.flv
 #EXTINF:-1 group-title="Gavang - Bóng đá" tvg-logo="https://img.thesports.com/football/competition/fee37a97f3d0e08209e4846fcff45cba.png", ⚽ Univ Catolica vs Cobresal luc 07:30 ngay 08/08/2026
@@ -17,3 +13,11 @@ https://playback.livetl001.com/live/69f42e961f739deff81510c0_1080p.flv
 https://playback.livetl001.com/live/6a5b13ceb36a14387baeddaa_1080p.flv
 #EXTINF:-1 group-title="Gavang - Bóng đá" tvg-logo="https://img.thesports.com/football/competition/aad52ee6d650628d65f1cc2b5cda10ab.png", ⚽ Nagoya Grampus vs Shimizu S Pulse luc 17:00 ngay 08/08/2026
 https://playback.livetl001.com/live/69aa9525f5ec459ae275b43f_1080p.flv
+#EXTINF:-1 group-title="Gavang - Bóng đá" tvg-logo="https://img.thesports.com/football/competition/aad52ee6d650628d65f1cc2b5cda10ab.png", ⚽ Sanfrecce Hiroshima vs JEF United Ichihara Chiba luc 17:15 ngay 08/08/2026
+https://playback.livetl001.com/live/69cf6331585c5992182f4160_1080p.flv
+#EXTINF:-1 group-title="Gavang - Bóng đá" tvg-logo="https://img.thesports.com/football/competition/c080bb97363f9be7ca4fca327c56ec0d.png", ⚽ Pohang Steelers vs Ulsan HD FC luc 18:00 ngay 08/08/2026
+https://playback.livetl001.com/live/6a01a2511e8555d7a3685f5c_1080p.flv
+#EXTINF:-1 group-title="Gavang - Bóng đá" tvg-logo="https://img.thesports.com/football/competition/944fcefc160f78322ddcc68ec995040e.png", ⚽ Estoril vs FC Famalicao luc 02:15 ngay 08/08/2026
+https://playback.livetl001.com/live/69ef10b47146e04fbe6d4363_1080p.flv
+#EXTINF:-1 group-title="Gavang - Bóng rổ" tvg-logo="https://img.thesports.com/basketball/competition/86f522333da4c3e2c144996fc4d2520b.png", ⚽ Washington Mystics vs Atlanta Dream lúc 06:30 ngày 08/08/2026
+https://playback.livetl001.com/live/6a02c3637fd690a3410710a5_1080p.flv
