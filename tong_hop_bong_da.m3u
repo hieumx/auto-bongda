@@ -1,4 +1,18 @@
 #EXTM3U
+#EXTINF:-1 group-title="Gavang - Bóng đá" tvg-logo="https://img.thesports.com/football/competition/31778c5ab158dc7d7563f959aec7a303.png", ⚽ Singapore vs Indonesia luc 20:00 ngay 07/08/2026
+https://playback.livetl001.com/live/69a1aaa7230584579e2d5ce1_1080p.flv
+#EXTINF:-1 group-title="Gavang - Bóng đá" tvg-logo="https://img.thesports.com/football/competition/31778c5ab158dc7d7563f959aec7a303.png", ⚽ Vietnam vs Cambodia luc 20:00 ngay 07/08/2026
+https://playback.livetl001.com/live/69f42e961f739deff81510c0_1080p.flv
+#EXTINF:-1 group-title="Gavang - Bóng đá" tvg-logo="https://img.thesports.com/football/competition/37436633e76bc4f38fc252d6cf2b8e2c.png", ⚽ Queensland Lions SC vs Brisbane Roar Youth luc 15:30 ngay 07/08/2026
+https://playback.livetl001.com/live/69cf6331585c5992182f4160_1080p.flv
+#EXTINF:-1 group-title="Gavang - Bóng đá" tvg-logo="https://img.thesports.com/football/competition/077498aa221410ff314434a011e8d65f.png", ⚽ Adelaide Comets FC vs Metrostars SC luc 15:45 ngay 07/08/2026
+https://playback.livetl001.com/live/6a2a59b347bbddd62a8dc4e4_1080p.flv
+#EXTINF:-1 group-title="Gavang - Bóng đá" tvg-logo="https://img.thesports.com/football/competition/785cc536013fe705d519fb0ff095b6c1.png", ⚽ Tsirang FC vs Thimphu City luc 16:00 ngay 07/08/2026
+https://playback.livetl001.com/live/69be75e0a0a45974afb67776_1080p.flv
+#EXTINF:-1 group-title="Gavang - Bóng đá" tvg-logo="https://img.thesports.com/football/competition/077498aa221410ff314434a011e8d65f.png", ⚽ Adelaide City FC vs Playford City luc 17:00 ngay 07/08/2026
+https://playback.livetl001.com/live/6a0c7c4b1ae4d6db02433c48_1080p.flv
+#EXTINF:-1 group-title="Gavang - Bóng đá" tvg-logo="https://img.thesports.com/football/competition/aad52ee6d650628d65f1cc2b5cda10ab.png", ⚽ Gamba Osaka vs Urawa Red Diamonds luc 17:30 ngay 07/08/2026
+https://playback.livetl001.com/live/69aa9525f5ec459ae275b43f_1080p.flv
 #EXTINF:-1 group-title="Gavang - Bóng đá" tvg-logo="https://img.thesports.com/football/competition/cd536caf88f06782e8e5b2a89c0a5579.png", ⚽ Gyeongnam FC vs Daegu FC luc 18:00 ngay 07/08/2026
 https://playback.livetl001.com/live/6a439a7fb89dded67b208b87_1080p.flv
 #EXTINF:-1 group-title="Gavang - Bóng đá" tvg-logo="https://img.thesports.com/football/competition/cd536caf88f06782e8e5b2a89c0a5579.png", ⚽ Hwaseong FC vs Seoul E Land FC luc 18:00 ngay 07/08/2026
@@ -9,9 +23,9 @@ https://playback.livetl001.com/live/6a01a2511e8555d7a3685f5c_1080p.flv
 https://playback.livetl001.com/live/69ef10b47146e04fbe6d4363_1080p.flv
 #EXTINF:-1 group-title="Gavang - Bóng đá" tvg-logo="https://img.thesports.com/football/competition/df4c34bf97b380d1e30b84c509ff0354.png", ⚽ Beijing Guoan FC vs Shenzhen Peng City FC luc 18:35 ngay 07/08/2026
 https://playback.livetl001.com/live/6a5df755b89dded67b39b8bc_1080p.flv
-#EXTINF:-1 group-title="Gavang - Bóng đá" tvg-logo="https://img.thesports.com/football/competition/2440249cd19586c39de8e05d55cc6b0d.png", ⚽ Bayern Munich vs Aston Villa luc 19:00 ngay 07/08/2026
-https://playback.livetl001.com/live/69be75e0a0a45974afb67776_1080p.flv
-#EXTINF:-1 group-title="Gavang - Bóng rổ" tvg-logo="https://img.thesports.com/basketball/competition/86f522333da4c3e2c144996fc4d2520b.png", ⚽ Minnesota Lynx vs Los Angeles Sparks lúc 08:00 ngày 07/08/2026
-https://playback.livetl001.com/live/6a02c3637fd690a3410710a5_1080p.m3u8
-#EXTINF:-1 group-title="Gavang - Bóng rổ" tvg-logo="https://img.thesports.com/basketball/competition/86f522333da4c3e2c144996fc4d2520b.png", ⚽ Portland Fire vs Toronto Tempo lúc 09:00 ngày 07/08/2026
-https://playback.livetl001.com/live/69d37c3a4da3e15776b6db56_1080p.m3u8
+#EXTINF:-1 group-title="Gavang - Bóng rổ" tvg-logo="https://img.thesports.com/basketball/competition/8eb56031807d511a63c16fa7c804e7dc.png", ⚽ Terrafirma Dyip vs NLEX Road Warriors lúc 16:15 ngày 07/08/2026
+https://playback.livetl001.com/live/69d37c3a4da3e15776b6db56_1080p.flv
+#EXTINF:-1 group-title="Gavang - Bóng rổ" tvg-logo="https://img.thesports.com/basketball/competition/8eb56031807d511a63c16fa7c804e7dc.png", ⚽ Magnolia Hotshots vs Meralco Bolts lúc 18:30 ngày 07/08/2026
+https://playback.livetl001.com/live/6a02c3637fd690a3410710a5_1080p.flv
+#EXTINF:-1 group-title="Gavang - Bóng rổ" tvg-logo="https://img.thesports.com/basketball/competition/48168568dd824069e69edc3ccd7dc42a.png", ⚽ Abejas de León vs Astros de Jalisco lúc 09:00 ngày 07/08/2026
+https://playback.livetl003.com/live/69d37c3a4da3e15776b6db56.m3u8
