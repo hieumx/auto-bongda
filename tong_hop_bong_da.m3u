@@ -1,5 +1,17 @@
 #EXTM3U
-#EXTINF:-1 group-title="Gavang - Bóng rổ" tvg-logo="https://img.thesports.com/basketball/competition/86f522333da4c3e2c144996fc4d2520b.png", ⚽ Indiana Fever vs Las Vegas Aces lúc 06:00 ngày 07/08/2026
-https://playback.livetl001.com/live/69d37c3a4da3e15776b6db56_1080p.m3u8
+#EXTINF:-1 group-title="Gavang - Bóng đá" tvg-logo="https://img.thesports.com/football/competition/cd536caf88f06782e8e5b2a89c0a5579.png", ⚽ Gyeongnam FC vs Daegu FC luc 18:00 ngay 07/08/2026
+https://playback.livetl001.com/live/6a439a7fb89dded67b208b87_1080p.flv
+#EXTINF:-1 group-title="Gavang - Bóng đá" tvg-logo="https://img.thesports.com/football/competition/cd536caf88f06782e8e5b2a89c0a5579.png", ⚽ Hwaseong FC vs Seoul E Land FC luc 18:00 ngay 07/08/2026
+https://playback.livetl001.com/live/6a5b13ceb36a14387baeddaa_1080p.flv
+#EXTINF:-1 group-title="Gavang - Bóng đá" tvg-logo="https://img.thesports.com/football/competition/cd536caf88f06782e8e5b2a89c0a5579.png", ⚽ Suwon Samsung Bluewings vs Gimhae City luc 18:00 ngay 07/08/2026
+https://playback.livetl001.com/live/6a01a2511e8555d7a3685f5c_1080p.flv
+#EXTINF:-1 group-title="Gavang - Bóng đá" tvg-logo="https://img.thesports.com/football/competition/cd536caf88f06782e8e5b2a89c0a5579.png", ⚽ Yongin FC vs Busan I Park luc 18:00 ngay 07/08/2026
+https://playback.livetl001.com/live/69ef10b47146e04fbe6d4363_1080p.flv
+#EXTINF:-1 group-title="Gavang - Bóng đá" tvg-logo="https://img.thesports.com/football/competition/df4c34bf97b380d1e30b84c509ff0354.png", ⚽ Beijing Guoan FC vs Shenzhen Peng City FC luc 18:35 ngay 07/08/2026
+https://playback.livetl001.com/live/6a5df755b89dded67b39b8bc_1080p.flv
+#EXTINF:-1 group-title="Gavang - Bóng đá" tvg-logo="https://img.thesports.com/football/competition/2440249cd19586c39de8e05d55cc6b0d.png", ⚽ Bayern Munich vs Aston Villa luc 19:00 ngay 07/08/2026
+https://playback.livetl001.com/live/69be75e0a0a45974afb67776_1080p.flv
 #EXTINF:-1 group-title="Gavang - Bóng rổ" tvg-logo="https://img.thesports.com/basketball/competition/86f522333da4c3e2c144996fc4d2520b.png", ⚽ Minnesota Lynx vs Los Angeles Sparks lúc 08:00 ngày 07/08/2026
-https://playback.livetl001.com/live/6a02c3637fd690a3410710a5_1080p.flv
+https://playback.livetl001.com/live/6a02c3637fd690a3410710a5_1080p.m3u8
+#EXTINF:-1 group-title="Gavang - Bóng rổ" tvg-logo="https://img.thesports.com/basketball/competition/86f522333da4c3e2c144996fc4d2520b.png", ⚽ Portland Fire vs Toronto Tempo lúc 09:00 ngày 07/08/2026
+https://playback.livetl001.com/live/69d37c3a4da3e15776b6db56_1080p.m3u8
