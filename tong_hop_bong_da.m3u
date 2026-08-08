@@ -1,13 +1,7 @@
 #EXTM3U
-#EXTINF:-1 group-title="Gavang - Bóng đá" tvg-logo="https://img.thesports.com/football/competition/eab6e349cf5811408c0628a774724869.png", ⚽ Wolfsburg vs Kaiserslautern luc 01:30 ngay 09/08/2026
-https://playback.livetl001.com/live/6a704ad865997681f18c2160_1080p.m3u8
-#EXTINF:-1 group-title="Gavang - Bóng đá" tvg-logo="https://img.thesports.com/football/competition/944fcefc160f78322ddcc68ec995040e.png", ⚽ CFEA vs SCP luc 02:30 ngay 09/08/2026
-https://playback.livetl001.com/live/69ef10b47146e04fbe6d4363_1080p.m3u8
-#EXTINF:-1 group-title="Gavang - Bóng đá" tvg-logo="https://img.thesports.com/football/competition/5ad7bd885c64690f15f6971a2827190d.png", ⚽ Remo Belem vs Atlético Mineiro - MG luc 04:30 ngay 09/08/2026
-https://playback.livetl001.com/live/69a1aaa7230584579e2d5ce1_1080p.flv
-#EXTINF:-1 group-title="Gavang - Bóng đá" tvg-logo="https://img.thesports.com/football/competition/5ad7bd885c64690f15f6971a2827190d.png", ⚽ Coritiba PR vs Chapecoense SC luc 06:30 ngay 09/08/2026
+#EXTINF:-1 group-title="Gavang - Bóng đá" tvg-logo="https://img.thesports.com/football/competition/d9ffadf863b3490aaefe0c42b2570440.png", ⚽ Monarcas Morelia vs Cancun luc 08:00 ngay 09/08/2026
+https://playback.livetl001.com/live/69a1aaa7230584579e2d5ce1_1080p.m3u8
+#EXTINF:-1 group-title="Gavang - Bóng đá" tvg-logo="https://img.thesports.com/football/competition/b247c26e45a61b6eaaab421c3bad22c8.png", ⚽ Ilves Tampere vs IFK Mariehamn luc 22:00 ngay 09/08/2026
 https://playback.livetl001.com/live/69be75e0a0a45974afb67776_1080p.flv
-#EXTINF:-1 group-title="Gavang - Bóng đá" tvg-logo="https://img.thesports.com/football/competition/5ad7bd885c64690f15f6971a2827190d.png", ⚽ Botafogo RJ vs Fluminense RJ luc 07:00 ngay 09/08/2026
-https://playback.livetl001.com/live/6a2a59b347bbddd62a8dc4e4_1080p.flv
 #EXTINF:-1 group-title="Gavang - Bóng rổ" tvg-logo="https://img.thesports.com/basketball/competition/86f522333da4c3e2c144996fc4d2520b.png", ⚽ Chicago Sky vs Indiana Fever lúc 02:30 ngày 09/08/2026
-https://playback.livetl001.com/live/6a02c3637fd690a3410710a5_1080p.flv
+https://playback.livetl001.com/live/6a02c3637fd690a3410710a5_1080p.m3u8
