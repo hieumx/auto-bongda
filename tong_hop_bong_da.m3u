@@ -1,5 +1,9 @@
 #EXTM3U
+#EXTINF:-1 group-title="Gavang - Bóng đá" tvg-logo="https://img.thesports.com/football/competition/aad52ee6d650628d65f1cc2b5cda10ab.png", ⚽ FC Tokyo vs Machida Zelvia luc 17:00 ngay 08/08/2026
+https://playback.livetl001.com/live/69b8e6f43bcf2231c35d5144_1080p.flv
+#EXTINF:-1 group-title="Gavang - Bóng đá" tvg-logo="https://img.thesports.com/football/competition/aad52ee6d650628d65f1cc2b5cda10ab.png", ⚽ Avispa Fukuoka vs Vissel Kobe luc 17:00 ngay 08/08/2026
+https://playback.livetl001.com/live/6a439a7fb89dded67b208b87_1080p.m3u8
 #EXTINF:-1 group-title="Gavang - Bóng rổ" tvg-logo="https://img.thesports.com/basketball/competition/a07e13b5b4e03beb0e060907570dd569.png", ⚽ Pasay Voyagers vs Rizal Xentro Mall Golden Coolers lúc 16:00 ngày 08/08/2026
-https://playback.livetl001.com/live/6a02c3637fd690a3410710a5_1080p.flv
+https://playback.livetl001.com/live/6a02c3637fd690a3410710a5_1080p.m3u8
 #EXTINF:-1 group-title="Gavang - Bóng rổ" tvg-logo="https://img.thesports.com/basketball/competition/a07e13b5b4e03beb0e060907570dd569.png", ⚽ Ilagan Isabela Cowboys vs Meycauayan lúc 18:00 ngày 08/08/2026
 https://playback.livetl001.com/live/69d37c3a4da3e15776b6db56_1080p.flv
