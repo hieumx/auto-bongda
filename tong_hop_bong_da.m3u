@@ -1,11 +1,7 @@
 #EXTM3U
-#EXTINF:-1 group-title="Gavang - Bóng đá" tvg-logo="https://img.thesports.com/football/competition/1153a2a392758c4e220c71bd57a31052.png", ⚽ San Diego FC vs Club Tijuana luc 09:00 ngay 10/08/2026
-https://playback.livetl001.com/live/69b8e6f43bcf2231c35d5144_1080p.flv
-#EXTINF:-1 group-title="Gavang - Bóng đá" tvg-logo="https://img.thesports.com/football/competition/944fcefc160f78322ddcc68ec995040e.png", ⚽ Gil Vicente vs Rio Ave luc 02:30 ngay 10/08/2026
-https://playback.livetl001.com/live/69cf6331585c5992182f4160_1080p.flv
-#EXTINF:-1 group-title="Gavang - Bóng đá" tvg-logo="https://img.thesports.com/football/competition/d4d461679eedfed50374d47d84431ef3.png", ⚽ Fakel vs Akhmat Grozny luc 23:30 ngay 10/08/2026
-https://playback.livetl001.com/live/6a439a7fb89dded67b208b87_1080p.flv
-#EXTINF:-1 group-title="Gavang - Bóng rổ" tvg-logo="https://img.thesports.com/basketball/competition/86f522333da4c3e2c144996fc4d2520b.png", ⚽ Minnesota Lynx vs Dallas Wings lúc 02:30 ngày 10/08/2026
-https://playback.livetl001.com/live/6a02c3637fd690a3410710a5_1080p.flv
-#EXTINF:-1 group-title="Gavang - Bóng rổ" tvg-logo="https://img.thesports.com/basketball/competition/86f522333da4c3e2c144996fc4d2520b.png", ⚽ Los Angeles Sparks vs Golden State Valkyries lúc 06:00 ngày 10/08/2026
+#EXTINF:-1 group-title="Gavang - Bóng rổ" tvg-logo="https://img.thesports.com/basketball/competition/a07e13b5b4e03beb0e060907570dd569.png", ⚽ Paranaque Patriots vs Biñan Tatak Gel lúc 14:00 ngày 10/08/2026
+https://playback.livetl001.com/live/6a77144762ca98f0944094c0_1080p.flv
+#EXTINF:-1 group-title="Gavang - Bóng rổ" tvg-logo="https://img.thesports.com/basketball/competition/a07e13b5b4e03beb0e060907570dd569.png", ⚽ Marikina Shoemasters vs Mindoro Tamaraws lúc 16:00 ngày 10/08/2026
 https://playback.livetl001.com/live/69d37c3a4da3e15776b6db56_1080p.flv
+#EXTINF:-1 group-title="Gavang - Bóng rổ" tvg-logo="https://img.thesports.com/basketball/competition/b464769bcbee956b1b529c27b2b2b780.png", ⚽ Shih Hsin University Women vs Mongolia Women lúc 15:00 ngày 10/08/2026
+https://playback.livetl003.com/live/6a77144762ca98f0944094c0.m3u8
