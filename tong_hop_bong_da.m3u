@@ -1,7 +1,5 @@
 #EXTM3U
-#EXTINF:-1 group-title="Gavang - Bóng rổ" tvg-logo="https://img.thesports.com/basketball/competition/a07e13b5b4e03beb0e060907570dd569.png", ⚽ Paranaque Patriots vs Biñan Tatak Gel lúc 14:00 ngày 10/08/2026
-https://playback.livetl001.com/live/6a77144762ca98f0944094c0_1080p.flv
 #EXTINF:-1 group-title="Gavang - Bóng rổ" tvg-logo="https://img.thesports.com/basketball/competition/a07e13b5b4e03beb0e060907570dd569.png", ⚽ Marikina Shoemasters vs Mindoro Tamaraws lúc 16:00 ngày 10/08/2026
-https://playback.livetl001.com/live/69d37c3a4da3e15776b6db56_1080p.flv
-#EXTINF:-1 group-title="Gavang - Bóng rổ" tvg-logo="https://img.thesports.com/basketball/competition/b464769bcbee956b1b529c27b2b2b780.png", ⚽ Shih Hsin University Women vs Mongolia Women lúc 15:00 ngày 10/08/2026
-https://playback.livetl003.com/live/6a77144762ca98f0944094c0.m3u8
+https://playback.livetl001.com/live/69d37c3a4da3e15776b6db56_1080p.m3u8
+#EXTINF:-1 group-title="Gavang - Bóng rổ" tvg-logo="https://img.thesports.com/basketball/competition/a07e13b5b4e03beb0e060907570dd569.png", ⚽ Manila Batang Quiapo vs San Juan Knights lúc 18:00 ngày 10/08/2026
+https://playback.livetl001.com/live/6a77144762ca98f0944094c0_1080p.flv
