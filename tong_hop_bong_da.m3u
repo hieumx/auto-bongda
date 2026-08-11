@@ -1,9 +1,5 @@
 #EXTM3U
-#EXTINF:-1 group-title="Gavang - Bóng đá" tvg-logo="https://img.thesports.com/football/competition/2c764cfc9ae1beacd2dcb28cb831755a.png", ⚽ Queensland Lions SC vs Melbourne City luc 16:30 ngay 11/08/2026
-https://playback.livetl001.com/live/6a439a7fb89dded67b208b87_1080p.flv
-#EXTINF:-1 group-title="Gavang - Bóng rổ" tvg-logo="https://img.thesports.com/basketball/competition/86f522333da4c3e2c144996fc4d2520b.png", ⚽ Atlanta Dream vs Toronto Tempo lúc 07:00 ngày 11/08/2026
-https://playback.livetl001.com/live/6a77144762ca98f0944094c0_1080p.flv
 #EXTINF:-1 group-title="Gavang - Bóng rổ" tvg-logo="https://img.thesports.com/basketball/competition/86f522333da4c3e2c144996fc4d2520b.png", ⚽ Seattle Storm vs Chicago Sky lúc 09:00 ngày 11/08/2026
-https://playback.livetl001.com/live/69d37c3a4da3e15776b6db56_1080p.flv
+https://playback.livetl001.com/live/69d37c3a4da3e15776b6db56_1080p.m3u8
 #EXTINF:-1 group-title="Gavang - Bóng rổ" tvg-logo="https://img.thesports.com/basketball/competition/a07e13b5b4e03beb0e060907570dd569.png", ⚽ Caloocan Batang Kankaloo vs GenSan Warriors lúc 18:00 ngày 11/08/2026
-https://playback.livetl001.com/live/6a77144762ca98f0944094c0_1080p.m3u8
+https://playback.livetl001.com/live/6a77144762ca98f0944094c0_1080p.flv
