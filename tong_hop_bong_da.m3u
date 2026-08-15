@@ -1,3 +1,7 @@
 #EXTM3U
-#EXTINF:-1 group-title="Gavang - Bóng rổ" tvg-logo="https://img.thesports.com/basketball/competition/86f522333da4c3e2c144996fc4d2520b.png", ⚽ Seattle Storm vs Portland Fire lúc 09:00 ngày 15/08/2026
-https://playback.livetl001.com/live/6a77144762ca98f0944094c0_1080p.flv
+#EXTINF:-1 group-title="Gavang - Bóng đá" tvg-logo="https://img.thesports.com/football/competition/aad52ee6d650628d65f1cc2b5cda10ab.png", ⚽ Mito Hollyhock vs Gamba Osaka luc 16:00 ngay 15/08/2026
+https://playback.livetl001.com/live/69a1aaa7230584579e2d5ce1_1080p.flv
+#EXTINF:-1 group-title="Gavang - Bóng rổ" tvg-logo="https://img.thesports.com/basketball/competition/a07e13b5b4e03beb0e060907570dd569.png", ⚽ San Juan Knights vs Imus Agimat lúc 16:00 ngày 15/08/2026
+https://playback.livetl001.com/live/6a77144762ca98f0944094c0_1080p.m3u8
+#EXTINF:-1 group-title="Gavang - Bóng rổ" tvg-logo="https://img.thesports.com/basketball/competition/a07e13b5b4e03beb0e060907570dd569.png", ⚽ Pasay Voyagers vs Marikina Shoemasters lúc 18:00 ngày 15/08/2026
+https://playback.livetl001.com/live/69d37c3a4da3e15776b6db56_1080p.flv
