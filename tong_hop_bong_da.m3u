@@ -1,7 +1,21 @@
 #EXTM3U
-#EXTINF:-1 group-title="Gavang - Bóng đá" tvg-logo="https://img.thesports.com/football/competition/aad52ee6d650628d65f1cc2b5cda10ab.png", ⚽ Mito Hollyhock vs Gamba Osaka luc 16:00 ngay 15/08/2026
-https://playback.livetl001.com/live/69a1aaa7230584579e2d5ce1_1080p.flv
-#EXTINF:-1 group-title="Gavang - Bóng rổ" tvg-logo="https://img.thesports.com/basketball/competition/a07e13b5b4e03beb0e060907570dd569.png", ⚽ San Juan Knights vs Imus Agimat lúc 16:00 ngày 15/08/2026
+#EXTINF:-1 group-title="Gavang - Bóng đá" tvg-logo="https://img.thesports.com/football/competition/2440249cd19586c39de8e05d55cc6b0d.png", ⚽ Newcastle vs Bayer Leverkusen luc 21:00 ngay 15/08/2026
+https://playback.livetl001.com/live/6a5df755b89dded67b39b8bc_1080p.m3u8
+#EXTINF:-1 group-title="Gavang - Bóng đá" tvg-logo="https://img.thesports.com/football/competition/2440249cd19586c39de8e05d55cc6b0d.png", ⚽ Fulham vs Stuttgart luc 22:00 ngay 15/08/2026
+https://playback.livetl001.com/live/69a1aaa7230584579e2d5ce1_1080p.m3u8
+#EXTINF:-1 group-title="Gavang - Bóng đá" tvg-logo="https://img.thesports.com/football/competition/d4d461679eedfed50374d47d84431ef3.png", ⚽ FK Rostov vs Rubin Kazan luc 22:30 ngay 15/08/2026
+https://playback.livetl001.com/live/69b8e6f43bcf2231c35d5144_1080p.flv
+#EXTINF:-1 group-title="Gavang - Bóng đá" tvg-logo="https://img.thesports.com/football/competition/b247c26e45a61b6eaaab421c3bad22c8.png", ⚽ IFK Mariehamn vs SJK Seinajoen luc 23:00 ngay 15/08/2026
+https://playback.livetl001.com/live/6a439a7fb89dded67b208b87_1080p.flv
+#EXTINF:-1 group-title="Gavang - Bóng đá" tvg-logo="https://img.thesports.com/football/competition/88c3b85732ee112ba91f7868272d1aa1.png", ⚽ Kasimpasa vs Trabzonspor luc 23:00 ngay 15/08/2026
+https://playback.livetl001.com/live/69aa9525f5ec459ae275b43f_1080p.m3u8
+#EXTINF:-1 group-title="Gavang - Bóng đá" tvg-logo="https://img.thesports.com/football/competition/349caefc8ea220e4e840776502a67d90.png", ⚽ Sheffield United vs Birmingham City luc 23:30 ngay 15/08/2026
+https://playback.livetl001.com/live/69f42e961f739deff81510c0_1080p.m3u8
+#EXTINF:-1 group-title="Gavang - Bóng rổ" tvg-logo="https://img.thesports.com/basketball/competition/449789c2ab1c50d5bba635ff557ee1d5.png", ⚽ Da Nang Dragons vs Nha Trang Dolphins lúc 19:30 ngày 15/08/2026
 https://playback.livetl001.com/live/6a77144762ca98f0944094c0_1080p.m3u8
+#EXTINF:-1 group-title="Gavang - Bóng rổ" tvg-logo="https://img.thesports.com/basketball/competition/a07e13b5b4e03beb0e060907570dd569.png", ⚽ San Juan Knights vs Imus Agimat lúc 16:00 ngày 15/08/2026
+https://playback.livetl001.com/live/6a77144762ca98f0944094c0_1080p.flv
 #EXTINF:-1 group-title="Gavang - Bóng rổ" tvg-logo="https://img.thesports.com/basketball/competition/a07e13b5b4e03beb0e060907570dd569.png", ⚽ Pasay Voyagers vs Marikina Shoemasters lúc 18:00 ngày 15/08/2026
-https://playback.livetl001.com/live/69d37c3a4da3e15776b6db56_1080p.flv
+https://playback.livetl001.com/live/69d37c3a4da3e15776b6db56_1080p.m3u8
+#EXTINF:-1 group-title="Gavang - Bóng rổ" tvg-logo="https://img.thesports.com/basketball/competition/86c397baad3b2073cdcd8823c8e3f55d.png", ⚽ Taiwan Beer vs Bank of Taiwan lúc 15:30 ngày 15/08/2026
+https://playback.livetl003.com/live/69d37c3a4da3e15776b6db56.m3u8
