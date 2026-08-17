@@ -1,5 +1,9 @@
 #EXTM3U
+#EXTINF:-1 group-title="Gavang - Bóng đá" tvg-logo="https://img.thesports.com/football/competition/e7d8a305f30ef391501720bf30326072.png", ⚽ Pisa vs Empoli luc 23:00 ngay 17/08/2026
+https://playback.livetl001.com/live/69aa9525f5ec459ae275b43f_1080p.flv
+#EXTINF:-1 group-title="Gavang - Bóng đá" tvg-logo="https://img.thesports.com/football/competition/e7d8a305f30ef391501720bf30326072.png", ⚽ Sassuolo vs Cesena luc 23:30 ngay 17/08/2026
+https://playback.livetl001.com/live/6a439a7fb89dded67b208b87_1080p.flv
+#EXTINF:-1 group-title="Gavang - Bóng đá" tvg-logo="https://img.thesports.com/football/competition/5ad7bd885c64690f15f6971a2827190d.png", ⚽ Mirassol vs CR Flamengo luc 04:30 ngay 17/08/2026
+https://playback.livetl001.com/live/6a2a59b347bbddd62a8dc4e4_1080p.m3u8
 #EXTINF:-1 group-title="Gavang - Bóng rổ" tvg-logo="https://img.thesports.com/basketball/competition/86f522333da4c3e2c144996fc4d2520b.png", ⚽ Atlanta Dream vs Indiana Fever lúc 04:00 ngày 17/08/2026
 https://playback.livetl001.com/live/6a77144762ca98f0944094c0_1080p.flv
-#EXTINF:-1 group-title="Gavang - Bóng rổ" tvg-logo="https://img.thesports.com/basketball/competition/86f522333da4c3e2c144996fc4d2520b.png", ⚽ Phoenix Mercury vs Portland Fire lúc 06:00 ngày 17/08/2026
-https://playback.livetl001.com/live/69d37c3a4da3e15776b6db56_1080p.flv
