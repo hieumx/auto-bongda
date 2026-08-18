@@ -1,21 +1,5 @@
 #EXTM3U
-#EXTINF:-1 group-title="Gavang - Bóng đá" tvg-logo="https://img.thesports.com/football/competition/0e046e806bd54b6ea05db95101f07401.png", ⚽ Macara vs Universidad Católica luc 07:00 ngay 18/08/2026
-https://playback.livetl001.com/live/6a2a59b347bbddd62a8dc4e4_1080p.m3u8
-#EXTINF:-1 group-title="Gavang - Bóng đá" tvg-logo="https://img.thesports.com/football/competition/2c764cfc9ae1beacd2dcb28cb831755a.png", ⚽ SD Raiders FC vs Sydney FC luc 16:30 ngay 18/08/2026
-https://playback.livetl001.com/live/6a7c0d8f65997681f18cacc4_1080p.flv
-#EXTINF:-1 group-title="Gavang - Bóng đá" tvg-logo="https://img.thesports.com/football/competition/df4c34bf97b380d1e30b84c509ff0354.png", ⚽ Shanghai Shenhua FC vs Beijing Guoan FC luc 18:35 ngay 18/08/2026
-https://playback.livetl001.com/live/6a0c7c4b1ae4d6db02433c48_1080p.flv
-#EXTINF:-1 group-title="Gavang - Bóng đá" tvg-logo="https://img.thesports.com/football/competition/1cf230cafec68bdffd2f7e87d9f6f511.png", ⚽ Sogdiana Jizak vs Qizilqum Zarafshon luc 21:00 ngay 18/08/2026
-https://playback.livetl001.com/live/6a704ad865997681f18c2160_1080p.flv
-#EXTINF:-1 group-title="Gavang - Bóng đá" tvg-logo="https://img.thesports.com/football/competition/1cf230cafec68bdffd2f7e87d9f6f511.png", ⚽ Buxoro FK vs Neftchi Fargona luc 22:00 ngay 18/08/2026
-https://playback.livetl001.com/live/6a01a2511e8555d7a3685f5c_1080p.flv
-#EXTINF:-1 group-title="Gavang - Bóng đá" tvg-logo="https://img.thesports.com/football/competition/f5470371fbfd2700042bdc9801f08bab.png", ⚽ CSKA Moscow vs Akron Togliatti luc 22:30 ngay 18/08/2026
-https://playback.livetl001.com/live/6a5df755b89dded67b39b8bc_1080p.flv
-#EXTINF:-1 group-title="Gavang - Bóng đá" tvg-logo="https://img.thesports.com/football/competition/512ad70c903d879dd601de229029cd00.png", ⚽ Al Najma(KSA) vs Al-Ittihad Club luc 23:15 ngay 18/08/2026
-https://playback.livetl001.com/live/69cf6331585c5992182f4160_1080p.flv
-#EXTINF:-1 group-title="Gavang - Bóng đá" tvg-logo="https://img.thesports.com/football/competition/5ad7bd885c64690f15f6971a2827190d.png", ⚽ Internacional RS vs Remo Belem luc 06:00 ngay 18/08/2026
-https://playback.livetl001.com/live/69ef10b47146e04fbe6d4363_1080p.m3u8
-#EXTINF:-1 group-title="Gavang - Bóng rổ" tvg-logo="https://img.thesports.com/basketball/competition/86f522333da4c3e2c144996fc4d2520b.png", ⚽ Golden State Valkyries vs Dallas Wings lúc 09:00 ngày 18/08/2026
-https://playback.livetl001.com/live/69d37c3a4da3e15776b6db56_1080p.flv
+#EXTINF:-1 group-title="Gavang - Bóng rổ" tvg-logo="https://img.thesports.com/basketball/competition/a07e13b5b4e03beb0e060907570dd569.png", ⚽ Imus Agimat vs Sarangani lúc 16:00 ngày 18/08/2026
+https://playback.livetl001.com/live/69d37c3a4da3e15776b6db56_1080p.m3u8
 #EXTINF:-1 group-title="Gavang - Bóng rổ" tvg-logo="https://img.thesports.com/basketball/competition/a07e13b5b4e03beb0e060907570dd569.png", ⚽ Pasay Voyagers vs Pasig City lúc 18:00 ngày 18/08/2026
 https://playback.livetl001.com/live/6a77144762ca98f0944094c0_1080p.flv
