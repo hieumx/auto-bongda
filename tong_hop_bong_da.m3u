@@ -1,5 +1,23 @@
 #EXTM3U
-#EXTINF:-1 group-title="Gavang - Bóng rổ" tvg-logo="https://img.thesports.com/basketball/competition/346a3e483d9bd198b0afb15f15b10c37.png", ⚽ Malaysia vs California Irvine lúc 12:00 ngày 19/08/2026
-https://playback.livetl001.com/live/6a77144762ca98f0944094c0_1080p.m3u8
+#EXTINF:-1 group-title="Gavang - Bóng đá" tvg-logo="https://img.thesports.com/football/competition/ac05535bde17129cb598311242b3afba.png", ⚽ Hapoel Beer Sheva vs Sabah Baku luc 02:00 ngay 20/08/2026
+https://playback.livetl001.com/live/6a704ad865997681f18c2160_1080p.flv
+#EXTINF:-1 group-title="Gavang - Bóng đá" tvg-logo="https://img.thesports.com/football/competition/ac05535bde17129cb598311242b3afba.png", ⚽ NEC Nijmegen vs FK Bodo/Glimt luc 02:00 ngay 20/08/2026
+https://playback.livetl001.com/live/69f42e961f739deff81510c0_1080p.flv
+#EXTINF:-1 group-title="Gavang - Bóng đá" tvg-logo="https://img.thesports.com/football/competition/6dc05db177804bc70e826a302389b147.png", ⚽ Jeonbuk Hyundai Motors vs Dangjin Citizen luc 17:00 ngay 19/08/2026
+https://playback.livetl001.com/live/6a7ebd86eff66db9cdc2c4b3_1080p.flv
+#EXTINF:-1 group-title="Gavang - Bóng đá" tvg-logo="https://img.thesports.com/football/competition/c1c958040a24d72e754fa04677b39f99.png", ⚽ Preston Lions vs Melbourne City NPL luc 17:30 ngay 19/08/2026
+https://playback.livetl001.com/live/6a439a7fb89dded67b208b87_1080p.flv
+#EXTINF:-1 group-title="Gavang - Bóng đá" tvg-logo="https://img.thesports.com/football/competition/6dc05db177804bc70e826a302389b147.png", ⚽ FC Anyang vs Jeju SK FC luc 17:30 ngay 19/08/2026
+https://playback.livetl001.com/live/6a0c7c4b1ae4d6db02433c48_1080p.flv
+#EXTINF:-1 group-title="Gavang - Bóng đá" tvg-logo="https://img.thesports.com/football/competition/3da730dd9fcdd1805a5e384bb84e21bf.png", ⚽ Altay FK vs Ordabasy luc 20:00 ngay 19/08/2026
+https://playback.livetl001.com/live/6a5df755b89dded67b39b8bc_1080p.flv
+#EXTINF:-1 group-title="Gavang - Bóng đá" tvg-logo="https://img.thesports.com/football/competition/c3ca567177713d1924f670d62e5f9da9.png", ⚽ Veles vs FC Pari Nizhniy Novgorod luc 23:30 ngay 19/08/2026
+https://playback.livetl001.com/live/6a01a2511e8555d7a3685f5c_1080p.flv
+#EXTINF:-1 group-title="Gavang - Bóng đá" tvg-logo="https://img.thesports.com/football/competition/ac05535bde17129cb598311242b3afba.png", ⚽ Dinamo Zagreb vs Viking luc 02:00 ngay 19/08/2026
+https://playback.livetl001.com/live/69ef10b47146e04fbe6d4363_1080p.m3u8
+#EXTINF:-1 group-title="Gavang - Bóng đá" tvg-logo="https://img.thesports.com/football/competition/ac05535bde17129cb598311242b3afba.png", ⚽ Levski Sofia vs AEK Athens luc 02:00 ngay 19/08/2026
+https://playback.livetl001.com/live/69be75e0a0a45974afb67776_1080p.flv
+#EXTINF:-1 group-title="Gavang - Bóng đá" tvg-logo="https://img.thesports.com/football/competition/ac05535bde17129cb598311242b3afba.png", ⚽ Fenerbahce vs OL luc 02:00 ngay 19/08/2026
+https://playback.livetl001.com/live/69cf6331585c5992182f4160_1080p.flv
 #EXTINF:-1 group-title="Gavang - Bóng rổ" tvg-logo="https://img.thesports.com/basketball/competition/346a3e483d9bd198b0afb15f15b10c37.png", ⚽ Japan Jones Team vs Chinese Taipei Blue lúc 18:00 ngày 19/08/2026
 https://playback.livetl001.com/live/69d37c3a4da3e15776b6db56_1080p.flv
