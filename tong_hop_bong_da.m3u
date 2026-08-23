@@ -1,23 +1,31 @@
 #EXTM3U
-#EXTINF:-1 group-title="Gavang - Bóng đá" tvg-logo="https://img.thesports.com/football/competition/1fbbb4be3b47d9465c5badecc3122e07.png", ⚽ Espanyol vs Real Madrid luc 02:30 ngay 23/08/2026
-https://playback.livetl001.com/live/69f42e961f739deff81510c0_1080p.m3u8
-#EXTINF:-1 group-title="Gavang - Bóng đá" tvg-logo="https://img.thesports.com/football/competition/324d7a463a24c4cd35ef83456a1b8d05.png", ⚽ Puebla vs Santos Laguna luc 08:00 ngay 23/08/2026
-https://playback.livetl001.com/live/69cf6331585c5992182f4160_1080p.flv
-#EXTINF:-1 group-title="Gavang - Bóng đá" tvg-logo="https://img.thesports.com/football/competition/324d7a463a24c4cd35ef83456a1b8d05.png", ⚽ Cruz Azul vs Atlas luc 10:00 ngay 23/08/2026
-https://playback.livetl001.com/live/6a2a59b347bbddd62a8dc4e4_1080p.flv
-#EXTINF:-1 group-title="Gavang - Bóng đá" tvg-logo="https://img.thesports.com/football/competition/c3308f60cc17871dd88b2bbc690734a3.png", ⚽ Charleston Battery vs Miami FC luc 06:30 ngay 23/08/2026
-https://playback.livetl001.com/live/69be75e0a0a45974afb67776_1080p.flv
-#EXTINF:-1 group-title="Gavang - Bóng đá" tvg-logo="https://img.thesports.com/football/competition/3549f192c75cbc737a05fd51ecad383e.png", ⚽ Everton vs Crystal Palace luc 21:00 ngay 22/08/2026
-https://playback.livetl001.com/live/69ef10b47146e04fbe6d4363_1080p.flv
-#EXTINF:-1 group-title="Gavang - Bóng đá" tvg-logo="https://img.thesports.com/football/competition/3549f192c75cbc737a05fd51ecad383e.png", ⚽ Ipswich vs Sunderland luc 21:00 ngay 22/08/2026
+#EXTINF:-1 group-title="Gavang - Bóng đá" tvg-logo="https://img.thesports.com/football/competition/3549f192c75cbc737a05fd51ecad383e.png", ⚽ Brighton vs Aston Villa luc 20:00 ngay 23/08/2026
 https://playback.livetl001.com/live/69b8e6f43bcf2231c35d5144_1080p.flv
-#EXTINF:-1 group-title="Gavang - Bóng đá" tvg-logo="https://img.thesports.com/football/competition/6b38f4015a6b3309ad9462e6ce27ae99.png", ⚽ Genoa vs Napoli luc 01:45 ngay 23/08/2026
-https://playback.livetl001.com/live/6a01a2511e8555d7a3685f5c_1080p.flv
-#EXTINF:-1 group-title="Gavang - Bóng đá" tvg-logo="https://img.thesports.com/football/competition/6b38f4015a6b3309ad9462e6ce27ae99.png", ⚽ Parma vs Cagliari luc 01:45 ngay 23/08/2026
-https://playback.livetl001.com/live/6a704ad865997681f18c2160_1080p.flv
-#EXTINF:-1 group-title="Gavang - Bóng đá" tvg-logo="https://img.thesports.com/football/competition/6e13222836235b121c1af3bc3055e76b.png", ⚽ Nice vs Lorient luc 01:45 ngay 23/08/2026
+#EXTINF:-1 group-title="Gavang - Bóng đá" tvg-logo="https://img.thesports.com/football/competition/3549f192c75cbc737a05fd51ecad383e.png", ⚽ Man City vs Bournemouth luc 20:00 ngay 23/08/2026
+https://playback.livetl001.com/live/69f42e961f739deff81510c0_1080p.flv
+#EXTINF:-1 group-title="Gavang - Bóng đá" tvg-logo="https://img.thesports.com/football/competition/1fbbb4be3b47d9465c5badecc3122e07.png", ⚽ Atl. Madrid vs Villarreal luc 22:00 ngay 23/08/2026
+https://playback.livetl001.com/live/6a5b13ceb36a14387baeddaa_1080p.flv
+#EXTINF:-1 group-title="Gavang - Bóng đá" tvg-logo="https://img.thesports.com/football/competition/6b38f4015a6b3309ad9462e6ce27ae99.png", ⚽ Frosinone vs Juventus luc 23:30 ngay 23/08/2026
+https://playback.livetl001.com/live/69be75e0a0a45974afb67776_1080p.flv
+#EXTINF:-1 group-title="Gavang - Bóng đá" tvg-logo="https://img.thesports.com/football/competition/6b38f4015a6b3309ad9462e6ce27ae99.png", ⚽ Venezia vs Lecce luc 23:30 ngay 23/08/2026
+https://playback.livetl001.com/live/69a1aaa7230584579e2d5ce1_1080p.flv
+#EXTINF:-1 group-title="Gavang - Bóng đá" tvg-logo="https://img.thesports.com/football/competition/70dd3b1e69708842440893f5a8b46632.png", ⚽ Penang vs DPMM FC luc 16:00 ngay 23/08/2026
+https://playback.livetl001.com/live/69ef10b47146e04fbe6d4363_1080p.m3u8
+#EXTINF:-1 group-title="Gavang - Bóng đá" tvg-logo="https://img.thesports.com/football/competition/8ddbbfcdc6f98675b4b0d2601976e6bf.png", ⚽ Sonderjyske vs Nordsjaelland luc 17:00 ngay 23/08/2026
+https://playback.livetl001.com/live/6a7c0d8f65997681f18cacc4_1080p.flv
+#EXTINF:-1 group-title="Gavang - Bóng đá" tvg-logo="https://img.thesports.com/football/competition/c080bb97363f9be7ca4fca327c56ec0d.png", ⚽ Gwangju FC vs Incheon United luc 17:30 ngay 23/08/2026
+https://playback.livetl001.com/live/69cf6331585c5992182f4160_1080p.flv
+#EXTINF:-1 group-title="Gavang - Bóng đá" tvg-logo="https://img.thesports.com/football/competition/c080bb97363f9be7ca4fca327c56ec0d.png", ⚽ Daejeon Citizen vs Gangwon FC luc 17:30 ngay 23/08/2026
+https://playback.livetl001.com/live/6a2a59b347bbddd62a8dc4e4_1080p.flv
+#EXTINF:-1 group-title="Gavang - Bóng đá" tvg-logo="https://img.thesports.com/football/competition/349caefc8ea220e4e840776502a67d90.png", ⚽ West Brom vs Burnley luc 18:00 ngay 23/08/2026
 https://playback.livetl001.com/live/6a0c7c4b1ae4d6db02433c48_1080p.flv
-#EXTINF:-1 group-title="Gavang - Bóng đá" tvg-logo="https://img.thesports.com/football/competition/6e13222836235b121c1af3bc3055e76b.png", ⚽ Toulouse vs OL luc 01:45 ngay 23/08/2026
-https://playback.livetl001.com/live/6a7ebd86eff66db9cdc2c4b3_1080p.flv
-#EXTINF:-1 group-title="Gavang - Bóng rổ" tvg-logo="https://img.thesports.com/basketball/competition/86f522333da4c3e2c144996fc4d2520b.png", ⚽ New York Liberty vs Indiana Fever lúc 06:00 ngày 23/08/2026
+#EXTINF:-1 group-title="Gavang - Bóng đá" tvg-logo="https://img.thesports.com/football/competition/df4c34bf97b380d1e30b84c509ff0354.png", ⚽ Shanghai Port FC vs Qingdao Hainiu FC luc 18:35 ngay 23/08/2026
+https://playback.livetl001.com/live/6a704ad865997681f18c2160_1080p.flv
+#EXTINF:-1 group-title="Gavang - Bóng đá" tvg-logo="https://img.thesports.com/football/competition/b247c26e45a61b6eaaab421c3bad22c8.png", ⚽ KuPs vs IFK Mariehamn luc 19:00 ngay 23/08/2026
+https://playback.livetl001.com/live/6a5df755b89dded67b39b8bc_1080p.flv
+#EXTINF:-1 group-title="Gavang - Bóng đá" tvg-logo="https://img.thesports.com/football/competition/df4c34bf97b380d1e30b84c509ff0354.png", ⚽ Chongqing Tongliangloong FC vs Dalian Yingbo FC luc 19:00 ngay 23/08/2026
+https://playback.livetl001.com/live/6a01a2511e8555d7a3685f5c_1080p.flv
+#EXTINF:-1 group-title="Gavang - Bóng rổ" tvg-logo="https://img.thesports.com/basketball/competition/449789c2ab1c50d5bba635ff557ee1d5.png", ⚽ Xigong heat vs Hochiminh City Wings lúc 19:30 ngày 23/08/2026
 https://playback.livetl001.com/live/6a77144762ca98f0944094c0_1080p.flv
+#EXTINF:-1 group-title="Gavang - Bóng rổ" tvg-logo="https://img.thesports.com/basketball/competition/0c63831895108e1ae23fd7ef8401f139.png", ⚽ Maldives vs Sri Lanka lúc 18:00 ngày 26/08/2026
+https://playback.livetl003.com/live/6a77144762ca98f0944094c0.m3u8
