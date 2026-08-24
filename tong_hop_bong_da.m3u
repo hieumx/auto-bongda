@@ -1,5 +1,17 @@
 #EXTM3U
+#EXTINF:-1 group-title="Gavang - Bóng đá" tvg-logo="https://img.thesports.com/football/competition/6b38f4015a6b3309ad9462e6ce27ae99.png", ⚽ Bologna vs Lazio luc 23:30 ngay 24/08/2026
+https://playback.livetl001.com/live/69f42e961f739deff81510c0_1080p.flv
+#EXTINF:-1 group-title="Gavang - Bóng đá" tvg-logo="https://img.thesports.com/football/competition/70dd3b1e69708842440893f5a8b46632.png", ⚽ Sabah FC vs Imigresen FC luc 19:15 ngay 24/08/2026
+https://playback.livetl001.com/live/69a1aaa7230584579e2d5ce1_1080p.flv
+#EXTINF:-1 group-title="Gavang - Bóng đá" tvg-logo="https://img.thesports.com/football/competition/1cf230cafec68bdffd2f7e87d9f6f511.png", ⚽ FK Kokand 1912 vs Buxoro FK luc 21:00 ngay 24/08/2026
+https://playback.livetl001.com/live/69b8e6f43bcf2231c35d5144_1080p.flv
+#EXTINF:-1 group-title="Gavang - Bóng đá" tvg-logo="https://img.thesports.com/football/competition/c3ca567177713d1924f670d62e5f9da9.png", ⚽ KAMAZ Naberezhnye Chelny vs FC Sochi luc 21:30 ngay 24/08/2026
+https://playback.livetl001.com/live/6a5b13ceb36a14387baeddaa_1080p.flv
+#EXTINF:-1 group-title="Gavang - Bóng đá" tvg-logo="https://img.thesports.com/football/competition/c3ca567177713d1924f670d62e5f9da9.png", ⚽ Rotor Volgograd vs Neftekhimik Nizhnekamsk luc 22:30 ngay 24/08/2026
+https://playback.livetl001.com/live/6a5df755b89dded67b39b8bc_1080p.flv
+#EXTINF:-1 group-title="Gavang - Bóng đá" tvg-logo="https://img.thesports.com/football/competition/1cded13e781ed1f7c2514a3413506960.png", ⚽ SC Verl vs Hamburger SV luc 23:00 ngay 24/08/2026
+https://playback.livetl001.com/live/69aa9525f5ec459ae275b43f_1080p.flv
 #EXTINF:-1 group-title="Gavang - Bóng rổ" tvg-logo="https://img.thesports.com/basketball/competition/a07e13b5b4e03beb0e060907570dd569.png", ⚽ Quezon City Galeries Taipan vs Imus Agimat lúc 14:00 ngày 24/08/2026
-https://playback.livetl001.com/live/69d37c3a4da3e15776b6db56_1080p.flv
+https://playback.livetl001.com/live/69d37c3a4da3e15776b6db56_1080p.m3u8
 #EXTINF:-1 group-title="Gavang - Bóng rổ" tvg-logo="https://img.thesports.com/basketball/competition/a07e13b5b4e03beb0e060907570dd569.png", ⚽ Negros Muscovados vs Mindoro Tamaraws lúc 16:00 ngày 24/08/2026
 https://playback.livetl001.com/live/6a77144762ca98f0944094c0_1080p.flv
