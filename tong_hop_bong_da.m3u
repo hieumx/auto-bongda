@@ -1,13 +1,25 @@
 #EXTM3U
-#EXTINF:-1 group-title="Gavang - Bóng đá" tvg-logo="https://img.thesports.com/football/competition/c0629bb63c1258a3d2fc887493124f85.png", ⚽ Mashujaa FC vs Kagera Sugar luc 20:00 ngay 27/08/2026
+#EXTINF:-1 group-title="Gavang - Bóng đá" tvg-logo="https://img.thesports.com/football/competition/d8fd96705da596e5bcd51ae7c4482156.png", ⚽ CA Platense vs Instituto luc 07:15 ngay 28/08/2026
+https://playback.livetl001.com/live/69b8e6f43bcf2231c35d5144_1080p.m3u8
+#EXTINF:-1 group-title="Gavang - Bóng đá" tvg-logo="https://img.thesports.com/football/competition/a43b934409a4d2475b0e5f69d1b2ec16.png", ⚽ La Equidad vs Deportivo Pasto luc 08:15 ngay 28/08/2026
+https://playback.livetl001.com/live/69be75e0a0a45974afb67776_1080p.m3u8
+#EXTINF:-1 group-title="Gavang - Bóng đá" tvg-logo="https://img.thesports.com/football/competition/0e7b29667e53debdcc13bbcae0c0a35e.png", ⚽ Thitsar Arman FC vs Myawady luc 16:00 ngay 28/08/2026
 https://playback.livetl001.com/live/69a1aaa7230584579e2d5ce1_1080p.m3u8
-#EXTINF:-1 group-title="Gavang - Bóng đá" tvg-logo="https://img.thesports.com/football/competition/ac05535bde17129cb598311242b3afba.png", ⚽ Viking vs Dinamo Zagreb luc 02:00 ngay 27/08/2026
+#EXTINF:-1 group-title="Gavang - Bóng đá" tvg-logo="https://img.thesports.com/football/competition/cd536caf88f06782e8e5b2a89c0a5579.png", ⚽ Ansan Greeners FC vs Daegu FC luc 17:30 ngay 28/08/2026
+https://playback.livetl001.com/live/69cf6331585c5992182f4160_1080p.flv
+#EXTINF:-1 group-title="Gavang - Bóng đá" tvg-logo="https://img.thesports.com/football/competition/cd536caf88f06782e8e5b2a89c0a5579.png", ⚽ Jeonnam Dragons vs Cheonan City luc 17:30 ngay 28/08/2026
+https://playback.livetl001.com/live/6a2a59b347bbddd62a8dc4e4_1080p.flv
+#EXTINF:-1 group-title="Gavang - Bóng đá" tvg-logo="https://img.thesports.com/football/competition/df4c34bf97b380d1e30b84c509ff0354.png", ⚽ Dalian Yingbo FC vs Beijing Guoan FC luc 18:35 ngay 28/08/2026
+https://playback.livetl001.com/live/69aa9525f5ec459ae275b43f_1080p.flv
+#EXTINF:-1 group-title="Gavang - Bóng đá" tvg-logo="https://img.thesports.com/football/competition/df4c34bf97b380d1e30b84c509ff0354.png", ⚽ Shanghai Shenhua FC vs Shandong Taishan FC luc 18:35 ngay 28/08/2026
 https://playback.livetl001.com/live/6a01a2511e8555d7a3685f5c_1080p.flv
-#EXTINF:-1 group-title="Gavang - Bóng đá" tvg-logo="https://img.thesports.com/football/competition/ac05535bde17129cb598311242b3afba.png", ⚽ NK Publikum Celje vs Slovan Bratislava luc 02:00 ngay 27/08/2026
+#EXTINF:-1 group-title="Gavang - Bóng đá" tvg-logo="https://img.thesports.com/football/competition/9422aa91b72373c4d69f6dcf477aceb2.png", ⚽ Kolos Kovalivka vs Obolon Kyiv luc 19:30 ngay 28/08/2026
+https://playback.livetl001.com/live/6a5df755b89dded67b39b8bc_1080p.flv
+#EXTINF:-1 group-title="Gavang - Bóng đá" tvg-logo="https://img.thesports.com/football/competition/70dd3b1e69708842440893f5a8b46632.png", ⚽ Terengganu FC vs Selangor FC luc 20:00 ngay 28/08/2026
 https://playback.livetl001.com/live/6a704ad865997681f18c2160_1080p.flv
-#EXTINF:-1 group-title="Gavang - Bóng đá" tvg-logo="https://img.thesports.com/football/competition/ac05535bde17129cb598311242b3afba.png", ⚽ OL vs Fenerbahce luc 02:00 ngay 27/08/2026
-https://playback.livetl001.com/live/69f42e961f739deff81510c0_1080p.flv
-#EXTINF:-1 group-title="Gavang - Bóng rổ" tvg-logo="https://img.thesports.com/basketball/competition/a07e13b5b4e03beb0e060907570dd569.png", ⚽ Caloocan Batang Kankaloo vs Pasig City lúc 18:00 ngày 27/08/2026
-https://playback.livetl001.com/live/6a77144762ca98f0944094c0_1080p.flv
-#EXTINF:-1 group-title="Gavang - Bóng rổ" tvg-logo="https://img.thesports.com/basketball/competition/449789c2ab1c50d5bba635ff557ee1d5.png", ⚽ Hochiminh City Wings vs Can Tho Catfish lúc 19:30 ngày 27/08/2026
-https://playback.livetl001.com/live/69d37c3a4da3e15776b6db56_1080p.m3u8
+#EXTINF:-1 group-title="Gavang - Bóng đá" tvg-logo="https://img.thesports.com/football/competition/a4b0f9d596744a89847955eff21f713b.png", ⚽ United vs Ittihad Kalba FC luc 20:55 ngay 28/08/2026
+https://playback.livetl001.com/live/6a7c0d8f65997681f18cacc4_1080p.flv
+#EXTINF:-1 group-title="Gavang - Bóng đá" tvg-logo="https://img.thesports.com/football/competition/c840aa9f8b4c65b1441bb36459a40642.png", ⚽ Alqana vs El Gounah luc 21:00 ngay 28/08/2026
+https://playback.livetl001.com/live/69ef10b47146e04fbe6d4363_1080p.flv
+#EXTINF:-1 group-title="Gavang - Bóng đá" tvg-logo="https://img.thesports.com/football/competition/c840aa9f8b4c65b1441bb36459a40642.png", ⚽ Enppi vs Wadi Degla SC luc 21:00 ngay 28/08/2026
+https://playback.livetl001.com/live/6a439a7fb89dded67b208b87_1080p.flv
