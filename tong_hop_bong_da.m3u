@@ -1,61 +1,9 @@
 #EXTM3U
-#EXTINF:-1 group-title="Gavang - Bóng đá" tvg-logo="https://img.thesports.com/football/competition/4acaf7b3bb3b7afdba60a02b02a600d1.png", ⚽ Dalian Yingbo FC vs Shanghai Shenhua FC luc 18:35 ngay 01/09/2026
-https://playback.livetl001.com/live/69aa9525f5ec459ae275b43f_1080p.flv
-#EXTINF:-1 group-title="Gavang - Bóng đá" tvg-logo="https://img.thesports.com/football/competition/4acaf7b3bb3b7afdba60a02b02a600d1.png", ⚽ Beijing Guoan FC vs Lanzhou Longyuan Athletics luc 18:35 ngay 01/09/2026
-https://playback.livetl001.com/live/6a5b13ceb36a14387baeddaa_1080p.flv
-#EXTINF:-1 group-title="Gavang - Bóng đá" tvg-logo="https://img.thesports.com/football/competition/d09a3b1ab92ce378a5277b79a98dac59.png", ⚽ Bandirmaspor vs Antalyaspor luc 20:00 ngay 01/09/2026
-https://playback.livetl001.com/live/69a1aaa7230584579e2d5ce1_1080p.flv
-#EXTINF:-1 group-title="Gavang - Bóng đá" tvg-logo="https://img.thesports.com/football/competition/0ee378b8eccc11f5b79f85141da00afc.png", ⚽ Kelantan Red Warrior vs Kuching City FC luc 20:00 ngay 01/09/2026
-https://playback.livetl001.com/live/6a704ad865997681f18c2160_1080p.flv
-#EXTINF:-1 group-title="Gavang - Bóng đá" tvg-logo="https://img.thesports.com/football/competition/f5470371fbfd2700042bdc9801f08bab.png", ⚽ Akron Togliatti vs Lokomotiv Moscow luc 20:15 ngay 01/09/2026
-https://playback.livetl001.com/live/69cf6331585c5992182f4160_1080p.flv
 #EXTINF:-1 group-title="Gavang - Bóng đá" tvg-logo="https://img.thesports.com/football/competition/c840aa9f8b4c65b1441bb36459a40642.png", ⚽ Ghazl El Mahallah vs Enppi luc 21:00 ngay 01/09/2026
-https://playback.livetl001.com/live/69b8e6f43bcf2231c35d5144_1080p.flv
+https://playback.livetl001.com/live/69b8e6f43bcf2231c35d5144_1080p.m3u8
 #EXTINF:-1 group-title="Gavang - Bóng đá" tvg-logo="https://img.thesports.com/football/competition/f5470371fbfd2700042bdc9801f08bab.png", ⚽ Fakel vs FK Krasnodar luc 22:00 ngay 01/09/2026
 https://playback.livetl001.com/live/6a7c0d8f65997681f18cacc4_1080p.flv
 #EXTINF:-1 group-title="Gavang - Bóng đá" tvg-logo="https://img.thesports.com/football/competition/0b3d4c605b5a516dd91b09b6719e453e.png", ⚽ Estrela FC U23 vs Sporting CP U23 luc 23:00 ngay 01/09/2026
 https://playback.livetl001.com/live/69ef10b47146e04fbe6d4363_1080p.flv
-#EXTINF:-1 group-title="Gavang - Bóng rổ" tvg-logo="https://img.thesports.com/basketball/competition/a07e13b5b4e03beb0e060907570dd569.png", ⚽ Pasig City vs Marikina Shoemasters lúc 14:00 ngày 01/09/2026
-https://playback.livetl001.com/live/6a77144762ca98f0944094c0_1080p.m3u8
-#EXTINF:-1 group-title="Gavang - Bóng rổ" tvg-logo="https://img.thesports.com/basketball/competition/a07e13b5b4e03beb0e060907570dd569.png", ⚽ Mindoro Tamaraws vs San Juan Knights lúc 16:00 ngày 01/09/2026
-https://playback.livetl001.com/live/69d37c3a4da3e15776b6db56_1080p.flv
-#EXTINF:-1 group-title="Thapcam - Bóng đá" tvg-logo="", ⚽ Iran U20 - 2 - 0 -  - Palestine U20
-https://station1-global.ebaclofen.org/live/11a09c9433a686445939e3e36034aed6/playlist.m3u8
-#EXTINF:-1 group-title="Thapcam - Bóng đá" tvg-logo="", ⚽ Japan U20 - 4 - 0 -  - Kuwait U20
-https://station1-global.ebaclofen.org/live/c9740aeef158b4c8e2dfa14138f4af95/playlist.m3u8
-#EXTINF:-1 group-title="Thapcam - Bóng đá" tvg-logo="", ⚽ Chinese Taipei U20 - 4 - 0 -  - Macau U20
-https://station1-global.ebaclofen.org/live/cf19c549146be21865837411d34d92e9/playlist.m3u8
-#EXTINF:-1 group-title="Thapcam - Bóng đá" tvg-logo="", ⚽ Myanmar U20 - 3 - 0 -  - Sri Lanka U20
-https://station1-global.ebaclofen.org/live/4e8c7b78432afe39719eff765addfe4f/playlist.m3u8
-#EXTINF:-1 group-title="Thapcam - Bóng đá" tvg-logo="", ⚽ Okinawa SV - 1 - 1 -  - Azul Claro Numazu
-https://station1-global.ebaclofen.org/live/80227297622fe1d8517d270fb2d6a54d/playlist.m3u8
-#EXTINF:-1 group-title="Thapcam - Bóng đá" tvg-logo="", ⚽ FC Zorya Luhansk U21 - 0 - 0 -  - FC Kharkiv U21
-https://station1-global.ebaclofen.org/live/9d0bc1a774b1c798358bcc42acf8a398/playlist.m3u8
-#EXTINF:-1 group-title="Thapcam - Bóng đá" tvg-logo="", ⚽ FC Shakhtar Donetsk U21 - 1 - 0 -  - Polissya Zhytomyr U21
-https://station1-global.ebaclofen.org/live/82d963acc644446c06e8dd08b90dc69f/playlist.m3u8
-#EXTINF:-1 group-title="Thapcam - Bóng đá" tvg-logo="", ⚽ Zorya - 0 - 3 -  - Metalist 1925 Kharkiv
-https://station1-global.ebaclofen.org/live/6e098a526ea4e67ac6bd0d6a77c0592c/playlist.m3u8
-#EXTINF:-1 group-title="Thapcam - Bóng đá" tvg-logo="", ⚽ Lebanon U20 - 1 - 0 -  - South Korea U20
-https://station1-global.ebaclofen.org/live/73cf3562f7a2b4bc6ef06f2c69a132ee/playlist.m3u8
-#EXTINF:-1 group-title="Thapcam - Bóng đá" tvg-logo="", ⚽ Vietnam U20 - VS - 19:00 - Korea DPR U20
-https://cdn-global.ebaclofen.org/vsc/vsc-thai-tu-lion/index.m3u8
-#EXTINF:-1 group-title="Thapcam - Bóng đá" tvg-logo="", ⚽ Araz Nakhchivan - VS - 21:00 - Sabah Baku
-https://cdn-global.ebaclofen.org/vsc/vsc-te-tuong-alien/index.m3u8
-#EXTINF:-1 group-title="Thapcam - Bóng đá" tvg-logo="", ⚽ Gagra FC - VS - 22:00 - FC Iberia 1999 Tbilisi
-https://station1-global.ebaclofen.org/live/6a2467b6417ca41d69eaddbf406adaf6/playlist.m3u8
-#EXTINF:-1 group-title="Thapcam - Bóng đá" tvg-logo="", ⚽ FC Dunav Ruse - VS - 23:00 - Lokomotiv Sofia
-https://cdn1-global.ebaclofen.org/live/pro1/index.m3u8
-#EXTINF:-1 group-title="Thapcam - Bóng đá" tvg-logo="", ⚽ Lecce - VS - 23:30 - AS Roma
-https://cdn1-global.ebaclofen.org/live/pro2/index.m3u8
-#EXTINF:-1 group-title="Thapcam - Bóng đá" tvg-logo="", ⚽ Burgos CF - VS - 00:00 - 01/09/2026 - Real Sociedad B
-https://cdn1-global.ebaclofen.org/live/pro3/index.m3u8
-#EXTINF:-1 group-title="Thapcam - Bóng đá" tvg-logo="", ⚽ KI Klaksvik - VS - 00:30 - 01/09/2026 - EB Streymur
-https://station1-global.ebaclofen.org/live/0ce51f524d541a28251eaff1095cf685/playlist.m3u8
-#EXTINF:-1 group-title="Thapcam - Bóng đá" tvg-logo="", ⚽ Amedspor - VS - 01:30 - 01/09/2026 - Trabzonspor
-https://cdn-global.ebaclofen.org/vsc/vsc-hiep-si-tan/index.m3u8
-#EXTINF:-1 group-title="Thapcam - Bóng đá" tvg-logo="", ⚽ Besiktas JK - VS - 01:30 - 01/09/2026 - Corum Belediyespor
-https://cdn-global.ebaclofen.org/vsc/jonhny5/index.m3u8
-#EXTINF:-1 group-title="Thapcam - Bóng đá" tvg-logo="", ⚽ Atalanta - VS - 01:45 - 01/09/2026 - Bologna
-https://cdn-global.ebaclofen.org/vsc/jonhny6/index.m3u8
-#EXTINF:-1 group-title="Thapcam - Bóng đá" tvg-logo="", ⚽ Aston Villa - VS - 02:00 - 01/09/2026 - Arsenal
-https://cdn1-global.ebaclofen.org/live/pro4/index.m3u8
+#EXTINF:-1 group-title="Gavang - Bóng đá" tvg-logo="https://img.thesports.com/football/competition/e7d8a305f30ef391501720bf30326072.png", ⚽ Parma vs Cremonese luc 23:00 ngay 01/09/2026
+https://playback.livetl001.com/live/69aa9525f5ec459ae275b43f_1080p.flv
