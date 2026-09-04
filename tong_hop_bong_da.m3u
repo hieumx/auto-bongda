@@ -1,11 +1,7 @@
 #EXTM3U
-#EXTINF:-1 group-title="Gavang - Bóng đá" tvg-logo="https://img.thesports.com/football/competition/0c6a25cd746e802296d9064b4504179d.png", ⚽ Stuttgart vs FC Köln luc 01:30 ngay 05/09/2026
-https://playback.livetl001.com/live/6a9776215126529dede9bf51_1080p.m3u8
-#EXTINF:-1 group-title="Gavang - Bóng đá" tvg-logo="https://img.thesports.com/football/competition/324d7a463a24c4cd35ef83456a1b8d05.png", ⚽ FC Juarez vs Pachuca luc 10:00 ngay 05/09/2026
-https://playback.livetl001.com/live/6a2a59b347bbddd62a8dc4e4_1080p.m3u8
-#EXTINF:-1 group-title="Gavang - Bóng đá" tvg-logo="https://img.thesports.com/football/competition/c34077b7ac3592e339bd375e72fe441b.png", ⚽ Alianza Atletico Sullana vs UTC Cajamarca luc 03:15 ngay 05/09/2026
-https://playback.livetl001.com/live/69a1aaa7230584579e2d5ce1_1080p.m3u8
-#EXTINF:-1 group-title="Gavang - Bóng đá" tvg-logo="https://img.thesports.com/football/competition/0276a00c0277c8f1cba7b63bd59e281d.png", ⚽ Belgrano vs CA Huracan luc 05:00 ngay 05/09/2026
-https://playback.livetl001.com/live/69cf6331585c5992182f4160_1080p.flv
 #EXTINF:-1 group-title="Gavang - Bóng đá" tvg-logo="https://img.thesports.com/football/competition/6813ba1ebe40c6bc7bb1b081d916a1a6.png", ⚽ Criciuma vs Cuiaba luc 05:30 ngay 05/09/2026
 https://playback.livetl001.com/live/69be75e0a0a45974afb67776_1080p.m3u8
+#EXTINF:-1 group-title="Gavang - Bóng đá" tvg-logo="https://img.thesports.com/football/competition/6813ba1ebe40c6bc7bb1b081d916a1a6.png", ⚽ Athletic Club vs Vila Nova luc 06:30 ngay 05/09/2026
+https://playback.livetl001.com/live/6a2a59b347bbddd62a8dc4e4_1080p.flv
+#EXTINF:-1 group-title="Gavang - Bóng đá" tvg-logo="https://img.thesports.com/football/competition/6813ba1ebe40c6bc7bb1b081d916a1a6.png", ⚽ CRB vs America MG luc 07:30 ngay 05/09/2026
+https://playback.livetl001.com/live/69cf6331585c5992182f4160_1080p.m3u8
