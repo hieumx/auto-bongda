@@ -1,33 +1,15 @@
 #EXTM3U
-#EXTINF:-1 group-title="Gavang - Bóng đá" tvg-logo="https://img.thesports.com/football/competition/3549f192c75cbc737a05fd51ecad383e.png", ⚽ Everton vs Man Utd luc 20:00 ngay 06/09/2026
-https://playback.livetl001.com/live/69aa9525f5ec459ae275b43f_1080p.flv
-#EXTINF:-1 group-title="Gavang - Bóng đá" tvg-logo="https://img.thesports.com/football/competition/1fbbb4be3b47d9465c5badecc3122e07.png", ⚽ Valencia vs Barcelona luc 21:15 ngay 06/09/2026
-https://playback.livetl001.com/live/6a9a5525864ea536c2577392_1080p.flv
 #EXTINF:-1 group-title="Gavang - Bóng đá" tvg-logo="https://img.thesports.com/football/competition/6e13222836235b121c1af3bc3055e76b.png", ⚽ Angers vs Rennes luc 22:15 ngay 06/09/2026
-https://playback.livetl001.com/live/6a5df755b89dded67b39b8bc_1080p.flv
+https://playback.livetl001.com/live/6a5df755b89dded67b39b8bc_1080p.m3u8
+#EXTINF:-1 group-title="Gavang - Bóng đá" tvg-logo="https://img.thesports.com/football/competition/0c6a25cd746e802296d9064b4504179d.png", ⚽ Eintracht Frankfurt vs Augsburg luc 22:30 ngay 06/09/2026
+https://playback.livetl001.com/live/6a9776215126529dede9bf51_1080p.m3u8
+#EXTINF:-1 group-title="Gavang - Bóng đá" tvg-logo="https://img.thesports.com/football/competition/6b38f4015a6b3309ad9462e6ce27ae99.png", ⚽ Bologna vs Sassuolo luc 23:00 ngay 06/09/2026
+https://playback.livetl001.com/live/6a01a2511e8555d7a3685f5c_1080p.m3u8
 #EXTINF:-1 group-title="Gavang - Bóng đá" tvg-logo="https://img.thesports.com/football/competition/1fbbb4be3b47d9465c5badecc3122e07.png", ⚽ Alavés vs Osasuna luc 23:30 ngay 06/09/2026
 https://playback.livetl001.com/live/6a5b13ceb36a14387baeddaa_1080p.flv
 #EXTINF:-1 group-title="Gavang - Bóng đá" tvg-logo="https://img.thesports.com/football/competition/1fbbb4be3b47d9465c5badecc3122e07.png", ⚽ Malaga vs Levante luc 23:30 ngay 06/09/2026
 https://playback.livetl001.com/live/6a7c0d8f65997681f18cacc4_1080p.flv
-#EXTINF:-1 group-title="Gavang - Bóng đá" tvg-logo="https://img.thesports.com/football/competition/b1e228ad69b6a2c235047e0a13ceb391.png", ⚽ Malut United vs Garudayaksa FC luc 15:30 ngay 06/09/2026
-https://playback.livetl001.com/live/6a704ad865997681f18c2160_1080p.flv
-#EXTINF:-1 group-title="Gavang - Bóng đá" tvg-logo="https://img.thesports.com/football/competition/aad52ee6d650628d65f1cc2b5cda10ab.png", ⚽ Kashima Antlers vs Urawa Red Diamonds luc 16:00 ngay 06/09/2026
-https://playback.livetl001.com/live/6a01a2511e8555d7a3685f5c_1080p.flv
-#EXTINF:-1 group-title="Gavang - Bóng đá" tvg-logo="https://img.thesports.com/football/competition/aad52ee6d650628d65f1cc2b5cda10ab.png", ⚽ Fagiano Okayama vs Sanfrecce Hiroshima luc 16:00 ngay 06/09/2026
-https://playback.livetl001.com/live/69cf6331585c5992182f4160_1080p.flv
-#EXTINF:-1 group-title="Gavang - Bóng đá" tvg-logo="https://img.thesports.com/football/competition/aad52ee6d650628d65f1cc2b5cda10ab.png", ⚽ Nagoya Grampus vs Machida Zelvia luc 16:00 ngay 06/09/2026
-https://playback.livetl001.com/live/6a9776215126529dede9bf51_1080p.flv
-#EXTINF:-1 group-title="Gavang - Bóng đá" tvg-logo="https://img.thesports.com/football/competition/aad52ee6d650628d65f1cc2b5cda10ab.png", ⚽ JEF United Ichihara Chiba vs Gamba Osaka luc 16:00 ngay 06/09/2026
-https://playback.livetl001.com/live/6a2a59b347bbddd62a8dc4e4_1080p.flv
-#EXTINF:-1 group-title="Gavang - Bóng đá" tvg-logo="https://img.thesports.com/football/competition/0402fbeb5c375de21ee74f868d2b5f0b.png", ⚽ Thanh Hoa vs SHB Da Nang luc 17:00 ngay 06/09/2026
-https://playback.livetl001.com/live/6a9527d0d9be608784fce9c9_1080p.flv
-#EXTINF:-1 group-title="Gavang - Bóng đá" tvg-logo="https://img.thesports.com/football/competition/c080bb97363f9be7ca4fca327c56ec0d.png", ⚽ Gimcheon Sangmu FC vs Gwangju FC luc 17:00 ngay 06/09/2026
-https://playback.livetl001.com/live/69a1aaa7230584579e2d5ce1_1080p.m3u8
-#EXTINF:-1 group-title="Gavang - Bóng rổ" tvg-logo="https://img.thesports.com/basketball/competition/75ea0c3c22789700eeaf2c8047450d82.png", ⚽ Tasmania JackJumpers vs New Zealand Breakers lúc 14:00 ngày 06/09/2026
-https://playback.livetl001.com/live/69d37c3a4da3e15776b6db56_1080p.m3u8
 #EXTINF:-1 group-title="Gavang - Bóng rổ" tvg-logo="https://img.thesports.com/basketball/competition/4fe842f3910d1ec45c1133780ef882cf.png", ⚽ Turkey Women vs Australia Women lúc 16:30 ngày 06/09/2026
-https://playback.livetl001.com/live/6a77144762ca98f0944094c0_1080p.flv
+https://playback.livetl001.com/live/6a77144762ca98f0944094c0_1080p.m3u8
 #EXTINF:-1 group-title="Gavang - Bóng rổ" tvg-logo="https://img.thesports.com/basketball/competition/449789c2ab1c50d5bba635ff557ee1d5.png", ⚽ Xigong heat vs Nha Trang Dolphins lúc 19:30 ngày 06/09/2026
-https://playback.livetl001.com/live/69d37c3a4da3e15776b6db56_1080p.flv
-#EXTINF:-1 group-title="Gavang - Bóng rổ" tvg-logo="https://img.thesports.com/basketball/competition/86c397baad3b2073cdcd8823c8e3f55d.png", ⚽ Saga Ballooners vs Altiri Chiba lúc 15:00 ngày 06/09/2026
-https://playback.livetl003.com/live/6a77144762ca98f0944094c0.flv
+https://playback.livetl001.com/live/69d37c3a4da3e15776b6db56_1080p.m3u8
