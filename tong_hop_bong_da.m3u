@@ -1,9 +1,13 @@
 #EXTM3U
-#EXTINF:-1 group-title="Gavang - Bóng đá" tvg-logo="https://img.thesports.com/football/competition/6b38f4015a6b3309ad9462e6ce27ae99.png", ⚽ Cagliari vs Lecce luc 23:30 ngay 07/09/2026
-https://playback.livetl001.com/live/69aa9525f5ec459ae275b43f_1080p.flv
 #EXTINF:-1 group-title="Gavang - Bóng đá" tvg-logo="https://img.thesports.com/football/competition/0e7b29667e53debdcc13bbcae0c0a35e.png", ⚽ ISPE vs Sagaing United luc 16:00 ngay 07/09/2026
-https://playback.livetl001.com/live/6a704ad865997681f18c2160_1080p.flv
-#EXTINF:-1 group-title="Gavang - Bóng đá" tvg-logo="https://img.thesports.com/football/competition/37a57bd4441b06ee2f59c99f4a96fbf5.png", ⚽ Asteras Aktor vs Iraklis luc 22:00 ngay 07/09/2026
 https://playback.livetl001.com/live/6a5df755b89dded67b39b8bc_1080p.flv
+#EXTINF:-1 group-title="Gavang - Bóng đá" tvg-logo="https://img.thesports.com/football/competition/d09a3b1ab92ce378a5277b79a98dac59.png", ⚽ Erokspor vs Kayserispor luc 21:00 ngay 07/09/2026
+https://playback.livetl001.com/live/6a9a5525864ea536c2577392_1080p.flv
+#EXTINF:-1 group-title="Gavang - Bóng đá" tvg-logo="https://img.thesports.com/football/competition/d09a3b1ab92ce378a5277b79a98dac59.png", ⚽ Istanbulspor vs Iğdır FK luc 21:00 ngay 07/09/2026
+https://playback.livetl001.com/live/6a9776215126529dede9bf51_1080p.flv
+#EXTINF:-1 group-title="Gavang - Bóng đá" tvg-logo="https://img.thesports.com/football/competition/9267ee08759fdc25c89d3e4642303522.png", ⚽ Klubi 04 Helsinki vs KaPa luc 23:00 ngay 07/09/2026
+https://playback.livetl001.com/live/6a704ad865997681f18c2160_1080p.flv
 #EXTINF:-1 group-title="Gavang - Bóng rổ" tvg-logo="https://img.thesports.com/basketball/competition/a07e13b5b4e03beb0e060907570dd569.png", ⚽ Quezon City Galeries Taipan vs Sarangani lúc 14:00 ngày 07/09/2026
-https://playback.livetl001.com/live/6a77144762ca98f0944094c0_1080p.flv
+https://playback.livetl001.com/live/6a77144762ca98f0944094c0_1080p.m3u8
+#EXTINF:-1 group-title="Gavang - Bóng rổ" tvg-logo="https://img.thesports.com/basketball/competition/a07e13b5b4e03beb0e060907570dd569.png", ⚽ Rizal Xentro Mall Golden Coolers vs Imus Agimat lúc 16:00 ngày 07/09/2026
+https://playback.livetl001.com/live/69d37c3a4da3e15776b6db56_1080p.flv
