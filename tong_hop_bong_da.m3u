@@ -1,13 +1,23 @@
 #EXTM3U
-#EXTINF:-1 group-title="Gavang - Bóng đá" tvg-logo="https://img.thesports.com/football/competition/0e7b29667e53debdcc13bbcae0c0a35e.png", ⚽ ISPE vs Sagaing United luc 16:00 ngay 07/09/2026
-https://playback.livetl001.com/live/6a5df755b89dded67b39b8bc_1080p.flv
+#EXTINF:-1 group-title="Gavang - Bóng đá" tvg-logo="https://img.thesports.com/football/competition/6b38f4015a6b3309ad9462e6ce27ae99.png", ⚽ Udinese vs Lazio luc 01:45 ngay 08/09/2026
+https://playback.livetl001.com/live/69aa9525f5ec459ae275b43f_1080p.flv
+#EXTINF:-1 group-title="Gavang - Bóng đá" tvg-logo="https://img.thesports.com/football/competition/1fbbb4be3b47d9465c5badecc3122e07.png", ⚽ Getafe vs Celta luc 00:00 ngay 08/09/2026
+https://playback.livetl001.com/live/6a5b13ceb36a14387baeddaa_1080p.m3u8
 #EXTINF:-1 group-title="Gavang - Bóng đá" tvg-logo="https://img.thesports.com/football/competition/d09a3b1ab92ce378a5277b79a98dac59.png", ⚽ Erokspor vs Kayserispor luc 21:00 ngay 07/09/2026
-https://playback.livetl001.com/live/6a9a5525864ea536c2577392_1080p.flv
+https://playback.livetl001.com/live/6a9a5525864ea536c2577392_1080p.m3u8
 #EXTINF:-1 group-title="Gavang - Bóng đá" tvg-logo="https://img.thesports.com/football/competition/d09a3b1ab92ce378a5277b79a98dac59.png", ⚽ Istanbulspor vs Iğdır FK luc 21:00 ngay 07/09/2026
-https://playback.livetl001.com/live/6a9776215126529dede9bf51_1080p.flv
+https://playback.livetl001.com/live/6a9776215126529dede9bf51_1080p.m3u8
+#EXTINF:-1 group-title="Gavang - Bóng đá" tvg-logo="https://img.thesports.com/football/competition/3888349404e5d5d09f977b30df0ee151.png", ⚽ CS Voluntari vs Arges luc 21:30 ngay 07/09/2026
+https://playback.livetl001.com/live/6a0c7c4b1ae4d6db02433c48_1080p.m3u8
+#EXTINF:-1 group-title="Gavang - Bóng đá" tvg-logo="https://img.thesports.com/football/competition/37a57bd4441b06ee2f59c99f4a96fbf5.png", ⚽ Asteras Aktor vs Iraklis luc 22:00 ngay 07/09/2026
+https://playback.livetl001.com/live/6a5df755b89dded67b39b8bc_1080p.flv
+#EXTINF:-1 group-title="Gavang - Bóng đá" tvg-logo="https://img.thesports.com/football/competition/9115e93d22380b87e231573b0a796f27.png", ⚽ Al Khaleej Club vs Al-Riyadh luc 22:30 ngay 07/09/2026
+https://playback.livetl001.com/live/6a9527d0d9be608784fce9c9_1080p.flv
 #EXTINF:-1 group-title="Gavang - Bóng đá" tvg-logo="https://img.thesports.com/football/competition/9267ee08759fdc25c89d3e4642303522.png", ⚽ Klubi 04 Helsinki vs KaPa luc 23:00 ngay 07/09/2026
 https://playback.livetl001.com/live/6a704ad865997681f18c2160_1080p.flv
-#EXTINF:-1 group-title="Gavang - Bóng rổ" tvg-logo="https://img.thesports.com/basketball/competition/a07e13b5b4e03beb0e060907570dd569.png", ⚽ Quezon City Galeries Taipan vs Sarangani lúc 14:00 ngày 07/09/2026
-https://playback.livetl001.com/live/6a77144762ca98f0944094c0_1080p.m3u8
-#EXTINF:-1 group-title="Gavang - Bóng rổ" tvg-logo="https://img.thesports.com/basketball/competition/a07e13b5b4e03beb0e060907570dd569.png", ⚽ Rizal Xentro Mall Golden Coolers vs Imus Agimat lúc 16:00 ngày 07/09/2026
+#EXTINF:-1 group-title="Gavang - Bóng đá" tvg-logo="https://img.thesports.com/football/competition/b26998c04db8eaebfba34484aa08b10b.png", ⚽ Pafos FC vs Olympiakos Nicosia FC luc 23:00 ngay 07/09/2026
+https://playback.livetl001.com/live/6a01a2511e8555d7a3685f5c_1080p.flv
+#EXTINF:-1 group-title="Gavang - Bóng rổ" tvg-logo="https://img.thesports.com/basketball/competition/4fe842f3910d1ec45c1133780ef882cf.png", ⚽ Germany Women vs Mali Women lúc 22:50 ngày 07/09/2026
 https://playback.livetl001.com/live/69d37c3a4da3e15776b6db56_1080p.flv
+#EXTINF:-1 group-title="Gavang - Bóng rổ" tvg-logo="https://img.thesports.com/basketball/competition/4fe842f3910d1ec45c1133780ef882cf.png", ⚽ Hungary Women vs South Korea Women lúc 19:30 ngày 07/09/2026
+https://playback.livetl001.com/live/6a77144762ca98f0944094c0_1080p.flv
