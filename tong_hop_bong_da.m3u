@@ -1,23 +1,33 @@
 #EXTM3U
-#EXTINF:-1 group-title="Gavang - Bóng đá" tvg-logo="https://img.thesports.com/football/competition/2341037b4e4eff9683c5c15fd188127e.png", ⚽ Santos vs Atlético Mineiro - MG luc 05:00 ngay 10/09/2026
-https://playback.livetl002.com/live/69a1aaa7230584579e2d5ce1.m3u8
-#EXTINF:-1 group-title="Gavang - Bóng đá" tvg-logo="https://img.thesports.com/football/competition/d2fe5be131ad888084f50d6af533570c.png", ⚽ Philadelphia Union vs FC Cincinnati luc 06:30 ngay 10/09/2026
-https://playback.livetl002.com/live/6a2a59b347bbddd62a8dc4e4.flv
-#EXTINF:-1 group-title="Gavang - Bóng đá" tvg-logo="https://img.thesports.com/football/competition/d2fe5be131ad888084f50d6af533570c.png", ⚽ Chicago Fire vs Club Internacional de Futbol Miami luc 07:30 ngay 10/09/2026
-https://playback.livetl001.com/live/69be75e0a0a45974afb67776.m3u8
-#EXTINF:-1 group-title="Gavang - Bóng đá" tvg-logo="https://img.thesports.com/football/competition/59bd81b686fe94b57f0e3c3ff2a28c45.png", ⚽ Estudiantes La Plata vs Corinthians Paulista luc 07:30 ngay 10/09/2026
-https://playback.livetl001.com/live/69a1aaa7230584579e2d5ce1.m3u8
-#EXTINF:-1 group-title="Gavang - Bóng đá" tvg-logo="https://img.thesports.com/football/competition/d2fe5be131ad888084f50d6af533570c.png", ⚽ Los Angeles FC vs New York Red Bulls luc 09:30 ngay 10/09/2026
-https://playback.livetl001.com/live/69b8e6f43bcf2231c35d5144.flv
-#EXTINF:-1 group-title="Gavang - Bóng đá" tvg-logo="https://img.thesports.com/football/competition/d2fe5be131ad888084f50d6af533570c.png", ⚽ Vancouver Whitecaps vs LA Galaxy luc 09:30 ngay 10/09/2026
-https://playback.livetl001.com/live/6a2a59b347bbddd62a8dc4e4.flv
-#EXTINF:-1 group-title="Gavang - Bóng đá" tvg-logo="https://img.thesports.com/football/competition/ac05535bde17129cb598311242b3afba.png", ⚽ Stuttgart vs Viking luc 23:45 ngay 09/09/2026
-https://playback.livetl002.com/live/6a9527d0d9be608784fce9c9.flv
-#EXTINF:-1 group-title="Gavang - Bóng đá" tvg-logo="https://img.thesports.com/football/competition/ac05535bde17129cb598311242b3afba.png", ⚽ PSG vs Slovan Bratislava luc 02:00 ngay 10/09/2026
-https://playback.livetl002.com/live/6a9776215126529dede9bf51.flv
-#EXTINF:-1 group-title="Gavang - Bóng đá" tvg-logo="https://img.thesports.com/football/competition/ac05535bde17129cb598311242b3afba.png", ⚽ SCP vs Galatasaray luc 02:00 ngay 10/09/2026
-https://playback.livetl002.com/live/6a5b13ceb36a14387baeddaa.flv
-#EXTINF:-1 group-title="Gavang - Bóng đá" tvg-logo="https://img.thesports.com/football/competition/944fcefc160f78322ddcc68ec995040e.png", ⚽ Moreirense vs Benfica luc 02:45 ngay 10/09/2026
-https://playback.livetl002.com/live/69cf6331585c5992182f4160.flv
-#EXTINF:-1 group-title="Gavang - Bóng đá" tvg-logo="https://img.thesports.com/football/competition/ac05535bde17129cb598311242b3afba.png", ⚽ Liverpool vs Atl. Madrid luc 02:00 ngay 10/09/2026
+#EXTINF:-1 group-title="Gavang - Bóng đá" tvg-logo="https://img.thesports.com/football/competition/ac05535bde17129cb598311242b3afba.png", ⚽ PSV Eindhoven vs FC Shakhtar Donetsk luc 23:45 ngay 10/09/2026
 https://playback.livetl002.com/live/69aa9525f5ec459ae275b43f.flv
+#EXTINF:-1 group-title="Gavang - Bóng đá" tvg-logo="https://img.thesports.com/football/competition/d2fe5be131ad888084f50d6af533570c.png", ⚽ Los Angeles FC vs New York Red Bulls luc 09:30 ngay 10/09/2026
+https://playback.livetl002.com/live/69b8e6f43bcf2231c35d5144.flv
+#EXTINF:-1 group-title="Gavang - Bóng đá" tvg-logo="https://img.thesports.com/football/competition/d2fe5be131ad888084f50d6af533570c.png", ⚽ Vancouver Whitecaps vs LA Galaxy luc 09:30 ngay 10/09/2026
+https://playback.livetl002.com/live/6a2a59b347bbddd62a8dc4e4.m3u8
+#EXTINF:-1 group-title="Gavang - Bóng đá" tvg-logo="https://img.thesports.com/football/competition/785cc536013fe705d519fb0ff095b6c1.png", ⚽ RTC FC vs Thimphu City luc 16:00 ngay 10/09/2026
+https://playback.livetl002.com/live/6a439a7fb89dded67b208b87.flv
+#EXTINF:-1 group-title="Gavang - Bóng đá" tvg-logo="https://img.thesports.com/football/competition/f5470371fbfd2700042bdc9801f08bab.png", ⚽ Dinamo Barnaul vs Chelyabinsk luc 17:00 ngay 10/09/2026
+https://playback.livetl002.com/live/6a704ad865997681f18c2160.flv
+#EXTINF:-1 group-title="Gavang - Bóng đá" tvg-logo="https://img.thesports.com/football/competition/fd18fea857fdfad33df41c112d4455a1.png", ⚽ Fenerbahce U19 vs AS Roma Youth luc 18:00 ngay 10/09/2026
+https://playback.livetl002.com/live/6a5df755b89dded67b39b8bc.flv
+#EXTINF:-1 group-title="Gavang - Bóng đá" tvg-logo="https://img.thesports.com/football/competition/7a3b5ae0dbb844b8bab4d2c32b7ae3bd.png", ⚽ Nyva Vinnytsia vs Dynamo Kyiv luc 19:30 ngay 10/09/2026
+https://playback.livetl002.com/live/6a01a2511e8555d7a3685f5c.flv
+#EXTINF:-1 group-title="Gavang - Bóng đá" tvg-logo="https://img.thesports.com/football/competition/f5470371fbfd2700042bdc9801f08bab.png", ⚽ Luki Energiya vs Ural Yekaterinburg luc 20:30 ngay 10/09/2026
+https://playback.livetl002.com/live/6a7c0d8f65997681f18cacc4.flv
+#EXTINF:-1 group-title="Gavang - Bóng đá" tvg-logo="https://img.thesports.com/football/competition/a4b0f9d596744a89847955eff21f713b.png", ⚽ Al-Jazira(UAE) vs Al-Nasr Dubai luc 20:40 ngay 10/09/2026
+https://playback.livetl002.com/live/69ef10b47146e04fbe6d4363.flv
+#EXTINF:-1 group-title="Gavang - Bóng đá" tvg-logo="https://img.thesports.com/football/competition/1cf230cafec68bdffd2f7e87d9f6f511.png", ⚽ FK Andijon vs FK Kokand 1912 luc 21:00 ngay 10/09/2026
+https://playback.livetl002.com/live/69be75e0a0a45974afb67776.flv
+#EXTINF:-1 group-title="Gavang - Bóng đá" tvg-logo="https://img.thesports.com/football/competition/71ec56470b1f954a153d98413368256e.png", ⚽ Super Nova vs Tukums luc 23:00 ngay 10/09/2026
+https://playback.livetl002.com/live/69a1aaa7230584579e2d5ce1.m3u8
+#EXTINF:-1 group-title="Gavang - Bóng đá" tvg-logo="https://img.thesports.com/football/competition/a4b0f9d596744a89847955eff21f713b.png", ⚽ Al Ain FC vs Al-Wasl SC luc 23:15 ngay 10/09/2026
+https://playback.livetl002.com/live/6a0c7c4b1ae4d6db02433c48.flv
+#EXTINF:-1 group-title="Gavang - Bóng đá" tvg-logo="https://img.thesports.com/football/competition/f5470371fbfd2700042bdc9801f08bab.png", ⚽ Shinnik Yaroslavl vs Torpedo Moskva luc 23:30 ngay 10/09/2026
+https://playback.livetl002.com/live/6a9776215126529dede9bf51.flv
+#EXTINF:-1 group-title="Gavang - Bóng rổ" tvg-logo="https://img.thesports.com/basketball/competition/ccaed74b3d438c1561910aed79b15291.png", ⚽ Iran vs Qatar lúc 08:00 ngày 10/09/2026
+https://playback.livetl002.com/live/6a77144762ca98f0944094c0.m3u8
+#EXTINF:-1 group-title="Gavang - Bóng rổ" tvg-logo="https://img.thesports.com/basketball/competition/ccaed74b3d438c1561910aed79b15291.png", ⚽ Jordan vs Chinese Taipei lúc 11:00 ngày 10/09/2026
+https://playback.livetl002.com/live/69d37c3a4da3e15776b6db56.flv
+#EXTINF:-1 group-title="Gavang - Bóng rổ" tvg-logo="https://img.thesports.com/basketball/competition/75ea0c3c22789700eeaf2c8047450d82.png", ⚽ Ryukyu Golden Kings vs Perth Wildcats lúc 17:35 ngày 10/09/2026
+https://playback.livetl002.com/live/6a77144762ca98f0944094c0.flv
