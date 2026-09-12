@@ -1,13 +1,21 @@
 #EXTM3U
-#EXTINF:-1 group-title="Gavang - Bóng đá" tvg-logo="https://img.thesports.com/football/competition/0c6a25cd746e802296d9064b4504179d.png", ⚽ Dortmund vs SC Paderborn 07 luc 20:30 ngay 12/09/2026
-https://playback.livetl002.com/live/6a9776215126529dede9bf51.flv
-#EXTINF:-1 group-title="Gavang - Bóng đá" tvg-logo="https://img.thesports.com/football/competition/0c6a25cd746e802296d9064b4504179d.png", ⚽ Hoffenheim vs Stuttgart luc 20:30 ngay 12/09/2026
+#EXTINF:-1 group-title="Gavang - Bóng đá" tvg-logo="https://img.thesports.com/football/competition/6b38f4015a6b3309ad9462e6ce27ae99.png", ⚽ Atalanta vs Cagliari luc 01:45 ngay 13/09/2026
+https://playback.livetl002.com/live/6a704ad865997681f18c2160.flv
+#EXTINF:-1 group-title="Gavang - Bóng đá" tvg-logo="https://img.thesports.com/football/competition/6e13222836235b121c1af3bc3055e76b.png", ⚽ Auxerre vs Nice luc 01:45 ngay 13/09/2026
+https://playback.livetl002.com/live/69be75e0a0a45974afb67776.m3u8
+#EXTINF:-1 group-title="Gavang - Bóng đá" tvg-logo="https://img.thesports.com/football/competition/6e13222836235b121c1af3bc3055e76b.png", ⚽ Havre AC vs Angers luc 01:45 ngay 13/09/2026
+https://playback.livetl002.com/live/6a0c7c4b1ae4d6db02433c48.m3u8
+#EXTINF:-1 group-title="Gavang - Bóng đá" tvg-logo="https://img.thesports.com/football/competition/6e13222836235b121c1af3bc3055e76b.png", ⚽ Lorient vs Toulouse luc 01:45 ngay 13/09/2026
+https://playback.livetl002.com/live/69cf6331585c5992182f4160.flv
+#EXTINF:-1 group-title="Gavang - Bóng đá" tvg-logo="https://img.thesports.com/football/competition/6e13222836235b121c1af3bc3055e76b.png", ⚽ Paris FC vs OL luc 01:45 ngay 13/09/2026
+https://playback.livetl002.com/live/6a9776215126529dede9bf51.m3u8
+#EXTINF:-1 group-title="Gavang - Bóng đá" tvg-logo="https://img.thesports.com/football/competition/1fbbb4be3b47d9465c5badecc3122e07.png", ⚽ Real Madrid vs Vallecano luc 02:00 ngay 13/09/2026
+https://playback.livetl002.com/live/69f42e961f739deff81510c0.m3u8
+#EXTINF:-1 group-title="Gavang - Bóng đá" tvg-logo="https://img.thesports.com/football/competition/324d7a463a24c4cd35ef83456a1b8d05.png", ⚽ Cruz Azul vs Club America luc 10:15 ngay 13/09/2026
 https://playback.livetl002.com/live/6a2a59b347bbddd62a8dc4e4.flv
-#EXTINF:-1 group-title="Gavang - Bóng đá" tvg-logo="https://img.thesports.com/football/competition/0c6a25cd746e802296d9064b4504179d.png", ⚽ Freiburg vs Borussia M’gladbach luc 20:30 ngay 12/09/2026
+#EXTINF:-1 group-title="Gavang - Bóng đá" tvg-logo="https://img.thesports.com/football/competition/9115e93d22380b87e231573b0a796f27.png", ⚽ Al Khaleej Club vs Al Nassr luc 01:00 ngay 13/09/2026
 https://playback.livetl002.com/live/6a01a2511e8555d7a3685f5c.flv
-#EXTINF:-1 group-title="Gavang - Bóng đá" tvg-logo="https://img.thesports.com/football/competition/1fbbb4be3b47d9465c5badecc3122e07.png", ⚽ Osasuna vs Espanyol luc 21:15 ngay 12/09/2026
-https://playback.livetl002.com/live/6a5df755b89dded67b39b8bc.m3u8
-#EXTINF:-1 group-title="Gavang - Bóng đá" tvg-logo="https://img.thesports.com/football/competition/6e13222836235b121c1af3bc3055e76b.png", ⚽ Strasbourg vs Monaco luc 22:15 ngay 12/09/2026
-https://playback.livetl002.com/live/69cf6331585c5992182f4160.m3u8
+#EXTINF:-1 group-title="Gavang - Bóng đá" tvg-logo="https://img.thesports.com/football/competition/0276a00c0277c8f1cba7b63bd59e281d.png", ⚽ Atletico Tucuman vs River Plate luc 03:30 ngay 13/09/2026
+https://playback.livetl002.com/live/6a439a7fb89dded67b208b87.m3u8
 #EXTINF:-1 group-title="Gavang - Bóng rổ" tvg-logo="https://img.thesports.com/basketball/competition/cc10534452097f6c95bc6e85862aab81.png", ⚽ LTi Giessen 46ers vs Chemcats Chemnitz lúc 23:30 ngày 12/09/2026
-https://playback.livetl002.com/live/69d37c3a4da3e15776b6db56.flv
+https://playback.livetl002.com/live/69d37c3a4da3e15776b6db56.m3u8
