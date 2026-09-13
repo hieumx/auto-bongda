@@ -1,15 +1,13 @@
 #EXTM3U
-#EXTINF:-1 group-title="Gavang - Bóng đá" tvg-logo="https://img.thesports.com/football/competition/324d7a463a24c4cd35ef83456a1b8d05.png", ⚽ Chivas Guadalajara vs Pumas luc 08:07 ngay 14/09/2026
-https://playback.livetl002.com/live/69b8e6f43bcf2231c35d5144.flv
 #EXTINF:-1 group-title="Gavang - Bóng đá" tvg-logo="https://img.thesports.com/football/competition/6b38f4015a6b3309ad9462e6ce27ae99.png", ⚽ Torino vs AS Roma luc 23:30 ngay 14/09/2026
 https://playback.livetl002.com/live/69aa9525f5ec459ae275b43f.flv
-#EXTINF:-1 group-title="Gavang - Bóng đá" tvg-logo="https://img.thesports.com/football/competition/5ad7bd885c64690f15f6971a2827190d.png", ⚽ CR Flamengo vs Corinthians Paulista luc 03:30 ngay 14/09/2026
-https://playback.livetl002.com/live/69cf6331585c5992182f4160.flv
-#EXTINF:-1 group-title="Gavang - Bóng đá" tvg-logo="https://img.thesports.com/football/competition/d2fe5be131ad888084f50d6af533570c.png", ⚽ Chicago Fire vs New England Revolution luc 04:30 ngay 14/09/2026
-https://playback.livetl002.com/live/69be75e0a0a45974afb67776.flv
-#EXTINF:-1 group-title="Gavang - Bóng đá" tvg-logo="https://img.thesports.com/football/competition/0276a00c0277c8f1cba7b63bd59e281d.png", ⚽ CA Independiente vs CA San Lorenzo luc 05:15 ngay 14/09/2026
-https://playback.livetl002.com/live/69a1aaa7230584579e2d5ce1.flv
+#EXTINF:-1 group-title="Gavang - Bóng đá" tvg-logo="https://img.thesports.com/football/competition/d2fe5be131ad888084f50d6af533570c.png", ⚽ Vancouver Whitecaps vs Austin FC luc 05:30 ngay 14/09/2026
+https://playback.livetl002.com/live/69b8e6f43bcf2231c35d5144.m3u8
 #EXTINF:-1 group-title="Gavang - Bóng đá" tvg-logo="https://img.thesports.com/football/competition/0e046e806bd54b6ea05db95101f07401.png", ⚽ Barcelona SC vs Delfin SC luc 06:00 ngay 14/09/2026
-https://playback.livetl002.com/live/6a2a59b347bbddd62a8dc4e4.flv
+https://playback.livetl002.com/live/6a2a59b347bbddd62a8dc4e4.m3u8
+#EXTINF:-1 group-title="Gavang - Bóng đá" tvg-logo="https://img.thesports.com/football/competition/0276a00c0277c8f1cba7b63bd59e281d.png", ⚽ CA Huracan vs Racing Club luc 07:30 ngay 14/09/2026
+https://playback.livetl002.com/live/69a1aaa7230584579e2d5ce1.m3u8
+#EXTINF:-1 group-title="Gavang - Bóng đá" tvg-logo="https://img.thesports.com/football/competition/b437ffed2118de872b1efc03d23413e9.png", ⚽ Japan(w) vs Thailand(w) luc 17:30 ngay 14/09/2026
+https://playback.livetl002.com/live/69be75e0a0a45974afb67776.m3u8
 #EXTINF:-1 group-title="Gavang - Bóng đá" tvg-logo="https://img.thesports.com/football/competition/9422aa91b72373c4d69f6dcf477aceb2.png", ⚽ Dynamo Kyiv vs FK Epitsentr Dunayivtsi luc 19:30 ngay 14/09/2026
 https://playback.livetl002.com/live/6a5df755b89dded67b39b8bc.flv
