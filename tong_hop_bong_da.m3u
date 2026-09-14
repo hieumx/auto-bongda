@@ -1,5 +1,15 @@
 #EXTM3U
-#EXTINF:-1 group-title="Gavang - Bóng rổ" tvg-logo="https://img.thesports.com/basketball/competition/a07e13b5b4e03beb0e060907570dd569.png", ⚽ GenSan Warriors vs Sarangani lúc 14:00 ngày 14/09/2026
-https://playback.livetl002.com/live/6a77144762ca98f0944094c0.m3u8
-#EXTINF:-1 group-title="Gavang - Bóng rổ" tvg-logo="https://img.thesports.com/basketball/competition/a07e13b5b4e03beb0e060907570dd569.png", ⚽ Basilan Viva Portmasters vs Meycauayan lúc 16:00 ngày 14/09/2026
-https://playback.livetl002.com/live/69d37c3a4da3e15776b6db56.flv
+#EXTINF:-1 group-title="Gavang - Bóng đá" tvg-logo="https://img.thesports.com/football/competition/bbe73e02dfd0737b98d16465ae014d9e.png", ⚽ Shabab AlAhli vs Tractor luc 23:00 ngay 14/09/2026
+https://playback.livetl002.com/live/6a5b13ceb36a14387baeddaa.m3u8
+#EXTINF:-1 group-title="Gavang - Bóng đá" tvg-logo="https://img.thesports.com/football/competition/bbe73e02dfd0737b98d16465ae014d9e.png", ⚽ Al Shamal vs Al-Ittihad Club luc 23:00 ngay 14/09/2026
+https://playback.livetl002.com/live/6a9527d0d9be608784fce9c9.flv
+#EXTINF:-1 group-title="Gavang - Bóng đá" tvg-logo="https://img.thesports.com/football/competition/c3ca567177713d1924f670d62e5f9da9.png", ⚽ Shinnik Yaroslavl vs Ural Yekaterinburg luc 22:30 ngay 14/09/2026
+https://playback.livetl002.com/live/6a704ad865997681f18c2160.m3u8
+#EXTINF:-1 group-title="Gavang - Bóng đá" tvg-logo="https://img.thesports.com/football/competition/9422aa91b72373c4d69f6dcf477aceb2.png", ⚽ Dynamo Kyiv vs FK Epitsentr Dunayivtsi luc 19:30 ngay 14/09/2026
+https://playback.livetl002.com/live/6a5df755b89dded67b39b8bc.m3u8
+#EXTINF:-1 group-title="Gavang - Bóng rổ" tvg-logo="https://img.thesports.com/basketball/competition/aa9d03051e5c1f8019bb7546a95549e7.png", ⚽ C.B. Breogan Lugo vs Rilski Sportist lúc 23:00 ngày 14/09/2026
+https://playback.livetl002.com/live/69d37c3a4da3e15776b6db56.m3u8
+#EXTINF:-1 group-title="Gavang - Bóng rổ" tvg-logo="https://img.thesports.com/basketball/competition/a07e13b5b4e03beb0e060907570dd569.png", ⚽ Quezon City Galeries Taipan vs Pasig City lúc 18:00 ngày 14/09/2026
+https://playback.livetl002.com/live/6a77144762ca98f0944094c0.flv
+#EXTINF:-1 group-title="Gavang - Bóng rổ" tvg-logo="https://img.thesports.com/basketball/competition/86c397baad3b2073cdcd8823c8e3f55d.png", ⚽ Ferroviario Maputo vs Costa Do Sol lúc 18:00 ngày 14/09/2026
+https://playback.livetl004.com/live/6a77144762ca98f0944094c0.m3u8
