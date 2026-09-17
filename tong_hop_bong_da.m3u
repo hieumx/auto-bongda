@@ -1,8 +1,4 @@
 #EXTM3U
-#EXTINF:-1 group-title="Gavang - Bóng đá" tvg-logo="https://img.thesports.com/football/competition/b437ffed2118de872b1efc03d23413e9.png", ⚽ Thailand(w) vs Chinese Taipei(w) luc 14:00 ngay 17/09/2026
-https://playback.livetl002.com/live/6a439a7fb89dded67b208b87.flv
-#EXTINF:-1 group-title="Gavang - Bóng đá" tvg-logo="https://img.thesports.com/football/competition/b437ffed2118de872b1efc03d23413e9.png", ⚽ Bangladesh(w) vs South Korea(w) luc 14:00 ngay 17/09/2026
-https://playback.livetl002.com/live/6a01a2511e8555d7a3685f5c.flv
 #EXTINF:-1 group-title="Gavang - Bóng đá" tvg-logo="https://img.thesports.com/football/competition/9a22d840df32761c127c5cd106203ccf.png", ⚽ Adelaide United vs Tai Po luc 17:00 ngay 17/09/2026
 https://playback.livetl002.com/live/69be75e0a0a45974afb67776.flv
 #EXTINF:-1 group-title="Gavang - Bóng đá" tvg-logo="https://img.thesports.com/football/competition/9a22d840df32761c127c5cd106203ccf.png", ⚽ Lion City Sailors vs BG Pathum United luc 17:00 ngay 17/09/2026
@@ -11,15 +7,11 @@ https://playback.livetl002.com/live/69ef10b47146e04fbe6d4363.flv
 https://playback.livetl002.com/live/69cf6331585c5992182f4160.flv
 #EXTINF:-1 group-title="Gavang - Bóng đá" tvg-logo="https://img.thesports.com/football/competition/b437ffed2118de872b1efc03d23413e9.png", ⚽ Vietnam(w) vs Japan(w) luc 17:30 ngay 17/09/2026
 https://playback.livetl002.com/live/69a1aaa7230584579e2d5ce1.m3u8
-#EXTINF:-1 group-title="Gavang - Bóng đá" tvg-logo="https://img.thesports.com/football/competition/9a22d840df32761c127c5cd106203ccf.png", ⚽ Kitchee vs Gangwon FC luc 19:15 ngay 17/09/2026
-https://playback.livetl002.com/live/6a7c0d8f65997681f18cacc4.flv
 #EXTINF:-1 group-title="Gavang - Bóng đá" tvg-logo="https://img.thesports.com/football/competition/9a22d840df32761c127c5cd106203ccf.png", ⚽ Phnom Penh FC vs Kuching City FC luc 19:15 ngay 17/09/2026
 https://playback.livetl002.com/live/6a5df755b89dded67b39b8bc.flv
 #EXTINF:-1 group-title="Gavang - Bóng đá" tvg-logo="https://img.thesports.com/football/competition/d4d461679eedfed50374d47d84431ef3.png", ⚽ Gazovik Orenburg vs FK Krasnodar luc 20:15 ngay 17/09/2026
 https://playback.livetl002.com/live/6a704ad865997681f18c2160.flv
-#EXTINF:-1 group-title="Gavang - Bóng đá" tvg-logo="https://img.thesports.com/football/competition/d4d461679eedfed50374d47d84431ef3.png", ⚽ FK Rostov vs Dynamo Moscow luc 22:30 ngay 17/09/2026
-https://playback.livetl002.com/live/6a9a5525864ea536c2577392.flv
-#EXTINF:-1 group-title="Gavang - Bóng rổ" tvg-logo="https://img.thesports.com/basketball/competition/48168568dd824069e69edc3ccd7dc42a.png", ⚽ Fuerza Regia de Monterrey vs Mineros de Zacatecas lúc 08:15 ngày 17/09/2026
-https://playback.livetl002.com/live/6a77144762ca98f0944094c0.m3u8
-#EXTINF:-1 group-title="Gavang - Bóng rổ" tvg-logo="https://img.thesports.com/basketball/competition/a26b9ccaacd3c5b923848ce0aeacca1c.png", ⚽ Indonesia Women vs Thailand Women lúc 11:00 ngày 17/09/2026
+#EXTINF:-1 group-title="Gavang - Bóng đá" tvg-logo="https://img.thesports.com/football/competition/1bf163c9c97591667d1da9330b17140d.png", ⚽ AEK Athens vs Panserraikos luc 21:45 ngay 17/09/2026
+https://playback.livetl002.com/live/6a7c0d8f65997681f18cacc4.flv
+#EXTINF:-1 group-title="Gavang - Bóng rổ" tvg-logo="https://img.thesports.com/basketball/competition/a26b9ccaacd3c5b923848ce0aeacca1c.png", ⚽ Japan Women vs Hong Kong China Women lúc 17:00 ngày 17/09/2026
 https://playback.livetl002.com/live/69d37c3a4da3e15776b6db56.flv
