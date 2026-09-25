@@ -1,22 +1,16 @@
 #EXTM3U
-#EXTINF:-1 group-title="Gavang - Bóng đá" tvg-logo="https://img.thesports.com/football/competition/a43b934409a4d2475b0e5f69d1b2ec16.png", ⚽ Atletico Nacional Medellin vs Millonarios luc 07:30 ngay 25/09/2026
-https://playback.livetl002.com/live/69b8e6f43bcf2231c35d5144.m3u8
-#EXTINF:-1 group-title="Gavang - Bóng đá" tvg-logo="https://img.thesports.com/football/competition/d9ffadf863b3490aaefe0c42b2570440.png", ⚽ Alebrijes de Oaxaca vs Atletico La Paz luc 08:00 ngay 25/09/2026
-https://playback.livetl002.com/live/69a1aaa7230584579e2d5ce1.m3u8
-#EXTINF:-1 group-title="Gavang - Bóng đá" tvg-logo="https://img.thesports.com/football/competition/5fa8174c859d9a2ca7c3fdfd333b0d13.png", ⚽ Costa Rica vs Curacao luc 09:00 ngay 25/09/2026
-https://playback.livetl002.com/live/6a2a59b347bbddd62a8dc4e4.m3u8
-#EXTINF:-1 group-title="Gavang - Bóng đá" tvg-logo="https://img.thesports.com/football/competition/23fc1501bb2c9e45bfa90092c353fad5.png", ⚽ Uzbekistan U23 vs Saudi Arabia U23 luc 12:00 ngay 25/09/2026
-https://playback.livetl002.com/live/6a5b13ceb36a14387baeddaa.flv
 #EXTINF:-1 group-title="Gavang - Bóng đá" tvg-logo="https://img.thesports.com/football/competition/b437ffed2118de872b1efc03d23413e9.png", ⚽ China(w) vs Vietnam(w) luc 13:00 ngay 25/09/2026
-https://playback.livetl002.com/live/6a9a5525864ea536c2577392.flv
+https://playback.livetl002.com/live/6a9a5525864ea536c2577392.m3u8
 #EXTINF:-1 group-title="Gavang - Bóng đá" tvg-logo="https://img.thesports.com/football/competition/75b6ce8a3018d34793e1aa86ec375795.png", ⚽ Bangladesh vs Malaysia luc 16:00 ngay 25/09/2026
-https://playback.livetl002.com/live/6a439a7fb89dded67b208b87.flv
+https://playback.livetl002.com/live/6a439a7fb89dded67b208b87.m3u8
 #EXTINF:-1 group-title="Gavang - Bóng đá" tvg-logo="https://img.thesports.com/football/competition/4e7c9460ee862d47c2ce6debfef6aace.png", ⚽ Australia vs Brazil luc 17:00 ngay 25/09/2026
 https://playback.livetl002.com/live/6a7c0d8f65997681f18cacc4.flv
 #EXTINF:-1 group-title="Gavang - Bóng đá" tvg-logo="https://img.thesports.com/football/competition/0edff1472edca4aeeec7534f0bceb230.png", ⚽ Ba Ria Vung Tau FC vs Van Hien University luc 17:00 ngay 25/09/2026
 https://playback.livetl002.com/live/6a9776215126529dede9bf51.flv
+#EXTINF:-1 group-title="Gavang - Bóng đá" tvg-logo="https://img.thesports.com/football/competition/b437ffed2118de872b1efc03d23413e9.png", ⚽ South Korea(w) vs Uzbekistan(w) luc 17:30 ngay 25/09/2026
+https://playback.livetl002.com/live/69a1aaa7230584579e2d5ce1.m3u8
 #EXTINF:-1 group-title="Gavang - Bóng đá" tvg-logo="https://img.thesports.com/football/competition/b437ffed2118de872b1efc03d23413e9.png", ⚽ Japan(w) vs Philippines(w) luc 17:30 ngay 25/09/2026
-https://playback.livetl002.com/live/69be75e0a0a45974afb67776.m3u8
+https://playback.livetl002.com/live/69be75e0a0a45974afb67776.flv
 #EXTINF:-1 group-title="Gavang - Bóng đá" tvg-logo="https://img.thesports.com/football/competition/23fc1501bb2c9e45bfa90092c353fad5.png", ⚽ Korea U23 vs Vietnam U23 luc 17:30 ngay 25/09/2026
 https://playback.livetl002.com/live/69aa9525f5ec459ae275b43f.flv
 #EXTINF:-1 group-title="Gavang - Bóng đá" tvg-logo="https://img.thesports.com/football/competition/aef1f7c3d09f7d1f60e0dde1ee3f1cbc.png", ⚽ Wuxi Wugou vs Guangxi Hengchen FC luc 18:00 ngay 25/09/2026
@@ -31,7 +25,11 @@ https://playback.livetl002.com/live/69cf6331585c5992182f4160.flv
 https://playback.livetl002.com/live/69f42e961f739deff81510c0.flv
 #EXTINF:-1 group-title="Gavang - Bóng đá" tvg-logo="https://img.thesports.com/football/competition/dc00471256fd2162677840453cbb2cee.png", ⚽ Nigeria vs Madagascar luc 23:00 ngay 25/09/2026
 https://playback.livetl002.com/live/69ef10b47146e04fbe6d4363.flv
-#EXTINF:-1 group-title="Gavang - Bóng rổ" tvg-logo="https://img.thesports.com/basketball/competition/86f522333da4c3e2c144996fc4d2520b.png", ⚽ Phoenix Mercury vs Las Vegas Aces lúc 09:00 ngày 25/09/2026
-https://playback.livetl002.com/live/69d37c3a4da3e15776b6db56.flv
-#EXTINF:-1 group-title="Gavang - Bóng rổ" tvg-logo="https://img.thesports.com/basketball/competition/27bf8750003b02f26b19f77b1c7690b4.png", ⚽ Anyang JungKwanJang Red Boosters vs Suwon KT Sonicboom lúc 14:30 ngày 25/09/2026
+#EXTINF:-1 group-title="Gavang - Bóng đá" tvg-logo="https://img.thesports.com/football/competition/245bff452fbdc34d417164e361097ae7.png", ⚽ Netherlands vs Germany luc 01:45 ngay 25/09/2026
+https://playback.livetl004.com/live/69f42e961f739deff81510c0.m3u8
+#EXTINF:-1 group-title="Gavang - Bóng đá" tvg-logo="https://img.thesports.com/football/competition/245bff452fbdc34d417164e361097ae7.png", ⚽ Norway vs Denmark luc 01:45 ngay 25/09/2026
+https://playback.livetl002.com/live/6a5b13ceb36a14387baeddaa.flv
+#EXTINF:-1 group-title="Gavang - Bóng đá" tvg-logo="https://img.thesports.com/football/competition/b437ffed2118de872b1efc03d23413e9.png", ⚽ Korea DPR(w) vs Chinese Taipei(w) luc 13:00 ngay 25/09/2026
+https://playback.livetl002.com/live/6a0c7c4b1ae4d6db02433c48.flv
+#EXTINF:-1 group-title="Gavang - Bóng rổ" tvg-logo="https://img.thesports.com/basketball/competition/27bf8750003b02f26b19f77b1c7690b4.png", ⚽ Busan KCC Egis vs Changwon LG Sakers lúc 12:00 ngày 25/09/2026
 https://playback.livetl002.com/live/69d37c3a4da3e15776b6db56.m3u8
