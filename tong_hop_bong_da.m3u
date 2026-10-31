@@ -1,64 +1,52 @@
 #EXTM3U
-#EXTINF:-1 group-title="GaVang - Bóng đá" tvg-logo="https://images.keovip88.net/images/teams/manchester-city.png", ⚽ [] Manchester City vs Brighton   Hove Albion
-https://pzhgifbkllliv.vcdn.cloud/1793435579_hd/1793435579_hd@720p.m3u8
-#EXTINF:-1 group-title="GaVang - Bóng đá" tvg-logo="https://images.keovip88.net/images/teams/manchester-city.png", ⚽ [] Manchester City vs Brighton   Hove Albion
-https://pzhgifbkllliv.vcdn.cloud/1793435582_hd/1793435582_hd@720p.m3u8
-#EXTINF:-1 group-title="GaVang - Bóng đá" tvg-logo="https://images.keovip88.net/images/teams/bayer-leverkusen.png", ⚽ [] Bayer Leverkusen vs VfB Stuttgart
-https://pzhgifbkllliv.vcdn.cloud/1793283982_hd/1793283982_hd@720p.m3u8
-#EXTINF:-1 group-title="GaVang - Bóng đá" tvg-logo="https://images.keovip88.net/images/teams/schalke-04.png", ⚽ [] Schalke 04 vs RB Leipzig
-https://pzhgifbkllliv.vcdn.cloud/1793455086_hd/1793455086_hd@720p.m3u8
-#EXTINF:-1 group-title="GaVang - Bóng đá" tvg-logo="https://images.keovip88.net/images/teams/hull-city.png", ⚽ [] Hull City vs Ipswich
-https://pzhgifbkllliv.vcdn.cloud/1793284186_hd/1793284186_hd@720p.m3u8
-#EXTINF:-1 group-title="GaVang - Bóng đá" tvg-logo="https://images.keovip88.net/images/teams/coventry-city.png", ⚽ [] Coventry vs Sunderland
-https://pzhgifbkllliv.vcdn.cloud/1793284209_hd/1793284209_hd@720p.m3u8
-#EXTINF:-1 group-title="GaVang - Bóng đá" tvg-logo="https://images.keovip88.net/images/teams/brentford.png", ⚽ [] Brentford vs Nottingham Forest
-https://pzhgifbkllliv.vcdn.cloud/1793284242_hd/1793284242_hd@720p.m3u8
-#EXTINF:-1 group-title="GaVang - Bóng đá" tvg-logo="https://images.keovip88.net/images/teams/afc-bournemouth.png", ⚽ [] AFC Bournemouth vs Leeds United
-https://pzhgifbkllliv.vcdn.cloud/1793284270_hd/1793284270_hd@720p.m3u8
-#EXTINF:-1 group-title="GaVang - Bongban" tvg-logo="https://static.flashscore.com/res/image/data/UDz8uBAr-6eV80rrH.png", ⚽ [] Hina HAYATA  vs SUN Yingsha
-https://pzhgifbkllliv.vcdn.cloud/1793432044_hd/1793432044_hd@720p.m3u8
-#EXTINF:-1 group-title="GaVang - Bóng đá" tvg-logo="https://images.keovip88.net/images/teams/rayo-vallecano.png", ⚽ [] Rayo Vallecano vs Celta Vigo
-https://pzhgifbkllliv.vcdn.cloud/1793457092_hd/1793457092_hd@720p.m3u8
-#EXTINF:-1 group-title="Xoilac - Bóng đá" tvg-logo="https://imgts.sportpulseapiz.com/football/competition/jednm9whz0ryox8/image/small", ⚽ Coventry City vs Sunderland lúc 22:00 ngày 31/10/2026
+#EXTINF:-1 group-title="GaVang - Bóng đá" tvg-logo="https://images.keovip88.net/images/teams/tottenham-hotspur.png", ⚽ [] Tottenham Hotspur vs Crystal Palace
+https://pzhgifbkllliv.vcdn.cloud/1793372798_hd/1793372798_hd@720p.m3u8
+#EXTINF:-1 group-title="GaVang - Bóng đá" tvg-logo="https://images.keovip88.net/images/teams/bayern-munchen.png", ⚽ [] Bayern Munich vs Borussia Dortmund
+https://pzhgifbkllliv.vcdn.cloud/1793372850_hd/1793372850_hd@720p.m3u8
+#EXTINF:-1 group-title="GaVang - Bóng đá" tvg-logo="https://images.keovip88.net/images/teams/al-hilal.png", ⚽ [] Al Hilal vs Al-Fateh SC
+https://pzhgifbkllliv.vcdn.cloud/1793372973_hd/1793372973_hd@720p.m3u8
+#EXTINF:-1 group-title="GaVang - Bongban" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSb15BLqV4M2xSucqaqd2kNJEO_3zZnCV-AWjkrC-8QBw&s=10", ⚽ [] Lin Sidong  vs Truls Moregard
+https://pzhgifbkllliv.vcdn.cloud/1793463380_hd/1793463380_hd@720p.m3u8
+#EXTINF:-1 group-title="GaVang - Bóng đá" tvg-logo="https://images.keovip88.net/images/teams/real-betis.png", ⚽ [] Real Betis vs Malaga
+https://pzhgifbkllliv.vcdn.cloud/1793372935_hd/1793372935_hd@720p.m3u8
+#EXTINF:-1 group-title="GaVang - Basketball" tvg-logo="https://cdn.keobongvip.digital/images/basketball-teams/a0f2371dad505780cccd4cba8baa0610.png", ⚽ [] Utah Jazz vs Portland Trail Blazers
+https://pzhgifbkllliv.vcdn.cloud/1793461965_hd/1793461965_hd@720p.m3u8
+#EXTINF:-1 group-title="Xoilac - Bóng đá" tvg-logo="https://imgts.sportpulseapiz.com/football/competition/jednm9whz0ryox8/image/small", ⚽ Tottenham vs Crystal Palace lúc 00:30 ngày 01/11/2026
+https://live2.jorvakstreamcache.com/live/channel1.flv
+#EXTINF:-1 group-title="Xoilac - Bóng đá" tvg-logo="https://imgts.sportpulseapiz.com/football/competition/vl7oqdehlyr510j/image/small", ⚽ Real Betis vs Malaga lúc 00:30 ngày 01/11/2026
 https://live2.jorvakstreamcache.com/live/channel11.flv
-#EXTINF:-1 group-title="Xoilac - Bóng đá" tvg-logo="https://imgts.sportpulseapiz.com/football/competition/jednm9whz0ryox8/image/small", ⚽ Brentford vs Nottingham Forest lúc 22:00 ngày 31/10/2026
-https://live1.quickscoreboardz.com/live/channel5.flv?wsSecret=a3dd9e0dcd049237c10a1222d70c40dc&wsABSTime=1793501954
-#EXTINF:-1 group-title="Xoilac - Bóng đá" tvg-logo="https://imgts.sportpulseapiz.com/football/competition/jednm9whz0ryox8/image/small", ⚽ AFC Bournemouth  vs Leeds United lúc 22:00 ngày 31/10/2026
-https://live1.quickscoreboardz.com/live/channel6.flv?wsSecret=302100c336a861fcf5633e2172e76a68&wsABSTime=1793501957
-#EXTINF:-1 group-title="Xoilac - Bóng đá" tvg-logo="https://imgts.sportpulseapiz.com/football/competition/jednm9whz0ryox8/image/small", ⚽ Manchester City vs Brighton lúc 22:00 ngày 31/10/2026
-https://live2.domaincdn.cc/livecdn/channel-1.flv?auth_key=3000001793458760-0-0-4b5d6a1891ced4eb430386d50e94c177
-#EXTINF:-1 group-title="Xoilac - Bóng đá" tvg-logo="https://imgts.sportpulseapiz.com/football/competition/9k82rekhgorepzj/image/small", ⚽ Bursaspor vs Bandirmaspor lúc 20:00 ngày 31/10/2026
-https://live1.quickscoreboardz.com/live/channel34.flv?wsSecret=f8d6653a8bb81f44f9b9cc6c55b192e3&wsABSTime=1793501963
-#EXTINF:-1 group-title="Xoilac - Bóng đá" tvg-logo="https://imgts.sportpulseapiz.com/football/competition/kdj2ryohnkq1zpg/image/small", ⚽ Real Sociedad B vs  Girona lúc 20:00 ngày 31/10/2026
-https://live2.jorvakstreamcache.com/live/channel13.flv
-#EXTINF:-1 group-title="BiaOm - Trực tiếp" tvg-logo="https://biaomtv.in/logo.svg", ⚽ LIVE - 31.10.2026 - 22:00 - Manchester City - ? - ? - Brighton & Hove Albion - TRÚC BẠCH
-https://cdnflv.xbdbotv.live/live/MTk3MTM1MjY6aGd5eDdwZGEwMmRlNWExZXZhMThvNnRnOnpkYzdwbjBzYjhuOWR6M21kZTByMjR6cQ.flv
-#EXTINF:-1 group-title="BiaOm - Trực tiếp" tvg-logo="https://biaomtv.in/team-default-logo.svg", ⚽ LIVE29’ - 31.10.2026 - 21:30 - Bayer Leverkusen - ? - ? - VfB Stuttgart - 333
-https://cdnflv.xbdbotv.live/live/MTk3MzUxMzM6bHEzbHRwejVpcXZwcnF4Ym42cmVlc3Q2OnYyMWx5azZxZDd2MGh2M3Y0N3NzNjJjcg.flv
-#EXTINF:-1 group-title="BiaOm - Trực tiếp" tvg-logo="https://biaomtv.in/team-default-logo.svg", ⚽ LIVE - 31.10.2026 - 22:00 - Coventry City - ? - ? - Sunderland - LẨU ẾCH
-https://cdnflv.xbdbotv.live/live/MTk3MjIxMTk6YThsY2E2YTk4dWpna3Q2bXcydDZwYXRxOnl5ZGV2cWN0ZmkwZHh6bnphcHF6ZnA4aA.flv
-#EXTINF:-1 group-title="BiaOm - Trực tiếp" tvg-logo="https://biaomtv.in/team-default-logo.svg", ⚽ LIVE - 31.10.2026 - 22:00 - AFC Bournemouth - ? - ? - Leeds United - NEM NƯỚNG
-https://cdnflv.xbdbotv.live/live/MTk3MjIxMjM6dWppY2ViaXFnN2Fmazdhendla3Q3azE3OmZhM2E4bzRmeWRocDIyNDZoMjdwNHBmeg.flv
-#EXTINF:-1 group-title="BiaOm - Trực tiếp" tvg-logo="https://biaomtv.in/team-default-logo.svg", ⚽ LIVE - 31.10.2026 - 22:00 - Brentford - ? - ? - Nottingham Forest - TIGER
-https://cdnflv.xbdbotv.live/live/MTk3MjIxMjE6ZDBuMm5wczd6c2ZuaXBpZ290dzI4bDd4OnNwMnNkeXVxZDM2d2hlbmE3dWczeHgyOA.flv
-#EXTINF:-1 group-title="ChuoiChien - Trực tiếp" tvg-logo="https://media.chuoichientv.net/media/20251115_113435_320106f9.png", ⚽ Kết thúc - La Liga - 13:00 31/10 - Levante - 0 - : - 2 - Atletico Madrid - Chuối Lá
-https://fhd-01.cctvsignal.xyz/embed/?id=1570439&streamUrl=https%3A%2F%2Fgckc0525.edgemaxcdn.org%2Flive%2Fchuoila%2Fplaylist.m3u8&autoplay=1&isHome=0
-#EXTINF:-1 group-title="ChuoiChien - Trực tiếp" tvg-logo="https://media.chuoichientv.net/media/20251115_113433_41008525.png", ⚽ Hiệp 1 - Bundesliga - 14:30 31/10 - LIVE - Bayer Leverkusen - 1 - : - 2 - 29' - VfB Stuttgart - Chuối Kem - Xem ngay
-https://fhd-01.cctvsignal.xyz/embed/?id=1575204&streamUrl=https%3A%2F%2Fgckc0525.edgemaxcdn.org%2Flive%2Fchuoikem%2Fplaylist.m3u8&autoplay=1&isHome=0
-#EXTINF:-1 group-title="ChuoiChien - Trực tiếp" tvg-logo="https://media.chuoichientv.net/media/20251115_112438_ee162444.png", ⚽ Đang diễn ra - Ngoại Hạng Anh - 15:00 31/10 - LIVE - Bournemouth - 0 - : - 0 - Leeds - Chuối Nhỏ - Xem ngay
-https://fhd-01.cctvsignal.xyz/embed/?id=1557448&streamUrl=https%3A%2F%2Fgckc0525.edgemaxcdn.org%2Flive%2Fchuoinho%2Fplaylist.m3u8&autoplay=1&isHome=0
-#EXTINF:-1 group-title="BTV - Trực tiếp" tvg-logo="https://static.wex1sora.com/thesports/football/team/bd12298fc3920bc20b7ad43b16ad9624.png", ⚽ Giải bóng đá Serie A Italia - Bologna F.C. 1909 - 1 - A.C. Monza - 1 - 31/10 14:00
-https://live.cds78y11d.org/live/hd-en-6Mwe5jZjE8eRgmfNfe.m3u8?txSecret=7bf874e7d916b6258f04dbf4f96ec4fc&txTime=6AE6AB68
-#EXTINF:-1 group-title="BTV - Trực tiếp" tvg-logo="https://static.wex1sora.com/thesports/football/team/c4a6528a2ee147b99c9885ef24385a4e.png", ⚽ Giải bóng đá Ngoại hạng Anh - Câu lạc bộ bóng đá thành phố Manchester - 0 - Brighton & Hove Albion FC - 0 - 31/10 15:00
-https://live.cds78y11d.org/live/hd-en-6MwdqQiGoWP35ruz1J.m3u8?txSecret=92bdf82ce72b7ca2fe5e65e3feecdc17&txTime=6AE6AB6A
-#EXTINF:-1 group-title="BTV - Trực tiếp" tvg-logo="https://static.wex1sora.com/thesports/football/team/262691204102d2200797f0ac34efb316.png", ⚽ Giải bóng đá Ngoại hạng Anh - CLB Hull City - 0 - CLB Ipswich Town - 0 - 31/10 15:00
-https://live.cds78y11d.org/live/hd-en-6MwdqQiHdyYdFUZ7Bz.m3u8?txSecret=b08551b0c814a2df142e6eeb526255d7&txTime=6AE6AB6D
-#EXTINF:-1 group-title="BTV - Trực tiếp" tvg-logo="https://static.wex1sora.com/thesports/football/team/240b30d333c97d293752ab7afd77ccd6.png", ⚽ Giải bóng đá Ngoại hạng Anh - Câu lạc bộ bóng đá Bournemouth - 0 - CLB Leeds United - 0 - 31/10 15:00
-https://live.cds78y11d.org/live/hd-en-6MwdqQiHJY17mMjyW4.m3u8?txSecret=af72022d6413092eb34a4e69e019f8f0&txTime=6AE6AB6F
-#EXTINF:-1 group-title="BTV - Trực tiếp" tvg-logo="https://static.bongtvrtm.com/seoweb/_next/static/media/loading.352111de.gif", ⚽ Giải bóng đá Ngoại hạng Anh - Câu lạc bộ bóng đá Brentford - 0 - Câu lạc bộ Bóng đá Nottingham Forest - 0 - 31/10 15:00
-https://live.cds78y11d.org/live/hd-en-6MwdqQiHJcQ5WKPoor.m3u8?txSecret=12d37ee92b9ece28ae94bc93911e6169&txTime=6AE6AB71
-#EXTINF:-1 group-title="BTV - Trực tiếp" tvg-logo="https://static.bongtvrtm.com/seoweb/_next/static/media/loading.352111de.gif", ⚽ Giải bóng đá Ngoại hạng Anh - CLB Coventry City - 0 - Sunderland - 0 - 31/10 15:00
-https://live.cds78y11d.org/live/hd-en-6MwdqQiHoXRiaNk3qv.m3u8?txSecret=73c7536d2a4acd74970f4be50b950011&txTime=6AE6AB73
+#EXTINF:-1 group-title="Xoilac - Bóng đá" tvg-logo="https://imgts.sportpulseapiz.com/football/competition/gy0or5jhg6qwzv3/image/small", ⚽ Bayern Munich vs Dortmund lúc 00:30 ngày 01/11/2026
+https://live1.quickscoreboardz.com/live/channel15.flv?wsSecret=a89c7fc1bc272f493ea57255042ad5ec&wsABSTime=1793516634
+#EXTINF:-1 group-title="Xoilac - Bóng đá" tvg-logo="https://imgts.sportpulseapiz.com/football/competition/4zp5rzghp5q82w1/image/small", ⚽ AC Milan vs Inter Milan lúc 02:45 ngày 01/11/2026
+https://live1.quickscoreboardz.com/live/channel5.flv?wsSecret=e8d7fde6aa25cd5c099b9787462741de&wsABSTime=1793516637
+#EXTINF:-1 group-title="Xoilac - Bóng đá" tvg-logo="https://imgts.sportpulseapiz.com/football/competition/kn54qllhg2qvy9d/image/small", ⚽ Charlotte FC vs Orlando City lúc 00:00 ngày 01/11/2026
+https://live1.quickscoreboardz.com/live/channel50.flv?wsSecret=dd9467cb38647e5da8c4887913569217&wsABSTime=1793516640
+#EXTINF:-1 group-title="Xoilac - Bóng đá" tvg-logo="https://imgts.sportpulseapiz.com/football/competition/9vjxm8gh22r6odg/image/small", ⚽ Standard Liege vs KV Kortrijk lúc 00:15 ngày 01/11/2026
+https://live2.jorvakstreamcache.com/live/channel14.flv
+#EXTINF:-1 group-title="BiaOm - Trực tiếp" tvg-logo="https://biaomtv.in/brand/HD88/logo.svg", ⚽ LIVE94’Hiệp 2Bayern Munich2 - 1Borussia DortmundBLVTIGERHT1-05-11-1
+https://cdnflv.xbdbotv.live/live/MTk3MzUxMzQ6ZDBuMm5wczd6c2ZuaXBpZ290dzI4bDd4OmJoY3Uwd2U5bHNuazZxdXlrNGJiaTV3dA.flv
+#EXTINF:-1 group-title="BiaOm - Trực tiếp" tvg-logo="https://biaomtv.in/match-triangle.png", ⚽ LIVEKết thúcUdinese2 - 5AS RomaBLVASAHIHT0-47-41-1
+https://cdnflv.xbdbotv.live/live/MTk3MTM1MTg6aGY1ODc5dDVoeXprdGJiajd3azBucmU2OnJ0NW1vaWMxY2VmMTAzNnd6ZHY2aXYzaw.flv
+#EXTINF:-1 group-title="BiaOm - Trực tiếp" tvg-logo="https://biaomtv.in/match-triangle.png", ⚽ LIVE94’Hiệp 2Real Betis2 - 1MálagaBLVTRÚC BẠCHHT2-07-00-2
+https://cdnflv.xbdbotv.live/live/MTk3MzI2NDE6bjlsaDFnc2lrZDhzZjZhZW5oZjl2cG9xOmNxczBkbzBocHA5bzNtc25pb2o1bWxsNA.flv
+#EXTINF:-1 group-title="BiaOm - Trực tiếp" tvg-logo="https://biaomtv.in/match-triangle.png", ⚽ LIVE94’Hiệp 2Tottenham Hotspur2 - 0Crystal PalaceBLV333HT1-012-01-1
+https://cdnflv.xbdbotv.live/live/MTk3MjIxMTQ6bHEzbHRwejVpcXZwcnF4Ym42cmVlc3Q2Omdmc3ZoY3IzM2kwYW53b2U2cG5sZTN1Yw.flv
+#EXTINF:-1 group-title="ChuoiChien - Trực tiếp" tvg-logo="https://media.chuoichientv.net/media/20251115_112438_ee162444.png", ⚽ Hiệp 2 - Ngoại Hạng Anh - 17:30 31/10 - LIVE - Tottenham - 2 - : - 0 - 75' - Crystal Palace - Chuối Lá - Xem ngay
+https://fhd-01.cctvsignal.xyz/embed/?id=1557456&streamUrl=https%3A%2F%2Fgckc0525.edgemaxcdn.org%2Flive%2Fchuoila%2Fplaylist.m3u8&autoplay=1&isHome=0
+#EXTINF:-1 group-title="ChuoiChien - Trực tiếp" tvg-logo="https://media.chuoichientv.net/media/20251115_113433_41008525.png", ⚽ Hiệp 2 - Bundesliga - 17:30 31/10 - LIVE - Bayern München - 2 - : - 1 - 70' - Borussia Dortmund - Chuối Già - Xem ngay
+https://fhd-01.cctvsignal.xyz/embed/?id=1575203&streamUrl=https%3A%2F%2Fgckc0525.edgemaxcdn.org%2Flive%2Fchuoigia%2Fplaylist.m3u8&autoplay=1&isHome=0
+#EXTINF:-1 group-title="BTV - Trực tiếp" tvg-logo="https://static.wex1sora.com/thesports/football/team/8b22ab4041e666b996a2d96f20dea707.png", ⚽ Giải bóng đá Ngoại hạng Anh - Câu lạc bộ Tottenham Hotspur - 2 - Crystal Palace - 0 - 31/10 17:30
+https://live.cds78y11d.org/live/hd-en-6MwdqQiGdcicveHnyJ.m3u8?txSecret=146f5e2e8edd49250732383b35bb6f96&txTime=6AE6E4BE
+#EXTINF:-1 group-title="BTV - Trực tiếp" tvg-logo="https://static.wex1sora.com/thesports/football/team/018e260ad68bdad741c61e3171c4c608.png", ⚽ Giải Bóng đá Vô địch Quốc gia Tây Ban Nha - Real Betis Balompié - 2 - Malaga - 1 - 31/10 17:30
+https://live.cds78y11d.org/live/hd-en-6MweaGxTXszkmMdPaL.m3u8?txSecret=311c7a3187400284ed8bcb59d013f350&txTime=6AE6E4C0
+#EXTINF:-1 group-title="BTV - Trực tiếp" tvg-logo="https://static.wex1sora.com/thesports/football/team/ef19a84a6745fe57aa786873d2b18e8a.png", ⚽ Bundesliga - FC Bayern München - 2 - Borussia Dortmund - 1 - 31/10 17:30
+https://live.cds78y11d.org/live/hd-en-6MweaDgjdwr71sr73r.m3u8?txSecret=b6f266919d2125e69d57c7806da013f9&txTime=6AE6E4C2
+#EXTINF:-1 group-title="BTV - Trực tiếp" tvg-logo="https://static.wex1sora.com/thesports/football/team/4f7a0095b9a3a4756318efd55451badb.png", ⚽ Giải bóng đá Hạng nhất Brasil - Coritiba - 0 - CLB Vitoria BA - 0 - 31/10 19:00
+https://live.cds78y11d.org/live/sd-6MvZ6Lzg2mgCNW4xkc.m3u8?txSecret=c3e4bcac3b62af9cc225c9a556e34616&txTime=6AE6E4C4
+#EXTINF:-1 group-title="BTV - Trực tiếp" tvg-logo="https://static.bongtvrtm.com/seoweb/_next/static/media/loading.352111de.gif", ⚽ Giải Bóng đá Vô địch Quốc gia Hà Lan - PSV Eindhoven - 4 - Willem II - 0 - 31/10 17:45
+https://live.cds78y11d.org/live/sd-6Mwdpr5PZJhcjcB2LL.m3u8?txSecret=aafb05bd5fb01b90f196ee08aa913d2f&txTime=6AE6E4C6
+#EXTINF:-1 group-title="BTV - Trực tiếp" tvg-logo="https://static.bongtvrtm.com/seoweb/_next/static/media/loading.352111de.gif", ⚽ Giải Bóng đá Vô địch Quốc gia Hà Lan - SC Heerenveen - 0 - CLB NEC Nijmegen - 0 - 31/10 17:45
+https://live.cds78y11d.org/live/sd-6Mwdpr5PZLu6c5zwVE.m3u8?txSecret=5fa20991ad9d72235385dbbe6a3757ba&txTime=6AE6E4C9
 #EXTINF:-1 group-title="TV - FIFA WORLD CUP 2026" tvg-logo="https://i.ytimg.com/vi/4jr8Y13NSME/maxresdefault.jpg", ⚽ VTV3
 http://42.1.99.192:8080/secureVhost/vtv3.flv?token=vtv_secret_20260706
 #EXTINF:-1 group-title="TV - FIFA WORLD CUP 2026" tvg-logo="https://raw.githubusercontent.com/vuminhthanh12/Logo/refs/heads/main/VTV6.png", ⚽ VTV6
