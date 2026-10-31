@@ -2,13 +2,21 @@ name: Tự Động Săn Link Bóng Đá Hằng Ngày
 
 on:
   schedule:
-    # Chạy tự động 3 tiếng 1 lần
-    - cron: '0 */3 * * *'
-  workflow_dispatch: # Nút bấm chạy bằng tay
+    # Chạy đều đặn mỗi 30 phút để luôn có luồng trực tiếp mới nhất
+    - cron: '*/30 * * * *'
+  workflow_dispatch: # Cho phép kích hoạt thủ công từ giao diện GitHub
+
+concurrency:
+  group: update-links
+  cancel-in-progress: true
+
+permissions:
+  contents: write
 
 jobs:
   run-bot:
     runs-on: ubuntu-latest
+    timeout-minutes: 15
 
     steps:
     - name: Kéo mã nguồn về máy chủ
@@ -17,25 +25,34 @@ jobs:
         ref: main
         fetch-depth: 0
 
-    - name: Cài đặt Python
+    - name: Cài đặt Python & Kích hoạt Cache Pip
       uses: actions/setup-python@v5
       with:
         python-version: '3.10'
+        cache: 'pip'
 
-    - name: Cài đặt vũ khí Playwright & Requests
+    - name: Cài đặt thư viện & Playwright dependencies
       run: |
-        pip install playwright requests
-        playwright install chromium
+        python -m pip install --upgrade pip
+        pip install -r requirements.txt
+        playwright install --with-deps chromium
 
     - name: Kích hoạt Siêu Bot đi săn link
-      # Chữ -u cực kỳ quan trọng để GitHub không bị "nuốt log"
+      # Chữ -u cực kỳ quan trọng để GitHub không bị nuốt log
       run: python -u san_link_bong_da.py
 
     - name: Đẩy file m3u mới lên kho chứa công khai
       run: |
-        git config --global user.name "actions-user"
-        git config --global user.email "actions@github.com"
+        git config --global user.name "github-actions[bot]"
+        git config --global user.email "github-actions[bot]@users.noreply.github.com"
         git add tong_hop_bong_da.m3u
-        git commit -m "Cập nhật luồng trực tiếp mới nhất" || echo "Không có thay đổi"
-        git pull --rebase origin main
-        git push origin main
+        if ! git diff --staged --quiet; then
+          git commit -m "Cập nhật luồng trực tiếp mới nhất [skip ci]"
+          git pull --rebase origin main || true
+          git push origin main
+        else
+          echo "Không có thay đổi nào trong danh sách phát"
+        fi
+
+    - name: Giữ cho GitHub Actions luôn chạy (ngăn tự tắt sau 60 ngày)
+      uses: gautamkrishnar/keepalive-workflow@v2
