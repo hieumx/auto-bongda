@@ -44,6 +44,82 @@ def lay_domain_dong(provider_name, default_url):
     _DOMAIN_CACHE[provider_name] = default_url
     return default_url
 
+def lay_domain_hoiquan():
+    """Lấy domain cập nhật tự động của Hội Quán TV qua Bitly redirect hoặc fallback"""
+    if "hoiquantv" in _DOMAIN_CACHE:
+        return _DOMAIN_CACHE["hoiquantv"]
+    try:
+        r = requests.head('https://bit.ly/hoiquantv', allow_redirects=False, timeout=3)
+        loc = r.headers.get('Location')
+        if loc and loc.startswith('http'):
+            target = loc.rstrip('/') + '/trang-chu'
+            _DOMAIN_CACHE["hoiquantv"] = target
+            return target
+    except Exception:
+        pass
+    fallback = lay_domain_dong("hoiquantv", "https://sv2.hoiquan6.live/trang-chu")
+    _DOMAIN_CACHE["hoiquantv"] = fallback
+    return fallback
+
+def thu_hoach_phim_phim4k():
+    """Thu hoạch kho phim lẻ, phim bộ và anime hot từ Phim4K APK (KKPhim direct API)"""
+    streams = []
+    print("\n🎬 [Phim4K Engine] Đang thu hoạch kho phim chiếu rạp, phim bộ & anime...", flush=True)
+    t0 = time.time()
+    sources = [
+        ("🎬 Phim Lẻ Chiếu Rạp", "https://phimapi.com/v1/api/danh-sach/phim-le?page=1&limit=15"),
+        ("🎬 Phim Bộ Mới Nhất", "https://phimapi.com/v1/api/danh-sach/phim-bo?page=1&limit=15"),
+        ("🎬 Hoạt Hình - Anime", "https://phimapi.com/v1/api/danh-sach/hoat-hinh?page=1&limit=15"),
+    ]
+    movie_tasks = []
+    for grp, list_url in sources:
+        try:
+            r = requests.get(list_url, headers=HEADERS, timeout=6)
+            d = r.json()
+            items = d.get("data", {}).get("items", []) if "data" in d else d.get("items", [])
+            for item in items:
+                slug = item.get("slug")
+                if slug:
+                    movie_tasks.append((slug, grp))
+        except Exception:
+            pass
+
+    def fetch_movie_detail(task):
+        slug, group_name = task
+        try:
+            url = f"https://phimapi.com/phim/{slug}"
+            r = requests.get(url, headers=HEADERS, timeout=6)
+            data = r.json()
+            movie = data.get("movie", {})
+            name = movie.get("name") or slug
+            thumb = movie.get("thumb_url") or movie.get("poster_url") or ""
+            episodes = data.get("episodes", [])
+            if episodes:
+                server_data = episodes[0].get("server_data", [])
+                if server_data:
+                    ep = server_data[-1] if len(server_data) > 1 else server_data[0]
+                    ep_name = ep.get("name")
+                    m3u8 = ep.get("link_m3u8")
+                    if m3u8 and m3u8.startswith("http"):
+                        display_name = f"{name} ({ep_name})" if len(server_data) > 1 else name
+                        return {
+                            'nhom': group_name,
+                            'ten': display_name,
+                            'link': m3u8,
+                            'thumb': thumb
+                        }
+        except Exception:
+            pass
+        return None
+
+    with ThreadPoolExecutor(max_workers=15) as executor:
+        results = executor.map(fetch_movie_detail, movie_tasks)
+        for res in results:
+            if res:
+                streams.append(res)
+    print(f"✅ Phim4K Engine: Thu hoạch thành công {len(streams)} phim 1080p trong {time.time()-t0:.2f}s!", flush=True)
+    return streams
+
 def thu_hoach_socolive_api():
     """Thu hoạch Socolive qua JSON API trực tiếp (siêu tốc, không kẹt Cloudflare)"""
     streams = []
@@ -196,8 +272,8 @@ def san_browser_servers(danh_sach_phat, server_da_thanh_cong):
     tat_ca_server = [
         ("Xoilac", lay_domain_dong("xoilactv", "https://xoilacz.vip"), "/truc-tiep/", "xoilac"),
         ("Quechoa", lay_domain_dong("quechatv", "https://quechoa5.live"), "/truc-tiep/", "chuan"),
-        ("ThienDinh", "https://sv2.thiendinh3.live/trang-chu", "", "thiendinh"),
-        ("Hoiquan", "https://sv2.hoiquan6.live/trang-chu", "", "thiendinh"),
+        ("ThienDinh", lay_domain_dong("thiendinh", "https://sv2.thiendinh3.live/trang-chu"), "", "thiendinh"),
+        ("Hoiquan", lay_domain_hoiquan(), "", "thiendinh"),
         ("Thapcam", "https://thapcamtivi.app", "/truc-tiep", "thapcam"),
         ("BiaOm", lay_domain_dong("biaomtv", "https://biaomtv.in/live"), "/live/", "chuan"),
         ("ChuoiChien", lay_domain_dong("chuoichien", "https://live03.chuoichientv.me"), "/live", "chuan"),
@@ -304,61 +380,66 @@ def san_browser_servers(danh_sach_phat, server_da_thanh_cong):
         return _loc_trung(raw, url_goc)
 
     def lay_phong_thiendinh(page, url_goc):
-        all_rooms = {}
-        mon_sidebar = [
-            ("Bóng đá", "Bóng đá"),
-            ("Bóng chuyền", "Bóng chuyền"),
-            ("Tennis", "Tennis"),
-            ("Billiards", "Billiards"),
-            ("Esports", "Esports"),
-            ("Cầu lông", "Cầu lông"),
-        ]
-
-        def _get_thiendinh_rooms():
-            return page.evaluate("""
-                (() => {
-                    const results = [];
-                    const seen = new Set();
-                    const navTexts = ['Trực tuyến','Bóng đá','Bóng chuyền','Billiards','Esports','Cầu lông','Tennis','Trang chủ','Lịch thi đấu','Kết quả','Xem lại'];
-                    const mainEl = document.querySelector('main, [class*="content"], [class*="match"], [class*="list"]') || document.body;
-                    mainEl.querySelectorAll('a[href]').forEach(a => {
-                        const href = a.getAttribute('href') || '';
-                        if (!href || href === '/' || href === '/trang-chu' || href === '#') return;
-                        if (href.startsWith('javascript:')) return;
-                        if (href.startsWith('http') && !href.includes(location.hostname)) return;
-                        if (seen.has(href)) return;
-                        const text = (a.textContent || '').trim();
-                        if (navTexts.includes(text)) return;
-                        if (!text || text.length < 2) return;
-                        seen.add(href);
-                        const img = a.querySelector('img');
-                        const cleanText = text.split('\\n').join(' - ').replace(/  +/g, ' ').trim();
-                        results.push({
-                            url: a.href,
-                            ten: cleanText || 'Trận đấu',
-                            thumb: img ? (img.src || img.getAttribute('data-src') || '') : ''
-                        });
+        raw = page.evaluate("""
+            (() => {
+                const results = [];
+                const seen = new Set();
+                const navTexts = ['Trực tuyến','Bóng đá','Bóng chuyền','Billiards','Esports','Cầu lông','Tennis','Trang chủ','Lịch thi đấu','Kết quả','Xem lại','Đua xe','Boxing','Bóng bàn'];
+                
+                document.querySelectorAll('a[href]').forEach(a => {
+                    const href = a.href || '';
+                    if (!href || href === location.href || href.endsWith('/trang-chu') || href.endsWith('/') || href.startsWith('javascript:')) return;
+                    if (!href.includes(location.hostname)) return;
+                    if (seen.has(href)) return;
+                    
+                    const rawText = (a.innerText || '').trim();
+                    if (navTexts.includes(rawText) || rawText.length < 3) return;
+                    
+                    seen.add(href);
+                    const img = a.querySelector('img');
+                    const cleanText = rawText.split('\n').join(' - ').replace(/  +/g, ' ').trim();
+                    
+                    let sport = 'Bóng đá';
+                    let parent = a.closest('.sport-section, section, [class*="section"], [class*="group"], [class*="sport"], [class*="category"]');
+                    let headerText = '';
+                    if (parent) {
+                        const h = parent.querySelector('h1, h2, h3, h4, h5, [class*="title"], [class*="header"]');
+                        if (h) headerText = h.innerText.toUpperCase();
+                    }
+                    if (!headerText) {
+                        let prev = a.parentElement;
+                        let depth = 0;
+                        while (prev && prev !== document.body && depth < 8) {
+                            const heading = prev.querySelector('h1, h2, h3, h4, [class*="title"]');
+                            if (heading) {
+                                headerText = heading.innerText.toUpperCase();
+                                break;
+                            }
+                            prev = prev.previousElementSibling || prev.parentElement;
+                            depth++;
+                        }
+                    }
+                    
+                    if (headerText.includes('BÓNG CHUYỀN') || headerText.includes('VOLLEY')) sport = 'Bóng chuyền';
+                    else if (headerText.includes('BÓNG RỔ') || headerText.includes('BASKET')) sport = 'Bóng rổ';
+                    else if (headerText.includes('TENNIS') || headerText.includes('QUẦN VỢT')) sport = 'Tennis';
+                    else if (headerText.includes('CẦU LÔNG') || headerText.includes('BADMINTON')) sport = 'Cầu lông';
+                    else if (headerText.includes('BILLIARDS') || headerText.includes('BI-A')) sport = 'Billiards';
+                    else if (headerText.includes('ESPORT') || headerText.includes('LIÊN MINH')) sport = 'Esports';
+                    else if (headerText.includes('ĐUA XE') || headerText.includes('MOTO')) sport = 'Đua xe';
+                    else if (headerText.includes('BÓNG BÀN') || headerText.includes('PINGPONG')) sport = 'Bóng bàn';
+                    
+                    results.push({
+                        url: href,
+                        ten: cleanText || 'Trận đấu',
+                        thumb: img ? (img.src || img.getAttribute('data-src') || '') : 'https://img.icons8.com/color/512/football2.png',
+                        sport: sport
                     });
-                    return results;
-                })()
-            """)
-
-        for ten_mon, sport_key in mon_sidebar:
-            try:
-                page.locator(f"aside >> text={ten_mon}").first.click(timeout=3000)
-                page.wait_for_timeout(1500)
-                rooms = _get_thiendinh_rooms()
-                for r in rooms:
-                    r['sport'] = sport_key
-                all_rooms.update(_loc_trung(rooms, url_goc))
-            except Exception:
-                pass
-
-        if not all_rooms:
-            rooms = _get_thiendinh_rooms()
-            all_rooms = _loc_trung(rooms, url_goc)
-
-        return all_rooms
+                });
+                return results;
+            })()
+        """)
+        return _loc_trung(raw, url_goc)
 
     def lay_phong_chuan(page, url_goc, keyword_link):
         raw = page.evaluate(f"""
@@ -524,7 +605,12 @@ def san_full_server_sieu_toc():
     if tv_streams:
         danh_sach_phat.extend(tv_streams)
 
-    # --- BƯỚC 4: LỌC TRÙNG & XUẤT FILE M3U CHUẨN ---
+    # --- BƯỚC 4: THU HOẠCH KHO PHIM HOT TỪ PHIM4K APK ---
+    phim_streams = thu_hoach_phim_phim4k()
+    if phim_streams:
+        danh_sach_phat.extend(phim_streams)
+
+    # --- BƯỚC 5: LỌC TRÙNG & XUẤT FILE M3U CHUẨN ---
     seen_links = set()
     danh_sach_sach = []
     for luong in danh_sach_phat:
