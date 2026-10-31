@@ -25,17 +25,23 @@ STATIC_PROXY = {
 # 1. BỘ THU HOẠCH TỐC ĐỘ CAO (DIRECT APIS TỪ GETOUT APK)
 # ==========================================
 
+_DOMAIN_CACHE = {}
+
 def lay_domain_dong(provider_name, default_url):
-    """Lấy domain cập nhật tự động từ GitHub getout nếu có"""
+    """Lấy domain cập nhật tự động từ kho dữ liệu GetOut nếu có"""
+    if provider_name in _DOMAIN_CACHE:
+        return _DOMAIN_CACHE[provider_name]
     try:
         url = f"https://raw.githubusercontent.com/leeshin5757/getout/main/txt/{provider_name}"
         r = requests.get(url, timeout=3)
         if r.status_code == 200 and r.text.strip():
             link = r.text.strip().split('|')[0].strip()
             if link.startswith('http'):
+                _DOMAIN_CACHE[provider_name] = link
                 return link
     except Exception:
         pass
+    _DOMAIN_CACHE[provider_name] = default_url
     return default_url
 
 def thu_hoach_socolive_api():
@@ -188,11 +194,20 @@ def thu_hoach_kenh_truyen_hinh():
 def san_browser_servers(danh_sach_phat, server_da_thanh_cong):
     """Chạy Playwright với tối ưu domcontentloaded cho Thapcam, Thiendinh, Xoilac, Quechoa"""
     tat_ca_server = [
-        ("Xoilac", "https://xoilacz.vip", "/truc-tiep/", "xoilac"),
-        ("Quechoa", "https://quechoa11.live", "/truc-tiep/", ""),
+        ("Xoilac", lay_domain_dong("xoilactv", "https://xoilacz.vip"), "/truc-tiep/", "xoilac"),
+        ("Quechoa", lay_domain_dong("quechatv", "https://quechoa5.live"), "/truc-tiep/", "chuan"),
         ("ThienDinh", "https://sv2.thiendinh3.live/trang-chu", "", "thiendinh"),
         ("Hoiquan", "https://sv2.hoiquan6.live/trang-chu", "", "thiendinh"),
         ("Thapcam", "https://thapcamtivi.app", "/truc-tiep", "thapcam"),
+        ("BiaOm", lay_domain_dong("biaomtv", "https://biaomtv.in/live"), "/live/", "chuan"),
+        ("ChuoiChien", lay_domain_dong("chuoichien", "https://live03.chuoichientv.me"), "/live", "chuan"),
+        ("BongLau", lay_domain_dong("bonglau", "https://lau03.bonglautv1.org"), "/live", "chuan"),
+        ("CoLa", lay_domain_dong("colatv", "https://colatv.live"), "", "chuan"),
+        ("SaoKe", lay_domain_dong("saoke", "https://vip3.saoketv40.xyz"), "", "chuan"),
+        ("RungTv", lay_domain_dong("rungtv", "https://live1.rung90tv1.xyz"), "", "chuan"),
+        ("S8", lay_domain_dong("s8", "https://s8tv011.com"), "", "chuan"),
+        ("BTV", lay_domain_dong("btv", "https://bongplus.vip"), "", "chuan"),
+        ("KhanDai", lay_domain_dong("khandai", "https://khandaia.pro"), "", "chuan"),
     ]
 
     server_can_quet = [s for s in tat_ca_server if s[0] not in server_da_thanh_cong]
@@ -347,15 +362,36 @@ def san_browser_servers(danh_sach_phat, server_da_thanh_cong):
 
     def lay_phong_chuan(page, url_goc, keyword_link):
         raw = page.evaluate(f"""
-            Array.from(document.querySelectorAll('a[href*="{keyword_link}"]')).map(a => {{
-                let img = a.querySelector('img');
-                return {{
-                    url: a.href,
-                    ten: a.innerText.trim().replace(/\\n/g, ' - '),
-                    thumb: img ? img.src : "https://img.icons8.com/color/512/football2.png",
-                    sport: ''
-                }}
-            }})
+            (() => {{
+                const kw = "{keyword_link}";
+                const results = [];
+                const seen = new Set();
+                document.querySelectorAll('a').forEach(a => {{
+                    const href = a.href || '';
+                    if (!href || href === location.href || href === location.origin + '/' || href.startsWith('javascript:')) return;
+                    if (kw) {{
+                        if (!href.includes(kw)) return;
+                    }} else {{
+                        const isMatchLink = ['/truc-tiep', '/live', '/match', '/room', '/watch'].some(k => href.includes(k));
+                        if (!isMatchLink) return;
+                    }}
+                    if (seen.has(href)) return;
+                    seen.add(href);
+                    let rawText = (a.innerText || '').trim().split('\\n').join(' - ').replace(/  +/g, ' ');
+                    let text = rawText.replace(/XEM LIVE/g, '').replace(/SẮP DIỄN RA/g, '').replace(/ - - /g, ' - ').trim();
+                    if (text.startsWith('- ')) text = text.substring(2).trim();
+                    if (text.endsWith(' -')) text = text.substring(0, text.length - 2).trim();
+                    if (text.length < 3) return;
+                    const img = a.querySelector('img');
+                    results.push({{
+                        url: href,
+                        ten: text,
+                        thumb: img ? (img.src || img.getAttribute('data-src') || '') : 'https://img.icons8.com/color/512/football2.png',
+                        sport: ''
+                    }});
+                }});
+                return results;
+            }})()
         """)
         return _loc_trung(raw, url_goc)
 
@@ -395,7 +431,7 @@ def san_browser_servers(danh_sach_phat, server_da_thanh_cong):
                     print(f"\n📥 ĐANG QUÉT SERVER: {ten_nhom.upper()} ({proxy_label})", flush=True)
                     page = context.new_page()
                     try:
-                        page.goto(url_trang_chu, timeout=20000, wait_until="domcontentloaded")
+                        page.goto(url_trang_chu, timeout=8000, wait_until="domcontentloaded")
                         page.wait_for_timeout(2000)
 
                         if kieu_quet == "xoilac":
@@ -410,7 +446,7 @@ def san_browser_servers(danh_sach_phat, server_da_thanh_cong):
                         print(f"🎯 Phát hiện {len(danh_sach_phong)} phòng chiếu tại {ten_nhom}!", flush=True)
 
                         thu_duoc = 0
-                        for link_phong, info in list(danh_sach_phong.items())[:12]:
+                        for link_phong, info in list(danh_sach_phong.items())[:6]:
                             stream_link_found = None
                             def bat_goi_tin(request):
                                 nonlocal stream_link_found
@@ -424,8 +460,8 @@ def san_browser_servers(danh_sach_phat, server_da_thanh_cong):
                                 if "xoilac" in link_phong and "/link/" not in link_phong:
                                     link_dich = link_phong.rstrip("/") + "/link/0"
 
-                                page.goto(link_dich, timeout=12000, wait_until="domcontentloaded")
-                                page.wait_for_timeout(2500)
+                                page.goto(link_dich, timeout=8000, wait_until="domcontentloaded")
+                                page.wait_for_timeout(1800)
                                 if stream_link_found:
                                     sport_text = SPORT_MAP.get(info.get('sport', ''), info.get('sport', ''))
                                     nhom_full = f"{ten_nhom} - {sport_text}" if sport_text else f"{ten_nhom} - Trực tiếp"
