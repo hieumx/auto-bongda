@@ -1,52 +1,42 @@
 #EXTM3U
-#EXTINF:-1 group-title="GaVang - Bóng đá" tvg-logo="https://images.keovip88.net/images/teams/tottenham-hotspur.png", ⚽ [] Tottenham Hotspur vs Crystal Palace
-https://pzhgifbkllliv.vcdn.cloud/1793372798_hd/1793372798_hd@720p.m3u8
-#EXTINF:-1 group-title="GaVang - Bóng đá" tvg-logo="https://images.keovip88.net/images/teams/bayern-munchen.png", ⚽ [] Bayern Munich vs Borussia Dortmund
-https://pzhgifbkllliv.vcdn.cloud/1793372850_hd/1793372850_hd@720p.m3u8
-#EXTINF:-1 group-title="GaVang - Bóng đá" tvg-logo="https://images.keovip88.net/images/teams/al-hilal.png", ⚽ [] Al Hilal vs Al-Fateh SC
-https://pzhgifbkllliv.vcdn.cloud/1793372973_hd/1793372973_hd@720p.m3u8
-#EXTINF:-1 group-title="GaVang - Bongban" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSb15BLqV4M2xSucqaqd2kNJEO_3zZnCV-AWjkrC-8QBw&s=10", ⚽ [] Lin Sidong  vs Truls Moregard
-https://pzhgifbkllliv.vcdn.cloud/1793463380_hd/1793463380_hd@720p.m3u8
-#EXTINF:-1 group-title="GaVang - Bóng đá" tvg-logo="https://images.keovip88.net/images/teams/real-betis.png", ⚽ [] Real Betis vs Malaga
-https://pzhgifbkllliv.vcdn.cloud/1793372935_hd/1793372935_hd@720p.m3u8
-#EXTINF:-1 group-title="GaVang - Basketball" tvg-logo="https://cdn.keobongvip.digital/images/basketball-teams/a0f2371dad505780cccd4cba8baa0610.png", ⚽ [] Utah Jazz vs Portland Trail Blazers
-https://pzhgifbkllliv.vcdn.cloud/1793461965_hd/1793461965_hd@720p.m3u8
-#EXTINF:-1 group-title="Xoilac - Bóng đá" tvg-logo="https://imgts.sportpulseapiz.com/football/competition/jednm9whz0ryox8/image/small", ⚽ Tottenham vs Crystal Palace lúc 00:30 ngày 01/11/2026
+#EXTINF:-1 group-title="GaVang - Bóng đá" tvg-logo="https://images.keovip88.net/images/teams/fenerbahce.png", ⚽ [] Fenerbahce vs Liverpool
+https://pzhgifbkllliv.vcdn.cloud/1793516593_hd/1793516593_hd@720p.m3u8
+#EXTINF:-1 group-title="GaVang - Bóng đá" tvg-logo="https://images.keovip88.net/images/teams/fenerbahce.png", ⚽ [] Fenerbahce vs Liverpool
+https://pzhgifbkllliv.vcdn.cloud/1793807049_hd/1793807049_hd@720p.m3u8
+#EXTINF:-1 group-title="GaVang - Bóng đá" tvg-logo="https://images.keovip88.net/images/teams/aek-athens.png", ⚽ [] AEK Athens vs Real Madrid
+https://pzhgifbkllliv.vcdn.cloud/1793516626_hd/1793516626_hd@720p.m3u8
+#EXTINF:-1 group-title="GaVang - Bongban" tvg-logo="https://static.flashscore.com/res/image/data/GAtpKvZg-hEEvdCUk.png", ⚽ [] LIM Jonghoon  vs Anton KALLBERG
+https://pzhgifbkllliv.vcdn.cloud/1793806641_hd/1793806641_hd@720p.m3u8
+#EXTINF:-1 group-title="Xoilac - Bóng đá" tvg-logo="https://imgts.sportpulseapiz.com/football/competition/z8yomo4h7wq0j6l/image/small", ⚽ AEK Athens vs Real Madrid lúc 00:45 ngày 05/11/2026
 https://live2.jorvakstreamcache.com/live/channel1.flv
-#EXTINF:-1 group-title="Xoilac - Bóng đá" tvg-logo="https://imgts.sportpulseapiz.com/football/competition/vl7oqdehlyr510j/image/small", ⚽ Real Betis vs Malaga lúc 00:30 ngày 01/11/2026
-https://live2.jorvakstreamcache.com/live/channel11.flv
-#EXTINF:-1 group-title="Xoilac - Bóng đá" tvg-logo="https://imgts.sportpulseapiz.com/football/competition/gy0or5jhg6qwzv3/image/small", ⚽ Bayern Munich vs Dortmund lúc 00:30 ngày 01/11/2026
-https://live1.quickscoreboardz.com/live/channel15.flv?wsSecret=a89c7fc1bc272f493ea57255042ad5ec&wsABSTime=1793516634
-#EXTINF:-1 group-title="Xoilac - Bóng đá" tvg-logo="https://imgts.sportpulseapiz.com/football/competition/4zp5rzghp5q82w1/image/small", ⚽ AC Milan vs Inter Milan lúc 02:45 ngày 01/11/2026
-https://live1.quickscoreboardz.com/live/channel5.flv?wsSecret=e8d7fde6aa25cd5c099b9787462741de&wsABSTime=1793516637
-#EXTINF:-1 group-title="Xoilac - Bóng đá" tvg-logo="https://imgts.sportpulseapiz.com/football/competition/kn54qllhg2qvy9d/image/small", ⚽ Charlotte FC vs Orlando City lúc 00:00 ngày 01/11/2026
-https://live1.quickscoreboardz.com/live/channel50.flv?wsSecret=dd9467cb38647e5da8c4887913569217&wsABSTime=1793516640
-#EXTINF:-1 group-title="Xoilac - Bóng đá" tvg-logo="https://imgts.sportpulseapiz.com/football/competition/9vjxm8gh22r6odg/image/small", ⚽ Standard Liege vs KV Kortrijk lúc 00:15 ngày 01/11/2026
-https://live2.jorvakstreamcache.com/live/channel14.flv
-#EXTINF:-1 group-title="BiaOm - Trực tiếp" tvg-logo="https://biaomtv.in/brand/HD88/logo.svg", ⚽ LIVE94’Hiệp 2Bayern Munich2 - 1Borussia DortmundBLVTIGERHT1-05-11-1
-https://cdnflv.xbdbotv.live/live/MTk3MzUxMzQ6ZDBuMm5wczd6c2ZuaXBpZ290dzI4bDd4OmJoY3Uwd2U5bHNuazZxdXlrNGJiaTV3dA.flv
-#EXTINF:-1 group-title="BiaOm - Trực tiếp" tvg-logo="https://biaomtv.in/match-triangle.png", ⚽ LIVEKết thúcUdinese2 - 5AS RomaBLVASAHIHT0-47-41-1
-https://cdnflv.xbdbotv.live/live/MTk3MTM1MTg6aGY1ODc5dDVoeXprdGJiajd3azBucmU2OnJ0NW1vaWMxY2VmMTAzNnd6ZHY2aXYzaw.flv
-#EXTINF:-1 group-title="BiaOm - Trực tiếp" tvg-logo="https://biaomtv.in/match-triangle.png", ⚽ LIVE94’Hiệp 2Real Betis2 - 1MálagaBLVTRÚC BẠCHHT2-07-00-2
-https://cdnflv.xbdbotv.live/live/MTk3MzI2NDE6bjlsaDFnc2lrZDhzZjZhZW5oZjl2cG9xOmNxczBkbzBocHA5bzNtc25pb2o1bWxsNA.flv
-#EXTINF:-1 group-title="BiaOm - Trực tiếp" tvg-logo="https://biaomtv.in/match-triangle.png", ⚽ LIVE94’Hiệp 2Tottenham Hotspur2 - 0Crystal PalaceBLV333HT1-012-01-1
-https://cdnflv.xbdbotv.live/live/MTk3MjIxMTQ6bHEzbHRwejVpcXZwcnF4Ym42cmVlc3Q2Omdmc3ZoY3IzM2kwYW53b2U2cG5sZTN1Yw.flv
-#EXTINF:-1 group-title="ChuoiChien - Trực tiếp" tvg-logo="https://media.chuoichientv.net/media/20251115_112438_ee162444.png", ⚽ Hiệp 2 - Ngoại Hạng Anh - 17:30 31/10 - LIVE - Tottenham - 2 - : - 0 - 75' - Crystal Palace - Chuối Lá - Xem ngay
-https://fhd-01.cctvsignal.xyz/embed/?id=1557456&streamUrl=https%3A%2F%2Fgckc0525.edgemaxcdn.org%2Flive%2Fchuoila%2Fplaylist.m3u8&autoplay=1&isHome=0
-#EXTINF:-1 group-title="ChuoiChien - Trực tiếp" tvg-logo="https://media.chuoichientv.net/media/20251115_113433_41008525.png", ⚽ Hiệp 2 - Bundesliga - 17:30 31/10 - LIVE - Bayern München - 2 - : - 1 - 70' - Borussia Dortmund - Chuối Già - Xem ngay
-https://fhd-01.cctvsignal.xyz/embed/?id=1575203&streamUrl=https%3A%2F%2Fgckc0525.edgemaxcdn.org%2Flive%2Fchuoigia%2Fplaylist.m3u8&autoplay=1&isHome=0
-#EXTINF:-1 group-title="BTV - Trực tiếp" tvg-logo="https://static.wex1sora.com/thesports/football/team/8b22ab4041e666b996a2d96f20dea707.png", ⚽ Giải bóng đá Ngoại hạng Anh - Câu lạc bộ Tottenham Hotspur - 2 - Crystal Palace - 0 - 31/10 17:30
-https://live.cds78y11d.org/live/hd-en-6MwdqQiGdcicveHnyJ.m3u8?txSecret=146f5e2e8edd49250732383b35bb6f96&txTime=6AE6E4BE
-#EXTINF:-1 group-title="BTV - Trực tiếp" tvg-logo="https://static.wex1sora.com/thesports/football/team/018e260ad68bdad741c61e3171c4c608.png", ⚽ Giải Bóng đá Vô địch Quốc gia Tây Ban Nha - Real Betis Balompié - 2 - Malaga - 1 - 31/10 17:30
-https://live.cds78y11d.org/live/hd-en-6MweaGxTXszkmMdPaL.m3u8?txSecret=311c7a3187400284ed8bcb59d013f350&txTime=6AE6E4C0
-#EXTINF:-1 group-title="BTV - Trực tiếp" tvg-logo="https://static.wex1sora.com/thesports/football/team/ef19a84a6745fe57aa786873d2b18e8a.png", ⚽ Bundesliga - FC Bayern München - 2 - Borussia Dortmund - 1 - 31/10 17:30
-https://live.cds78y11d.org/live/hd-en-6MweaDgjdwr71sr73r.m3u8?txSecret=b6f266919d2125e69d57c7806da013f9&txTime=6AE6E4C2
-#EXTINF:-1 group-title="BTV - Trực tiếp" tvg-logo="https://static.wex1sora.com/thesports/football/team/4f7a0095b9a3a4756318efd55451badb.png", ⚽ Giải bóng đá Hạng nhất Brasil - Coritiba - 0 - CLB Vitoria BA - 0 - 31/10 19:00
-https://live.cds78y11d.org/live/sd-6MvZ6Lzg2mgCNW4xkc.m3u8?txSecret=c3e4bcac3b62af9cc225c9a556e34616&txTime=6AE6E4C4
-#EXTINF:-1 group-title="BTV - Trực tiếp" tvg-logo="https://static.bongtvrtm.com/seoweb/_next/static/media/loading.352111de.gif", ⚽ Giải Bóng đá Vô địch Quốc gia Hà Lan - PSV Eindhoven - 4 - Willem II - 0 - 31/10 17:45
-https://live.cds78y11d.org/live/sd-6Mwdpr5PZJhcjcB2LL.m3u8?txSecret=aafb05bd5fb01b90f196ee08aa913d2f&txTime=6AE6E4C6
-#EXTINF:-1 group-title="BTV - Trực tiếp" tvg-logo="https://static.bongtvrtm.com/seoweb/_next/static/media/loading.352111de.gif", ⚽ Giải Bóng đá Vô địch Quốc gia Hà Lan - SC Heerenveen - 0 - CLB NEC Nijmegen - 0 - 31/10 17:45
-https://live.cds78y11d.org/live/sd-6Mwdpr5PZLu6c5zwVE.m3u8?txSecret=5fa20991ad9d72235385dbbe6a3757ba&txTime=6AE6E4C9
+#EXTINF:-1 group-title="Xoilac - Bóng đá" tvg-logo="https://imgts.sportpulseapiz.com/football/competition/z8yomo4h7wq0j6l/image/small", ⚽ Fenerbahce vs Liverpool lúc 00:45 ngày 05/11/2026
+https://live1.quickscoreboardz.com/live/channel5.flv?wsSecret=f8a4b9be0ee1cd87bc81cf98a461fe63&wsABSTime=1793857916
+#EXTINF:-1 group-title="Xoilac - Bóng đá" tvg-logo="https://imgts.sportpulseapiz.com/football/competition/z8yomo4h7wq0j6l/image/small", ⚽ RB Leipzig vs Manchester City lúc 03:00 ngày 05/11/2026
+https://live1.quickscoreboardz.com/live/channel5.flv?wsSecret=782622ccd0f0524441fd0ffe16dfc458&wsABSTime=1793857918
+#EXTINF:-1 group-title="Xoilac - Bóng đá" tvg-logo="https://imgts.sportpulseapiz.com/football/competition/yl5ergphovgr8k0/image/small", ⚽ Sohar SC vs Bahla SC lúc 22:20 ngày 04/11/2026
+https://live1.quickscoreboardz.com/live/channel19.flv?wsSecret=30b617d90d68e6f85c10626dcfd06528&wsABSTime=1793857924
+#EXTINF:-1 group-title="Xoilac - Bóng đá" tvg-logo="https://imgts.sportpulseapiz.com/football/competition/56ypq3nh7pdmd7o/image/small", ⚽ Al Wahda vs Al Khaldiya lúc 23:00 ngày 04/11/2026
+https://live2.jorvakstreamcache.com/live/channel24.flv
+#EXTINF:-1 group-title="BiaOm - Trực tiếp" tvg-logo="https://biaomtv.today/brand/HD88/logo.svg", ⚽ LIVE7’Hiệp 1Fenerbahçe0 - 0LiverpoolBLVTÔM CHIÊNHT0-00-10-0
+https://cdnflv.xbdbotv.live/live/MTk4NzI2MjI6dGljMHIwY2xmNjhsaWxyajl3eDMyeXd6OnQzbTJremt4b3kwMzdzbGIwbDA2bG1oOQ.flv
+#EXTINF:-1 group-title="BiaOm - Trực tiếp" tvg-logo="https://biaomtv.today/match-triangle.png", ⚽ LIVE7’Hiệp 1Fenerbahçe0 - 0LiverpoolBLVTIGERHT0-00-10-0
+https://cdnflv.xbdbotv.live/live/MTk4NzI2MjI6ZDBuMm5wczd6c2ZuaXBpZ290dzI4bDd4OmJpaGIxOHo2bmlybDAyeWF6amtjbGg0bA.flv
+#EXTINF:-1 group-title="BiaOm - Trực tiếp" tvg-logo="https://biaomtv.today/match-triangle.png", ⚽ LIVE7’Hiệp 1AEK Athens0 - 0Real MadridBLVHÀU NƯỚNGHT0-00-00-0
+https://cdnflv.xbdbotv.live/live/MTk4NzM3MDU6ZjloaXUzaDRjanBxdHhoeGFvY3I1OGZkOm1lOGpyN2E4eGxsOWUxOWZ6dGZzODZvcA.flv
+#EXTINF:-1 group-title="ChuoiChien - Trực tiếp" tvg-logo="https://media.chuoichientv.net/media/20251115_115647_2d8873ff.png", ⚽ Hiệp 2 - AFC Cup - 16:00 04/11 - LIVE - Al Kuwait - 2 - : - 3 - 90' - Nasaf - Chuối Lá - Xem ngay
+https://fhd-01.cctvsignal.xyz/embed/?id=1630394&streamUrl=https%3A%2F%2Fgckc0525.edgemaxcdn.org%2Flive%2Fchuoila%2Fplaylist.m3u8&autoplay=1&isHome=0
+#EXTINF:-1 group-title="ChuoiChien - Trực tiếp" tvg-logo="https://media.chuoichientv.net/media/20251115_115647_2d8873ff.png", ⚽ Hiệp 2 - AFC Cup - 16:00 04/11 - LIVE - Al-Rayyan SC - 2 - : - 0 - 90' - Al-Nahda - Chuối Tây - Xem ngay
+https://tg0p1gr4uqmtt8y41hcjwgwzdocjpc7tssa3ogw3dkmufctusk5mbxbtse5o.100ycdn.com/gckc0525.edgemaxcdn.org/live/chuoila/playlist.m3u8?wsSession=ddec4050af3a4704b7bd50e2-179381479014863&wsIPSercert=11fa39c4f18c76935c8fb51fa3ddc2e9&wsBindIP=2&wsserid=1168176581104105640
+#EXTINF:-1 group-title="ChuoiChien - Trực tiếp" tvg-logo="https://media.chuoichientv.net/media/20251115_113520_c6f9da8e.png", ⚽ Hiệp 1 - UEFA Champions League - 17:45 04/11 - LIVE - AEK Athens FC - 0 - : - 0 - 5' - Real Madrid - Chuối Già - Xem ngay
+https://fhd-01.cctvsignal.xyz/embed/?id=1635606&streamUrl=https%3A%2F%2Fgckc0525.edgemaxcdn.org%2Flive%2Fchuoigia%2Fplaylist.m3u8&autoplay=1&isHome=0
+#EXTINF:-1 group-title="BTV - Trực tiếp" tvg-logo="https://static.wex1sora.com/thesports/football/team/21da55d164e80f29bdfd9f8cef55a76b.png", ⚽ AFC Giải vô địch Champions 2 - Al Wahda - 1 - Al Khaldiya - 2 - 04/11 16:00
+https://live.cds78y11d.org/live/hd-en-6Mxj4TAyUDr2U8gbs2.m3u8?txSecret=988ce87ee6d7aa83758c2ede738fceed&txTime=6AEC19E1
+#EXTINF:-1 group-title="BTV - Trực tiếp" tvg-logo="https://static.wex1sora.com/thesports/football/team/d36d53da32742efb1d00f27e959603a0.png", ⚽ AFC Giải vô địch Champions 2 - Al Rayyan - 2 - Al Nahda - 0 - 04/11 16:00
+https://live.cds78y11d.org/live/hd-en-6Mxj4TBjy6Z42GKbQg.m3u8?txSecret=d26277cbc050d3fac8220d6354a5c3d7&txTime=6AEC19E5
+#EXTINF:-1 group-title="BTV - Trực tiếp" tvg-logo="https://static.bongtvrtm.com/seoweb/_next/static/media/loading.352111de.gif", ⚽ Champions League - Fenerbahce - 0 - Liverpool - 0 - 04/11 17:45
+https://live.cds78y11d.org/live/hd-en-6Mxj4xXSg7YVbRcWVa.m3u8?txSecret=396bf8edec21050b8dcbab9bd8c582ac&txTime=6AEC19E9
+#EXTINF:-1 group-title="BTV - Trực tiếp" tvg-logo="https://static.bongtvrtm.com/seoweb/_next/static/media/loading.352111de.gif", ⚽ Czech Chance Liga - Lisen - 1 - Bohemians 1905 - 1 - 04/11 17:00
+https://live.cds78y11d.org/live/sd-6MweaZJPhwf9AikW6g.m3u8?txSecret=f944472e96d8744d54ff5ad1becef9b0&txTime=6AEC19EB
 #EXTINF:-1 group-title="TV - FIFA WORLD CUP 2026" tvg-logo="https://i.ytimg.com/vi/4jr8Y13NSME/maxresdefault.jpg", ⚽ VTV3
 http://42.1.99.192:8080/secureVhost/vtv3.flv?token=vtv_secret_20260706
 #EXTINF:-1 group-title="TV - FIFA WORLD CUP 2026" tvg-logo="https://raw.githubusercontent.com/vuminhthanh12/Logo/refs/heads/main/VTV6.png", ⚽ VTV6
@@ -813,6 +803,28 @@ https://cdn6.goprimetime.info/feed/eI5rczhSQpWBcgOtqRLNWw/chmono293/index.m3u8
 http://ch-4k-top.org:80/play/live.php?mac=00:1A:79:7a:39:a6&stream=1776225&extension=ts&play_token=TGCPfAlA9v
 #EXTINF:-1 group-title="TV - 🇰🇭| Campuchia" tvg-logo="https://1.bp.blogspot.com/-eaJhNFbzINk/XlhGheWJpgI/AAAAAAAAJ8M/k3fnwM6DPfso2q3pF8yzQWvg8ZScKF2dQCLcBGAsYHQ/s1600/HMHD.png", ⚽ Ramsey HangMeas Melody UHD
 http://abclive.malisresidences.com:1935/hmmel/_definst_/smil:hmmel.smil/playlist.m3u8
+#EXTINF:-1 group-title="🎬 Phim Lẻ Chiếu Rạp" tvg-logo="https://phimimg.com/uploads/movies/20261104/quai-dam-tran-tong-gia-thumb.webp", ⚽ Quái Đàm Trấn Tống Gia
+https://a.kvp726.com/20261104/8iLSIi8f/index.m3u8
+#EXTINF:-1 group-title="🎬 Phim Lẻ Chiếu Rạp" tvg-logo="https://phimimg.com/uploads/movies/20261104/thanh-pho-duc-vong-2016-thumb.webp", ⚽ Thành Phố Dục Vọng
+https://a.kvp726.com/20261104/bVAyuve1/index.m3u8
+#EXTINF:-1 group-title="🎬 Phim Lẻ Chiếu Rạp" tvg-logo="https://phimimg.com/uploads/movies/20261104/wonder-woman-1984-nu-than-chien-binh-thumb.webp", ⚽ Wonder Woman 1984: Nữ Thần Chiến Binh
+https://a.kvp726.com/20261104/nyA0ezWS/index.m3u8
+#EXTINF:-1 group-title="🎬 Phim Lẻ Chiếu Rạp" tvg-logo="https://phimimg.com/uploads/movies/20261103/me-oi-con-dang-mang-thai-ngoai-hanh-tinh-thumb.webp", ⚽ Mẹ Ơi, Con Đang Mang Thai Ngoài Hành Tinh
+https://a.kvp726.com/20261102/mAimg6RN/index.m3u8
+#EXTINF:-1 group-title="🎬 Phim Lẻ Chiếu Rạp" tvg-logo="https://phimimg.com/uploads/movies/20261103/ly-tri-va-tinh-cam-2026-thumb.webp", ⚽ Lý Trí Và Tình Cảm
+https://a.kvp726.com/20261102/QABowiv3/index.m3u8
+#EXTINF:-1 group-title="🎬 Phim Lẻ Chiếu Rạp" tvg-logo="https://phimimg.com/uploads/movies/20261103/khai-huyen-z-the-gioi-moi-thumb.webp", ⚽ Khải Huyền Z: Thế Giới Mới
+https://a.kvp726.com/20261102/FcRUPdSU/index.m3u8
+#EXTINF:-1 group-title="🎬 Phim Lẻ Chiếu Rạp" tvg-logo="https://phimimg.com/uploads/movies/20261103/ban-chi-cot-cua-toi-thumb.webp", ⚽ Bạn Chí Cốt Của Tôi
+https://a.kvp726.com/20261102/sHsIpbYi/index.m3u8
+#EXTINF:-1 group-title="🎬 Phim Lẻ Chiếu Rạp" tvg-logo="https://phimimg.com/uploads/movies/20261102/vung-dat-quy-du-2026-thumb.webp", ⚽ Vùng Đất Quỷ Dữ
+https://a.kvp726.com/20261102/gnBeXzvk/index.m3u8
+#EXTINF:-1 group-title="🎬 Phim Lẻ Chiếu Rạp" tvg-logo="https://phimimg.com/uploads/movies/20261102/qua-sinh-nhat-tai-hai-thumb.webp", ⚽ Quà Sinh Nhật Tai Hại
+https://a.kvp726.com/20261102/nz96ASib/index.m3u8
+#EXTINF:-1 group-title="🎬 Phim Lẻ Chiếu Rạp" tvg-logo="https://phimimg.com/upload/vod/20250124-1/535166781a53d302e14c9341f0d161a2.jpg", ⚽ Nhím Sonic 3
+https://a.kvp726.com/20261102/zETTLnlv/index.m3u8
+#EXTINF:-1 group-title="🎬 Phim Lẻ Chiếu Rạp" tvg-logo="https://phimimg.com/uploads/movies/20261102/bucky-larson-sinh-ra-de-tro-thanh-ngoi-sao-thumb.webp", ⚽ Bucky Larson: Sinh Ra Để Trở Thành Ngôi Sao
+https://a.kvp726.com/20261102/YlnmAjWZ/index.m3u8
 #EXTINF:-1 group-title="🎬 Phim Lẻ Chiếu Rạp" tvg-logo="https://phimimg.com/uploads/movies/20261031/sctv-chuong-trinh-tuyet-voi-nhat-ma-ban-chua-tung-nghe-den-thumb.webp", ⚽ SCTV: Chương Trình Tuyệt Vời Nhất Mà Bạn Chưa Từng Nghe Đến
 https://a.kvp726.com/20261031/p5HVUEVS/index.m3u8
 #EXTINF:-1 group-title="🎬 Phim Lẻ Chiếu Rạp" tvg-logo="https://phimimg.com/upload/vod/20260620-1/f9f017b676af1005b05491f5a520cc7f.jpg", ⚽ Phí Phông: Quỷ Máu Rừng Thiêng
@@ -821,85 +833,63 @@ https://a.kvp726.com/20261031/Rz5L3Yez/index.m3u8
 https://a.kvp726.com/20261031/Vn9eugUN/index.m3u8
 #EXTINF:-1 group-title="🎬 Phim Lẻ Chiếu Rạp" tvg-logo="https://phimimg.com/uploads/movies/20261030/sau-dem-den-thumb.webp", ⚽ Sau Đêm Đen
 https://a.kvp726.com/20261030/V8gq9kSz/index.m3u8
-#EXTINF:-1 group-title="🎬 Phim Lẻ Chiếu Rạp" tvg-logo="https://phimimg.com/uploads/movies/20261030/instadocs-jane-doe-doi-dau-dai-hoc-cornell-thumb.webp", ⚽ Instadocs: Jane Doe Đối Đầu Đại Học Cornell
-https://a.kvp726.com/20261030/qdgfal3h/index.m3u8
-#EXTINF:-1 group-title="🎬 Phim Lẻ Chiếu Rạp" tvg-logo="https://phimimg.com/uploads/movies/20261030/nghi-luc-song-thumb.webp", ⚽ Nghị Lực Sống
-https://a.kvp726.com/20261030/S49utBvJ/index.m3u8
-#EXTINF:-1 group-title="🎬 Phim Lẻ Chiếu Rạp" tvg-logo="https://phimimg.com/uploads/movies/20261030/em-anh-chung-ta-thumb.webp", ⚽ Em, Anh, Chúng Ta
-https://a.kvp726.com/20261030/KeIymJqG/index.m3u8
-#EXTINF:-1 group-title="🎬 Phim Lẻ Chiếu Rạp" tvg-logo="https://phimimg.com/uploads/movies/20261030/the-gioi-ma-thumb.webp", ⚽ Thế Giới Ma
-https://a.kvp726.com/20261030/0LN0OpfO/index.m3u8
-#EXTINF:-1 group-title="🎬 Phim Lẻ Chiếu Rạp" tvg-logo="https://phimimg.com/uploads/movies/20261030/tham-my-vien-chet-choc-thumb.webp", ⚽ Thẩm Mỹ Viện Chết Chóc
-https://a.kvp726.com/20261030/kftth9v0/index.m3u8
-#EXTINF:-1 group-title="🎬 Phim Lẻ Chiếu Rạp" tvg-logo="https://phimimg.com/uploads/movies/20261030/tuyet-the-chien-hon-2020-thumb.webp", ⚽ Tuyệt Thế Chiến Hồn
-https://a.kvp726.com/20261030/l6liSOcy/index.m3u8
-#EXTINF:-1 group-title="🎬 Phim Lẻ Chiếu Rạp" tvg-logo="https://phimimg.com/uploads/movies/20261030/tau-cho-tien-thumb.webp", ⚽ Tàu Chở Tiền
-https://a.kvp726.com/20261030/0TBFBHB1/index.m3u8
-#EXTINF:-1 group-title="🎬 Phim Lẻ Chiếu Rạp" tvg-logo="https://phimimg.com/upload/vod/20231125-1/ac8668ede148e0653b82e0e58553d8a3.jpg", ⚽ Những Kẻ Đáng Sợ / Những Kẻ Gây Sợ Hãi
-https://a.kvp726.com/20261030/LfrUU4WR/index.m3u8
-#EXTINF:-1 group-title="🎬 Phim Lẻ Chiếu Rạp" tvg-logo="https://phimimg.com/uploads/movies/20261030/mot-dem-phi-thuong-thumb.webp", ⚽ Một Đêm Phi Thường
-https://a.kvp726.com/20261030/0qe2tcsk/index.m3u8
-#EXTINF:-1 group-title="🎬 Phim Lẻ Chiếu Rạp" tvg-logo="https://phimimg.com/upload/vod/20251209-1/ba3c483bc32c9dfb6e3ba2732bf4875a.jpg", ⚽ Em Sẽ Khử Anh
-https://a.kvp726.com/20261030/LciYc0sn/index.m3u8
-#EXTINF:-1 group-title="🎬 Phim Lẻ Chiếu Rạp" tvg-logo="https://phimimg.com/uploads/movies/20261030/verity-bi-mat-bi-chon-vui-thumb.webp", ⚽ Verity: Bí Mật Bị Chôn Vùi
-https://a.kvp726.com/20261030/ruLW4R08/index.m3u8
-#EXTINF:-1 group-title="🎬 Phim Bộ Mới Nhất" tvg-logo="https://phimimg.com/uploads/movies/20261024/thuong-cong-chua-thumb.webp", ⚽ Thượng Công Chúa (Tập 19)
-https://a.kvp726.com/20261031/IZuqYxLt/index.m3u8
-#EXTINF:-1 group-title="🎬 Phim Bộ Mới Nhất" tvg-logo="https://phimimg.com/uploads/movies/20260921/ky-tuc-xa-lam-chieu-thumb.webp", ⚽ Ký Túc Xá "Lắm Chiêu" / Ký Túc Xá Bá Đạo (Tập 07)
-https://a.kvp726.com/20261031/z3oMcqLu/index.m3u8
-#EXTINF:-1 group-title="🎬 Phim Bộ Mới Nhất" tvg-logo="https://phimimg.com/uploads/movies/20261031/tran-chien-xuyen-vu-tru-phan-5-thumb.webp", ⚽ Trận Chiến Xuyên Vũ Trụ (Phần 5) (Tập 20)
-https://a.kvp726.com/20261031/PMPXzJe7/index.m3u8
-#EXTINF:-1 group-title="🎬 Phim Bộ Mới Nhất" tvg-logo="https://phimimg.com/uploads/movies/20261031/tran-chien-xuyen-vu-tru-phan-4-thumb.webp", ⚽ Trận Chiến Xuyên Vũ Trụ (Phần 4) (Tập 20)
-https://a.kvp726.com/20261031/8JDA69UL/index.m3u8
-#EXTINF:-1 group-title="🎬 Phim Bộ Mới Nhất" tvg-logo="https://phimimg.com/uploads/movies/20261031/tran-chien-xuyen-vu-tru-phan-3-thumb.webp", ⚽ Trận Chiến Xuyên Vũ Trụ (Phần 3) (Tập 20)
-https://a.kvp726.com/20261031/QITO6eEB/index.m3u8
-#EXTINF:-1 group-title="🎬 Phim Bộ Mới Nhất" tvg-logo="https://phimimg.com/uploads/movies/20261031/tran-chien-xuyen-vu-tru-phan-2-thumb.webp", ⚽ Trận Chiến Xuyên Vũ Trụ (Phần 2) (Tập 20)
-https://a.kvp726.com/20261031/BHqhiNNM/index.m3u8
-#EXTINF:-1 group-title="🎬 Phim Bộ Mới Nhất" tvg-logo="https://phimimg.com/uploads/movies/20261031/tran-chien-xuyen-vu-tru-phan-1-thumb.webp", ⚽ Trận Chiến Xuyên Vũ Trụ (Phần 1) (Tập 20)
-https://a.kvp726.com/20261031/hHxdPi28/index.m3u8
-#EXTINF:-1 group-title="🎬 Phim Bộ Mới Nhất" tvg-logo="https://phimimg.com/upload/vod/20260506-1/27680fc97bc7c7bfd9279325197fcfd0.jpg", ⚽ Tình Ca Kashgar (Tập 08)
-https://a.kvp726.com/20261031/rjZl2kEY/index.m3u8
-#EXTINF:-1 group-title="🎬 Phim Bộ Mới Nhất" tvg-logo="https://phimimg.com/uploads/movies/20261031/tieu-thu-xuan-gia-la-tung-su-thumb.webp", ⚽ Tiểu Thư Xuân Gia Là Tụng Sư (Tập 20)
-https://a.kvp726.com/20261031/EUk7n15k/index.m3u8
-#EXTINF:-1 group-title="🎬 Phim Bộ Mới Nhất" tvg-logo="https://phimimg.com/upload/vod/20241218-1/a93225ccf01d29f8cc6a5d4724190727.jpg", ⚽ Phải Lòng Oan Gia (Tập 12)
-https://a.kvp726.com/20261031/yakl4ozP/index.m3u8
-#EXTINF:-1 group-title="🎬 Phim Bộ Mới Nhất" tvg-logo="https://phimimg.com/uploads/movies/20261031/ngu-y-cua-hoang-de-thumb.webp", ⚽ Ngự Y Của Hoàng Đế (Tập 50)
-https://a.kvp726.com/20261031/32XpCjFF/index.m3u8
-#EXTINF:-1 group-title="🎬 Phim Bộ Mới Nhất" tvg-logo="https://phimimg.com/uploads/movies/20261031/nu-hoang-ly-hon-thumb.webp", ⚽ Nữ Hoàng Ly Hôn (Tập 12)
-https://a.kvp726.com/20261031/ZZ4S9hMy/index.m3u8
-#EXTINF:-1 group-title="🎬 Phim Bộ Mới Nhất" tvg-logo="https://phimimg.com/upload/vod/20241015-1/ab7837d2df24cba3c0a8cd23476e4206.jpg", ⚽ Một Ngày Nọ Kẻ Huỷ Diệt Gõ Cửa Nhà Tôi (Tập 16)
-https://a.kvp726.com/20261031/CXEt8BX8/index.m3u8
-#EXTINF:-1 group-title="🎬 Phim Bộ Mới Nhất" tvg-logo="https://phimimg.com/uploads/movies/20261031/mon-qua-cua-su-lua-doi-thumb.webp", ⚽ Món Quà Của Sự Lừa Dối (Tập 10)
-https://a.kvp726.com/20261031/7MnyJzoW/index.m3u8
-#EXTINF:-1 group-title="🎬 Phim Bộ Mới Nhất" tvg-logo="https://phimimg.com/uploads/movies/20261031/hoa-dang-khoi-thumb.webp", ⚽ Hoa Đăng Khởi (Tập 09)
-https://a.kvp726.com/20261031/9VnWmaK0/index.m3u8
-#EXTINF:-1 group-title="🎬 Hoạt Hình - Anime" tvg-logo="https://phimimg.com/uploads/movies/20261011/mat-na-chu-sa-thumb.webp", ⚽ Mặt Nạ Chu Sa (Tập 04)
-https://a.kvp726.com/20261031/CSdKWkXS/index.m3u8
-#EXTINF:-1 group-title="🎬 Hoạt Hình - Anime" tvg-logo="https://phimimg.com/upload/vod/20240715-1/fe09a10062768cca301682eba6c8245b.jpg", ⚽ Phàm Nhân Tu Tiên (Tập 198)
-https://a.kvp726.com/20261031/B908LWhY/index.m3u8
-#EXTINF:-1 group-title="🎬 Hoạt Hình - Anime" tvg-logo="https://phimimg.com/upload/vod/20251229-1/fce1ee8b2fe5ee1e48e670ddf1417ee8.jpg", ⚽ Quang Âm Chi Ngoại (Tập 46)
-https://a.kvp726.com/20261031/5dPRVmgf/index.m3u8
-#EXTINF:-1 group-title="🎬 Hoạt Hình - Anime" tvg-logo="https://phimimg.com/uploads/movies/20260904/linh-canh-hanh-gia-ngoai-truyen-thumb.webp", ⚽ Linh Cảnh Hành Giả: Ngoại Truyện (Tập 15)
-https://a.kvp726.com/20261031/n1wZQuP8/index.m3u8
-#EXTINF:-1 group-title="🎬 Hoạt Hình - Anime" tvg-logo="https://phimimg.com/uploads/movies/20260829/ushiro-no-shoumen-kamui-san-thumb.webp", ⚽ Ushiro no Shoumen Kamui-san (Tập 09)
-https://a.kvp726.com/20261031/bncmsX41/index.m3u8
-#EXTINF:-1 group-title="🎬 Hoạt Hình - Anime" tvg-logo="https://phimimg.com/uploads/movies/20261005/dai-vuong-tha-mang-phan-3-thumb.webp", ⚽ Đại Vương Tha Mạng (Phần 3) (Tập 07)
-https://a.kvp726.com/20261031/kiioKZ9P/index.m3u8
-#EXTINF:-1 group-title="🎬 Hoạt Hình - Anime" tvg-logo="https://phimimg.com/uploads/movies/20260726/dai-thien-tieu-tran-thumb.webp", ⚽ Đại Thiên Tiểu Trấn (Tập 29)
-https://a.kvp726.com/20261031/5PEZ2qre/index.m3u8
-#EXTINF:-1 group-title="🎬 Hoạt Hình - Anime" tvg-logo="https://phimimg.com/uploads/movies/20260718/chon-ngay-phi-thang-thumb.webp", ⚽ Chọn Ngày Phi Thăng (Tập 18)
-https://a.kvp726.com/20261031/RVTVU4mU/index.m3u8
-#EXTINF:-1 group-title="🎬 Hoạt Hình - Anime" tvg-logo="https://phimimg.com/upload/vod/20240103-1/bbe888d771d0e6ff0f9935f8f6194c79.jpg", ⚽ Đấu La Đại Lục 2 (Tuyệt Thế Đường Môn) (Tập 177)
-https://a.kvp726.com/20261031/HjLKAsHr/index.m3u8
-#EXTINF:-1 group-title="🎬 Hoạt Hình - Anime" tvg-logo="https://phimimg.com/upload/vod/20260406-1/26f4b114b4e3d0ac0bba2f6687131a3c.jpg", ⚽ Lúc Đó Tôi Đã Chuyển Sinh Thành Slime (Phần 4) (Tập 24)
-https://a.kvp726.com/20260925/TSxg7qWK/index.m3u8
-#EXTINF:-1 group-title="🎬 Hoạt Hình - Anime" tvg-logo="https://phimimg.com/uploads/movies/20261004/huyet-quy-hon-chien-phan-2-thumb.webp", ⚽ Huyết Quỷ Hỗn Chiến (Phần 2) (Tập 05)
-https://a.kvp726.com/20261031/5lYZGMDM/index.m3u8
-#EXTINF:-1 group-title="🎬 Hoạt Hình - Anime" tvg-logo="https://phimimg.com/upload/vod/20260222-1/33ecf61aa14ce8f06816ae5dd2cdb163.jpg", ⚽ Cuộc Phiêu Lưu Kì Lạ Của JoJo (Phần 6) (Tập 07)
-https://a.kvp726.com/20261031/aaSuiZRF/index.m3u8
-#EXTINF:-1 group-title="🎬 Hoạt Hình - Anime" tvg-logo="https://phimimg.com/upload/vod/20231219-1/c1ebbb1c7a02cb008416f51340f77012.jpg", ⚽ Linh Hồn Bạc (Phần 1) (Tập 265)
-https://s1.phim1280.tv/20240108/jylHnn5T/index.m3u8
-#EXTINF:-1 group-title="🎬 Hoạt Hình - Anime" tvg-logo="https://phimimg.com/uploads/movies/20261010/item-nhung-co-gai-cong-sinh-o-the-gioi-ngam-thumb.webp", ⚽ ITEM - Những Cô Gái Cộng Sinh Ở Thế Giới Ngầm (Tập 04)
-https://a.kvp726.com/20261031/tUVToJm3/index.m3u8
-#EXTINF:-1 group-title="🎬 Hoạt Hình - Anime" tvg-logo="https://phimimg.com/uploads/movies/20261010/dam-cuoi-dom-dom-thumb.webp", ⚽ Đám Cưới Đom Đóm (Tập 04)
-https://a.kvp726.com/20261031/tiqn3k14/index.m3u8
+#EXTINF:-1 group-title="🎬 Phim Bộ Mới Nhất" tvg-logo="https://phimimg.com/uploads/movies/20261008/tro-choi-bat-coc-phan-1-thumb.webp", ⚽ Trò Chơi Bắt Cóc (Phần 1) (Tập 05)
+https://a.kvp726.com/20261104/LzQW2Qlb/index.m3u8
+#EXTINF:-1 group-title="🎬 Phim Bộ Mới Nhất" tvg-logo="https://phimimg.com/uploads/movies/20261020/tinh-yeu-trong-vo-boc-tinh-yeu-nguy-trang-thumb.webp", ⚽ Tình Yêu Trong Vỏ Bọc / Tình Yêu Ngụy Trang (Tập 06)
+https://a.kvp726.com/20261104/tekUTRSS/index.m3u8
+#EXTINF:-1 group-title="🎬 Phim Bộ Mới Nhất" tvg-logo="https://phimimg.com/uploads/movies/20261007/tung-buoc-ben-nhau-phan-1-thumb.webp", ⚽ Từng Bước Bên Nhau / Tiến Sĩ Yêu Đương (Tập 10)
+https://a.kvp726.com/20261104/O4n6m6vR/index.m3u8
+#EXTINF:-1 group-title="🎬 Phim Bộ Mới Nhất" tvg-logo="https://phimimg.com/uploads/movies/20261104/quy-phi-duoc-nuoc-lan-toi-thumb.webp", ⚽ Quý Phi Được Nước Lấn Tới (Tập 06)
+https://a.kvp726.com/20261104/LGuu1Ppt/index.m3u8
+#EXTINF:-1 group-title="🎬 Phim Bộ Mới Nhất" tvg-logo="https://phimimg.com/uploads/movies/20261104/len-duong-nham-chuc-thumb.webp", ⚽ Lên Đường Nhậm Chức (Tập 08)
+https://a.kvp726.com/20261104/KC80SM8M/index.m3u8
+#EXTINF:-1 group-title="🎬 Phim Bộ Mới Nhất" tvg-logo="https://phimimg.com/uploads/movies/20261031/hoa-dang-khoi-thumb.webp", ⚽ Hoa Đăng Khởi (Tập 19)
+https://a.kvp726.com/20261104/DF6BeTkF/index.m3u8
+#EXTINF:-1 group-title="🎬 Phim Bộ Mới Nhất" tvg-logo="https://phimimg.com/uploads/movies/20261022/du-thuong-long-thumb.webp", ⚽ Dữ Thương Long (Tập 22)
+https://a.kvp726.com/20261104/vnjUiXjV/index.m3u8
+#EXTINF:-1 group-title="🎬 Phim Bộ Mới Nhất" tvg-logo="https://phimimg.com/uploads/movies/20261025/dau-vet-phong-sinh-thumb.webp", ⚽ Dấu Vết Phỏng Sinh (Tập 20)
+https://a.kvp726.com/20261104/26FCydlm/index.m3u8
+#EXTINF:-1 group-title="🎬 Phim Bộ Mới Nhất" tvg-logo="https://phimimg.com/uploads/movies/20261028/chu-han-tri-hoa-y-thumb.webp", ⚽ Chu Hàn Tri Hoạ Ý (Tập 24)
+https://a.kvp726.com/20261104/i3zATyS0/index.m3u8
+#EXTINF:-1 group-title="🎬 Phim Bộ Mới Nhất" tvg-logo="https://phimimg.com/uploads/movies/20261021/cuoc-truong-chinh-vi-dai-thumb.webp", ⚽ Cuộc Trường Chinh Vĩ Đại (Tập 45)
+https://a.kvp726.com/20261104/ypUl3GDr/index.m3u8
+#EXTINF:-1 group-title="🎬 Phim Bộ Mới Nhất" tvg-logo="https://phimimg.com/uploads/movies/20261022/xom-nho-thumb.webp", ⚽ Xóm Nhỏ (Tập 09)
+https://a.kvp726.com/20261104/d7DZACdy/index.m3u8
+#EXTINF:-1 group-title="🎬 Phim Bộ Mới Nhất" tvg-logo="https://phimimg.com/uploads/movies/20261024/thuong-cong-chua-thumb.webp", ⚽ Thượng Công Chúa (Tập 23)
+https://a.kvp726.com/20261104/ioOCnlGO/index.m3u8
+#EXTINF:-1 group-title="🎬 Phim Bộ Mới Nhất" tvg-logo="https://phimimg.com/uploads/movies/20261013/thanh-pho-ruc-ro-thumb.webp", ⚽ Thành Phố Rực Rỡ (Tập 17)
+https://a.kvp726.com/20261104/pPFz6amt/index.m3u8
+#EXTINF:-1 group-title="🎬 Phim Bộ Mới Nhất" tvg-logo="https://phimimg.com/uploads/movies/20261022/tieu-thanh-luong-phuong-thumb.webp", ⚽ Tiểu Thành Lương Phương (Tập 28)
+https://a.kvp726.com/20261104/SnOoJPu9/index.m3u8
+#EXTINF:-1 group-title="🎬 Phim Bộ Mới Nhất" tvg-logo="https://phimimg.com/uploads/movies/20261009/phia-sau-doi-tra-thumb.webp", ⚽ Phía Sau Dối Trá (Tập 09)
+https://a.kvp726.com/20261104/gdVMh3xD/index.m3u8
+#EXTINF:-1 group-title="🎬 Hoạt Hình - Anime" tvg-logo="https://phimimg.com/uploads/movies/20261104/bass-x-machina-thumb.webp", ⚽ Bass X Machina (Tập 06)
+https://a.kvp726.com/20261103/Z20BgDCU/index.m3u8
+#EXTINF:-1 group-title="🎬 Hoạt Hình - Anime" tvg-logo="https://phimimg.com/uploads/movies/20261018/toi-dang-tim-kiem-thay-ma-thumb.webp", ⚽ Tôi Đang Tìm Kiếm Thây Ma (Tập 05)
+https://a.kvp726.com/20261104/pE6CYStZ/index.m3u8
+#EXTINF:-1 group-title="🎬 Hoạt Hình - Anime" tvg-logo="https://phimimg.com/upload/vod/20250117-1/d2d7ee02b72e59bea282b367e36b0094.jpg", ⚽ Sư Huynh À Sư Huynh (Tập 166)
+https://a.kvp726.com/20261104/94EFOTgx/index.m3u8
+#EXTINF:-1 group-title="🎬 Hoạt Hình - Anime" tvg-logo="https://phimimg.com/uploads/movies/20260726/huyen-huyen-ta-thien-menh-trum-phan-dien-thumb.webp", ⚽ Huyền Huyễn: Ta! Thiên Mệnh Trùm Phản Diện (Tập 35)
+https://a.kvp726.com/20261104/ftqhN3vN/index.m3u8
+#EXTINF:-1 group-title="🎬 Hoạt Hình - Anime" tvg-logo="https://phimimg.com/uploads/movies/20261013/tokyo-revengers-cuoc-chien-cua-ba-titan-thumb.webp", ⚽ Tokyo Revengers: Cuộc chiến của ba Titan (Tập 05)
+https://a.kvp726.com/20261104/lFvvWIhg/index.m3u8
+#EXTINF:-1 group-title="🎬 Hoạt Hình - Anime" tvg-logo="https://phimimg.com/uploads/movies/20260930/nguoi-giu-mo-dai-ha-thumb.webp", ⚽ Người Giữ Mộ Đại Hạ (Tập 13)
+https://a.kvp726.com/20261104/baRZxNU5/index.m3u8
+#EXTINF:-1 group-title="🎬 Hoạt Hình - Anime" tvg-logo="https://phimimg.com/uploads/movies/20261011/khi-toi-tai-sinh-thanh-nhan-vat-phu-manh-nhat-chuyen-sinh-thanh-nhan-vat-phu-trong-game-nguoi-lon-thumb.webp", ⚽ Khi Tôi Tái Sinh Thành Nhân Vật Phụ Mạnh Nhất / Chuyển Sinh Thành Nhân Vật Phụ Trong Game Người Lớn (Tập 06)
+https://a.kvp726.com/20261104/y9grcBDw/index.m3u8
+#EXTINF:-1 group-title="🎬 Hoạt Hình - Anime" tvg-logo="https://phimimg.com/uploads/movies/20261014/horror-collector-kyoufu-collector-thumb.webp", ⚽ Horror Collector / Kyoufu Collector (Tập 04)
+https://a.kvp726.com/20261104/Ii6Qzk7u/index.m3u8
+#EXTINF:-1 group-title="🎬 Hoạt Hình - Anime" tvg-logo="https://phimimg.com/uploads/movies/20260726/dai-thien-tieu-tran-thumb.webp", ⚽ Đại Thiên Tiểu Trấn (Tập 30)
+https://a.kvp726.com/20261104/NA6uTqYh/index.m3u8
+#EXTINF:-1 group-title="🎬 Hoạt Hình - Anime" tvg-logo="https://phimimg.com/upload/vod/20251008-1/8f77258dbfcdfbc106793331faabb124.jpg", ⚽ Chitose Trong Chai Ramune (Tập 17)
+https://a.kvp726.com/20261104/kgzy5jHK/index.m3u8
+#EXTINF:-1 group-title="🎬 Hoạt Hình - Anime" tvg-logo="https://phimimg.com/uploads/movies/20261004/the-gioi-phep-thuat-phan-2-thumb.webp", ⚽ Thế Giới Phép Thuật (Phần 2) (Tập 05)
+https://a.kvp726.com/20261104/iApvdZz2/index.m3u8
+#EXTINF:-1 group-title="🎬 Hoạt Hình - Anime" tvg-logo="https://phimimg.com/upload/vod/20240411-1/bbf5847cc8ae2ce6528d5b51ef6f877a.jpg", ⚽ Già Thiên (Tập 188)
+https://a.kvp726.com/20261104/3AddsUO0/index.m3u8
+#EXTINF:-1 group-title="🎬 Hoạt Hình - Anime" tvg-logo="https://phimimg.com/uploads/movies/20261008/sieu-canh-sat-tam-linh-chojo-thumb.webp", ⚽ Siêu Cảnh Sát Tâm Linh Chojo (Tập 05)
+https://a.kvp726.com/20261104/WP0A1wb9/index.m3u8
+#EXTINF:-1 group-title="🎬 Hoạt Hình - Anime" tvg-logo="https://phimimg.com/uploads/movies/20261004/suikoden-the-anime-thumb.webp", ⚽ Suikoden: The Anime (Tập 05)
+https://a.kvp726.com/20261104/5gB1T5nB/index.m3u8
+#EXTINF:-1 group-title="🎬 Hoạt Hình - Anime" tvg-logo="https://phimimg.com/uploads/movies/20261004/mot-nua-ranma-phan-3-thumb.webp", ⚽ Một Nửa Ranma (Phần 3) (Tập 05)
+https://a.kvp726.com/20261104/cG57zIDg/index.m3u8
