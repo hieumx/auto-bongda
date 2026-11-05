@@ -1,34 +1,32 @@
 #EXTM3U
-#EXTINF:-1 group-title="GaVang - Bóng đá" tvg-logo="https://images.keovip88.net/images/teams/flamengo.png", ⚽ [] Flamengo vs Gremio (RS)
-https://pzhgifbkllliv.vcdn.cloud/1793516931_hd/1793516931_hd@720p.m3u8
+#EXTINF:-1 group-title="GaVang - Basketball" tvg-logo="https://cdn.keobongvip.digital/images/basketball-teams/cd4e8cb86960160ecba025ba8d73cd3f.png", ⚽ [] Houston Rockets vs Minnesota Timberwolves
+https://pzhgifbkllliv.vcdn.cloud/1793637403_hd/1793637403_hd@720p.m3u8
+#EXTINF:-1 group-title="GaVang - Basketball" tvg-logo="https://cdn.keobongvip.digital/images/basketball-teams/36f49ea85609f6b7b32d9fbcba105c2d.png", ⚽ [] Denver Nuggets vs Toronto Raptors
+https://pzhgifbkllliv.vcdn.cloud/1793637426_hd/1793637426_hd@720p.m3u8
+#EXTINF:-1 group-title="GaVang - Basketball" tvg-logo="https://cdn.keobongvip.digital/images/basketball-teams/6a6855785a58edb23c76c99ed6601a33.png", ⚽ [] Phoenix Suns vs Portland Trail Blazers
+https://pzhgifbkllliv.vcdn.cloud/1793637477_hd/1793637477_hd@720p.m3u8
+#EXTINF:-1 group-title="GaVang - Basketball" tvg-logo="https://cdn.keobongvip.digital/images/basketball-teams/908efbb5ed053f61540cca47cc36e7ec.png", ⚽ [] San Antonio Spurs vs Dallas Mavericks
+https://pzhgifbkllliv.vcdn.cloud/1793637515_hd/1793637515_hd@720p.m3u8
+#EXTINF:-1 group-title="GaVang - Basketball" tvg-logo="https://cdn.keobongvip.digital/images/basketball-teams/b7096093642227c698108ad872603a76.png", ⚽ [] Sacramento Kings vs Los Angeles Lakers
+https://pzhgifbkllliv.vcdn.cloud/1793637535_hd/1793637535_hd@720p.m3u8
 #EXTINF:-1 group-title="GaVang - Esport" tvg-logo="https://static.flashscore.com/res/image/data/rglkqMzB-UJqSxlpo.png", ⚽ [] GEN  vs LYON
 https://pzhgifbkllliv.vcdn.cloud/1793806751_hd/1793806751_hd@720p.m3u8
-#EXTINF:-1 group-title="Xoilac - Bóng đá" tvg-logo="https://imgts.sportpulseapiz.com/football/competition/gx7lm7phy4m2wdk/image/small", ⚽ Portuguesa FC vs Dep. La Guaira lúc 04:30 ngày 05/11/2026
-https://live1.quickscoreboardz.com/live/channel33.flv?wsSecret=019a1f796c1e6343b9d73b77444f4651&wsABSTime=1793877959
-#EXTINF:-1 group-title="Xoilac - Bóng đá" tvg-logo="https://imgts.sportpulseapiz.com/football/competition/8y39mp1hgpmojxg/image/small", ⚽ Union La Calera vs Coquimbo Unido lúc 05:00 ngày 05/11/2026
-https://live1.quickscoreboardz.com/live/channel29.flv?wsSecret=bc0b8fe192145a525e95b3f6a67696ee&wsABSTime=1793877962
-#EXTINF:-1 group-title="Xoilac - Bóng đá" tvg-logo="https://imgts.sportpulseapiz.com/football/competition/yl5ergphx4r8k0o/image/small", ⚽ Sportivo Ameliano vs Club Guaraní lúc 05:00 ngày 05/11/2026
-https://live1.quickscoreboardz.com/live/channel36.flv?wsSecret=f5d2ba8ac722337503772b4932d35928&wsABSTime=1793877965
-#EXTINF:-1 group-title="Xoilac - Bóng đá" tvg-logo="https://imgts.sportpulseapiz.com/football/competition/yl5ergphx4r8k0o/image/small", ⚽ Club Libertad vs Cerro Porteno lúc 05:00 ngày 05/11/2026
-https://live1.quickscoreboardz.com/live/channel26.flv?wsSecret=3960911cf172edc4240011b539263e8b&wsABSTime=1793877969
-#EXTINF:-1 group-title="Xoilac - Bóng đá" tvg-logo="https://imgts.sportpulseapiz.com/football/competition/8y39mp1hygjmojx/image/small", ⚽ Nữ Internacional vs Nữ Bragantino lúc 05:30 ngày 05/11/2026
-https://live1.quickscoreboardz.com/live/channel35.flv?wsSecret=f006301fe4d3feaed2c5ba31b4362522&wsABSTime=1793877972
-#EXTINF:-1 group-title="ChuoiChien - Trực tiếp" tvg-logo="https://img.icons8.com/color/512/football2.png", ⚽ LỊCH THI ĐẤU
-https://tg0p3gr4uqmtt8y41hcjsgazdqmm8cpisgcbige41h3mrc71s4amacp1gh.100ycdn.com/gckc0525.edgemaxcdn.org/live/troctru/playlist.m3u8?wsSession=3588912c98ad3bfdad79af47-179383483190872&wsIPSercert=c273e56b000f09b62507af98196e81a7&wsBindIP=2&wsserid=1168241005926404662
-#EXTINF:-1 group-title="ChuoiChien - Trực tiếp" tvg-logo="https://media.chuoichientv.net/media/20251115_112437_72cab226.png", ⚽ Hết hiệp 1 - VĐQG Brazil - 22:30 04/11 - LIVE - Flamengo - 3 - : - 0 - 45' - Gremio - Trốc Tru - Xem ngay
-https://fhd-01.cctvsignal.xyz/embed/?id=1492445&streamUrl=https%3A%2F%2Fgckc0525.edgemaxcdn.org%2Flive%2Ftroctru%2Fplaylist.m3u8&autoplay=1&isHome=0
-#EXTINF:-1 group-title="BTV - Trực tiếp" tvg-logo="https://static.wex1sora.com/thesports/football/team/1b54e9fdbe9c936023c55299da4165b7.png", ⚽ Giải bóng đá Hạng nhất Brasil - Athletico-PR - 1 - Vasco - 0 - 04/11 22:30
-https://live.cds78y11d.org/live/sd-6MvZ6Lyut6UHi5mRxp.m3u8?txSecret=b406ec41ee6cdc0fcca56ebf0ce73a06&txTime=6AEC6835
-#EXTINF:-1 group-title="BTV - Trực tiếp" tvg-logo="https://static.wex1sora.com/thesports/football/team/f19b2f9fa5b0c72acc262bc4f0d2cd77.png", ⚽ Giải bóng đá Hạng nhất Brasil - CLB Flamengo - 3 - CLB Gremio - 0 - 04/11 22:30
-https://live.cds78y11d.org/live/sd-6MvZ6Lyv3Ny1wdAxYU.m3u8?txSecret=92b055f041419694ae859d61ac323212&txTime=6AEC6837
-#EXTINF:-1 group-title="BTV - Trực tiếp" tvg-logo="https://static.wex1sora.com/thesports/football/team/8fbc742f43887294db63c7063486c82b.png", ⚽ Giải bóng đá cao cấp của Venezuela - Portuguesa - 0 - Deportivo La Guaira - 3 - 04/11 21:30
-https://live.cds78y11d.org/live/sd-6Mxk43Fx1558iLYtWY.m3u8?txSecret=a97055fe8cefd8411f710c6174da65fa&txTime=6AEC6839
-#EXTINF:-1 group-title="BTV - Trực tiếp" tvg-logo="https://static.wex1sora.com/thesports/football/team/a82c9684d567971fb6a08d24d027892a.png", ⚽ Giải bóng đá Hạng nhất Paraguay - Libertad - 0 - Cerro Porteno - 1 - 04/11 22:00
-https://live.cds78y11d.org/live/sd-6Mxip4z8EJvbMfh7Up.m3u8?txSecret=04641c3e19bf4f6e6265a48d55586c03&txTime=6AEC683B
-#EXTINF:-1 group-title="BTV - Trực tiếp" tvg-logo="https://static.bongtvrtm.com/seoweb/_next/static/media/loading.352111de.gif", ⚽ Giải bóng đá Hạng nhất Paraguay - Sportivo Ameliano - 0 - CLB Guarani CA - 0 - 04/11 22:00
-https://live.cds78y11d.org/live/sd-6Mxip4z8ECL9kEDN28.m3u8?txSecret=b289756caad3aca4fc07bb2db9f23f75&txTime=6AEC683D
-#EXTINF:-1 group-title="BTV - Trực tiếp" tvg-logo="https://static.bongtvrtm.com/seoweb/_next/static/media/loading.352111de.gif", ⚽ Cúp Liên đoàn Bolivia - Nacional Potosi - 3 - Oriente Petrolero - 1 - 04/11 22:00
-https://live.cds78y11d.org/live/sd-6MxjK1DGtRhNPUd7AL.m3u8?txSecret=ca7e285099c5646c2f3bbecad05a5f03&txTime=6AEC6840
+#EXTINF:-1 group-title="Xoilac - Bóng đá" tvg-logo="https://imgts.sportpulseapiz.com/football/competition/jednm9whneryox8/image/small", ⚽ Escorpiones Belen vs LD Alajuelense lúc 04:00 ngày 05/11/2026
+https://live1.quickscoreboardz.com/live/channel27.flv?wsSecret=dfc62527d2a2d0d86d64c1f0ed777a59&wsABSTime=1793893201
+#EXTINF:-1 group-title="Xoilac - Bóng đá" tvg-logo="https://imgts.sportpulseapiz.com/football/competition/p3glrw7h6wgqdyj/image/small", ⚽ RT Boys FC vs Kickstart Karnataka lúc 10:00 ngày 05/11/2026
+https://live1.quickscoreboardz.com/live/channel35.flv?wsSecret=d9f4a96a58d6f3634cb2832c55fbf1a4&wsABSTime=1793893203
+#EXTINF:-1 group-title="Xoilac - Bóng đá" tvg-logo="https://imgts.sportpulseapiz.com/football/competition/gy0or5jhn26qwzv/image/small", ⚽ Shanghai Shenhua U15 vs Racing Santander U15 lúc 12:00 ngày 05/11/2026
+https://live1.quickscoreboardz.com/live/channel2.flv?wsSecret=e2d6af740f51646b1f7bdbfb1cb4ce35&wsABSTime=1793893206
+#EXTINF:-1 group-title="Xoilac - Bóng đá" tvg-logo="https://imgts.sportpulseapiz.com/football/competition/gy0or5jhn26qwzv/image/small", ⚽ Partizan Belgrade U15 vs Zhejiang Centre U15 lúc 12:00 ngày 05/11/2026
+https://live1.quickscoreboardz.com/live/channel3.flv?wsSecret=12612da58952b4a69a7716b1fccf8e02&wsABSTime=1793893208
+#EXTINF:-1 group-title="Xoilac - Bóng đá" tvg-logo="https://imgts.sportpulseapiz.com/football/competition/kjw2r09hje5rz84/image/small", ⚽ Khovd Western vs Ulaangom City lúc 12:00 ngày 05/11/2026
+https://live2.jorvakstreamcache.com/live/channel7.flv
+#EXTINF:-1 group-title="Xoilac - Bóng đá" tvg-logo="https://imgts.sportpulseapiz.com/football/competition/gx7lm7ph9p8m2wd/image/small", ⚽ Technico FF vs MEG lúc 12:30 ngày 05/11/2026
+https://live1.quickscoreboardz.com/live/channel4.flv?wsSecret=2d28bac2dfa67da8aa9cfe27fa5145fe&wsABSTime=1793893213
+#EXTINF:-1 group-title="BTV - Trực tiếp" tvg-logo="https://static.wex1sora.com/thesports/football/team/c845fad229be3459833fbc4f5249029a.png", ⚽ Hangzhou "Qianchao Cup" International Youth Football Invitational Tournament - Partizan Belgrade U15 - 0 - Zhejiang Football Administration Centre U15 - 0 - 05/11 03:50
+https://live.cds78y11d.org/live/sd-6Mxk3sVgusGr3wcYYC.m3u8?txSecret=0e65d719c9182ea74a88ab9d3f5382e1&txTime=6AECA3BA
+#EXTINF:-1 group-title="BTV - Trực tiếp" tvg-logo="https://static.wex1sora.com/thesports/football/team/e89424d96a4c326e85e5adb6aef520b2.png", ⚽ Hangzhou "Qianchao Cup" International Youth Football Invitational Tournament - Shanghai Shenhua U15 - 0 - Racing Santander U15 - 0 - 05/11 03:50
+https://live.cds78y11d.org/live/sd-6Mxk3sVgkAbqF87wGg.m3u8?txSecret=109f0576a38eb7b6dfc501cd45d72330&txTime=6AECA3BC
 #EXTINF:-1 group-title="TV - FIFA WORLD CUP 2026" tvg-logo="https://i.ytimg.com/vi/4jr8Y13NSME/maxresdefault.jpg", ⚽ VTV3
 http://42.1.99.192:8080/secureVhost/vtv3.flv?token=vtv_secret_20260706
 #EXTINF:-1 group-title="TV - FIFA WORLD CUP 2026" tvg-logo="https://raw.githubusercontent.com/vuminhthanh12/Logo/refs/heads/main/VTV6.png", ⚽ VTV6
