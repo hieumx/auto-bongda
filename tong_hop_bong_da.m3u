@@ -1,48 +1,66 @@
 #EXTM3U
-#EXTINF:-1 group-title="GaVang - Bongchuyen" tvg-logo="https://static.flashscore.com/res/image/data/zaBfVVfM-Y57t5X1j.png", ⚽ [] Pepper Savings Bank Nữ vs Expressway Co Nữ
-https://pzhgifbkllliv.vcdn.cloud/1793854248_hd/1793854248_hd@720p.m3u8
-#EXTINF:-1 group-title="GaVang - Tennis" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcShyQpfNjyoyexlsL7fWN50fUZ21GyodIC4yC5sbhmqxQ&s", ⚽ [] Ben Shelton vs Arthur Rinderknech
-https://pzhgifbkllliv.vcdn.cloud/1793854432_hd/1793854432_hd@720p.m3u8
-#EXTINF:-1 group-title="GaVang - Bongban" tvg-logo="https://static.flashscore.com/res/image/data/ncNQBIAr-0GVPIiRs.png", ⚽ [] LIANG Jingkun  vs Hugo CALDERANO
-https://pzhgifbkllliv.vcdn.cloud/1793854715_hd/1793854715_hd@720p.m3u8
-#EXTINF:-1 group-title="GaVang - Bóng đá" tvg-logo="https://images.keovip88.net/images/teams/kuching-fa.png", ⚽ [] Kuching FA vs Gangwon FC
-https://pzhgifbkllliv.vcdn.cloud/1793809096_hd/1793809096_hd@720p.m3u8
-#EXTINF:-1 group-title="GaVang - Bóng đá" tvg-logo="https://static.flashscore.com/res/image/data/67RQUJjl-xtTU8gYe.png", ⚽ [] Lion City Sailors vs Adelaide United
-https://pzhgifbkllliv.vcdn.cloud/1793877766_hd/1793877766_hd@720p.m3u8
-#EXTINF:-1 group-title="Xoilac - Bóng đá" tvg-logo="https://imgts.sportpulseapiz.com/football/competition/56ypq3nh7pdmd7o/image/small", ⚽ Kitchee vs Phnom Penh Crown lúc 17:00 ngày 05/11/2026
-https://live2.jorvakstreamcache.com/live/channel11.flv
-#EXTINF:-1 group-title="Xoilac - Bóng đá" tvg-logo="https://imgts.sportpulseapiz.com/football/competition/gx7lm7ph9p8m2wd/image/small", ⚽ SC Bengaluru vs Kodagu FC lúc 17:30 ngày 05/11/2026
-https://live1.quickscoreboardz.com/live/channel1.flv?wsSecret=81d0737a121c22e84903be513a303919&wsABSTime=1793923208
-#EXTINF:-1 group-title="Xoilac - Bóng đá" tvg-logo="https://imgts.sportpulseapiz.com/football/competition/l965mkyh42r1ge4/image/small", ⚽ Nữ Moldova U17 vs Nữ Slovenia U17 lúc 18:00 ngày 05/11/2026
-https://live2.jorvakstreamcache.com/live/channel23.flv
-#EXTINF:-1 group-title="Xoilac - Bóng đá" tvg-logo="https://imgts.sportpulseapiz.com/football/competition/9vjxm8ghgzwr6od/image/small", ⚽ Karvan Evlakh vs Al Shimali lúc 18:00 ngày 05/11/2026
-https://live1.quickscoreboardz.com/live/channel4.flv?wsSecret=e178b1ca37ce7fae957c0efe20e3c969&wsABSTime=1793923212
-#EXTINF:-1 group-title="Xoilac - Bóng đá" tvg-logo="https://imgts.sportpulseapiz.com/football/competition/9vjxm8ghgzwr6od/image/small", ⚽ Sabail FC vs Cebrayil lúc 18:00 ngày 05/11/2026
-https://live2.jorvakstreamcache.com/live/channel20.flv
-#EXTINF:-1 group-title="Xoilac - Bóng đá" tvg-logo="https://imgts.sportpulseapiz.com/football/competition/9vjxm8ghgzwr6od/image/small", ⚽ PFK Zaqatala vs FK MOIK Baku lúc 18:00 ngày 05/11/2026
-https://live1.quickscoreboardz.com/live/channel6.flv?wsSecret=c29d1a57fb08b3d1ffbdac74c16225c6&wsABSTime=1793923217
-#EXTINF:-1 group-title="BiaOm - Trực tiếp" tvg-logo="https://biaomtv.today/match-triangle.png", ⚽ LIVE05.11.202619:15Svay Rieng? - ?Tampines RoversBLVVịt NướngHT0-00-00-0
-https://lilive1.eu.cc/live/f3b14ac02064a4cc633e4766674d87b4/playlist.m3u8
-#EXTINF:-1 group-title="BiaOm - Trực tiếp" tvg-logo="https://biaomtv.today/match-triangle.png", ⚽ LIVE05.11.202619:15BG Pathum United? - ?Wofoo Tai PoBLVNEM NƯỚNG HT0-00-00-0
-https://cdnflv.xbdbotv.live/live/MTk4NjIyNzA6aGd5eDdwZGEwMmRlNWExZXZhMThvNnRnOnBpMjVqdDc3ZTc5M3pqZzU3N3NxbzBqMw.flv
-#EXTINF:-1 group-title="BiaOm - Trực tiếp" tvg-logo="https://biaomtv.today/match-triangle.png", ⚽ LIVE05.11.202619:15Kuching FA? - ?Gangwon FCBLVLẩu ẾchHT0-00-00-0
-https://cdnflv.xbdbotv.live/live/MTk4NjIyNjc6YThsY2E2YTk4dWpna3Q2bXcydDZwYXRxOmp6a2N0NjdvdGVqaHRiNWFxN3p3aXE0MQ.flv
-#EXTINF:-1 group-title="ChuoiChien - Trực tiếp" tvg-logo="https://media.chuoichientv.net/media/20251115_115647_2d8873ff.png", ⚽ Đang diễn ra - AFC Cup - 11:00 05/11 - LIVE - Lion City W - : - Adelaide United - Chuối Nhỏ - Xem ngay
-https://fhd-01.cctvsignal.xyz/embed/?id=998706&streamUrl=https%3A%2F%2Fgckc0525.edgemaxcdn.org%2Flive%2Fchuoinho%2Fplaylist.m3u8&autoplay=1&isHome=0
-#EXTINF:-1 group-title="ChuoiChien - Trực tiếp" tvg-logo="https://media.chuoichientv.net/media/20251115_115647_2d8873ff.png", ⚽ Đang diễn ra - AFC Cup - 12:15 05/11 - LIVE - Kuching FA - 0 - : - 0 - Gangwon FC - Chuối Lá - Xem ngay
-https://tg0q0gr3uomttgr31hcj18yzdnct1fiusg45dgy4urpjqci1gq3mpcfhgg3dq.100ycdn.com/gckc0525.edgemaxcdn.org/live/chuoinho/playlist.m3u8?wsSession=c458a9d2bf243d33259c42fc-179388008262701&wsIPSercert=36bd00d23be9ae6cfe95e320ca2f4005&wsBindIP=2&wsserid=1168243439525013454
-#EXTINF:-1 group-title="ChuoiChien - Trực tiếp" tvg-logo="https://media.chuoichientv.net/media/20251115_115647_2d8873ff.png", ⚽ Đang diễn ra - AFC Cup - 12:15 05/11 - LIVE - Pathum United - 0 - : - 0 - Wofoo Tai Po - Chuối Sấy - Xem ngay
-https://fhd-01.cctvsignal.xyz/embed/?id=1630403&streamUrl=https%3A%2F%2Fgckc0525.edgemaxcdn.org%2Flive%2Fchuoisay%2Fplaylist.m3u8&autoplay=1&isHome=0
-#EXTINF:-1 group-title="BTV - Trực tiếp" tvg-logo="https://static.wex1sora.com/thesports/football/team/a17724405028a3e21a2a2372736aa757.png", ⚽ AFC Giải vô địch Champions 2 - Lion City - 2 - CLB Adelaide United - 0 - 05/11 11:30
-https://live.cds78y11d.org/live/hd-en-6Mxj4TBjUBXQxCyMNc.m3u8?txSecret=4a95c5c0814a5adbc4817ee5e8d27bb2&txTime=6AED18ED
-#EXTINF:-1 group-title="BTV - Trực tiếp" tvg-logo="https://static.wex1sora.com/thesports/football/team/0be01f850871a2273ca03ce2d085ab47.png", ⚽ Vô địch bóng đá Ấn Độ - Churchill Brothers - 0 - North East Utd - 1 - 05/11 11:30
-https://live.cds78y11d.org/live/sd-6MxjK4UHe3MzuvCPe4.m3u8?txSecret=714992d369f919b5be399242484c6002&txTime=6AED18EF
-#EXTINF:-1 group-title="BTV - Trực tiếp" tvg-logo="https://static.wex1sora.com/thesports/football/team/f45e63cabf4413baea299663cb836c7e.png", ⚽ Giải bóng đá hạng nhất Bangalore, Ấn Độ - SC Bengaluru - 1 - Kodagu FC - 0 - 05/11 10:30
-https://live.cds78y11d.org/live/sd-6Mxk3sRzekbRMPuCb6.m3u8?txSecret=c32d7d7810a557c4f0a678672ba030ce&txTime=6AED18F1
-#EXTINF:-1 group-title="BTV - Trực tiếp" tvg-logo="https://static.wex1sora.com/thesports/football/team/aa6d9f240dd67791dd86ff4de072d846.png", ⚽ Hạng nhất Azerbaijan - Karvan Evlakh - 2 - Al Shimali - 0 - 05/11 11:00
-https://live.cds78y11d.org/live/sd-6MxjZ72mzmx3AnHHPS.m3u8?txSecret=e361b8898d53f029f78916116f30e7f3&txTime=6AED18F3
-#EXTINF:-1 group-title="BTV - Trực tiếp" tvg-logo="https://static.bongtvrtm.com/seoweb/_next/static/media/loading.352111de.gif", ⚽ Hạng nhất Azerbaijan - FC Sabail - 2 - Gabriel FC - 2 - 05/11 11:00
-https://live.cds78y11d.org/live/sd-6MxjZ72n1JimMVr7Xz.m3u8?txSecret=bccbb846ea5d8652d85eed67e3fa041d&txTime=6AED18F5
+#EXTINF:-1 group-title="GaVang - Tennis" tvg-logo="https://polymarket.com/_next/image?url=https%3A%2F%2Fpolymarket-upload.s3.us-east-2.amazonaws.com%2F2025-lexus-eastbourne-open-winner-m-Z1ffSBcuOdTk.png&w=1024&q=75", ⚽ [] ATP Paris Open vs ATP Paris Open
+https://pzhgifbkllliv.vcdn.cloud/1793865233_hd/1793865233_hd@720p.m3u8
+#EXTINF:-1 group-title="GaVang - Basketball" tvg-logo="https://cdn.keobongvip.digital/images/basketball-teams/3cf0f296f43dd0a1184d339fd24c97af.png", ⚽ [] Hapoel Tel-Aviv vs FC Barcelona
+https://pzhgifbkllliv.vcdn.cloud/1793865479_hd/1793865479_hd@720p.m3u8
+#EXTINF:-1 group-title="GaVang - Basketball" tvg-logo="https://cdn.keobongvip.digital/images/basketball-teams/d881af1382656a780c75c9ab6021cdc6.png", ⚽ [] EA7-Emporio Armani Milano vs Pamesa Valencia
+https://pzhgifbkllliv.vcdn.cloud/1793889956_hd/1793889956_hd@720p.m3u8
+#EXTINF:-1 group-title="GaVang - Bóng đá" tvg-logo="https://images.keovip88.net/images/teams/celta-vigo.png", ⚽ [] Celta Vigo vs Saint Gilloise
+https://pzhgifbkllliv.vcdn.cloud/1793895537_hd/1793895537_hd@720p.m3u8
+#EXTINF:-1 group-title="GaVang - Bóng đá" tvg-logo="https://images.keovip88.net/images/teams/sunderland-afc.png", ⚽ [] Sunderland vs Dinamo Zagreb
+https://pzhgifbkllliv.vcdn.cloud/1793866729_hd/1793866729_hd@720p.m3u8
+#EXTINF:-1 group-title="GaVang - Bóng đá" tvg-logo="https://images.keovip88.net/images/teams/benfica.png", ⚽ [] SL Benfica vs Lech Poznan
+https://pzhgifbkllliv.vcdn.cloud/1793866763_hd/1793866763_hd@720p.m3u8
+#EXTINF:-1 group-title="GaVang - Bóng đá" tvg-logo="https://images.keovip88.net/images/teams/bayer-leverkusen.png", ⚽ [] Bayer Leverkusen vs Marseille
+https://pzhgifbkllliv.vcdn.cloud/1793866842_hd/1793866842_hd@720p.m3u8
+#EXTINF:-1 group-title="GaVang - Bóng đá" tvg-logo="https://images.keovip88.net/images/teams/az-alkmaar.png", ⚽ [] AZ Alkmaar vs Juventus
+https://pzhgifbkllliv.vcdn.cloud/1793866867_hd/1793866867_hd@720p.m3u8
+#EXTINF:-1 group-title="GaVang - Bóng đá" tvg-logo="https://images.keovip88.net/images/teams/monaco.png", ⚽ [] AS Monaco vs FC Nordsjaelland
+https://pzhgifbkllliv.vcdn.cloud/1793866898_hd/1793866898_hd@720p.m3u8
+#EXTINF:-1 group-title="GaVang - Bóng đá" tvg-logo="https://images.keovip88.net/images/teams/getafe.png", ⚽ [] Getafe vs Brighton   Hove Albion
+https://pzhgifbkllliv.vcdn.cloud/1793866916_hd/1793866916_hd@720p.m3u8
+#EXTINF:-1 group-title="GaVang - Bóng đá" tvg-logo="https://images.keovip88.net/images/teams/panathinaikos.png", ⚽ [] Panathinaikos vs CSKA Sofia
+https://pzhgifbkllliv.vcdn.cloud/1793866941_hd/1793866941_hd@720p.m3u8
+#EXTINF:-1 group-title="Xoilac - Bóng đá" tvg-logo="https://imgts.sportpulseapiz.com/football/competition/p4jwq2gh754m0ve/image/small", ⚽ Midtjylland vs AFC Ajax lúc 00:45 ngày 06/11/2026
+https://live1.quickscoreboardz.com/live/channel17.flv?wsSecret=84ef6803459a00b5a8fbfeeb5b47537d&wsABSTime=1793951535
+#EXTINF:-1 group-title="Xoilac - Bóng đá" tvg-logo="https://imgts.sportpulseapiz.com/football/competition/9dn1m1gh91moepl/image/small", ⚽ Omonia 29is Maiou vs AEP Polemidion lúc 01:00 ngày 06/11/2026
+https://live1.quickscoreboardz.com/live/channel26.flv?wsSecret=226571ce4a1ec863f3cb13fd0177ed15&wsABSTime=1793951538
+#EXTINF:-1 group-title="Xoilac - Bóng đá" tvg-logo="https://imgts.sportpulseapiz.com/football/competition/l965mkyh4jdr1ge/image/small", ⚽ Atletico Tucuman (R) vs AC Cordoba II lúc 01:00 ngày 06/11/2026
+https://live1.quickscoreboardz.com/live/channel19.flv?wsSecret=b4b1a9aa8a4793863c80cbb6b03d108e&wsABSTime=1793951549
+#EXTINF:-1 group-title="Xoilac - Bóng đá" tvg-logo="https://imgts.sportpulseapiz.com/football/competition/l965mkyh4jdr1ge/image/small", ⚽ Defensa y Justicia (R) vs Boca Juniors (R) lúc 01:00 ngày 06/11/2026
+https://live1.quickscoreboardz.com/live/channel20.flv?wsSecret=f4f939832c43d9442a63a4a6291a1031&wsABSTime=1793951553
+#EXTINF:-1 group-title="BiaOm - Trực tiếp" tvg-logo="https://biaomtv.today/match-triangle.png", ⚽ LIVE06.11.202603:00Celta Vigo? - ?Union Saint-GilloiseBLVTÔM CHIÊNHT0-00-00-0
+https://lilive1.eu.cc/live/3bd2a1bedd10e59b4a752db7ec8d9666/playlist.m3u8
+#EXTINF:-1 group-title="BiaOm - Trực tiếp" tvg-logo="https://biaomtv.today/match-triangle.png", ⚽ LIVE06.11.202603:00Sunderland? - ?Dinamo ZagrebBLVNEM NƯỚNG HT0-00-00-0
+https://cdnflv.xbdbotv.live/live/MTk4NzM4OTI6dWppY2ViaXFnN2Fmazdhendla3Q3azE3OnZvbXJ1bWQ0d3ltMmF0cnNneGt0M25ucg.flv
+#EXTINF:-1 group-title="BiaOm - Trực tiếp" tvg-logo="https://biaomtv.today/match-triangle.png", ⚽ LIVE06.11.202603:00Celtic? - ?BeşiktaşBLVLẩu ẾchHT0-00-00-0
+https://cdnflv.xbdbotv.live/live/MTk4NzM4ODg6YThsY2E2YTk4dWpna3Q2bXcydDZwYXRxOmE0MDRkYXRmdjA1NXkyOXlrczgwc3ZiMA.flv
+#EXTINF:-1 group-title="BiaOm - Trực tiếp" tvg-logo="https://biaomtv.today/match-triangle.png", ⚽ LIVE06.11.202603:00Bayer Leverkusen? - ?Olympique MarseilleBLVVịt NướngHT0-00-00-0
+https://cdnflv.xbdbotv.live/live/MTk4NzM5MDc6aGd5eDdwZGEwMmRlNWExZXZhMThvNnRnOmt0anVyYXg2anNrMGozbzMycXJlYm5qdg.flv
+#EXTINF:-1 group-title="BiaOm - Trực tiếp" tvg-logo="https://biaomtv.today/match-triangle.png", ⚽ LIVE - 06.11.2026 - 03:00 - AZ - ? - ? - Juventus - BLV - TIGER - HT - 0-0 - 0-0 - 0-0
+https://cdnflv.xbdbotv.live/live/MTk4NzM4ODI6ZDBuMm5wczd6c2ZuaXBpZ290dzI4bDd4OmN1eXZ3bmh6MHFraXA2dmZtdnZwOG9tZg.flv
+#EXTINF:-1 group-title="BiaOm - Trực tiếp" tvg-logo="https://biaomtv.today/match-triangle.png", ⚽ LIVE - 06.11.2026 - 03:00 - AZ - ? - ? - Juventus - BLV - HÀU NƯỚNG - HT - 0-0 - 0-0 - 0-0
+https://cdnflv.xbdbotv.live/live/MTk4NzM4ODI6ZjloaXUzaDRjanBxdHhoeGFvY3I1OGZkOnBoa3ptMmQyMjRkcG5iazdoNTdrbDFqMQ.flv
+#EXTINF:-1 group-title="ChuoiChien - Trực tiếp" tvg-logo="https://img.icons8.com/color/512/football2.png", ⚽ LỊCH THI ĐẤU
+https://tg0q0gr3uomttgr31hcj18yzdnctufiusg45dgy4urpjqci1gq3mpcfhgg3dq.100ycdn.com/gckc0525.edgemaxcdn.org/live/chuoinho/playlist.m3u8?wsSession=29c9b3868f1dccd0ca398d83-179390841334731&wsIPSercert=ba6f5270bef113f98ac3a4a587434dd9&wsBindIP=2&wsserid=1168243256623223254
+#EXTINF:-1 group-title="ChuoiChien - Trực tiếp" tvg-logo="https://media.chuoichientv.net/media/20251115_112636_67ca992a.png", ⚽ Đang diễn ra - UEFA Europa League - 20:00 05/11 - LIVE - AZ Alkmaar - 0 - : - 0 - Juventus - Chuối Nhỏ - Xem ngay
+https://fhd-01.cctvsignal.xyz/embed/?id=1636219&streamUrl=https%3A%2F%2Fgckc0525.edgemaxcdn.org%2Flive%2Fchuoinho%2Fplaylist.m3u8&autoplay=1&isHome=0
+#EXTINF:-1 group-title="ChuoiChien - Trực tiếp" tvg-logo="https://media.chuoichientv.net/media/20251115_112636_67ca992a.png", ⚽ Đang diễn ra - UEFA Europa League - 20:00 05/11 - LIVE - Bayer Leverkusen - 0 - : - 0 - Marseille - Trốc Tru - Xem ngay
+https://fhd-01.cctvsignal.xyz/embed/?id=1636223&streamUrl=https%3A%2F%2Fgckc0525.edgemaxcdn.org%2Flive%2Ftroctru%2Fplaylist.m3u8&autoplay=1&isHome=0
+#EXTINF:-1 group-title="ChuoiChien - Trực tiếp" tvg-logo="https://media.chuoichientv.net/media/20251115_112636_67ca992a.png", ⚽ Đang diễn ra - UEFA Europa League - 20:00 05/11 - LIVE - Benfica - 0 - : - 0 - Lech Poznan - Chuối Già - Xem ngay
+https://fhd-01.cctvsignal.xyz/embed/?id=1636229&streamUrl=https%3A%2F%2Fgckc0525.edgemaxcdn.org%2Flive%2Fchuoigia%2Fplaylist.m3u8&autoplay=1&isHome=0
+#EXTINF:-1 group-title="BTV - Trực tiếp" tvg-logo="https://static.wex1sora.com/thesports/football/team/e52b745126bbb6bdddc90b91b44413ae.png", ⚽ Europa League - AZ Alkmaar - 0 - Juventus F.C. - 0 - 05/11 20:00
+https://live.cds78y11d.org/live/hd-en-6Mxip8HL6j1stWprg4.m3u8?txSecret=8b4ef10a6f78fca536f6564272f6a7f0&txTime=6AED87A1
+#EXTINF:-1 group-title="BTV - Trực tiếp" tvg-logo="https://static.wex1sora.com/thesports/football/team/f15ae3ec9b2d7888180a6c8cf4b137e8.png", ⚽ Europa League - Bayer 04 Leverkusen - 0 - Olympique de Marseille - 0 - 05/11 20:00
+https://live.cds78y11d.org/live/hd-en-6Mxip8HKvo9yrpNkVA.m3u8?txSecret=2a932190f4077a59d49132d9612f0bf5&txTime=6AED87A4
+#EXTINF:-1 group-title="BTV - Trực tiếp" tvg-logo="https://static.wex1sora.com/thesports/football/team/78360445c12fa3fdc8b489486fff4eb6.png", ⚽ Europa League - Benfica - 0 - Lech Poznan - 0 - 05/11 20:00
+https://live.cds78y11d.org/live/hd-en-6Mxip8HKw2Ls5hLFQY.m3u8?txSecret=19c58a59b88ab7f4a8b2fc4e54760b60&txTime=6AED87A6
+#EXTINF:-1 group-title="BTV - Trực tiếp" tvg-logo="https://static.wex1sora.com/thesports/football/team/4952d00987ef86afeda3204d66ac3fd6.png", ⚽ Europa League - Celtic - 0 - Besiktas JK - 0 - 05/11 20:00
+https://live.cds78y11d.org/live/hd-en-6Mxip8HLFw7eP6aYwv.m3u8?txSecret=7bceb0d510f20f61c2db5880ab7b9074&txTime=6AED87A8
+#EXTINF:-1 group-title="BTV - Trực tiếp" tvg-logo="https://static.bongtvrtm.com/seoweb/_next/static/media/loading.352111de.gif", ⚽ Europa League - Sunderland - 0 - Câu lạc bộ bóng đá Dinamo Zagreb - 0 - 05/11 20:00
+https://live.cds78y11d.org/live/hd-en-6Mxip8J4R6zvFCnnD2.m3u8?txSecret=e41c1adb6383aa33c8cbf436e1a2db84&txTime=6AED87AA
+#EXTINF:-1 group-title="BTV - Trực tiếp" tvg-logo="https://static.bongtvrtm.com/seoweb/_next/static/media/loading.352111de.gif", ⚽ UEFA Europa Conference League - Getafe CF - 0 - Brighton & Hove Albion FC - 0 - 05/11 20:00
+https://live.cds78y11d.org/live/hd-en-6Mxip8J3QrmMXp1DT2.m3u8?txSecret=8d74312d3277ea21f4226f2a5cd7c30b&txTime=6AED87AC
 #EXTINF:-1 group-title="TV - FIFA WORLD CUP 2026" tvg-logo="https://i.ytimg.com/vi/4jr8Y13NSME/maxresdefault.jpg", ⚽ VTV3
 http://42.1.99.192:8080/secureVhost/vtv3.flv?token=vtv_secret_20260706
 #EXTINF:-1 group-title="TV - FIFA WORLD CUP 2026" tvg-logo="https://raw.githubusercontent.com/vuminhthanh12/Logo/refs/heads/main/VTV6.png", ⚽ VTV6
@@ -839,6 +857,12 @@ https://a.kvp726.com/20261102/nz96ASib/index.m3u8
 https://a.kvp726.com/20261102/zETTLnlv/index.m3u8
 #EXTINF:-1 group-title="🎬 Phim Lẻ Chiếu Rạp" tvg-logo="https://phimimg.com/uploads/movies/20261102/bucky-larson-sinh-ra-de-tro-thanh-ngoi-sao-thumb.webp", ⚽ Bucky Larson: Sinh Ra Để Trở Thành Ngôi Sao
 https://a.kvp726.com/20261102/YlnmAjWZ/index.m3u8
+#EXTINF:-1 group-title="🎬 Phim Bộ Mới Nhất" tvg-logo="https://phimimg.com/uploads/movies/20261105/gap-anh-trang-thumb.webp", ⚽ Gấp Ánh Trăng (Tập 04)
+https://a.kvp726.com/20261105/DiDD21Hu/index.m3u8
+#EXTINF:-1 group-title="🎬 Phim Bộ Mới Nhất" tvg-logo="https://phimimg.com/uploads/movies/20261016/chuyen-tinh-rung-cam-thumb.webp", ⚽ Chuyện Tình Rung Cảm (Tập 10)
+https://a.kvp726.com/20261105/kKw8F9JP/index.m3u8
+#EXTINF:-1 group-title="🎬 Phim Bộ Mới Nhất" tvg-logo="https://phimimg.com/uploads/movies/20261105/hoang-hau-tai-hon-thumb.webp", ⚽ Hoàng Hậu Tái Hôn (Tập 04)
+https://a.kvp726.com/20261105/fkDoPaiJ/index.m3u8
 #EXTINF:-1 group-title="🎬 Phim Bộ Mới Nhất" tvg-logo="https://phimimg.com/uploads/movies/20261105/tinh-xuyen-ve-nguon-coi-thumb.webp", ⚽ Tình Xuyên Về Nguồn Cội (Tập 12)
 https://a.kvp726.com/20261105/mcFBVLQu/index.m3u8
 #EXTINF:-1 group-title="🎬 Phim Bộ Mới Nhất" tvg-logo="https://phimimg.com/uploads/movies/20261105/chuyen-cu-mien-bien-ai-thumb.webp", ⚽ Chuyện Cũ Miền Biên Ải (Tập 06)
@@ -863,12 +887,6 @@ https://a.kvp726.com/20261030/GnNueeTA/index.m3u8
 https://a.kvp726.com/20261105/ojql2tdn/index.m3u8
 #EXTINF:-1 group-title="🎬 Phim Bộ Mới Nhất" tvg-logo="https://phimimg.com/uploads/movies/20261009/ultraman-tiga-thumb.webp", ⚽ Siêu Nhân Tiga (Tập 13)
 https://a.kvp726.com/20261105/ZB0zOTrC/index.m3u8
-#EXTINF:-1 group-title="🎬 Phim Bộ Mới Nhất" tvg-logo="https://phimimg.com/uploads/movies/20261024/thuong-cong-chua-thumb.webp", ⚽ Thượng Công Chúa (Tập 24)
-https://a.kvp726.com/20261105/izqcDTqA/index.m3u8
-#EXTINF:-1 group-title="🎬 Phim Bộ Mới Nhất" tvg-logo="https://phimimg.com/uploads/movies/20261013/thanh-pho-ruc-ro-thumb.webp", ⚽ Thành Phố Rực Rỡ (Tập 18)
-https://a.kvp726.com/20261105/sm78mkUW/index.m3u8
-#EXTINF:-1 group-title="🎬 Phim Bộ Mới Nhất" tvg-logo="https://phimimg.com/uploads/movies/20261023/to-am-tinh-yeu-thumb.webp", ⚽ Tổ Ấm Tình Yêu / Kiến Tạo Trái Tim (Tập 03)
-https://a.kvp726.com/20261105/KIGfhovH/index.m3u8
 #EXTINF:-1 group-title="🎬 Hoạt Hình - Anime" tvg-logo="https://phimimg.com/uploads/movies/20261008/phap-su-gian-lan-bi-sa-thai-tan-huong-cuoc-song-thu-hai-thumb.webp", ⚽ Pháp Sư Gian Lận Bị Sa Thải Tận Hưởng Cuộc Sống Thứ Hai (Tập 05)
 https://a.kvp726.com/20261105/vAKM4FQK/index.m3u8
 #EXTINF:-1 group-title="🎬 Hoạt Hình - Anime" tvg-logo="https://phimimg.com/uploads/movies/20261008/sato-san-lanh-lung-chi-diu-dang-voi-toi-thumb.webp", ⚽ Sato-san Lạnh Lùng Chỉ Dịu Dàng Với Tôi (Tập 05)
