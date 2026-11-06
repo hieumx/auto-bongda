@@ -1,36 +1,38 @@
 #EXTM3U
-#EXTINF:-1 group-title="GaVang - Esport" tvg-logo="https://static.flashscore.com/res/image/data/IcRWRrAr-lAg5zKZ6.png", ⚽ [] DK vs BLG
-https://pzhgifbkllliv.vcdn.cloud/1793865031_hd/1793865031_hd@720p.m3u8
-#EXTINF:-1 group-title="Xoilac - Bóng đá" tvg-logo="https://imgts.sportpulseapiz.com/football/competition/56ypq3nhzpzmd7o/image/small", ⚽ Nữ Club Necaxa vs Nữ Atlas lúc 06:00 ngày 06/11/2026
-https://live2.jorvakstreamcache.com/live/channel17.flv
-#EXTINF:-1 group-title="Xoilac - Bóng đá" tvg-logo="https://imgts.sportpulseapiz.com/football/competition/jednm9whneryox8/image/small", ⚽ Inter de San Carlos vs Cartagines Deportiva lúc 06:00 ngày 06/11/2026
-https://live1.quickscoreboardz.com/live/channel17.flv?wsSecret=f9ab990b102e02a8edf0bd1b23e9cc41&wsABSTime=1793969670
-#EXTINF:-1 group-title="Xoilac - Bóng đá" tvg-logo="https://imgts.sportpulseapiz.com/football/competition/d23xmvkh5oqg8ny/image/small", ⚽ Bolivar vs Real Potosi lúc 06:00 ngày 06/11/2026
-https://live1.quickscoreboardz.com/live/channel18.flv?wsSecret=a15a666a63aa464d656417b1dca84375&wsABSTime=1793969672
-#EXTINF:-1 group-title="Xoilac - Bóng đá" tvg-logo="https://imgts.sportpulseapiz.com/football/competition/4zp5rzghkzq82w1/image/small", ⚽ Atletico Choloma vs Atletico Independiente lúc 06:15 ngày 06/11/2026
-https://live1.quickscoreboardz.com/live/channel19.flv?wsSecret=8bdb36e0d6ce4f4e63ef539f774ea810&wsABSTime=1793969674
-#EXTINF:-1 group-title="Xoilac - Bóng đá" tvg-logo="https://imgts.sportpulseapiz.com/football/competition/kn54qllhev6qvy9/image/small", ⚽ Arnett Gardens vs Mount Pleasant FA lúc 08:00 ngày 13/10/2026
-https://live1.quickscoreboardz.com/live/channel3.flv?wsSecret=d54f84faae424b3f2c593d3d2cfc8b11&wsABSTime=1793969676
-#EXTINF:-1 group-title="Xoilac - Bóng đá" tvg-logo="https://imgts.sportpulseapiz.com/football/competition/gpxwrxlhzjgryk0/image/small", ⚽ Ind. del Valle vs Delfin SC lúc 07:00 ngày 06/11/2026
-https://live1.quickscoreboardz.com/live/channel1.flv?wsSecret=b3bd123a41933adae6055ec8cc7b05b2&wsABSTime=1793969679
-#EXTINF:-1 group-title="BiaOm - Trực tiếp" tvg-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/sydney-253", ⚽ 06.11.202615:40SydneyBẮT ĐẦU SAU00Ngày:07giờ:44phút:49giâyCentral Coast MarinersBLVSAPPOROHT0-00-00-0
-https://lilive1.eu.cc/live/c116913b5175cb3ff9e0f772f00262d1/playlist.m3u8
-#EXTINF:-1 group-title="ChuoiChien - Trực tiếp" tvg-logo="https://img.icons8.com/color/512/football2.png", ⚽ LỊCH THI ĐẤU
-https://tg0r0gr3uomttgr31hcj18yzdnctufiusg45dgy4urpjqci1gq3mpcfhgg3dq.100ycdn.com/gckc0525.edgemaxcdn.org/live/chuoisay/playlist.m3u8?wsSession=17ae18fddf0a54650f0eaa73-179392653472604&wsIPSercert=52ca53917a54fe7b6c35de2f8c86bd4e&wsBindIP=2&wsserid=1168243256613785902
-#EXTINF:-1 group-title="ChuoiChien - Trực tiếp" tvg-logo="https://media.chuoichientv.net/media/20251115_112437_72cab226.png", ⚽ Hiệp 1 - VĐQG Brazil - 00:30 06/11 - LIVE - Cruzeiro - 0 - : - 0 - 23' - Bahia - Chuối Sấy - Xem ngay
-https://fhd-01.cctvsignal.xyz/embed/?id=1492444&streamUrl=https%3A%2F%2Fgckc0525.edgemaxcdn.org%2Flive%2Fchuoisay%2Fplaylist.m3u8&autoplay=1&isHome=0
-#EXTINF:-1 group-title="ChuoiChien - Trực tiếp" tvg-logo="https://media.chuoichientv.net/media/20251115_120046_00fdc725.png", ⚽ Đang diễn ra - VĐQG Nữ Mexico - 01:06 06/11 - LIVE - Querétaro W - 0 - : - 0 - Toluca W - Trốc Tru - Xem ngay
-https://fhd-01.cctvsignal.xyz/embed/?id=1603419&streamUrl=https%3A%2F%2Fgckc0525.edgemaxcdn.org%2Flive%2Ftroctru%2Fplaylist.m3u8&autoplay=1&isHome=0
-#EXTINF:-1 group-title="BTV - Trực tiếp" tvg-logo="https://static.wex1sora.com/thesports/football/team/3fe9281df0fdaf026741ff54ac24bdeb.png", ⚽ Giải bóng đá Hạng nhất Brasil - CLB Cruzeiro - 0 - Bahia - 0 - 06/11 00:30
-https://live.cds78y11d.org/live/sd-6MvZ6LzgCviyd5UZrt.m3u8?txSecret=9ffd7be110128399eca388e65c3c4081&txTime=6AEDCE6B
-#EXTINF:-1 group-title="BTV - Trực tiếp" tvg-logo="https://static.wex1sora.com/thesports/football/team/e50451588e04cde33b3a5019250bc0d1.png", ⚽ Giải bóng đá nữ cao cấp Mexico - Necaxa Nữ - 1 - CLB nữ Atlas - 1 - 05/11 23:00
-https://live.cds78y11d.org/live/sd-6MwarmBzqLCW1puW76.m3u8?txSecret=741063c0238fd5bb3b3398b070ac1939&txTime=6AEDCE6D
-#EXTINF:-1 group-title="BTV - Trực tiếp" tvg-logo="https://static.wex1sora.com/thesports/football/team/d2c9d435710709d0be9a6dc06ff78a29.png", ⚽ Giải bóng đá Hạng nhì Colombia - Union Magdalena - 1 - Independiente Yumbo - 1 - 06/11 00:00
-https://live.cds78y11d.org/live/sd-6Mxk4CzixKSf1RbfTz.m3u8?txSecret=91f946841be54e3758ea7a6712f9b33f&txTime=6AEDCE6F
-#EXTINF:-1 group-title="BTV - Trực tiếp" tvg-logo="https://static.wex1sora.com/thesports/football/team/252e374d1afb1754dc1b0730c182fb15.png", ⚽ Hangzhou "Qianchao Cup" International Youth Football Invitational Tournament - Zhejiang Professional FC U15 - 0 - Jiangsu U15 - 0 - 06/11 01:00
-https://live.cds78y11d.org/live/sd-6Mxk3sVguwfonuGNqz.m3u8?txSecret=07bb7f53a00e895b789763334d84605f&txTime=6AEDCE71
-#EXTINF:-1 group-title="BTV - Trực tiếp" tvg-logo="https://static.bongtvrtm.com/seoweb/_next/static/media/loading.352111de.gif", ⚽ Hangzhou "Qianchao Cup" International Youth Football Invitational Tournament - Bournemouth FC U15 - 0 - Zhejiang Football Administration Centre U15 - 0 - 06/11 01:00
-https://live.cds78y11d.org/live/sd-6Mxk3sVgv24mXrvD9n.m3u8?txSecret=3e70697ec8cc2af8d4c9b5ada1e23489&txTime=6AEDCE73
+#EXTINF:-1 group-title="GaVang - Basketball" tvg-logo="https://cdn.keobongvip.digital/images/basketball-teams/b4775c62432e01185c4fd9669952b258.png", ⚽ [] Tasmania JackJumpers vs New Zealand Breakers
+https://pzhgifbkllliv.vcdn.cloud/1793854153_hd/1793854153_hd@720p.m3u8
+#EXTINF:-1 group-title="GaVang - Esport" tvg-logo="https://static.flashscore.com/res/image/data/hCocHMYg-nsgDhzrP.png", ⚽ [] PARIVISION vs NAVI
+https://pzhgifbkllliv.vcdn.cloud/1793944029_hd/1793944029_hd@720p.m3u8
+#EXTINF:-1 group-title="GaVang - Bóng đá" tvg-logo="https://images.keovip88.net/images/teams/sydney-fc.png", ⚽ [] Sydney FC vs Central Coast Mariners FC
+https://pzhgifbkllliv.vcdn.cloud/1793809181_hd/1793809181_hd@720p.m3u8
+#EXTINF:-1 group-title="GaVang - Bóng đá" tvg-logo="https://static.flashscore.com/res/image/data/YoYmLhFa-p8qB7nji.png", ⚽ [] Adelaide United W vs Wellington Phoenix W
+https://pzhgifbkllliv.vcdn.cloud/1793950998_hd/1793950998_hd@720p.m3u8
+#EXTINF:-1 group-title="Xoilac - Bóng đá" tvg-logo="https://imgts.sportpulseapiz.com/football/competition/yl5ergph5d7r8k0/image/small", ⚽ Soccerstar FC vs Mumbai Dynamos FC lúc 12:30 ngày 06/11/2026
+https://live1.quickscoreboardz.com/live/channel11.flv?wsSecret=0062278f084c3f83290bf480a1ae8ab4&wsABSTime=1793994492
+#EXTINF:-1 group-title="Xoilac - Bóng đá" tvg-logo="https://imgts.sportpulseapiz.com/football/competition/gy0or5jhn26qwzv/image/small", ⚽ Racing Santander U15 vs Standard Liege U15 lúc 14:30 ngày 06/11/2026
+https://live1.quickscoreboardz.com/live/channel9.flv?wsSecret=271f60687d0d17e9fd44f40a4b5ca3cc&wsABSTime=1793994493
+#EXTINF:-1 group-title="Xoilac - Bóng đá" tvg-logo="https://imgts.sportpulseapiz.com/football/competition/gx7lm7ph97xm2wd/image/small", ⚽ Nữ Qingdao Coast vs Nữ Shanghai Huilong lúc 14:00 ngày 06/11/2026
+https://live1.quickscoreboardz.com/live/channel4.flv?wsSecret=ef547cf27bda417d8d971c4677b11dd6&wsABSTime=1793994496
+#EXTINF:-1 group-title="Xoilac - Bóng đá" tvg-logo="https://imgts.sportpulseapiz.com/football/competition/gx7lm7ph97xm2wd/image/small", ⚽ Nữ Wuhan  vs Nữ Hebei Snow Ruyi  lúc 14:00 ngày 06/11/2026
+https://live1.quickscoreboardz.com/live/channel5.flv?wsSecret=a35bf5b2d7e530b9f3752c5e533cd8f3&wsABSTime=1793994498
+#EXTINF:-1 group-title="Xoilac - Bóng đá" tvg-logo="https://imgts.sportpulseapiz.com/football/competition/gx7lm7ph97xm2wd/image/small", ⚽ Nữ Henan vs Nữ Shanghai Shenhua lúc 14:00 ngày 06/11/2026
+https://live2.jorvakstreamcache.com/live/channel10.flv
+#EXTINF:-1 group-title="Xoilac - Bóng đá" tvg-logo="https://imgts.sportpulseapiz.com/football/competition/gx7lm7ph97xm2wd/image/small", ⚽ Nữ Yongchuan  vs Nữ Fujian Nanan lúc 14:00 ngày 06/11/2026
+https://live1.quickscoreboardz.com/live/channel7.flv?wsSecret=1fbe71ece6b7c82832ec7a89ad6cc1b7&wsABSTime=1793994502
+#EXTINF:-1 group-title="BiaOm - Trực tiếp" tvg-logo="https://biaomtv.today/match-triangle.png", ⚽ LIVE06.11.202615:40Sydney? - ?Central Coast MarinersBLVSAPPOROHT0-00-00-0
+https://lilive1.eu.cc/live/43be73bf0853cb9610fc379f40f47b19/playlist.m3u8
+#EXTINF:-1 group-title="BTV - Trực tiếp" tvg-logo="https://static.wex1sora.com/thesports/football/team/6d6bd118cc9041bea28aabcea610530a.png", ⚽ Hangzhou "Qianchao Cup" International Youth Football Invitational Tournament - Racing Santander U15 - 0 - Standard Liege U15 - 0 - 06/11 06:40
+https://live.cds78y11d.org/live/sd-6Mxk3sVhFJpMY4RgE8.m3u8?txSecret=9cde28a22153c708b6576ccc82bc7830&txTime=6AEE2F6C
+#EXTINF:-1 group-title="BTV - Trực tiếp" tvg-logo="https://static.wex1sora.com/thesports/football/team/472f7c5ddfb1d2f194e4a0f824c3b913.png", ⚽ Giải bóng đá nữ hạng nhất Trung Quốc - Phụ nữ biển tre Yongchuan Chashan - 0 - Phụ nữ Quảng Đông Phúc Kiến Nanan - 1 - 06/11 07:00
+https://live.cds78y11d.org/live/sd-6MxjJtdboTEq34xb9e.m3u8?txSecret=28b9664bab3ae7309533a1fd909ce48b&txTime=6AEE2F6E
+#EXTINF:-1 group-title="BTV - Trực tiếp" tvg-logo="https://static.wex1sora.com/thesports/football/team/b7769e06012d84dc2ed5e9779e49528d.png", ⚽ Giải bóng đá nữ hạng nhất Trung Quốc - Henan Songshan Longmen Nữ - 0 - Phụ nữ Shenhua Thượng Hải - 0 - 06/11 07:00
+https://live.cds78y11d.org/live/sd-6MxjJtdboXdnn2cRTS.m3u8?txSecret=d252d565a667fae287b857608bf379c5&txTime=6AEE2F70
+#EXTINF:-1 group-title="BTV - Trực tiếp" tvg-logo="https://static.wex1sora.com/thesports/football/team/d1d3c66e3586a6fd93b2db1ee8bc60bc.png", ⚽ Giải bóng đá nữ hạng nhất Trung Quốc - Đại học Thể thao Vũ Hán nữ - 0 - CLB nữ Hà Bắc - 2 - 06/11 07:00
+https://live.cds78y11d.org/live/sd-6MxjJtdboR3MAb8fzk.m3u8?txSecret=075b233fee87ac0a0d7aaa734ab9b6bf&txTime=6AEE2F72
+#EXTINF:-1 group-title="BTV - Trực tiếp" tvg-logo="https://static.bongtvrtm.com/seoweb/_next/static/media/loading.352111de.gif", ⚽ Giải bóng đá nữ hạng nhất Trung Quốc - Phụ nữ Bờ Tây Thanh Đảo - 0 - Shanghai Jiading Huilong(w) - 0 - 06/11 07:00
+https://live.cds78y11d.org/live/sd-6MxjJtdboVSJuYnWJY.m3u8?txSecret=185bb37cd071a38681031cc841bd8ac4&txTime=6AEE2F74
+#EXTINF:-1 group-title="BTV - Trực tiếp" tvg-logo="https://static.bongtvrtm.com/seoweb/_next/static/media/loading.352111de.gif", ⚽ Hainan Football City League - Sansha Team - 0 - Qiongzhong Team - 0 - 06/11 07:30
+https://live.cds78y11d.org/live/sd-6MxjKLhZ6zqcNW5FP2.m3u8?txSecret=619e67953c1c0e91138cbb67542efbd0&txTime=6AEE2F76
 #EXTINF:-1 group-title="TV - FIFA WORLD CUP 2026" tvg-logo="https://i.ytimg.com/vi/4jr8Y13NSME/maxresdefault.jpg", ⚽ VTV3
 http://42.1.99.192:8080/secureVhost/vtv3.flv?token=vtv_secret_20260706
 #EXTINF:-1 group-title="TV - FIFA WORLD CUP 2026" tvg-logo="https://raw.githubusercontent.com/vuminhthanh12/Logo/refs/heads/main/VTV6.png", ⚽ VTV6
@@ -797,6 +799,12 @@ https://cdn6.goprimetime.info/feed/eI5rczhSQpWBcgOtqRLNWw/chmono293/index.m3u8
 http://ch-4k-top.org:80/play/live.php?mac=00:1A:79:7a:39:a6&stream=1776225&extension=ts&play_token=TGCPfAlA9v
 #EXTINF:-1 group-title="TV - 🇰🇭| Campuchia" tvg-logo="https://1.bp.blogspot.com/-eaJhNFbzINk/XlhGheWJpgI/AAAAAAAAJ8M/k3fnwM6DPfso2q3pF8yzQWvg8ZScKF2dQCLcBGAsYHQ/s1600/HMHD.png", ⚽ Ramsey HangMeas Melody UHD
 http://abclive.malisresidences.com:1935/hmmel/_definst_/smil:hmmel.smil/playlist.m3u8
+#EXTINF:-1 group-title="🎬 Phim Lẻ Chiếu Rạp" tvg-logo="https://phimimg.com/uploads/movies/20261106/ninho-cai-gia-cua-danh-tieng-thumb.webp", ⚽ Ninho: Cái Giá Của Danh Tiếng
+https://a.kvp726.com/20261106/2yHlazKf/index.m3u8
+#EXTINF:-1 group-title="🎬 Phim Lẻ Chiếu Rạp" tvg-logo="https://phimimg.com/uploads/movies/20261106/doi-dien-qua-da-thumb.webp", ⚽ Đội Diễn Quá Đà
+https://a.kvp726.com/20261106/yWwVF2DC/index.m3u8
+#EXTINF:-1 group-title="🎬 Phim Lẻ Chiếu Rạp" tvg-logo="https://phimimg.com/uploads/movies/20261106/con-song-duoc-mot-nam-hay-mua-mot-anh-chang-thumb.webp", ⚽ Còn Sống Được Một Năm, Hãy Mua Một Anh Chàng
+https://a.kvp726.com/20261106/L6Dyayuc/index.m3u8
 #EXTINF:-1 group-title="🎬 Phim Lẻ Chiếu Rạp" tvg-logo="https://phimimg.com/uploads/movies/20261105/vong-lap-mau-tu-thumb.webp", ⚽ Vòng Lặp Mẫu Tử
 https://a.kvp726.com/20261105/KbTatiof/index.m3u8
 #EXTINF:-1 group-title="🎬 Phim Lẻ Chiếu Rạp" tvg-logo="https://phimimg.com/uploads/movies/20261105/nhip-dap-trai-tim-2022-thumb.webp", ⚽ Nhịp Đập Trái Tim
@@ -821,42 +829,48 @@ https://a.kvp726.com/20261102/FcRUPdSU/index.m3u8
 https://a.kvp726.com/20261102/sHsIpbYi/index.m3u8
 #EXTINF:-1 group-title="🎬 Phim Lẻ Chiếu Rạp" tvg-logo="https://phimimg.com/uploads/movies/20261102/vung-dat-quy-du-2026-thumb.webp", ⚽ Vùng Đất Quỷ Dữ
 https://a.kvp726.com/20261102/gnBeXzvk/index.m3u8
-#EXTINF:-1 group-title="🎬 Phim Lẻ Chiếu Rạp" tvg-logo="https://phimimg.com/uploads/movies/20261102/qua-sinh-nhat-tai-hai-thumb.webp", ⚽ Quà Sinh Nhật Tai Hại
-https://a.kvp726.com/20261102/nz96ASib/index.m3u8
-#EXTINF:-1 group-title="🎬 Phim Lẻ Chiếu Rạp" tvg-logo="https://phimimg.com/upload/vod/20250124-1/535166781a53d302e14c9341f0d161a2.jpg", ⚽ Nhím Sonic 3
-https://a.kvp726.com/20261102/zETTLnlv/index.m3u8
-#EXTINF:-1 group-title="🎬 Phim Lẻ Chiếu Rạp" tvg-logo="https://phimimg.com/uploads/movies/20261102/bucky-larson-sinh-ra-de-tro-thanh-ngoi-sao-thumb.webp", ⚽ Bucky Larson: Sinh Ra Để Trở Thành Ngôi Sao
-https://a.kvp726.com/20261102/YlnmAjWZ/index.m3u8
+#EXTINF:-1 group-title="🎬 Phim Bộ Mới Nhất" tvg-logo="https://phimimg.com/uploads/movies/20261010/yeu-mot-ke-ngoc-thumb.webp", ⚽ Yêu Một Kẻ Ngốc (Tập 09)
+https://a.kvp726.com/20261106/zzr7BUOW/index.m3u8
+#EXTINF:-1 group-title="🎬 Phim Bộ Mới Nhất" tvg-logo="https://phimimg.com/uploads/movies/20261022/xom-nho-thumb.webp", ⚽ Xóm Nhỏ (Tập 11)
+https://a.kvp726.com/20261106/rTqD828K/index.m3u8
+#EXTINF:-1 group-title="🎬 Phim Bộ Mới Nhất" tvg-logo="https://phimimg.com/uploads/movies/20261017/vision-quest-thumb.webp", ⚽ Vision: Hành Trình Tìm Lại Ký Ức (Tập 07)
+https://a.kvp726.com/20261106/xjlxIt6D/index.m3u8
+#EXTINF:-1 group-title="🎬 Phim Bộ Mới Nhất" tvg-logo="https://phimimg.com/uploads/movies/20261024/thuong-cong-chua-thumb.webp", ⚽ Thượng Công Chúa (Tập 26)
+https://a.kvp726.com/20261106/C7Sv6DMy/index.m3u8
+#EXTINF:-1 group-title="🎬 Phim Bộ Mới Nhất" tvg-logo="https://phimimg.com/uploads/movies/20261013/thanh-pho-ruc-ro-thumb.webp", ⚽ Thành Phố Rực Rỡ (Tập 19)
+https://a.kvp726.com/20261106/gvz3aXXE/index.m3u8
+#EXTINF:-1 group-title="🎬 Phim Bộ Mới Nhất" tvg-logo="https://phimimg.com/uploads/movies/20261105/sat-nhan-tham-lang-poster.webp", ⚽ Sát Nhân Thầm Lặng (Tập 02)
+https://a.kvp726.com/20261106/qK6YiODf/index.m3u8
+#EXTINF:-1 group-title="🎬 Phim Bộ Mới Nhất" tvg-logo="https://phimimg.com/uploads/movies/20261022/quan-an-dem-nhung-cau-chuyen-o-tokyo-phan-3-thumb.webp", ⚽ Quán ăn đêm: Những câu chuyện ở Tokyo (Phần 3) (Tập 03)
+https://a.kvp726.com/20261106/o7gSCQd8/index.m3u8
+#EXTINF:-1 group-title="🎬 Phim Bộ Mới Nhất" tvg-logo="https://phimimg.com/uploads/movies/20261106/huong-tinh-mien-que-thumb.webp", ⚽ Hương Tình Miền Quê (Tập 09)
+https://a.kvp726.com/20261106/CJprlXeo/index.m3u8
+#EXTINF:-1 group-title="🎬 Phim Bộ Mới Nhất" tvg-logo="https://phimimg.com/uploads/movies/20261016/ga-kim-thoa-ga-tram-vang-thumb.webp", ⚽ Gả Kim Thoa / Gả trâm vàng (Tập 29)
+https://a.kvp726.com/20261106/wMvj5Cnv/index.m3u8
+#EXTINF:-1 group-title="🎬 Phim Bộ Mới Nhất" tvg-logo="https://phimimg.com/uploads/movies/20260905/doi-bong-nu-lang-xuan-thumb.webp", ⚽ Đội Bóng Nữ Làng Xuân (Tập 18)
+https://a.kvp726.com/20261106/BhOESTvp/index.m3u8
+#EXTINF:-1 group-title="🎬 Phim Bộ Mới Nhất" tvg-logo="https://phimimg.com/uploads/movies/20261023/dich-vu-chia-tay-thue-thumb.webp", ⚽ Dịch Vụ Chia Tay Thuê (Tập 04)
+https://a.kvp726.com/20261106/vUceuzoO/index.m3u8
+#EXTINF:-1 group-title="🎬 Phim Bộ Mới Nhất" tvg-logo="https://phimimg.com/uploads/movies/20261021/cuoc-truong-chinh-vi-dai-thumb.webp", ⚽ Cuộc Trường Chinh Vĩ Đại (Tập 49)
+https://a.kvp726.com/20261106/3CDUiNhu/index.m3u8
+#EXTINF:-1 group-title="🎬 Phim Bộ Mới Nhất" tvg-logo="https://phimimg.com/uploads/movies/20261008/tinh-anh-em-phan-1-thumb.webp", ⚽ Tình Anh Em (Phần 1) (Tập 08)
+https://a.kvp726.com/20261106/GUctwPAf/index.m3u8
+#EXTINF:-1 group-title="🎬 Phim Bộ Mới Nhất" tvg-logo="https://phimimg.com/uploads/movies/20261023/bao-ve-dat-me-thumb.webp", ⚽ Bảo Vệ Đất Mẹ (Tập 05)
+https://a.kvp726.com/20261106/w9I8jugx/index.m3u8
 #EXTINF:-1 group-title="🎬 Phim Bộ Mới Nhất" tvg-logo="https://phimimg.com/uploads/movies/20261105/gap-anh-trang-thumb.webp", ⚽ Gấp Ánh Trăng (Tập 04)
 https://a.kvp726.com/20261105/DiDD21Hu/index.m3u8
-#EXTINF:-1 group-title="🎬 Phim Bộ Mới Nhất" tvg-logo="https://phimimg.com/uploads/movies/20261016/chuyen-tinh-rung-cam-thumb.webp", ⚽ Chuyện Tình Rung Cảm (Tập 10)
-https://a.kvp726.com/20261105/kKw8F9JP/index.m3u8
-#EXTINF:-1 group-title="🎬 Phim Bộ Mới Nhất" tvg-logo="https://phimimg.com/uploads/movies/20261105/hoang-hau-tai-hon-thumb.webp", ⚽ Hoàng Hậu Tái Hôn (Tập 04)
-https://a.kvp726.com/20261105/fkDoPaiJ/index.m3u8
-#EXTINF:-1 group-title="🎬 Phim Bộ Mới Nhất" tvg-logo="https://phimimg.com/uploads/movies/20261105/tinh-xuyen-ve-nguon-coi-thumb.webp", ⚽ Tình Xuyên Về Nguồn Cội (Tập 12)
-https://a.kvp726.com/20261105/mcFBVLQu/index.m3u8
-#EXTINF:-1 group-title="🎬 Phim Bộ Mới Nhất" tvg-logo="https://phimimg.com/uploads/movies/20261105/chuyen-cu-mien-bien-ai-thumb.webp", ⚽ Chuyện Cũ Miền Biên Ải (Tập 06)
-https://a.kvp726.com/20261105/zcFxHpax/index.m3u8
-#EXTINF:-1 group-title="🎬 Phim Bộ Mới Nhất" tvg-logo="https://phimimg.com/uploads/movies/20261105/bi-mat-cua-lang-achiara-thumb.webp", ⚽ Bí Mật Của Làng Achiara (Tập 16)
-https://a.kvp726.com/20261105/yMne1PAx/index.m3u8
-#EXTINF:-1 group-title="🎬 Phim Bộ Mới Nhất" tvg-logo="https://phimimg.com/uploads/movies/20261015/mai-am-dia-nguc-thumb.webp", ⚽ Mái Ấm Địa Ngục (Tập 08)
-https://a.kvp726.com/20261105/WHTN776m/index.m3u8
-#EXTINF:-1 group-title="🎬 Phim Bộ Mới Nhất" tvg-logo="https://phimimg.com/uploads/movies/20261023/cham-vao-anh-thumb.webp", ⚽ Chạm Vào Anh / Dạy Tôi Cách Yêu (Tập 04)
-https://a.kvp726.com/20261105/Ie0oJL8M/index.m3u8
-#EXTINF:-1 group-title="🎬 Phim Bộ Mới Nhất" tvg-logo="https://phimimg.com/uploads/movies/20261105/sat-nhan-tham-lang-poster.webp", ⚽ Sát Nhân Thầm Lặng
-https://a.kvp726.com/20261105/hdoXl8P6/index.m3u8
-#EXTINF:-1 group-title="🎬 Phim Bộ Mới Nhất" tvg-logo="https://phimimg.com/uploads/movies/20261105/quy-ong-tro-lai-thumb.webp", ⚽ Quý Ông Trở Lại (Tập 16)
-https://a.kvp726.com/20261105/EDvsvgiZ/index.m3u8
-#EXTINF:-1 group-title="🎬 Phim Bộ Mới Nhất" tvg-logo="https://phimimg.com/uploads/movies/20261105/cuoc-doi-bi-lay-mat-natalee-holloway-thumb.webp", ⚽ Cuộc Đời Bị Lấy Mất: Natalee Holloway (Tập 03)
-https://a.kvp726.com/20261105/cznIiZSC/index.m3u8
-#EXTINF:-1 group-title="🎬 Phim Bộ Mới Nhất" tvg-logo="https://phimimg.com/uploads/movies/20261105/anaesthesia-vo-cam-thumb.webp", ⚽ Anaesthesia Vô Cảm (Tập 08)
-https://a.kvp726.com/20261105/DOxhUIno/index.m3u8
-#EXTINF:-1 group-title="🎬 Phim Bộ Mới Nhất" tvg-logo="https://phimimg.com/uploads/movies/20261009/di-san-den-toi-poster.webp", ⚽ Di Sản Đen Tối (Tập 08)
-https://a.kvp726.com/20261030/GnNueeTA/index.m3u8
-#EXTINF:-1 group-title="🎬 Phim Bộ Mới Nhất" tvg-logo="https://phimimg.com/uploads/movies/20261022/xom-nho-thumb.webp", ⚽ Xóm Nhỏ (Tập 10)
-https://a.kvp726.com/20261105/ojql2tdn/index.m3u8
-#EXTINF:-1 group-title="🎬 Phim Bộ Mới Nhất" tvg-logo="https://phimimg.com/uploads/movies/20261009/ultraman-tiga-thumb.webp", ⚽ Siêu Nhân Tiga (Tập 13)
-https://a.kvp726.com/20261105/ZB0zOTrC/index.m3u8
+#EXTINF:-1 group-title="🎬 Hoạt Hình - Anime" tvg-logo="https://phimimg.com/uploads/movies/20261009/phap-su-bang-kiem-phap-su-bang-kiem-se-thong-tri-the-gioi-thumb.webp", ⚽ Pháp Sư Băng Kiếm / Pháp Sư Băng Kiếm Sẽ Thống Trị Thế Giới (Phần 2) (Tập 05)
+https://a.kvp726.com/20261106/iO1TKEgo/index.m3u8
+#EXTINF:-1 group-title="🎬 Hoạt Hình - Anime" tvg-logo="https://phimimg.com/upload/vod/20260704-1/732482354bbfaf0663881f84392f73df.jpg", ⚽ Trọng Giáp Hiệp Sĩ Chuyển Sinh Bị Lưu Đày Trở Nên Vô Địch Nhờ Kiến Thức Về Game (Tập 19)
+https://a.kvp726.com/20261106/nLukTxsh/index.m3u8
+#EXTINF:-1 group-title="🎬 Hoạt Hình - Anime" tvg-logo="https://phimimg.com/uploads/movies/20261010/tetsuryo-gap-go-tetsudo-musume-thumb.webp", ⚽ Tetsuryo! Gặp Gỡ Tetsudo Musume (Tập 05)
+https://a.kvp726.com/20261106/LVmjJ43B/index.m3u8
+#EXTINF:-1 group-title="🎬 Hoạt Hình - Anime" tvg-logo="https://phimimg.com/upload/vod/20260415-1/708b632451a627340ce179f85e88fd3e.jpg", ⚽ Đại Chúa Tể 3D (Tập 98)
+https://a.kvp726.com/20261106/1aMl6v9j/index.m3u8
+#EXTINF:-1 group-title="🎬 Hoạt Hình - Anime" tvg-logo="https://phimimg.com/uploads/movies/20261002/chien-binh-ngoai-hoi-kurumi-chan-thumb.webp", ⚽ Chiến Binh Ngoại Hối Kurumi-Chan (Tập 06)
+https://a.kvp726.com/20261106/62S8aBt2/index.m3u8
+#EXTINF:-1 group-title="🎬 Hoạt Hình - Anime" tvg-logo="https://phimimg.com/uploads/movies/20261002/buc-tuong-bang-phan-2-thumb.webp", ⚽ Bức Tường Băng (Phần 2) (Tập 06)
+https://a.kvp726.com/20261106/dI9LotSN/index.m3u8
 #EXTINF:-1 group-title="🎬 Hoạt Hình - Anime" tvg-logo="https://phimimg.com/uploads/movies/20261008/phap-su-gian-lan-bi-sa-thai-tan-huong-cuoc-song-thu-hai-thumb.webp", ⚽ Pháp Sư Gian Lận Bị Sa Thải Tận Hưởng Cuộc Sống Thứ Hai (Tập 05)
 https://a.kvp726.com/20261105/vAKM4FQK/index.m3u8
 #EXTINF:-1 group-title="🎬 Hoạt Hình - Anime" tvg-logo="https://phimimg.com/uploads/movies/20261008/sato-san-lanh-lung-chi-diu-dang-voi-toi-thumb.webp", ⚽ Sato-san Lạnh Lùng Chỉ Dịu Dàng Với Tôi (Tập 05)
@@ -875,15 +889,3 @@ https://a.kvp726.com/20261105/DNQS31DS/index.m3u8
 https://a.kvp726.com/20261105/4tS6GDnQ/index.m3u8
 #EXTINF:-1 group-title="🎬 Hoạt Hình - Anime" tvg-logo="https://phimimg.com/uploads/movies/20261009/tham-tu-da-chet-phan-2-thumb.webp", ⚽ Thám Tử Đã Chết (Phần 2) (Tập 05)
 https://a.kvp726.com/20261105/yV01MEt9/index.m3u8
-#EXTINF:-1 group-title="🎬 Hoạt Hình - Anime" tvg-logo="https://phimimg.com/uploads/movies/20261009/sasaki-va-p-chan-phan-2-thumb.webp", ⚽ Sasaki Và P-chan (Phần 2) (Tập 05)
-https://a.kvp726.com/20261105/vZ1S8VZD/index.m3u8
-#EXTINF:-1 group-title="🎬 Hoạt Hình - Anime" tvg-logo="https://phimimg.com/upload/vod/20260420-1/a00de874909fb1bfb7f7749f926081a3.jpg", ⚽ Nghịch Thiên Tà Thần (Tập 62)
-https://a.kvp726.com/20261105/AToF4KOu/index.m3u8
-#EXTINF:-1 group-title="🎬 Hoạt Hình - Anime" tvg-logo="https://phimimg.com/uploads/movies/20261009/hiep-si-phep-thuat-rayearth-thumb.webp", ⚽ Hiệp Sĩ Phép Thuật Rayearth (Tập 05)
-https://a.kvp726.com/20261105/dscdH6pE/index.m3u8
-#EXTINF:-1 group-title="🎬 Hoạt Hình - Anime" tvg-logo="https://phimimg.com/uploads/movies/20261002/chuyen-sinh-thanh-kiem-phan-2-thumb.webp", ⚽ Chuyển Sinh Thành Kiếm (Phần 2) (Tập 06)
-https://a.kvp726.com/20261105/I57S04Ja/index.m3u8
-#EXTINF:-1 group-title="🎬 Hoạt Hình - Anime" tvg-logo="https://phimimg.com/uploads/movies/20261014/cuong-vuong-phan-2-thumb.webp", ⚽ Cuồng Vương (Phần 2) (Tập 09)
-https://a.kvp726.com/20261105/1GpuWEhy/index.m3u8
-#EXTINF:-1 group-title="🎬 Hoạt Hình - Anime" tvg-logo="https://phimimg.com/uploads/movies/20261009/ma-thuat-dac-biet-cua-phu-thuy-quay-nguoc-thoi-gian-phan-2-thumb.webp", ⚽ Ma Thuật Đặc Biệt Của Phù Thủy Quay Ngược Thời Gian (Phần 2) (Tập 05)
-https://a.kvp726.com/20261105/whddNZZs/index.m3u8
