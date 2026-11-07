@@ -112,15 +112,27 @@ def thu_hoach_phim_phim4k():
             thumb = movie.get("thumb_url") or movie.get("poster_url") or ""
             episodes = data.get("episodes", [])
             if episodes:
-                server_data = episodes[0].get("server_data", [])
-                if server_data:
+                # CHỈ CHỌN SERVER THUYẾT MINH HOẶC LỒNG TIẾNG, BỎ QUA VIETSUB
+                dubbed_groups = []
+                for ep_group in episodes:
+                    sname = ep_group.get('server_name', '').strip()
+                    sname_low = sname.lower()
+                    is_dub = any(k in sname_low for k in ['thuyết minh', 'lồng tiếng', 'thuyet minh', 'long tieng', 'tm', 'lt', 'dub'])
+                    is_vs = 'vietsub' in sname_low or 'phụ đề' in sname_low
+                    if is_dub and not is_vs:
+                        sdata = ep_group.get('server_data', [])
+                        if sdata:
+                            dubbed_groups.append((sname, sdata))
+                if dubbed_groups:
+                    best_name, server_data = max(dubbed_groups, key=lambda x: len(x[1]))
                     ep = server_data[-1] if len(server_data) > 1 else server_data[0]
                     ep_name = ep.get("name")
                     m3u8 = ep.get("link_m3u8")
                     if m3u8 and m3u8.startswith("http"):
-                        display_name = f"{name} ({ep_name})" if len(server_data) > 1 else name
+                        tag = "Lồng Tiếng" if any(k in best_name.lower() for k in ['lồng tiếng', 'long tieng', 'lt']) else "Thuyết Minh"
+                        display_name = f"{name} ({ep_name}) [{tag}]" if len(server_data) > 1 else f"{name} [{tag}]"
                         return {
-                            'nhom': group_name,
+                            'nhom': f"{group_name} ({tag})",
                             'ten': display_name,
                             'link': m3u8,
                             'thumb': thumb
@@ -138,18 +150,20 @@ def thu_hoach_phim_phim4k():
     return streams
 
 def thu_hoach_hoat_hinh_3d_full():
-    """Thu hoạch trọn bộ Full Series Hoạt hình 3D (toàn bộ danh mục YanHH3D + Donghua)"""
-    print("\n🎬 [YanHH3D Engine] Đang thu hoạch toàn bộ kho phim Hoạt Hình 3D Trung Quốc...", flush=True)
+    """Thu hoạch trọn bộ Full Series Hoạt hình 3D LỒNG TIẾNG & THUYẾT MINH (loại bỏ hoàn toàn Vietsub)"""
+    print("\n🎬 [YanHH3D Engine] Đang thu hoạch kho phim Hoạt Hình 3D LỒNG TIẾNG & THUYẾT MINH...", flush=True)
     t0 = time.time()
 
-    # 1. Thu thập danh sách slug từ sitemap YanHH3D
+    # 1. Thu thập danh sách slug từ sitemap YanHH3D + bộ sưu tập anime hot
     slug_candidates = set([
         "tien-nghich", "pham-nhan-tu-tien", "dau-pha-thuong-khung-phan-5", "the-gioi-hoan-my",
         "gia-thien", "thon-phe-tinh-khong", "muc-than-ky", "quang-am-chi-ngoai", "kiem-lai-phan-2",
         "dai-vuong-tha-mang-phan-3", "dau-la-dai-luc-2-tuyet-the-duong-mon", "nhat-niem-vinh-hang",
         "dai-phung-da-canh-nhan", "nghich-thien-chi-ton", "van-gioi-doc-ton", "luyen-khi-muoi-van-nam",
         "than-an-vuong-toa", "su-huynh-a-su-huynh", "luc-dia-kien-tien", "thuong-nguyen-do",
-        "than-vuc-vo-tan", "tuyet-ung-linh-chu", "nghich-thien-ta-than", "vo-toai-tinh-ha"
+        "than-vuc-vo-tan", "tuyet-ung-linh-chu", "nghich-thien-ta-than", "vo-toai-tinh-ha",
+        "dau-pha-thuong-khung", "tay-du-ky", "tham-tu-lung-danh-conan", "doraemon", "shin-cau-be-but-chi",
+        "dau-la-dai-luc", "vua-tro-choi", "bay-vien-ngoc-rong-sieu-cap", "dragon-ball-daima"
     ])
     try:
         r_map = requests.get('https://yanhh3d.ee/post-sitemap.xml', headers=HEADERS, timeout=6)
@@ -163,22 +177,20 @@ def thu_hoach_hoat_hinh_3d_full():
     except Exception:
         pass
 
-    # 2. Bổ sung từ danh mục Hoạt Hình Trung Quốc mới nhất
-    for p in range(1, 6):
+    for p in range(1, 8):
         try:
             r_cat = requests.get(f"https://phimapi.com/v1/api/danh-sach/hoat-hinh?page={p}&limit=50", headers=HEADERS, timeout=5)
             if r_cat.status_code == 200:
-                items = r_cat.json().get('data', {}).get('items', [])
-                for it in items:
+                for it in r_cat.json().get('data', {}).get('items', []):
                     s = it.get('slug')
                     if s:
                         slug_candidates.add(s)
         except Exception:
             pass
 
-    print(f"   🎯 Phát hiện {len(slug_candidates)} bộ phim tiềm năng, đang bóc tách tập...", flush=True)
+    print(f"   🎯 Phát hiện {len(slug_candidates)} bộ phim tiềm năng, đang lọc bản Lồng Tiếng / Thuyết Minh...", flush=True)
 
-    def fetch_one_series(slug):
+    def fetch_dubbed_series(slug):
         url = f"https://phimapi.com/phim/{slug}"
         eps_list = []
         try:
@@ -189,16 +201,30 @@ def thu_hoach_hoat_hinh_3d_full():
                 name = movie.get('name') or slug
                 poster = movie.get('poster_url') or movie.get('thumb_url') or ""
                 episodes = d.get('episodes', [])
-                if episodes:
-                    server_data = episodes[0].get('server_data', [])
-                    group_name = f"🎬 HH3D - {name}"
-                    for ep in server_data:
+                
+                # CHỈ CHỌN SERVER LỒNG TIẾNG HOẶC THUYẾT MINH, LOẠI BỎ HOÀN TOÀN VIETSUB
+                dubbed_groups = []
+                for ep_group in episodes:
+                    sname = ep_group.get('server_name', '').strip()
+                    sname_low = sname.lower()
+                    is_dub = any(k in sname_low for k in ['thuyết minh', 'lồng tiếng', 'thuyet minh', 'long tieng', 'tm', 'lt', 'dub'])
+                    is_vs = 'vietsub' in sname_low or 'phụ đề' in sname_low
+                    if is_dub and not is_vs:
+                        sdata = ep_group.get('server_data', [])
+                        if sdata:
+                            dubbed_groups.append((sname, sdata))
+                
+                if dubbed_groups:
+                    best_name, best_data = max(dubbed_groups, key=lambda x: len(x[1]))
+                    tag = "Lồng Tiếng" if any(k in best_name.lower() for k in ['lồng tiếng', 'long tieng', 'lt']) else "Thuyết Minh"
+                    group_name = f"🎬 HH3D {tag} - {name}"
+                    for ep in best_data:
                         ep_name = ep.get('name', '')
                         m3u8 = ep.get('link_m3u8', '')
                         if m3u8 and m3u8.startswith('http'):
                             eps_list.append({
                                 'nhom': group_name,
-                                'ten': f"{name} - {ep_name}",
+                                'ten': f"{name} - {ep_name} ({tag})",
                                 'link': m3u8,
                                 'thumb': poster
                             })
@@ -208,14 +234,13 @@ def thu_hoach_hoat_hinh_3d_full():
 
     all_eps = []
     with ThreadPoolExecutor(max_workers=35) as executor:
-        results = executor.map(fetch_one_series, list(slug_candidates))
+        results = executor.map(fetch_dubbed_series, list(slug_candidates))
         for res in results:
             if res:
                 all_eps.extend(res)
 
-    print(f"✅ YanHH3D Engine: Thu hoạch thành công {len(all_eps)} tập phim full series trong {time.time()-t0:.2f}s!", flush=True)
+    print(f"✅ YanHH3D Engine: Thu hoạch thành công {len(all_eps)} tập phim LỒNG TIẾNG/THUYẾT MINH trong {time.time()-t0:.2f}s!", flush=True)
     return all_eps
-
 
 
 def thu_hoach_socolive_api():
