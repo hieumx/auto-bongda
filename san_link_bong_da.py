@@ -44,6 +44,23 @@ def lay_domain_dong(provider_name, default_url):
     _DOMAIN_CACHE[provider_name] = default_url
     return default_url
 
+def lay_domain_bitly(slug, default_url, suffix=""):
+    """Lấy domain mới qua redirect bit.ly/<slug>; bỏ qua nếu redirect sang youtube/docs..."""
+    key = f"bitly:{slug}"
+    if key in _DOMAIN_CACHE:
+        return _DOMAIN_CACHE[key]
+    try:
+        r = requests.head(f'https://bit.ly/{slug}', allow_redirects=False, timeout=3)
+        loc = r.headers.get('Location') or ''
+        if loc.startswith('http') and not any(x in loc for x in ('youtube.', 'google.', 'pastes.io')):
+            target = loc.rstrip('/') + suffix
+            _DOMAIN_CACHE[key] = target
+            return target
+    except Exception:
+        pass
+    _DOMAIN_CACHE[key] = default_url
+    return default_url
+
 def lay_domain_hoiquan():
     """Lấy domain cập nhật tự động của Hội Quán TV qua Bitly redirect hoặc fallback"""
     if "hoiquantv" in _DOMAIN_CACHE:
@@ -57,7 +74,7 @@ def lay_domain_hoiquan():
             return target
     except Exception:
         pass
-    fallback = lay_domain_dong("hoiquantv", "https://sv2.hoiquan6.live/trang-chu")
+    fallback = lay_domain_dong("hoiquantv", "https://hoiquan6.tv/trang-chu")
     _DOMAIN_CACHE["hoiquantv"] = fallback
     return fallback
 
@@ -234,6 +251,61 @@ def thu_hoach_gavang_api():
         print(f"⚠️ Gà Vàng API gặp lỗi: {e}", flush=True)
     return streams
 
+def thu_hoach_colatv_gavang24h_api():
+    """Thu hoạch ColaTV, Gà Vàng 24h, Gà Vàng 333, Giờ Vàng qua Direct JSON API"""
+    streams = []
+    print("\n⚡ [ColaTV & Gà Vàng 24h API] Đang kết nối trực tiếp api.gvapi.cc...", flush=True)
+    urls = [
+        "https://api.gvapi.cc/api/matches",
+        "https://api.cltvlv.com/api/matches"
+    ]
+    data = None
+    for u in urls:
+        try:
+            r = requests.get(u, headers=HEADERS, timeout=6)
+            if r.status_code == 200:
+                data = r.json().get('data', {})
+                break
+        except Exception:
+            pass
+
+    if not data:
+        print("   ⚠️ Không kết nối được API ColaTV / Gà Vàng 24h", flush=True)
+        return streams
+
+    for k, m in data.items():
+        comp = m.get('competitionName') or ''
+        home = m.get('homeTeamName') or 'Đội nhà'
+        away = m.get('awayTeamName') or 'Đội khách'
+        sport_id = m.get('sportId') or 1
+        sport_name = "Bóng đá" if sport_id == 1 else ("Bóng rổ" if sport_id == 2 else "Thể thao")
+        thumb = m.get('homeTeamLogo') or "https://img.icons8.com/color/512/football2.png"
+        vurl = m.get('videoUrl') or m.get('video_url')
+
+        if vurl and vurl.startswith('http'):
+            streams.append({
+                'nhom': f"ColaTV - {sport_name}",
+                'ten': f"[{comp}] {home} vs {away}",
+                'link': vurl,
+                'thumb': thumb
+            })
+
+        for a in m.get('anchorAppointmentVoList') or []:
+            blv_name = a.get('nickName') or a.get('anchorName') or ''
+            st_url = a.get('playStreamAddress') or a.get('playStreamAddress2')
+            if st_url and st_url.startswith('http'):
+                m3u8_url = st_url.replace('.flv', '.m3u8')
+                blv_thumb = a.get('userImage') or thumb
+                streams.append({
+                    'nhom': f"GaVang24h - {sport_name}",
+                    'ten': f"[{comp}] {home} vs {away}" + (f" (BLV {blv_name})" if blv_name else ""),
+                    'link': m3u8_url,
+                    'thumb': blv_thumb
+                })
+
+    print(f"✅ ColaTV & Gà Vàng 24h API: Thu hoạch thành công {len(streams)} luồng stream!", flush=True)
+    return streams
+
 def thu_hoach_kenh_truyen_hinh():
     """Tải các kênh truyền hình Thể thao, World Cup, VTV từ kho dữ liệu APK"""
     streams = []
@@ -269,20 +341,24 @@ def thu_hoach_kenh_truyen_hinh():
 
 def san_browser_servers(danh_sach_phat, server_da_thanh_cong):
     """Chạy Playwright với tối ưu domcontentloaded cho Thapcam, Thiendinh, Xoilac, Quechoa"""
+    # Lưu ý (11/2026): repo leeshin5757/getout trả 404 cho mọi tên -> lay_domain_dong luôn dùng fallback.
+    # Quechoa, ThienDinh, CoLa, KhanDai: DNS không phân giải (NXDOMAIN) - có thể đã chết, giữ lại để thử.
     tat_ca_server = [
-        ("Xoilac", lay_domain_dong("xoilactv", "https://xoilacz.vip"), "/truc-tiep/", "xoilac"),
-        ("Quechoa", lay_domain_dong("quechatv", "https://quechoa5.live"), "/truc-tiep/", "chuan"),
-        ("ThienDinh", lay_domain_dong("thiendinh", "https://sv2.thiendinh3.live/trang-chu"), "", "thiendinh"),
-        ("Hoiquan", lay_domain_hoiquan(), "", "thiendinh"),
+        ("Xoilac", lay_domain_dong("xoilactv", "https://xoilaczaz.cc"), "/truc-tiep/", "xoilac"),
+        ("Sutbong", lay_domain_dong("sutbong", "https://sutbongtv.my"), "/truc-tiep/", "chuan"),
+        ("BiaOm", lay_domain_dong("biaomtv", lay_domain_bitly("biaomtv", "https://biaomtv.in")), "/live/", "chuan"),
+        ("BTV", lay_domain_dong("btv", "https://bongtvrtm.com"), "", "chuan"),
+        ("S8", lay_domain_dong("s8", "https://s8tv011.com"), "", "chuan"),
+        ("GaVangWeb", "https://gavang12.live", "/truc-tiep/", "chuan"),
+        ("SaoKe", lay_domain_dong("saoke", "https://saoke34.xyz"), "", "chuan"),
+        ("CoLa", lay_domain_dong("colatv", "https://colatv11.live"), "", "chuan"),
         ("Thapcam", "https://thapcamtivi.app", "/truc-tiep", "thapcam"),
-        ("BiaOm", lay_domain_dong("biaomtv", "https://biaomtv.in/live"), "/live/", "chuan"),
+        ("Hoiquan", lay_domain_hoiquan(), "", "thiendinh"),
+        ("ThienDinh", lay_domain_dong("thiendinh", "https://sv2.thiendinh3.live/trang-chu"), "", "thiendinh"),
         ("ChuoiChien", lay_domain_dong("chuoichien", "https://live03.chuoichientv.me"), "/live", "chuan"),
         ("BongLau", lay_domain_dong("bonglau", "https://lau03.bonglautv1.org"), "/live", "chuan"),
-        ("CoLa", lay_domain_dong("colatv", "https://colatv.live"), "", "chuan"),
-        ("SaoKe", lay_domain_dong("saoke", "https://vip3.saoketv40.xyz"), "", "chuan"),
         ("RungTv", lay_domain_dong("rungtv", "https://live1.rung90tv1.xyz"), "", "chuan"),
-        ("S8", lay_domain_dong("s8", "https://s8tv011.com"), "", "chuan"),
-        ("BTV", lay_domain_dong("btv", "https://bongplus.vip"), "", "chuan"),
+        ("Quechoa", lay_domain_dong("quechatv", "https://quechoa5.live"), "/truc-tiep/", "chuan"),
         ("KhanDai", lay_domain_dong("khandai", "https://khandaia.pro"), "", "chuan"),
     ]
 
@@ -497,6 +573,8 @@ def san_browser_servers(danh_sach_phat, server_da_thanh_cong):
                     viewport={"width": 1920, "height": 1080},
                     user_agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
                 )
+                context.set_default_timeout(8000)
+                deadline = time.time() + (8 * 60)
 
                 def chan_tai_nguyen(route):
                     if route.request.resource_type in ["image", "media"]:
@@ -506,6 +584,9 @@ def san_browser_servers(danh_sach_phat, server_da_thanh_cong):
                 context.route("**/*", chan_tai_nguyen)
 
                 for ten_nhom, url_trang_chu, keyword_link, kieu_quet in server_can_quet:
+                    if time.time() > deadline:
+                        print("⏱ Đã đạt giới hạn thời gian (deadline), chuyển sang xuất file!", flush=True)
+                        break
                     if ten_nhom in server_da_thanh_cong:
                         continue
 
@@ -578,6 +659,84 @@ def san_browser_servers(danh_sach_phat, server_da_thanh_cong):
 # 3. CHƯƠNG TRÌNH ĐIỀU PHỐI CHÍNH
 # ==========================================
 
+_MON_THE_THAO_VI = {
+    "football": "Bóng đá", "soccer": "Bóng đá", "bongda": "Bóng đá",
+    "basketball": "Bóng rổ", "bongro": "Bóng rổ",
+    "volleyball": "Bóng chuyền", "bongchuyen": "Bóng chuyền",
+    "tennis": "Quần vợt", "quanvot": "Quần vợt",
+    "esport": "Thể thao điện tử", "esports": "Thể thao điện tử",
+    "vothuat": "Võ thuật", "boxing": "Quyền anh", "mma": "Võ thuật", "ufc": "Võ thuật",
+    "badminton": "Cầu lông", "caulong": "Cầu lông",
+    "billiards": "Bi-a", "bida": "Bi-a", "snooker": "Bi-a",
+    "baseball": "Bóng chày", "hockey": "Khúc côn cầu", "icehockey": "Khúc côn cầu",
+    "racing": "Đua xe", "motorsport": "Đua xe", "f1": "Đua xe", "golf": "Golf",
+    "cricket": "Cricket", "rugby": "Bóng bầu dục", "handball": "Bóng ném",
+    "tabletennis": "Bóng bàn", "pingpong": "Bóng bàn", "other": "Khác", "khac": "Khác",
+}
+_ICON_LOAI = {0: "⚽", 1: "📺", 2: "🎬"}
+
+
+def _lam_sach_text(s):
+    """Bỏ xuống dòng, ngoặc kép, ký tự điều khiển, [] rỗng, khoảng trắng thừa để parser M3U không vỡ."""
+    s = str(s or "")
+    s = re.sub(r"[\r\n\t\x00-\x1f\x7f]+", " ", s)
+    s = s.replace('"', "'").replace("\u201c", "'").replace("\u201d", "'")
+    s = re.sub(r"\[\s*\]", "", s)
+    s = re.sub(r"\s{2,}", " ", s).strip(" ,|")
+    return s
+
+
+def _bo_emoji_dau(s):
+    return re.sub(r"^[^\wÀ-ỹ\[\(]+", "", s).strip()
+
+
+def _phan_loai_luong(nhom):
+    """Trả về (loai, ten_nhom_chuan) với loai 0=thể thao, 1=TV, 2=phim."""
+    raw = _lam_sach_text(nhom) or "Thể thao"
+    low = raw.lower()
+    if raw.startswith("🎬") or low.startswith("phim") or "movie" in low:
+        return 2, f"🎬 {_bo_emoji_dau(raw)}"
+    if re.match(r"^tv\s*[-|:]", low) or "truyền hình" in low:
+        ten = re.sub(r"^tv\s*[-|:]\s*", "", raw, flags=re.I)
+        ten = re.sub(r"\s*\|\s*", " ", _bo_emoji_dau(ten)).strip(" 🔴") or "Kênh truyền hình"
+        ten = ten[:1].upper() + ten[1:].lower() if ten.isupper() and len(ten) > 4 else ten
+        return 1, f"📺 {ten}"
+    parts = [p.strip() for p in re.split(r"\s+-\s+", raw, maxsplit=1)]
+    nguon, mon = (parts[0], parts[1]) if len(parts) == 2 else ("", parts[0])
+    mon = _MON_THE_THAO_VI.get(re.sub(r"[^a-z0-9]", "", mon.lower()), mon)
+    return 0, f"⚽ {mon} - {nguon}" if nguon else f"⚽ {mon}"
+
+
+def ghi_file_m3u_chuan(danh_sach, duong_dan):
+    """Ghi M3U sạch: icon theo loại, nhóm tiếng Việt chuẩn, thứ tự ổn định (thể thao → TV → phim)."""
+    ban_ghi, seen = [], set()
+    for idx, luong in enumerate(danh_sach):
+        link = str(luong.get("link", "")).strip()
+        if not link or re.search(r"\s", link):
+            continue
+        loai, nhom = _phan_loai_luong(luong.get("nhom", "Thể thao"))
+        ten = _bo_emoji_dau(_lam_sach_text(luong.get("ten", ""))) or "Trực tiếp"
+        ten = re.sub(r"\s+vs\s*$", "", ten, flags=re.I)
+        if (nhom, ten, link) in seen:
+            continue
+        seen.add((nhom, ten, link))
+        logo = _lam_sach_text(luong.get("thumb", "")).replace(" ", "%20")
+        ua = _lam_sach_text(luong.get("user_agent") or luong.get("ua") or "")
+        # thể thao giữ thứ tự gốc (theo giờ) trong nhóm; TV/phim sắp theo tên
+        khoa = (loai, nhom.lower(), idx if loai == 0 else 0, "" if loai == 0 else ten.lower())
+        ban_ghi.append((khoa, nhom, ten, logo, link, ua, loai))
+    ban_ghi.sort(key=lambda b: b[0])
+    with open(duong_dan, "w", encoding="utf-8", newline="\n") as f:
+        f.write("#EXTM3U\n")
+        for _, nhom, ten, logo, link, ua, loai in ban_ghi:
+            logo_attr = f' tvg-logo="{logo}"' if logo else ""
+            f.write(f'#EXTINF:-1 group-title="{nhom}"{logo_attr},{_ICON_LOAI[loai]} {ten}\n')
+            if ua:
+                f.write(f"#EXTVLCOPT:http-user-agent={ua}\n")
+            f.write(f"{link}\n")
+    return len(ban_ghi)
+
+
 def san_full_server_sieu_toc():
     t_start = time.time()
     print("🚀 KHỞI ĐỘNG CHIẾN DỊCH VÉT SẠCH LINK THỂ THAO & IPTV (HYBRID ENGINE)...", flush=True)
@@ -586,11 +745,17 @@ def san_full_server_sieu_toc():
     danh_sach_phat = []
     server_da_thanh_cong = set()
 
-    # --- BƯỚC 1: QUÉT SIÊU TỐC QUA DIRECT API (SOCOLIVE, GAVANG) ---
+    # --- BƯỚC 1: QUÉT SIÊU TỐC QUA DIRECT APIS (SOCOLIVE, GÀ VÀNG, COLATV, GIỜ VÀNG) ---
     soco_streams = thu_hoach_socolive_api()
     if soco_streams:
         danh_sach_phat.extend(soco_streams)
         server_da_thanh_cong.add("Socolive")
+
+    cola_gv_streams = thu_hoach_colatv_gavang24h_api()
+    if cola_gv_streams:
+        danh_sach_phat.extend(cola_gv_streams)
+        server_da_thanh_cong.add("CoLa")
+        server_da_thanh_cong.add("GaVang")
 
     gavang_streams = thu_hoach_gavang_api()
     if gavang_streams:
@@ -619,16 +784,13 @@ def san_full_server_sieu_toc():
             seen_links.add(link)
             danh_sach_sach.append(luong)
 
+    if len(danh_sach_sach) < 5:
+        print("⚠️ Thu hoạch được quá ít luồng (< 5), giữ nguyên danh sách phát hiện tại để bảo vệ người xem!", flush=True)
+        return
+
     print("\n==========================================================================", flush=True)
     print("📦 ĐANG ĐÓNG GÓI M3U VÀ PHÂN LOẠI DANH MỤC...", flush=True)
-    with open("tong_hop_bong_da.m3u", "w", encoding="utf-8") as file:
-        file.write("#EXTM3U\n")
-        for luong in danh_sach_sach:
-            logo = luong.get("thumb", "")
-            ten = luong.get("ten", "Trực tiếp")
-            nhom = luong.get("nhom", "Thể thao")
-            file.write(f'#EXTINF:-1 group-title="{nhom}" tvg-logo="{logo}", ⚽ {ten}\n')
-            file.write(f'{luong["link"]}\n')
+    ghi_file_m3u_chuan(danh_sach_sach, "tong_hop_bong_da.m3u")
 
     duration = time.time() - t_start
     print(f"🎉 ĐÃ VÉT SẠCH THÀNH CÔNG TỔNG CỘNG {len(danh_sach_sach)} KÊNH & TRẬN ĐẤU TRONG {duration:.2f}s!", flush=True)

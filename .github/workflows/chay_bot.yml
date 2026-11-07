@@ -2,16 +2,17 @@ name: Tự Động Săn Link Bóng Đá Hằng Ngày
 
 on:
   schedule:
-    # Chạy đều đặn mỗi 30 phút để luôn có luồng trực tiếp mới nhất
-    - cron: '*/30 * * * *'
+    # Lệch khỏi phút :00/:30 để GitHub ít bị trễ/bỏ lượt
+    - cron: '7,37 * * * *'
   workflow_dispatch: # Cho phép kích hoạt thủ công từ giao diện GitHub
 
 concurrency:
   group: update-links
-  cancel-in-progress: true
+  cancel-in-progress: false
 
 permissions:
   contents: write
+  actions: write
 
 jobs:
   run-bot:
@@ -23,7 +24,7 @@ jobs:
       uses: actions/checkout@v4
       with:
         ref: main
-        fetch-depth: 0
+        fetch-depth: 1
 
     - name: Cài đặt Python & Kích hoạt Cache Pip
       uses: actions/setup-python@v5
@@ -31,25 +32,41 @@ jobs:
         python-version: '3.10'
         cache: 'pip'
 
-    - name: Cài đặt thư viện & Playwright dependencies
+    - name: Cache trình duyệt Playwright
+      uses: actions/cache@v4
+      with:
+        path: ~/.cache/ms-playwright
+        key: pw-${{ runner.os }}-${{ hashFiles('requirements.txt') }}
+
+    - name: Cài đặt thư viện & Playwright
       run: |
-        python -m pip install --upgrade pip
         pip install -r requirements.txt
-        playwright install --with-deps chromium
+        playwright install chromium
+        playwright install-deps chromium
 
     - name: Kích hoạt Siêu Bot đi săn link
-      # Chữ -u cực kỳ quan trọng để GitHub không bị nuốt log
-      run: python -u san_link_bong_da.py
+      # Giới hạn cứng 10 phút; lỗi script không chặn bước đẩy file
+      continue-on-error: true
+      run: timeout 600 python -u san_link_bong_da.py
 
     - name: Đẩy file m3u mới lên kho chứa công khai
       run: |
-        git config --global user.name "github-actions[bot]"
-        git config --global user.email "github-actions[bot]@users.noreply.github.com"
+        git config user.name "github-actions[bot]"
+        git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
         git add tong_hop_bong_da.m3u
-        if ! git diff --staged --quiet; then
-          git commit -m "Cập nhật luồng trực tiếp mới nhất [skip ci]"
-          git pull --rebase origin main || true
-          git push origin main
-        else
-          echo "Không có thay đổi nào trong danh sách phát"
-        fi
+        git diff --staged --quiet && { echo "Không có thay đổi"; exit 0; }
+        git commit -m "Cập nhật luồng trực tiếp mới nhất [skip ci]"
+        for i in 1 2 3; do
+          git fetch origin main
+          git rebase -X theirs origin/main || { git rebase --abort; git reset --soft origin/main; git commit -m "Cập nhật luồng trực tiếp mới nhất [skip ci]"; }
+          git push origin HEAD:main && exit 0
+          sleep $((i*5))
+        done
+        exit 1
+
+    - name: Giữ workflow luôn bật (API chính chủ GitHub, chống tự tắt sau 60 ngày)
+      if: always()
+      continue-on-error: true
+      run: gh api -X PUT repos/${{ github.repository }}/actions/workflows/chay_bot.yml/enable
+      env:
+        GH_TOKEN: ${{ github.token }}
