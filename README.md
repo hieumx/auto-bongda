@@ -42,7 +42,8 @@ Dán một trong hai đường dẫn sau vào trình phát IPTV của bạn (Tiv
 
 ## ⚙️ Cơ Chế Tự Động Hóa 24/7 (GitHub Actions)
 
-* **Tần suất quét:** Tự động chạy **30 phút / lần** thông qua GitHub Actions Cron (`*/30 * * * *`).
-* **Cơ chế chống tắt:** Sử dụng `keepalive-workflow` ngăn GitHub tự động vô hiệu hóa sau 60 ngày.
+* **Tần suất quét:** Tự động chạy **30 phút / lần** thông qua GitHub Actions Cron (`7,37 * * * *`).
+* **Cơ chế chống tắt:** Sử dụng trực tiếp GitHub CLI native ngăn GitHub vô hiệu hóa sau 60 ngày.
+* **Vận hành bởi Đội ngũ 5 AI Agents chuyên trách:** Chi tiết xem tại [AI_AGENTS_TEAM.md](AI_AGENTS_TEAM.md).
 * **Tự xử lý xung đột:** Tự động rebase và push commit với cờ `[skip ci]`.
 * **Kích hoạt thủ công:** Bạn có thể vào tab **Actions** trên GitHub và bấm **Run workflow** bất cứ lúc nào muốn cập nhật ngay tức thì.
