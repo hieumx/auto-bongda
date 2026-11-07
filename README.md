@@ -33,7 +33,12 @@ Dán một trong hai đường dẫn sau vào trình phát IPTV của bạn (Tiv
 2. **📺 Kênh Truyền Hình 24/7 (380+ Kênh):**
    * FIFA World Cup 2026, VTV, VTVCab, K+, SCTV, HTV, Thể thao quốc tế (Sky Sports, TNT Sports, Canal+ Live 1-12,...).
 
-3. **🎬 Kho Phim Bom Tấn (Trích Xuất Từ Phim4K APK):**
+3. **🎬 Trọn Bộ Hoạt Hình 3D Full Series (YanHH3D Engine):**
+   * **Tiên Nghịch (165 tập), Phàm Nhân Tu Tiên (199 tập), Đấu Phá Thương Khung (219 tập)**
+   * **Thế Giới Hoàn Mỹ (288 tập), Già Thiên (188 tập), Thôn Phệ Tinh Không (248 tập)**
+   * **Mục Thần Ký (107 tập), Quang Âm Chi Ngoại (47 tập), Đấu La Đại Lục 2 (178 tập)...**
+
+4. **🎬 Kho Phim Chiếu Rạp 1080p (Phim4K APK):**
    * 🎬 Phim Lẻ Chiếu Rạp Full HD 1080p
    * 🎬 Phim Bộ Mới Nhất (Tập cập nhật liên tục)
    * 🎬 Hoạt Hình - Anime Vietsub

@@ -62,7 +62,8 @@
   3. **Lọc rác văn bản:** Loại bỏ các ký tự điều khiển UTF-8 lỗi, dấu ngoặc rỗng `[]`, chuẩn hóa khoảng trắng thừa.
   4. **Fail-Safe Mechanism:** Nếu số lượng kênh cào được `< 5` (do sự cố mạng toàn cục), cấm tuyệt đối việc ghi đè file để bảo toàn playlist hiện tại cho người dùng.
 * **Tiêu chí Zero-Error (SOP):**
-  - File định dạng chuẩn UTF-8 (No BOM), kết thúc dòng chuẩn `\n` (LF).
+  - File định dạng chuẩn UTF-8 (No BOM), kết thúc dòng chuẩn `
+` (LF).
   - Tên trận đấu thể hiện rõ giờ đá, tên đội bóng và tên Bình Luận Viên (BLV).
 
 ---
@@ -80,10 +81,11 @@
 
 ---
 
-## 🍿 Agent 5: Entertainment & Content Curator (Biên Tập Viên Kho Phim & Truyền Hình)
+## 🍿 Agent 5: Entertainment & Content Curator (Biên Tập Viên Kho Phim & Hoạt Hình 3D Full Series (YanHH3D))
 * **Vai trò:** Đảm bảo trải nghiệm giải trí đỉnh cao toàn diện ngoài thể thao: phim ảnh, hoạt hình và các sự kiện giải trí đặc sắc.
 * **Nhiệm vụ cụ thể:**
-  1. Trích xuất và cập nhật liên tục kho phim Full HD 1080p từ các nguồn APK chuyên dụng (như Phim4K APK).
+  1. Trích xuất và cập nhật liên tục kho phim Full HD 1080p và trọn bộ Full Series Hoạt hình 3D (YanHH3D: Tiên Nghịch, Phàm Nhân Tu Tiên, Đấu Phá Thương Khung, Thế Giới Hoàn Mỹ...).
+  2. Cơ chế Multi-CDN Sharding: Chống việc website gốc đổi tên miền hoặc bị nhà mạng chặn, đảm bảo luồng phim trên Android Box chạy 100% mượt mà.
   2. Tự động gom tập phim thành danh sách khoa học, gắn poster bìa phim sắc nét, link m3u8 có âm thanh vòm và phụ đề chuẩn.
   3. Bổ sung các kênh sự kiện thể thao lớn khi vào mùa (World Cup, Euro, Olympic, giải đấu võ thuật UFC/ONE Championship, giải đua xe F1...).
 * **Tiêu chí Zero-Error (SOP):**

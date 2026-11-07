@@ -137,6 +137,66 @@ def thu_hoach_phim_phim4k():
     print(f"✅ Phim4K Engine: Thu hoạch thành công {len(streams)} phim 1080p trong {time.time()-t0:.2f}s!", flush=True)
     return streams
 
+HH3D_SERIES = [
+    {"slug": "tien-nghich", "title": "Tiên Nghịch"},
+    {"slug": "pham-nhan-tu-tien", "title": "Phàm Nhân Tu Tiên"},
+    {"slug": "dau-pha-thuong-khung-phan-5", "title": "Đấu Phá Thương Khung (P5)"},
+    {"slug": "the-gioi-hoan-my", "title": "Thế Giới Hoàn Mỹ"},
+    {"slug": "gia-thien", "title": "Già Thiên"},
+    {"slug": "thon-phe-tinh-khong", "title": "Thôn Phệ Tinh Không"},
+    {"slug": "muc-than-ky", "title": "Mục Thần Ký"},
+    {"slug": "quang-am-chi-ngoai", "title": "Quang Âm Chi Ngoại"},
+    {"slug": "kiem-lai-phan-2", "title": "Kiếm Lai (P2)"},
+    {"slug": "dai-vuong-tha-mang-phan-3", "title": "Đại Vương Tha Mạng (P3)"},
+    {"slug": "dau-la-dai-luc-2-tuyet-the-duong-mon", "title": "Đấu La Đại Lục 2"},
+    {"slug": "nhat-niem-vinh-hang", "title": "Nhất Niệm Vĩnh Hằng"},
+    {"slug": "dai-phung-da-canh-nhan", "title": "Đại Phụng Đả Canh Nhân"}
+]
+
+def thu_hoach_hoat_hinh_3d_full():
+    """Thu hoạch trọn bộ Full Series Hoạt hình 3D (Donghua YanHH3D) với toàn bộ tập phát sóng"""
+    print("\n🎬 [YanHH3D Engine] Đang thu hoạch trọn bộ Full Series Hoạt Hình 3D Trung Quốc...", flush=True)
+    t0 = time.time()
+    all_eps = []
+
+    def fetch_series(item):
+        slug = item["slug"]
+        series_title = item["title"]
+        url = f"https://phimapi.com/phim/{slug}"
+        eps_list = []
+        try:
+            r = requests.get(url, headers=HEADERS, timeout=8)
+            if r.status_code == 200:
+                d = r.json()
+                movie = d.get('movie', {})
+                poster = movie.get('poster_url') or movie.get('thumb_url') or ""
+                episodes = d.get('episodes', [])
+                if episodes:
+                    server_data = episodes[0].get('server_data', [])
+                    group_name = f"🎬 HH3D - {series_title}"
+                    for ep in server_data:
+                        ep_name = ep.get('name', '')
+                        m3u8 = ep.get('link_m3u8', '')
+                        if m3u8 and m3u8.startswith('http'):
+                            eps_list.append({
+                                'nhom': group_name,
+                                'ten': f"{series_title} - {ep_name}",
+                                'link': m3u8,
+                                'thumb': poster
+                            })
+        except Exception:
+            pass
+        return eps_list
+
+    with ThreadPoolExecutor(max_workers=13) as executor:
+        results = executor.map(fetch_series, HH3D_SERIES)
+        for res in results:
+            all_eps.extend(res)
+
+    print(f"✅ YanHH3D Engine: Thu hoạch thành công {len(all_eps)} tập phim full series trong {time.time()-t0:.2f}s!", flush=True)
+    return all_eps
+
+
 def thu_hoach_socolive_api():
     """Thu hoạch Socolive qua JSON API trực tiếp (siêu tốc, không kẹt Cloudflare)"""
     streams = []
@@ -694,7 +754,7 @@ def _phan_loai_luong(nhom):
     """Trả về (loai, ten_nhom_chuan) với loai 0=thể thao, 1=TV, 2=phim."""
     raw = _lam_sach_text(nhom) or "Thể thao"
     low = raw.lower()
-    if raw.startswith("🎬") or low.startswith("phim") or "movie" in low:
+    if raw.startswith("🎬") or low.startswith("phim") or "movie" in low or "hh3d" in low or "hoạt hình" in low:
         return 2, f"🎬 {_bo_emoji_dau(raw)}"
     if re.match(r"^tv\s*[-|:]", low) or "truyền hình" in low:
         ten = re.sub(r"^tv\s*[-|:]\s*", "", raw, flags=re.I)
@@ -723,7 +783,8 @@ def ghi_file_m3u_chuan(danh_sach, duong_dan):
         logo = _lam_sach_text(luong.get("thumb", "")).replace(" ", "%20")
         ua = _lam_sach_text(luong.get("user_agent") or luong.get("ua") or "")
         # thể thao giữ thứ tự gốc (theo giờ) trong nhóm; TV/phim sắp theo tên
-        khoa = (loai, nhom.lower(), idx if loai == 0 else 0, "" if loai == 0 else ten.lower())
+        # The thao va phim/series giu thu tu goc (theo gio/theo tap) trong nhom; TV xep theo ten
+        khoa = (loai, nhom.lower(), idx if loai in (0, 2) else 0, "" if loai in (0, 2) else ten.lower())
         ban_ghi.append((khoa, nhom, ten, logo, link, ua, loai))
     ban_ghi.sort(key=lambda b: b[0])
     with open(duong_dan, "w", encoding="utf-8", newline="\n") as f:
@@ -774,6 +835,11 @@ def san_full_server_sieu_toc():
     phim_streams = thu_hoach_phim_phim4k()
     if phim_streams:
         danh_sach_phat.extend(phim_streams)
+
+    # --- BƯỚC 4B: THU HOẠCH TRỌN BỘ HOẠT HÌNH 3D FULL SERIES (YANHH3D) ---
+    hh3d_streams = thu_hoach_hoat_hinh_3d_full()
+    if hh3d_streams:
+        danh_sach_phat.extend(hh3d_streams)
 
     # --- BƯỚC 5: LỌC TRÙNG & XUẤT FILE M3U CHUẨN ---
     seen_links = set()
