@@ -34,7 +34,7 @@ Dán một trong hai đường dẫn sau vào trình phát IPTV của bạn (Tiv
    * FIFA World Cup 2026, VTV, VTVCab, K+, SCTV, HTV, Thể thao quốc tế (Sky Sports, TNT Sports, Canal+ Live 1-12,...).
 
 3. **🎬 Trọn Bộ Hoạt Hình 3D Full Series (YanHH3D Engine):**
-   * **Tiên Nghịch (165 tập), Phàm Nhân Tu Tiên (199 tập), Đấu Phá Thương Khung (219 tập)**
+   * **Kho Hoạt hình 3D đồ sộ với hơn 12.300+ tập phim trọn bộ từ YanHH3D (Nghịch Thiên Chí Tôn 559 tập, Vạn Giới Độc Tôn 495 tập, Luyện Khí Mười Vạn Năm 392 tập, Thế Giới Hoàn Mỹ 288 tập, Đấu La Đại Lục 266 tập, Tiên Nghịch 165 tập, Phàm Nhân Tu Tiên 198 tập, Đấu Phá Thương Khung 219 tập...)**
    * **Thế Giới Hoàn Mỹ (288 tập), Già Thiên (188 tập), Thôn Phệ Tinh Không (248 tập)**
    * **Mục Thần Ký (107 tập), Quang Âm Chi Ngoại (47 tập), Đấu La Đại Lục 2 (178 tập)...**
 

@@ -137,50 +137,68 @@ def thu_hoach_phim_phim4k():
     print(f"✅ Phim4K Engine: Thu hoạch thành công {len(streams)} phim 1080p trong {time.time()-t0:.2f}s!", flush=True)
     return streams
 
-HH3D_SERIES = [
-    {"slug": "tien-nghich", "title": "Tiên Nghịch"},
-    {"slug": "pham-nhan-tu-tien", "title": "Phàm Nhân Tu Tiên"},
-    {"slug": "dau-pha-thuong-khung-phan-5", "title": "Đấu Phá Thương Khung (P5)"},
-    {"slug": "the-gioi-hoan-my", "title": "Thế Giới Hoàn Mỹ"},
-    {"slug": "gia-thien", "title": "Già Thiên"},
-    {"slug": "thon-phe-tinh-khong", "title": "Thôn Phệ Tinh Không"},
-    {"slug": "muc-than-ky", "title": "Mục Thần Ký"},
-    {"slug": "quang-am-chi-ngoai", "title": "Quang Âm Chi Ngoại"},
-    {"slug": "kiem-lai-phan-2", "title": "Kiếm Lai (P2)"},
-    {"slug": "dai-vuong-tha-mang-phan-3", "title": "Đại Vương Tha Mạng (P3)"},
-    {"slug": "dau-la-dai-luc-2-tuyet-the-duong-mon", "title": "Đấu La Đại Lục 2"},
-    {"slug": "nhat-niem-vinh-hang", "title": "Nhất Niệm Vĩnh Hằng"},
-    {"slug": "dai-phung-da-canh-nhan", "title": "Đại Phụng Đả Canh Nhân"}
-]
-
 def thu_hoach_hoat_hinh_3d_full():
-    """Thu hoạch trọn bộ Full Series Hoạt hình 3D (Donghua YanHH3D) với toàn bộ tập phát sóng"""
-    print("\n🎬 [YanHH3D Engine] Đang thu hoạch trọn bộ Full Series Hoạt Hình 3D Trung Quốc...", flush=True)
+    """Thu hoạch trọn bộ Full Series Hoạt hình 3D (toàn bộ danh mục YanHH3D + Donghua)"""
+    print("\n🎬 [YanHH3D Engine] Đang thu hoạch toàn bộ kho phim Hoạt Hình 3D Trung Quốc...", flush=True)
     t0 = time.time()
-    all_eps = []
 
-    def fetch_series(item):
-        slug = item["slug"]
-        series_title = item["title"]
+    # 1. Thu thập danh sách slug từ sitemap YanHH3D
+    slug_candidates = set([
+        "tien-nghich", "pham-nhan-tu-tien", "dau-pha-thuong-khung-phan-5", "the-gioi-hoan-my",
+        "gia-thien", "thon-phe-tinh-khong", "muc-than-ky", "quang-am-chi-ngoai", "kiem-lai-phan-2",
+        "dai-vuong-tha-mang-phan-3", "dau-la-dai-luc-2-tuyet-the-duong-mon", "nhat-niem-vinh-hang",
+        "dai-phung-da-canh-nhan", "nghich-thien-chi-ton", "van-gioi-doc-ton", "luyen-khi-muoi-van-nam",
+        "than-an-vuong-toa", "su-huynh-a-su-huynh", "luc-dia-kien-tien", "thuong-nguyen-do",
+        "than-vuc-vo-tan", "tuyet-ung-linh-chu", "nghich-thien-ta-than", "vo-toai-tinh-ha"
+    ])
+    try:
+        r_map = requests.get('https://yanhh3d.ee/post-sitemap.xml', headers=HEADERS, timeout=6)
+        if r_map.status_code == 200:
+            for l in re.findall(r'<loc>(.*?)</loc>', r_map.text):
+                m = re.match(r'https://yanhh3d\.ee/[^/]+/([^/]+)/?$', l)
+                if m:
+                    s = m.group(1)
+                    if s not in ['feed', 'category', 'tag', 'author', 'page']:
+                        slug_candidates.add(s)
+    except Exception:
+        pass
+
+    # 2. Bổ sung từ danh mục Hoạt Hình Trung Quốc mới nhất
+    for p in range(1, 6):
+        try:
+            r_cat = requests.get(f"https://phimapi.com/v1/api/danh-sach/hoat-hinh?page={p}&limit=50", headers=HEADERS, timeout=5)
+            if r_cat.status_code == 200:
+                items = r_cat.json().get('data', {}).get('items', [])
+                for it in items:
+                    s = it.get('slug')
+                    if s:
+                        slug_candidates.add(s)
+        except Exception:
+            pass
+
+    print(f"   🎯 Phát hiện {len(slug_candidates)} bộ phim tiềm năng, đang bóc tách tập...", flush=True)
+
+    def fetch_one_series(slug):
         url = f"https://phimapi.com/phim/{slug}"
         eps_list = []
         try:
-            r = requests.get(url, headers=HEADERS, timeout=8)
+            r = requests.get(url, headers=HEADERS, timeout=5)
             if r.status_code == 200:
                 d = r.json()
                 movie = d.get('movie', {})
+                name = movie.get('name') or slug
                 poster = movie.get('poster_url') or movie.get('thumb_url') or ""
                 episodes = d.get('episodes', [])
                 if episodes:
                     server_data = episodes[0].get('server_data', [])
-                    group_name = f"🎬 HH3D - {series_title}"
+                    group_name = f"🎬 HH3D - {name}"
                     for ep in server_data:
                         ep_name = ep.get('name', '')
                         m3u8 = ep.get('link_m3u8', '')
                         if m3u8 and m3u8.startswith('http'):
                             eps_list.append({
                                 'nhom': group_name,
-                                'ten': f"{series_title} - {ep_name}",
+                                'ten': f"{name} - {ep_name}",
                                 'link': m3u8,
                                 'thumb': poster
                             })
@@ -188,13 +206,16 @@ def thu_hoach_hoat_hinh_3d_full():
             pass
         return eps_list
 
-    with ThreadPoolExecutor(max_workers=13) as executor:
-        results = executor.map(fetch_series, HH3D_SERIES)
+    all_eps = []
+    with ThreadPoolExecutor(max_workers=35) as executor:
+        results = executor.map(fetch_one_series, list(slug_candidates))
         for res in results:
-            all_eps.extend(res)
+            if res:
+                all_eps.extend(res)
 
     print(f"✅ YanHH3D Engine: Thu hoạch thành công {len(all_eps)} tập phim full series trong {time.time()-t0:.2f}s!", flush=True)
     return all_eps
+
 
 
 def thu_hoach_socolive_api():
