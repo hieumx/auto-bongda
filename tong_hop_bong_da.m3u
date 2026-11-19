@@ -1,12 +1,4 @@
 #EXTM3U
-#EXTINF:-1 group-title="⚽ Bóng chuyền - GaVang" tvg-logo="https://static.flashscore.com/res/image/data/OYCV85hl-4UHCiGe2.png",⚽ Zeren Spor Nữ vs Galatasaray Nữ
-https://pzhgifbkllliv.vcdn.cloud/1795009303_hd/1795009303_hd@720p.m3u8
-#EXTINF:-1 group-title="⚽ Bóng rổ - ColaTV" tvg-logo="https://img.cltvap.cc/basketball/team/7ee25ad1863a6d376abebd6013c03cab.png!w80",⚽ [EuroLeague] cabi Electra Tel Aviv vs dubai
-https://live.hztx2020.com/live/14242711_75a9f77144fbf91d5197c288eb6fa6dc_autoChange.m3u8?auth_key=1795122610-0-0-03aa539cbfea71e30fd2bd4e39f75ec9
-#EXTINF:-1 group-title="⚽ Bóng rổ - GaVang24h" tvg-logo="https://d3j9d91vxmbmsx.cloudfront.net/web/image/OWEyYWQ1NDcwZDAtNDRlMg/YTY4NDZhZTY5ZDEtMGJmOQ.jpg",⚽ [EuroLeague] cabi Electra Tel Aviv vs dubai (BLV BLV 247)
-https://live05.wecile.app/live/90865415.m3u8
-#EXTINF:-1 group-title="⚽ Bóng rổ - GaVang24h" tvg-logo="https://d3j9d91vxmbmsx.k8v4dh4.app/web/image/NGM4MTk2NGMxYmUtMTZlOQ/ZTY5N2E0MGM4YzItZjg4NQ.webp",⚽ [EuroLeague] Zalgiris vs Panathinaikos (BLV BLV LIPTON)
-https://live05.wecile.app/live/89756030.m3u8
 #EXTINF:-1 group-title="⚽ Bóng rổ - GaVang24h" tvg-logo="https://d3j9d91vxmbmsx.cloudfront.net/web/image/NGZkODJiZmYyNTktNDFhZQ/MTBjZDlkZjE5ZGYtMDIwOQ.jpg",⚽ [Hiệp hội Bóng rổ Quốc gia] Memphis Grizzlies vs Golden State Warriors (BLV BLV Cozy)
 https://live05.wecile.app/live/87379114.m3u8
 #EXTINF:-1 group-title="⚽ Bóng rổ - GaVang24h" tvg-logo="https://d3j9d91vxmbmsx.k8v4dh4.app/web/image/NzEwYjJiZjQxOTctM2NmOA/ZGJjMDQwOGFhZjEtOTBlOQ.webp",⚽ [Hiệp hội Bóng rổ Quốc gia] Milwaukee Bucks vs Portland Trail Blazers (BLV BLV TARZAAN)
@@ -15,108 +7,90 @@ https://live05.wecile.app/live/56998120.m3u8
 https://live05.wecile.app/live/82054853.m3u8
 #EXTINF:-1 group-title="⚽ Bóng rổ - GaVang24h" tvg-logo="https://d3j9d91vxmbmsx.cloudfront.net/web/image/ODc3MDVjYWI0NDItMTMzMw/ZThmZDYxZGMxOGQtNjYwZQ.jpg",⚽ [Hiệp hội Bóng rổ Quốc gia] San Antonio Spurs vs Los Angeles Clippers (BLV BLV POCARI)
 https://live05.wecile.app/live/19919577.m3u8
-#EXTINF:-1 group-title="⚽ Bóng đá - ColaTV" tvg-logo="https://img.cltvap.cc/football/team/7d44a77ef7bf7d809287828b992f3007.png!w80",⚽ [World Cup U17] Argentina U17 vs Úc U17
-https://live.hztx2020.com/live/71762674_25c26d8b6a1bc4f660a878356263c479_autoChange.m3u8?auth_key=1795122610-0-0-6fec110002165e49f49a1a27238a2f07
-#EXTINF:-1 group-title="⚽ Bóng đá - ColaTV" tvg-logo="https://img.cltvap.cc/football/team/d2ba8945533ebbda0bcccf6cf21a4bd4.png!w80",⚽ [Cúp Ai Cập] Arab Contractors vs CLB Olympic El Qanal
-https://live2.hztx2020.com/live/l6kegirz553iv75_6332e16661cfdc4cd4ae52f8cd56bc56_autoChange.m3u8?auth_key=1795122610-0-0-40185434dec02838d17e813de2813ed9
-#EXTINF:-1 group-title="⚽ Bóng đá - ColaTV" tvg-logo="https://img.cltvap.cc/football/team/7303a103c93fea0445384d6ff3f3d1b9.png!w80",⚽ [World Cup U17] Qatar U17 vs PanamaU17
-https://live3.hztx2020.com/live/o17pjio8devsy7j_09c7ffa02c08cf5c4bf41cd383c255be_autoChange.m3u8?auth_key=1795122610-0-0-753fe1dd6874e75ba3873f373f28720c
-#EXTINF:-1 group-title="⚽ Bóng đá - ColaTV" tvg-logo="https://img.cltvap.cc/football/team/771fa17ef16aa90cf6b7c4fab7a5d2ce.png!w80",⚽ [Giải Ngoại hạng Iraq] Al Gharraf vs CLB Al Quwa Al Jawiya
-https://live4.hztx2020.com/live/69759igoxgrtgk2_c0119d9c6140c98fc7d7dd42d6f4ac45_autoChange.m3u8?auth_key=1795122610-0-0-c2df1991a7ff3214f31a754da5b8b5f9
-#EXTINF:-1 group-title="⚽ Bóng đá - ColaTV" tvg-logo="https://img.cltvap.cc/football/team/48feed47ac02cae502daed358319eec0.png!w80",⚽ [Giải vô địch quốc gia Qatar] Al Ahli Doha vs Al Shamal
-https://live2.hztx2020.com/live/69759igpyoetgk2_19ee75e94fe2746130509f33a23e4d8a_autoChange.m3u8?auth_key=1795122610-0-0-9ebddbfe5e06084ef7b57ebb55f2483b
-#EXTINF:-1 group-title="⚽ Bóng đá - ColaTV" tvg-logo="https://img.cltvap.cc/football/team/1ae9f165a8fa40723f6524dd0e5de714.png!w80",⚽ [Giải Ngoại hạng Iraq] Ghaz Al Shamal vs Al Karkh
-https://live2.hztx2020.com/live/14317460_5c86439b36c629a06830921dda8637a3_autoChange.m3u8?auth_key=1795122610-0-0-75b3bbe413c208912d08d757da4bc4b0
-#EXTINF:-1 group-title="⚽ Bóng đá - ColaTV" tvg-logo="https://img.cltvap.cc/football/team/65a579da11fa712149bca347ecfcb208.png!w80",⚽ [World Cup U17] Ai Cập U17 vs Hy Lạp U17
-https://live1.hztx2020.com/live/71762360_875adb5538f88ca794da4d503f3a74e6_autoChange.m3u8?auth_key=1795122610-0-0-412ddbd9424997acca4ebe158c7c5d2a
-#EXTINF:-1 group-title="⚽ Bóng đá - ColaTV" tvg-logo="https://img.cltvap.cc/football/team/fabc3fa7f297e32d91291693eb8c1404.png!w80",⚽ [Champions League Nữ] Paris FC Nữ vs Koge Nữ
+#EXTINF:-1 group-title="⚽ Bóng rổ - GaVang24h" tvg-logo="https://d3j9d91vxmbmsx.k8v4dh4.app/web/image/NGM4MTk2NGMxYmUtMTZlOQ/ZTY5N2E0MGM4YzItZjg4NQ.webp",⚽ [Liên đoàn Bóng rổ Quốc gia Úc] Cairns Taipans vs Perth Wildcats (BLV BLV LIPTON)
+https://live05.wecile.app/live/89756030.m3u8
+#EXTINF:-1 group-title="⚽ Bóng đá - ColaTV" tvg-logo="https://img.cltvap.cc/football/team/b44aef0db79a96caff676333b2e5ff7b.png!w80",⚽ [Giải bóng đá Hạng nhất Brasil] CLB Vitoria BA vs Bragantino
+https://live.hztx2020.com/live/13391549_e59558346b2f8db588c4b940bcba6de5_autoChange.m3u8?auth_key=1795146393-0-0-8fe345b0373a9c4186eeb83b3e928d8c
+#EXTINF:-1 group-title="⚽ Bóng đá - ColaTV" tvg-logo="https://img.cltvap.cc/football/team/f110dc3a4406e67ecbc46511a7ea83f7.png!w80",⚽ [Giải bóng đá Hạng nhất Brasil] Vasco vs CLB Sport Club Internacional
+https://live1.hztx2020.com/live/13391548_f6c4f0f4da81b29dd903ddb07f75f10d_autoChange.m3u8?auth_key=1795146393-0-0-2a919083bc1a40f81f42284dcdd48853
+#EXTINF:-1 group-title="⚽ Bóng đá - ColaTV" tvg-logo="https://img.cltvap.cc/football/team/bfa20d86a59044ef90a4609dde03985c.png!w80",⚽ [AFC Championship U16] Singapore U17 vs Palestine U17
 https
-#EXTINF:-1 group-title="⚽ Bóng đá - GaVang" tvg-logo="https://images.keovip88.net/images/teams/argentina-u17.png",⚽ Argentina U17 vs Australia U17
-https://pzhgifbkllliv.vcdn.cloud/1795008712_hd/1795008712_hd@720p.m3u8
-#EXTINF:-1 group-title="⚽ Bóng đá - GaVang" tvg-logo="https://images.keovip88.net/images/teams/qatar-u17.png",⚽ U17 Qatar vs Panama(U17)
-https://pzhgifbkllliv.vcdn.cloud/1795071805_hd/1795071805_hd@720p.m3u8
-#EXTINF:-1 group-title="⚽ Bóng đá - GaVang" tvg-logo="https://images.keovip88.net/images/teams/egypt-u17.png",⚽ Egypt U17 vs Greece U17
-https://pzhgifbkllliv.vcdn.cloud/1795008762_hd/1795008762_hd@720p.m3u8
-#EXTINF:-1 group-title="⚽ Bóng đá - GaVang24h" tvg-logo="https://d3j9d91vxmbmsx.cloudfront.net/web/image/OGNhNTc0OTZhNTQtNDE3NA/MzUzMTg2NTM3NTctYWRlMw.jpg",⚽ [World Cup U17] Argentina U17 vs Úc U17 (BLV BLV REVIVE)
-https://live05.wecile.app/live/33982309.m3u8
-#EXTINF:-1 group-title="⚽ Bóng đá - GaVang24h" tvg-logo="https://d3j9d91vxmbmsx.cloudfront.net/web/image/NjBlZWE2MDY4ZTEtMjNjNw/OWUzMmZkYjk2ZjAtODI3NQ.png",⚽ [Cúp Ai Cập] Arab Contractors vs CLB Olympic El Qanal (BLV BLV SODA)
+#EXTINF:-1 group-title="⚽ Bóng đá - GaVang" tvg-logo="https://images.keovip88.net/images/teams/vitoria-ba.png",⚽ Vitoria Salvador BA vs Bragantino SP
+https://pzhgifbkllliv.vcdn.cloud/1795102493_hd/1795102493_hd@720p.m3u8
+#EXTINF:-1 group-title="⚽ Bóng đá - GaVang24h" tvg-logo="https://d3j9d91vxmbmsx.cloudfront.net/web/image/NjBlZWE2MDY4ZTEtMjNjNw/OWUzMmZkYjk2ZjAtODI3NQ.png",⚽ [Giải bóng đá Hạng nhất Brasil] CLB Vitoria BA vs Bragantino (BLV BLV SODA)
 https://live05.wecile.app/live/02456966.m3u8
-#EXTINF:-1 group-title="⚽ Bóng đá - GaVang24h" tvg-logo="https://d3j9d91vxmbmsx.cloudfront.net/web/image/ZjcxOTk5ODBiNzgtZmUzOA/MTQxZjc0NjY0MGMtNjc2Yw.jpg",⚽ [World Cup U17] Qatar U17 vs PanamaU17 (BLV BLV C2)
-https://live05.wecile.app/live/08552895.m3u8
-#EXTINF:-1 group-title="⚽ Bóng đá - GaVang24h" tvg-logo="https://d3j9d91vxmbmsx.cloudfront.net/web/image/ZDQzOWUyYmNkNWItM2JkZg/ODgyMjBjMDgzMGEtYzEzZg.jpg",⚽ [Giải Ngoại hạng Iraq] Al Gharraf vs CLB Al Quwa Al Jawiya (BLV BLV SAMURAI)
-https://live05.wecile.app/live/07808742.m3u8
-#EXTINF:-1 group-title="⚽ Bóng đá - GaVang24h" tvg-logo="https://d3j9d91vxmbmsx.cloudfront.net/web/image/ZmNmM2FmOGQwNmQtOWI2MQ/ZmU2Y2FjNGFiYTAtNDc2NA.jpg",⚽ [Giải vô địch quốc gia Qatar] Al Ahli Doha vs Al Shamal (BLV BLV MONSTER)
-https://live05.wecile.app/live/75915087.m3u8
-#EXTINF:-1 group-title="⚽ Bóng đá - GaVang24h" tvg-logo="https://d3j9d91vxmbmsx.cloudfront.net/web/image/NDU2ODM5ZDZhY2QtOTg5Ng/MjU3MDJjNmI3ZDctMDk2Yg.jpg",⚽ [Giải Ngoại hạng Iraq] Ghaz Al Shamal vs Al Karkh (BLV BLV MOUNTAIN DEW)
-https://live05.wecile.app/live/87547578.m3u8
-#EXTINF:-1 group-title="⚽ Bóng đá - GaVang24h" tvg-logo="https://d3j9d91vxmbmsx.cloudfront.net/web/image/OGZhNGQ0MzRjZWEtOWUyYg/ZjY1YTRiMmY3NDMtZDI3NA.jpg",⚽ [World Cup U17] Ai Cập U17 vs Hy Lạp U17 (BLV BLV BÍ ĐAO)
-https://live05.wecile.app/live/99121525.m3u8
-#EXTINF:-1 group-title="⚽ Bóng đá - GaVang24h" tvg-logo="https://d3j9d91vxmbmsx.k8v4dh4.app/web/image/YjI0OWZmOWNkZTktNmUwOA/OWVkYzFiMmJmNmYtZDkxYw.jpg",⚽ [Champions League Nữ] Paris FC Nữ vs Koge Nữ (BLV BLV TEPPY)
-https://live05.wecile.app/live/33860426.m3u8
-#EXTINF:-1 group-title="⚽ Bóng đá - GaVang24h" tvg-logo="https://d3j9d91vxmbmsx.cloudfront.net/web/image/MjAwMmI0MDJhMWUtZjFiNQ/ZDJlMGJhMWRjMGEtYjI2NQ.jpg",⚽ [Cúp Ai Cập] ZED FC vs Smouha (BLV BLV SPRITE)
-https://live05.wecile.app/live/75748097.m3u8
-#EXTINF:-1 group-title="⚽ Bóng đá - GaVang24h" tvg-logo="https://d3j9d91vxmbmsx.cloudfront.net/web/image/ZmI0ZTYxOTk1ZmUtMGExMA/M2EwM2Q0ZjJjY2EtZTZmNQ.png",⚽ [Giải vô địch quốc gia Uruguay] Boston River vs Maldonado (BLV BLV AQUA)
-https://live05.wecile.app/live/18812304.m3u8
-#EXTINF:-1 group-title="⚽ Bóng đá - GaVang24h" tvg-logo="https://d3j9d91vxmbmsx.cloudfront.net/web/image/ZjJlODQzOTVmNjYtM2QzNw/NmRiMTZhNTJlNjYtOGM2ZQ.jpg",⚽ [Giải vô địch quốc gia Uruguay] CA Penarol vs Cerro Largo (BLV BLV FANTA)
-https://live05.wecile.app/live/16226575.m3u8
-#EXTINF:-1 group-title="⚽ Bóng đá - GaVang24h" tvg-logo="https://d3j9d91vxmbmsx.cloudfront.net/web/image/MzkwNDEyYWVjOTEtZGM4Nw/MzllNDQ3M2FhMDUtMDc5Mg.jpg",⚽ [Champions League Nữ] Barcelona Nữ vs Servette Geneve FC Nữ (BLV BLV WARRIOR)
-https://live05.wecile.app/live/97885009.m3u8
 #EXTINF:-1 group-title="⚽ Bóng đá - GaVang24h" tvg-logo="https://d3j9d91vxmbmsx.cloudfront.net/web/image/ZDRhYWQ5ZGYwOWMtYmZkZQ/NWYzNTU0OTNlYmQtZjFiYw.jpg",⚽ [Giải bóng đá Hạng nhất Brasil] Vasco vs CLB Sport Club Internacional (BLV BLV PEPSI)
 https://live05.wecile.app/live/59444581.m3u8
 #EXTINF:-1 group-title="⚽ Bóng đá - GaVang24h" tvg-logo="https://d3j9d91vxmbmsx.cloudfront.net/web/image/NWJlYjRhNTYyZmYtZTM3MQ/ZjY3N2M5NzhkZDMtMWQyMw.jpg",⚽ [Major League Soccer] Seattle Sounders vs Real Salt Lake (BLV BLV GIÀ LÀNG)
 https://live05.wecile.app/live/14830711.m3u8
 #EXTINF:-1 group-title="⚽ Bóng đá - GaVang24h" tvg-logo="https://d3j9d91vxmbmsx.k8v4dh4.app/web/image/YzY0ZjM0YTFiNWEtZDMxZA/ZWVlMGJjMjc4ZTItM2EwMQ.jpg",⚽ [Aus Champ] Sydney Utd vs Sutherland Sharks (BLV BLV REDBULL)
 https://live05.wecile.app/live/49572724.m3u8
+#EXTINF:-1 group-title="⚽ Bóng đá - GaVang24h" tvg-logo="https://d3j9d91vxmbmsx.cloudfront.net/web/image/ZmNmM2FmOGQwNmQtOWI2MQ/ZmU2Y2FjNGFiYTAtNDc2NA.jpg",⚽ [Giải bóng đá Liga 1 Indonesia] Garudayaksa FC vs CLB Madura United (BLV BLV MONSTER)
+https://live05.wecile.app/live/75915087.m3u8
 #EXTINF:-1 group-title="⚽ Bóng đá - GaVang24h" tvg-logo="https://d3j9d91vxmbmsx.cloudfront.net/web/image/YTMxY2ZmY2JhYzAtZjFjZQ/NTA1ZDM4ZTc3M2EtYWFiYQ.jpg",⚽ [Giải bóng đá Liga 1 Indonesia] CLB PSS Sleman vs Arema Malang (BLV BLV RỒNG ĐỎ)
 https://live05.wecile.app/live/88508431.m3u8
 #EXTINF:-1 group-title="⚽ Bóng đá - GaVang24h" tvg-logo="https://d3j9d91vxmbmsx.cloudfront.net/web/image/Mjk2OGQ3OGU0ZDktYTE1OQ/OTcxNDQ0MjdhMmItNzllNQ.jpg",⚽ [AFC Championship U16] Indonesia U17 vs Myanmar U17 (BLV BLV STING)
 https://live05.wecile.app/live/14707124.m3u8
+#EXTINF:-1 group-title="⚽ Bóng đá - GaVang24h" tvg-logo="https://d3j9d91vxmbmsx.cloudfront.net/web/image/OGZhNGQ0MzRjZWEtOWUyYg/ZjY1YTRiMmY3NDMtZDI3NA.jpg",⚽ [Aus Champ] South Melbourne vs Canberra Croatia (BLV BLV BÍ ĐAO)
+https://live05.wecile.app/live/99121525.m3u8
+#EXTINF:-1 group-title="⚽ Bóng đá - GaVang24h" tvg-logo="https://d3j9d91vxmbmsx.cloudfront.net/web/image/OGNhNTc0OTZhNTQtNDE3NA/MzUzMTg2NTM3NTctYWRlMw.jpg",⚽ [Giải vô địch quốc gia Úc] CLB Western Sydney vs CLB Adelaide United (BLV BLV REVIVE)
+https://live05.wecile.app/live/33982309.m3u8
+#EXTINF:-1 group-title="⚽ Bóng đá - GaVang24h" tvg-logo="https://d3j9d91vxmbmsx.cloudfront.net/web/image/ZjcxOTk5ODBiNzgtZmUzOA/MTQxZjc0NjY0MGMtNjc2Yw.jpg",⚽ [Giải vô địch quốc gia Nhật Bản] Vissel Kobe vs Mito Hollyhock (BLV BLV C2)
+https://live05.wecile.app/live/08552895.m3u8
+#EXTINF:-1 group-title="⚽ Bóng đá - GaVang24h" tvg-logo="https://d3j9d91vxmbmsx.cloudfront.net/web/image/MjAwMmI0MDJhMWUtZjFiNQ/ZDJlMGJhMWRjMGEtYjI2NQ.jpg",⚽ [Giải vô địch quốc gia Nhật Bản] Kashiwa Reysol vs Chiba (BLV BLV SPRITE)
+https://live05.wecile.app/live/75748097.m3u8
+#EXTINF:-1 group-title="⚽ Bóng đá - GaVang24h" tvg-logo="https://d3j9d91vxmbmsx.cloudfront.net/web/image/ZmI0ZTYxOTk1ZmUtMGExMA/M2EwM2Q0ZjJjY2EtZTZmNQ.png",⚽ [Giải Bóng đá Hạng Nhất Quốc Gia Việt Nam] Bà Rịa Vũng Tàu vs Thai Nguyen (BLV BLV AQUA)
+https://live05.wecile.app/live/18812304.m3u8
 #EXTINF:-1 group-title="⚽ Bóng đá - GaVang24h" tvg-logo="https://d3j9d91vxmbmsx.cloudfront.net/web/image/YzY1MjJmZGJiYzItOGQ5Ng/NTExNDA1NDA2NGEtMzE0Yg.png",⚽ [Giải vô địch quốc gia Nhật Bản] Kashima Antlers vs Shimizu S-Pulse (BLV BLV HỔ VẰN)
 https://live05.wecile.app/live/07428422.m3u8
 #EXTINF:-1 group-title="⚽ Bóng đá - GaVang24h" tvg-logo="https://d3j9d91vxmbmsx.cloudfront.net/web/image/NWUwNzcyMzRjMDUtZDg2NA/YTZhMzUyYjZkMzAtOGNkZg.jpg",⚽ [Giải vô địch quốc gia Việt Nam] Đông Á Thanh Hóa vs Hoàng Anh Gia Lai (BLV BLV 7UP)
 https://live05.wecile.app/live/78905744.m3u8
-#EXTINF:-1 group-title="⚽ Bóng đá - Xoilac" tvg-logo="https://imgts.sportpulseapiz.com/football/competition/gpxwrxlhgvxryk0/image/small",⚽ Arab Contractors vs Olympic El Qanal lúc 22:00 ngày 19/11/2026
-https://live2.jorvakstreamcache.com/live/channel4.flv
-#EXTINF:-1 group-title="⚽ Bóng đá - Xoilac" tvg-logo="https://imgts.sportpulseapiz.com/football/competition/v2y8m4zh3jgql07/image/small",⚽ Al-Ain FC vs Al Dhafra FC lúc 22:25 ngày 19/11/2026
-https://live2.jorvakstreamcache.com/live/channel20.flv
-#EXTINF:-1 group-title="⚽ Bóng đá - Xoilac" tvg-logo="https://imgts.sportpulseapiz.com/football/competition/yvl7oqdehwr510j/image/small",⚽ Qatar U17 vs Panama U17 lúc 22:30 ngày 19/11/2026
-https://live2.jorvakstreamcache.com/live/channel8.flv
-#EXTINF:-1 group-title="⚽ Bóng đá - Xoilac" tvg-logo="https://imgts.sportpulseapiz.com/football/competition/e4wyrn4h8ejq86p/image/small",⚽ Al-Ahli Sports Club(Qatar) vs Al-Shamal Sports Club lúc 22:30 ngày 19/11/2026
-https://live2.jorvakstreamcache.com/live/channel23.flv
-#EXTINF:-1 group-title="⚽ Bóng đá - Xoilac" tvg-logo="https://imgts.sportpulseapiz.com/football/competition/gy0or5jhl3oqwzv/image/small",⚽ Al Gharraf vs Al Quwa Al Jawiya lúc 22:30 ngày 19/11/2026
-https://live2.jorvakstreamcache.com/live/channel10.flv
-#EXTINF:-1 group-title="⚽ Bóng đá - Xoilac" tvg-logo="https://imgts.sportpulseapiz.com/football/competition/yvl7oqdehwr510j/image/small",⚽ Argentina U17 vs Australia U17 lúc 23:00 ngày 19/11/2026
-https://live2.jorvakstreamcache.com/live/channel19.flv
-#EXTINF:-1 group-title="⚽ Thể thao điện tử - GaVang" tvg-logo="https://i.ytimg.com/vi/DMRh7rl-EI0/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLDfBCmPsCU72bbNeOG9PRGwBU6ArA",⚽ Super High Roller Series North Cyprus 2026 Day 5 vs Super High Roller Series North Cyprus 2026 Day 5
-https://pzhgifbkllliv.vcdn.cloud/1795072103_hd/1795072103_hd@720p.m3u8
-#EXTINF:-1 group-title="⚽ Trực tiếp - BiaOm" tvg-logo="https://biaomtv.us/team-default-logo.svg",⚽ LIVE - 20.11.2026 - 00:45 - Paris W - ? - ? - Køge - HÀU NƯỚNG
-https://cdnflv.xbdbotv.live/live/MTk4Nzk1MDM6ZjloaXUzaDRjanBxdHhoeGFvY3I1OGZkOnRrbjI1b3l6Mjk1eTY3bmNjb29mcmltdQ.flv
-#EXTINF:-1 group-title="⚽ Trực tiếp - BiaOm" tvg-logo="https://biaomtv.us/team-default-logo.svg",⚽ LIVE - 20.11.2026 - 03:00 - Barcelona W - ? - ? - Servette Chênois W - HÀU NƯỚNG
-https://cdnhls.xbdbotv.live/live/MTk4Nzk1MDQ6ZDBuMm5wczd6c2ZuaXBpZ290dzI4bDd4OnF3M2J5eG9zcndsZDQweXN1YmtwZ2tvNg/index.m3u8
-#EXTINF:-1 group-title="⚽ Trực tiếp - BiaOm" tvg-logo="https://biaomtv.us/team-default-logo.svg",⚽ LIVE - 20.11.2026 - 03:00 - Arsenal W - ? - ? - Lyon W - ASAHI
-https://cdnhls.xbdbotv.live/live/MTk4Nzk1MDE6ZjloaXUzaDRjanBxdHhoeGFvY3I1OGZkOmtpbnBxc212OTNheXVzOGpvdmxxaXpkcQ/index.m3u8
-#EXTINF:-1 group-title="⚽ Trực tiếp - BTV" tvg-logo="https://static.wex1sora.com/thesports/football/team/d2ba8945533ebbda0bcccf6cf21a4bd4.png",⚽ Cúp Ai Cập - Arab Contractors - 1 - CLB Olympic El Qanal - 1 - 19/11 15:00
-https://live.cds78y11d.org/live/sd-6Mxk4S1wSvTthV7YoE.m3u8?txSecret=01e15d81509ad954adef1f64f86c921e&txTime=6AFFD896
-#EXTINF:-1 group-title="⚽ Trực tiếp - BTV" tvg-logo="https://static.wex1sora.com/thesports/football/team/0a275ee78225885853d8bb904e037247.png",⚽ UAE League - Al Ain - 2 - CLB Al Dhafra - 1 - 19/11 15:25
-https://live.cds78y11d.org/live/sd-6MxjK1E2t3bS3EUcHr.m3u8?txSecret=44af641b67e12b713b41ded80322120a&txTime=6AFFD898
-#EXTINF:-1 group-title="⚽ Trực tiếp - BTV" tvg-logo="https://static.wex1sora.com/thesports/football/team/7303a103c93fea0445384d6ff3f3d1b9.png",⚽ World Cup U17 - Qatar U17 - 0 - PanamaU17 - 0 - 19/11 15:30
-https://live.cds78y11d.org/live/sd-6Mwe5ZsuZGezx2Jau2.m3u8?txSecret=5b7294ab2a695a455e4c45c2a56ffee1&txTime=6AFFD89A
-#EXTINF:-1 group-title="⚽ Trực tiếp - BTV" tvg-logo="https://static.wex1sora.com/thesports/football/team/99b9e5475b90aa5b91fe68685bcd5e78.png",⚽ Giải vô địch quốc gia Qatar - Al Ahli Doha - 1 - Al Shamal - 0 - 19/11 15:30
-https://live.cds78y11d.org/live/sd-6MwarK5ojccvGy2zGL.m3u8?txSecret=9e52ecc94c013894449681a45977c498&txTime=6AFFD89C
-#EXTINF:-1 group-title="⚽ Trực tiếp - BTV" tvg-logo="https://static.wex1sora.com/thesports/football/team/7d44a77ef7bf7d809287828b992f3007.png",⚽ World Cup U17 - Argentina U17 - 0 - Úc U17 - 1 - 19/11 16:00
-https://live.cds78y11d.org/live/sd-6Mwe5ZsvZWtZfR69f2.m3u8?txSecret=ef11f885e639cecc2f918724c3f79303&txTime=6AFFD89E
-#EXTINF:-1 group-title="⚽ Trực tiếp - BTV" tvg-logo="https://static.wex1sora.com/bongweb/_next/static/media/loading.352111de.gif",⚽ World Cup U17 - Ai Cập U17 - 0 - Hy Lạp U17 - 2 - 19/11 16:00
-https://live.cds78y11d.org/live/sd-6Mwe5Zsuiw8XtMyH1e.m3u8?txSecret=ad08943895c923de16eba9df4a4dc0c1&txTime=6AFFD8A0
-#EXTINF:-1 group-title="⚽ Trực tiếp - ChuoiChien" tvg-logo="https://img.icons8.com/color/512/football2.png",⚽ LỊCH THI ĐẤU
-https://www.google-analytics.com/g/collect?v=2&tid=G-7KW5NF1JXS&gtm=45je6bh1v9217420757za200zd9217420757xf1&_p=1795108857580&gcd=13l3l3l3l1l1&npa=0&dma=0&_eu=AAAAAAQ&are=1&cid=2087653842.1795108858&frm=0&ngs=1&pscdl=noapi&rcb=3&sr=1920x1080&uaa=x64&uab=64&uafvl=Chromium%3B130.0.6723.31%7CHeadlessChrome%3B130.0.6723.31%7CNot%253FA_Brand%3B99.0.0.0&uam=&uamb=0&uap=Windows&uapv=10.0&uaw=0&ul=en-us&tag_exp=115938465~115938469~118897920~118897930~120213116~120385423~120469145~120469153~121246026~121246034&dl=https%3A%2F%2Ffhd-01.cctvsignal.xyz%2Fembed%2F%3Fid%3D1546156%26streamUrl%3Dhttps%253A%252F%252Fgckc0525.edgemaxcdn.org%252Flive%252Fchuoinho%252Fplaylist.m3u8%26autoplay%3D1%26isHome%3D1&sid=1795108857&sct=1&seg=0&dt=Chu%E1%BB%91i%20Chi%C3%AAn%20TV%20-%20Xem%20B%C3%B3ng%20%C4%90%C3%A1%20Tr%E1%BB%B1c%20Tuy%E1%BA%BFn%20HD%20Kh%C3%B4ng%20Qu%E1%BA%A3ng%20C%C3%A1o%20%7C%20chuoichientvplus.com&_s=2&tfd=2780
-#EXTINF:-1 group-title="⚽ Trực tiếp - ChuoiChien" tvg-logo="https://media.chuoichientv.net/media/20251115_113439_b8d4eab8.png",⚽ Hiệp 2 - UAE Pro League - 15:25 19/11 - LIVE - Al Ain - 2 - : - 1 - 90' - Al-Dhafra - Chuối Lửa - Xem ngay
-https://fhd-01.cctvsignal.xyz/embed/?id=1643063&streamUrl=https%3A%2F%2Fgckc0525.edgemaxcdn.org%2Flive%2Fchuoilua%2Fplaylist.m3u8&autoplay=1&isHome=0
-#EXTINF:-1 group-title="⚽ Trực tiếp - ChuoiChien" tvg-logo="https://media.api-sports.io/football/leagues/587.png",⚽ Hiệp 2 - World Cup - U17 - 15:30 19/11 - LIVE - Qatar U17 - 0 - : - 0 - 89' - Panama U17 - Chuối Nhỏ - Xem ngay
-https://fhd-01.cctvsignal.xyz/embed/?id=1546156&streamUrl=https%3A%2F%2Fgckc0525.edgemaxcdn.org%2Flive%2Fchuoinho%2Fplaylist.m3u8&autoplay=1&isHome=0
-#EXTINF:-1 group-title="⚽ Trực tiếp - ChuoiChien" tvg-logo="https://media.api-sports.io/football/leagues/587.png",⚽ Hiệp 2 - World Cup - U17 - 16:00 19/11 - LIVE - Argentina U17 - 0 - : - 1 - 62' - Australia U17 - Chuối Lá - Xem ngay
-https://fhd-01.cctvsignal.xyz/embed/?id=1546141&streamUrl=https%3A%2F%2Fgckc0525.edgemaxcdn.org%2Flive%2Fchuoila%2Fplaylist.m3u8&autoplay=1&isHome=0
-#EXTINF:-1 group-title="⚽ Võ thuật - GaVang" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQMOcJ_iB2WEKOF0JQMChW5qcbcOXal9z_Qf-wxWZyU1SJGPFdOUdIoMjg&s=10",⚽ Power Slap 27: Quinones vs Godfrey
-https://pzhgifbkllliv.vcdn.cloud/1795096852_hd/1795096852_hd@720p.m3u8
+#EXTINF:-1 group-title="⚽ Bóng đá - GaVang24h" tvg-logo="https://d3j9d91vxmbmsx.cloudfront.net/web/image/ZjJlODQzOTVmNjYtM2QzNw/NmRiMTZhNTJlNjYtOGM2ZQ.jpg",⚽ [Giải Bóng đá Ngoại hạng Azerbaijan] Mil-Mugan FK vs Zira FK (BLV BLV FANTA)
+https://live05.wecile.app/live/16226575.m3u8
+#EXTINF:-1 group-title="⚽ Bóng đá - GaVang24h" tvg-logo="https://d3j9d91vxmbmsx.k8v4dh4.app/web/image/YjI0OWZmOWNkZTktNmUwOA/OWVkYzFiMmJmNmYtZDkxYw.jpg",⚽ [Giải vô địch quốc gia Singapore] Albirex Niigata vs Balestier Khalsa (BLV BLV TEPPY)
+https://live05.wecile.app/live/33860426.m3u8
+#EXTINF:-1 group-title="⚽ Bóng đá - GaVang24h" tvg-logo="https://d3j9d91vxmbmsx.cloudfront.net/web/image/OWEyYWQ1NDcwZDAtNDRlMg/YTY4NDZhZTY5ZDEtMGJmOQ.jpg",⚽ [Cúp Bóng đá Liên đoàn Trung Quốc] Beijing Guoan vs Shanghai Port (BLV BLV 247)
+https://live05.wecile.app/live/90865415.m3u8
+#EXTINF:-1 group-title="⚽ Bóng đá - GaVang24h" tvg-logo="https://d3j9d91vxmbmsx.cloudfront.net/web/image/ZDQzOWUyYmNkNWItM2JkZg/ODgyMjBjMDgzMGEtYzEzZg.jpg",⚽ [Giải bóng đá Liga 1 Indonesia] Dewa United FC vs Persita (BLV BLV SAMURAI)
+https://live05.wecile.app/live/07808742.m3u8
+#EXTINF:-1 group-title="⚽ Bóng đá - GaVang24h" tvg-logo="https://d3j9d91vxmbmsx.cloudfront.net/web/image/MzkwNDEyYWVjOTEtZGM4Nw/MzllNDQ3M2FhMDUtMDc5Mg.jpg",⚽ [World Cup U17] Mali U17 vs New Zealand U17 (BLV BLV WARRIOR)
+https://live05.wecile.app/live/97885009.m3u8
+#EXTINF:-1 group-title="⚽ Bóng đá - GaVang24h" tvg-logo="https://d3j9d91vxmbmsx.cloudfront.net/web/image/NDU2ODM5ZDZhY2QtOTg5Ng/MjU3MDJjNmI3ZDctMDk2Yg.jpg",⚽ [Giải vô địch quốc gia Uzbekistan] CLB Navbahor Namangan vs Neftchi Fargona (BLV BLV MOUNTAIN DEW)
+https://live05.wecile.app/live/87547578.m3u8
+#EXTINF:-1 group-title="⚽ Bóng đá - Xoilac" tvg-logo="https://imgts.sportpulseapiz.com/football/competition/4zp5rzgh9zq82w1/image/small",⚽ Vasco da Gama vs Internacional RS lúc 05:30 ngày 20/11/2026
+https://live2.jorvakstreamcache.com/live/channel14.flv
+#EXTINF:-1 group-title="⚽ Bóng đá - Xoilac" tvg-logo="https://imgts.sportpulseapiz.com/football/competition/4zp5rzgh9zq82w1/image/small",⚽ Vitória BA vs RB Bragantino lúc 05:30 ngày 20/11/2026
+https://live2.jorvakstreamcache.com/live/channel22.flv
+#EXTINF:-1 group-title="⚽ Bóng đá - Xoilac" tvg-logo="https://imgts.sportpulseapiz.com/football/competition/gy0or5jhpxqwzv3/image/small",⚽ Dep. La Guaira vs Academia Anzoategui lúc 05:30 ngày 20/11/2026
+https://live1.quickscoreboardz.com/live/channel1.flv?wsSecret=46c8d34b18e8118d94065a083aa97524&wsABSTime=1795175222
+#EXTINF:-1 group-title="⚽ Bóng đá - Xoilac" tvg-logo="https://imgts.sportpulseapiz.com/football/competition/gpxwrxlh84ryk0j/image/small",⚽ Independiente Yumbo vs Envigado FC lúc 05:30 ngày 20/11/2026
+https://live1.quickscoreboardz.com/live/channel21.flv?wsSecret=b92cb84c3e6c5449363700b1ec41d4d4&wsABSTime=1795175226
+#EXTINF:-1 group-title="⚽ Bóng đá - Xoilac" tvg-logo="https://imgts.sportpulseapiz.com/football/competition/gpxwrxlh84ryk0j/image/small",⚽ Union Magdalena vs Boca Juniors Cali lúc 05:30 ngày 20/11/2026
+https://live1.quickscoreboardz.com/live/channel22.flv?wsSecret=26fbcb2d9b0573505dc5199b95eb4d5f&wsABSTime=1795175229
+#EXTINF:-1 group-title="⚽ Bóng đá - Xoilac" tvg-logo="https://imgts.sportpulseapiz.com/football/competition/4zp5rzghx70q82w/image/small",⚽ Caravaggio Brazil U20 vs Camboriu FC U20 lúc 05:30 ngày 20/11/2026
+https://live1.quickscoreboardz.com/live/channel23.flv?wsSecret=2e27f04bc2fcd07b1a842b5faa969db3&wsABSTime=1795175232
+#EXTINF:-1 group-title="⚽ Quần vợt - GaVang" tvg-logo="https://static.flashscore.com/res/image/data/tO5cePjl-2DqYxEbl.png",⚽ Alexander Zverev vs Arthur Fils
+https://pzhgifbkllliv.vcdn.cloud/1795009371_hd/1795009371_hd@720p.m3u8
+#EXTINF:-1 group-title="⚽ Trực tiếp - BiaOm" tvg-logo="https://img.thesports.com/football/team/d2c9d435710709d0be9a6dc06ff78a29.png",⚽ LIVE77’ - Hiệp 2 - Union Magdalena - 0 - 0 - Boca Juniors De Cali - NHÀ ĐÀI
+https://lilive1.eu.cc/live/f82f6dcc03be866221eba2742997ff95/playlist.m3u8
+#EXTINF:-1 group-title="⚽ Trực tiếp - BiaOm" tvg-logo="https://img.thesports.com/football/team/f28132d473716d2532150ebf48688925.png",⚽ LIVE77’ - Hiệp 2 - Independiente Yumbo - 1 - 1 - Envigado FC - NHÀ ĐÀI
+https://lilive1.eu.cc/live/d3d2b28058306516771ed354fd380bc8/playlist.m3u8
+#EXTINF:-1 group-title="⚽ Trực tiếp - BiaOm" tvg-logo="https://img.thesports.com/football/team/b44aef0db79a96caff676333b2e5ff7b.png",⚽ LIVE77’ - Giải lao - Vitória - BA - 2 - 0 - Red Bull Bragantino - NHÀ ĐÀI
+https://lilive1.eu.cc/live/a55b329ec3640442eb78bb084e754361/playlist.m3u8
+#EXTINF:-1 group-title="⚽ Trực tiếp - BiaOm" tvg-logo="https://img.thesports.com/football/team/f110dc3a4406e67ecbc46511a7ea83f7.png",⚽ LIVE77’ - Hiệp 2 - Vasco da Gama Saf - RJ - 1 - 0 - Internacional - RS - NHÀ ĐÀI
+https://lilive1.eu.cc/live/3ff60f8f3a58d668e9c596f3b2cb20e9/playlist.m3u8
+#EXTINF:-1 group-title="⚽ Trực tiếp - BTV" tvg-logo="https://static.wex1sora.com/thesports/football/team/b44aef0db79a96caff676333b2e5ff7b.png",⚽ Giải bóng đá Hạng nhất Brasil - CLB Vitoria BA - 2 - Bragantino - 0 - 19/11 22:30
+https://live.cds78y11d.org/live/sd-6MvZ6Lyv3sYGFrusY8.m3u8?txSecret=5bd1090880d36c3c897f4655993f555f&txTime=6B00337E
+#EXTINF:-1 group-title="⚽ Trực tiếp - BTV" tvg-logo="https://static.wex1sora.com/thesports/football/team/f110dc3a4406e67ecbc46511a7ea83f7.png",⚽ Giải bóng đá Hạng nhất Brasil - Vasco - 1 - CLB Sport Club Internacional - 1 - 19/11 22:30
+https://live.cds78y11d.org/live/sd-6MvZ6LzfY5qSXKgDdv.m3u8?txSecret=b6d08cf7012789fc3c96c39bfd757519&txTime=6B003380
+#EXTINF:-1 group-title="⚽ Trực tiếp - BTV" tvg-logo="https://static.wex1sora.com/thesports/football/team/f28132d473716d2532150ebf48688925.png",⚽ Giải bóng đá Hạng nhì Colombia - Independiente Yumbo - 1 - CLB Envigado - 1 - 19/11 22:30
+https://live.cds78y11d.org/live/sd-6Mxk49kTXSb5AWFcjv.m3u8?txSecret=f026ad16cfe3f2a2bd5b68d05f28ad36&txTime=6B003383
+#EXTINF:-1 group-title="⚽ Trực tiếp - BTV" tvg-logo="https://static.wex1sora.com/thesports/football/team/d2c9d435710709d0be9a6dc06ff78a29.png",⚽ Giải bóng đá Hạng nhì Colombia - Union Magdalena - 1 - Universitario de Popayan - 0 - 19/11 22:30
+https://live.cds78y11d.org/live/sd-6Mxk49kTXKzdZ4msHE.m3u8?txSecret=6e91894269a954243de387d4d464443d&txTime=6B003385
+#EXTINF:-1 group-title="⚽ Trực tiếp - ChuoiChien" tvg-logo="https://media.chuoichientv.net/media/20251115_112437_72cab226.png",⚽ Hiệp 2 - VĐQG Brazil - 22:30 19/11 - LIVE - Vasco DA Gama - 1 - : - 1 - 57' - Internacional - Trốc Tru - Xem ngay
+https://fhd-01.cctvsignal.xyz/embed/?id=1492458&streamUrl=https%3A%2F%2Fgckc0525.edgemaxcdn.org%2Flive%2Ftroctru%2Fplaylist.m3u8&autoplay=1&isHome=0
+#EXTINF:-1 group-title="⚽ Trực tiếp - ChuoiChien" tvg-logo="https://media.chuoichientv.net/media/20251115_112437_72cab226.png",⚽ VĐQG Brazil - 00:30 20/11 - Sao Paulo - 0 - : - 0 - Fluminense - Chuối Sấy
+https://gckc0525.edgemaxcdn.org/live/troctru/playlist.m3u8
 #EXTINF:-1 group-title="📺 Campuchia" tvg-logo="https://1.bp.blogspot.com/-eaJhNFbzINk/XlhGheWJpgI/AAAAAAAAJ8M/k3fnwM6DPfso2q3pF8yzQWvg8ZScKF2dQCLcBGAsYHQ/s1600/HMHD.png",📺 Ramsey HangMeas Melody UHD
 http://abclive.malisresidences.com:1935/hmmel/_definst_/smil:hmmel.smil/playlist.m3u8
 #EXTINF:-1 group-title="📺 Fifa world cup 2026" tvg-logo="https://vtvgo-assets.vtvdigital.vn/assets/images/v2/channel/20260613/2026061323/TsjjtHjSSt-Logo-BLCX_3_11zon.webp",📺 Bình Luận Cảm xúc
@@ -883,50 +857,176 @@ https://sgclient.duckdns.org/source/tv360.m3u8?id=49
 https://sgclient.duckdns.org/source/tv360.m3u8?id=80
 #EXTINF:-1 group-title="📺 Địa phương" tvg-logo="https://img-zlr1.tv360.vn/image1/2020_09_23/1600823593760/3a9a9e608e8d_640_360.png",📺 ĐTV HD - Báo Điện Biên Phủ
 https://sgclient.duckdns.org/source/tv360.m3u8?id=52
-#EXTINF:-1 group-title="🎬 HH3D Lồng Tiếng - Chuyến Phiêu Lưu Của Pil" tvg-logo="https://phimimg.com/upload/vod/20231029-1/ecef8da54215cc75e12a318661b722bd.jpg",🎬 Chuyến Phiêu Lưu Của Pil - Full (Lồng Tiếng)
-https://v7.kkphimplayer7.com/20260828/59rQ5VYe/index.m3u8
-#EXTINF:-1 group-title="🎬 HH3D Lồng Tiếng - Cyberpunk Edgerunners (Phần 1)" tvg-logo="https://phimimg.com/uploads/movies/20261021/cyberpunk-edgerunners-phan-1-poster.webp",🎬 Cyberpunk Edgerunners (Phần 1) - Tập 01 (Lồng Tiếng)
-https://a.kvp726.com/20261020/NJRXqIBJ/index.m3u8
-#EXTINF:-1 group-title="🎬 HH3D Lồng Tiếng - Cyberpunk Edgerunners (Phần 1)" tvg-logo="https://phimimg.com/uploads/movies/20261021/cyberpunk-edgerunners-phan-1-poster.webp",🎬 Cyberpunk Edgerunners (Phần 1) - Tập 02 (Lồng Tiếng)
-https://a.kvp726.com/20261020/VI6FvgkK/index.m3u8
-#EXTINF:-1 group-title="🎬 HH3D Lồng Tiếng - Cyberpunk Edgerunners (Phần 1)" tvg-logo="https://phimimg.com/uploads/movies/20261021/cyberpunk-edgerunners-phan-1-poster.webp",🎬 Cyberpunk Edgerunners (Phần 1) - Tập 03 (Lồng Tiếng)
-https://a.kvp726.com/20261020/uohKqLbK/index.m3u8
-#EXTINF:-1 group-title="🎬 HH3D Lồng Tiếng - Cyberpunk Edgerunners (Phần 1)" tvg-logo="https://phimimg.com/uploads/movies/20261021/cyberpunk-edgerunners-phan-1-poster.webp",🎬 Cyberpunk Edgerunners (Phần 1) - Tập 04 (Lồng Tiếng)
-https://a.kvp726.com/20261020/8C45Tsff/index.m3u8
-#EXTINF:-1 group-title="🎬 HH3D Lồng Tiếng - Cyberpunk Edgerunners (Phần 1)" tvg-logo="https://phimimg.com/uploads/movies/20261021/cyberpunk-edgerunners-phan-1-poster.webp",🎬 Cyberpunk Edgerunners (Phần 1) - Tập 05 (Lồng Tiếng)
-https://a.kvp726.com/20261020/oyfegSdP/index.m3u8
-#EXTINF:-1 group-title="🎬 HH3D Lồng Tiếng - Cyberpunk Edgerunners (Phần 1)" tvg-logo="https://phimimg.com/uploads/movies/20261021/cyberpunk-edgerunners-phan-1-poster.webp",🎬 Cyberpunk Edgerunners (Phần 1) - Tập 06 (Lồng Tiếng)
-https://a.kvp726.com/20261020/SQSTvLlr/index.m3u8
-#EXTINF:-1 group-title="🎬 HH3D Lồng Tiếng - Cyberpunk Edgerunners (Phần 1)" tvg-logo="https://phimimg.com/uploads/movies/20261021/cyberpunk-edgerunners-phan-1-poster.webp",🎬 Cyberpunk Edgerunners (Phần 1) - Tập 07 (Lồng Tiếng)
-https://a.kvp726.com/20261020/sqCxg6Sn/index.m3u8
-#EXTINF:-1 group-title="🎬 HH3D Lồng Tiếng - Cyberpunk Edgerunners (Phần 1)" tvg-logo="https://phimimg.com/uploads/movies/20261021/cyberpunk-edgerunners-phan-1-poster.webp",🎬 Cyberpunk Edgerunners (Phần 1) - Tập 08 (Lồng Tiếng)
-https://a.kvp726.com/20261020/wymsZe3e/index.m3u8
-#EXTINF:-1 group-title="🎬 HH3D Lồng Tiếng - Cyberpunk Edgerunners (Phần 1)" tvg-logo="https://phimimg.com/uploads/movies/20261021/cyberpunk-edgerunners-phan-1-poster.webp",🎬 Cyberpunk Edgerunners (Phần 1) - Tập 09 (Lồng Tiếng)
-https://a.kvp726.com/20261020/063iTE5h/index.m3u8
-#EXTINF:-1 group-title="🎬 HH3D Lồng Tiếng - Cyberpunk Edgerunners (Phần 1)" tvg-logo="https://phimimg.com/uploads/movies/20261021/cyberpunk-edgerunners-phan-1-poster.webp",🎬 Cyberpunk Edgerunners (Phần 1) - Tập 10 (Lồng Tiếng)
-https://a.kvp726.com/20261020/JKERCufV/index.m3u8
-#EXTINF:-1 group-title="🎬 HH3D Lồng Tiếng - Cảnh Sát Trưởng Labrador (Phần 1)" tvg-logo="https://phimimg.com/upload/vod/20260527-1/0a48bf2e823dee9cf02e9346007cb3f5.jpg",🎬 Cảnh Sát Trưởng Labrador (Phần 1) - Tập 01 (Lồng Tiếng)
-https://v7.kkphimplayer7.com/20260526/LwMz7duC/index.m3u8
-#EXTINF:-1 group-title="🎬 HH3D Lồng Tiếng - Cảnh Sát Trưởng Labrador (Phần 1)" tvg-logo="https://phimimg.com/upload/vod/20260527-1/0a48bf2e823dee9cf02e9346007cb3f5.jpg",🎬 Cảnh Sát Trưởng Labrador (Phần 1) - Tập 02 (Lồng Tiếng)
-https://v7.kkphimplayer7.com/20260526/c8vL9b5u/index.m3u8
-#EXTINF:-1 group-title="🎬 HH3D Lồng Tiếng - Cảnh Sát Trưởng Labrador (Phần 1)" tvg-logo="https://phimimg.com/upload/vod/20260527-1/0a48bf2e823dee9cf02e9346007cb3f5.jpg",🎬 Cảnh Sát Trưởng Labrador (Phần 1) - Tập 03 (Lồng Tiếng)
-https://v7.kkphimplayer7.com/20260526/9f5li6nF/index.m3u8
-#EXTINF:-1 group-title="🎬 HH3D Lồng Tiếng - Cảnh Sát Trưởng Labrador (Phần 1)" tvg-logo="https://phimimg.com/upload/vod/20260527-1/0a48bf2e823dee9cf02e9346007cb3f5.jpg",🎬 Cảnh Sát Trưởng Labrador (Phần 1) - Tập 04 (Lồng Tiếng)
-https://v7.kkphimplayer7.com/20260526/u0xraSA7/index.m3u8
-#EXTINF:-1 group-title="🎬 HH3D Lồng Tiếng - Cảnh Sát Trưởng Labrador (Phần 1)" tvg-logo="https://phimimg.com/upload/vod/20260527-1/0a48bf2e823dee9cf02e9346007cb3f5.jpg",🎬 Cảnh Sát Trưởng Labrador (Phần 1) - Tập 05 (Lồng Tiếng)
-https://v7.kkphimplayer7.com/20260526/ZZ9eheTS/index.m3u8
-#EXTINF:-1 group-title="🎬 HH3D Lồng Tiếng - Cảnh Sát Trưởng Labrador (Phần 1)" tvg-logo="https://phimimg.com/upload/vod/20260527-1/0a48bf2e823dee9cf02e9346007cb3f5.jpg",🎬 Cảnh Sát Trưởng Labrador (Phần 1) - Tập 06 (Lồng Tiếng)
-https://v7.kkphimplayer7.com/20260526/voq3OfTX/index.m3u8
-#EXTINF:-1 group-title="🎬 HH3D Lồng Tiếng - Cảnh Sát Trưởng Labrador (Phần 1)" tvg-logo="https://phimimg.com/upload/vod/20260527-1/0a48bf2e823dee9cf02e9346007cb3f5.jpg",🎬 Cảnh Sát Trưởng Labrador (Phần 1) - Tập 07 (Lồng Tiếng)
-https://v7.kkphimplayer7.com/20260526/jlekXFpm/index.m3u8
-#EXTINF:-1 group-title="🎬 HH3D Lồng Tiếng - Cảnh Sát Trưởng Labrador (Phần 1)" tvg-logo="https://phimimg.com/upload/vod/20260527-1/0a48bf2e823dee9cf02e9346007cb3f5.jpg",🎬 Cảnh Sát Trưởng Labrador (Phần 1) - Tập 08 (Lồng Tiếng)
-https://v7.kkphimplayer7.com/20260526/43GVyYQs/index.m3u8
-#EXTINF:-1 group-title="🎬 HH3D Lồng Tiếng - Cảnh Sát Trưởng Labrador (Phần 1)" tvg-logo="https://phimimg.com/upload/vod/20260527-1/0a48bf2e823dee9cf02e9346007cb3f5.jpg",🎬 Cảnh Sát Trưởng Labrador (Phần 1) - Tập 09 (Lồng Tiếng)
-https://v7.kkphimplayer7.com/20260526/Ako32ogg/index.m3u8
-#EXTINF:-1 group-title="🎬 HH3D Lồng Tiếng - Cảnh Sát Trưởng Labrador (Phần 1)" tvg-logo="https://phimimg.com/upload/vod/20260527-1/0a48bf2e823dee9cf02e9346007cb3f5.jpg",🎬 Cảnh Sát Trưởng Labrador (Phần 1) - Tập 10 (Lồng Tiếng)
-https://v7.kkphimplayer7.com/20260526/qMuE6Yej/index.m3u8
-#EXTINF:-1 group-title="🎬 HH3D Lồng Tiếng - Cảnh Sát Trưởng Labrador (Phần 1)" tvg-logo="https://phimimg.com/upload/vod/20260527-1/0a48bf2e823dee9cf02e9346007cb3f5.jpg",🎬 Cảnh Sát Trưởng Labrador (Phần 1) - Tập 11 (Lồng Tiếng)
-https://v7.kkphimplayer7.com/20260526/0Z9miFde/index.m3u8
+#EXTINF:-1 group-title="🎬 HH3D Lồng Tiếng - Cá đỏ, cá xanh (Phần 1)" tvg-logo="https://phimimg.com/upload/vod/20250909-1/5a7e3aef4f21e6cff19d36465e85f772.jpg",🎬 Cá đỏ, cá xanh (Phần 1) - Tập 01 (Lồng Tiếng)
+https://s6.kkphimplayer6.com/20250909/nffBU2sF/index.m3u8
+#EXTINF:-1 group-title="🎬 HH3D Lồng Tiếng - Cá đỏ, cá xanh (Phần 1)" tvg-logo="https://phimimg.com/upload/vod/20250909-1/5a7e3aef4f21e6cff19d36465e85f772.jpg",🎬 Cá đỏ, cá xanh (Phần 1) - Tập 02 (Lồng Tiếng)
+https://s6.kkphimplayer6.com/20250909/KEiPLJuv/index.m3u8
+#EXTINF:-1 group-title="🎬 HH3D Lồng Tiếng - Cá đỏ, cá xanh (Phần 1)" tvg-logo="https://phimimg.com/upload/vod/20250909-1/5a7e3aef4f21e6cff19d36465e85f772.jpg",🎬 Cá đỏ, cá xanh (Phần 1) - Tập 03 (Lồng Tiếng)
+https://s6.kkphimplayer6.com/20250909/BSySpHWA/index.m3u8
+#EXTINF:-1 group-title="🎬 HH3D Lồng Tiếng - Cá đỏ, cá xanh (Phần 1)" tvg-logo="https://phimimg.com/upload/vod/20250909-1/5a7e3aef4f21e6cff19d36465e85f772.jpg",🎬 Cá đỏ, cá xanh (Phần 1) - Tập 04 (Lồng Tiếng)
+https://s6.kkphimplayer6.com/20250909/8TCbR716/index.m3u8
+#EXTINF:-1 group-title="🎬 HH3D Lồng Tiếng - Cá đỏ, cá xanh (Phần 1)" tvg-logo="https://phimimg.com/upload/vod/20250909-1/5a7e3aef4f21e6cff19d36465e85f772.jpg",🎬 Cá đỏ, cá xanh (Phần 1) - Tập 05 (Lồng Tiếng)
+https://s6.kkphimplayer6.com/20250909/Yje8Hbys/index.m3u8
+#EXTINF:-1 group-title="🎬 HH3D Lồng Tiếng - Cá đỏ, cá xanh (Phần 3)" tvg-logo="https://phimimg.com/uploads/movies/20260813/ca-do-ca-xanh-phan-3-poster.webp",🎬 Cá đỏ, cá xanh (Phần 3) - Tập 01 (Lồng Tiếng)
+https://v7.kkphimplayer7.com/20260813/km4Xe3Rv/index.m3u8
+#EXTINF:-1 group-title="🎬 HH3D Lồng Tiếng - Cá đỏ, cá xanh (Phần 3)" tvg-logo="https://phimimg.com/uploads/movies/20260813/ca-do-ca-xanh-phan-3-poster.webp",🎬 Cá đỏ, cá xanh (Phần 3) - Tập 02 (Lồng Tiếng)
+https://v7.kkphimplayer7.com/20260813/0ZvByqk5/index.m3u8
+#EXTINF:-1 group-title="🎬 HH3D Lồng Tiếng - Cá đỏ, cá xanh (Phần 3)" tvg-logo="https://phimimg.com/uploads/movies/20260813/ca-do-ca-xanh-phan-3-poster.webp",🎬 Cá đỏ, cá xanh (Phần 3) - Tập 03 (Lồng Tiếng)
+https://v7.kkphimplayer7.com/20260813/BYmQGcqY/index.m3u8
+#EXTINF:-1 group-title="🎬 HH3D Lồng Tiếng - Cá đỏ, cá xanh (Phần 3)" tvg-logo="https://phimimg.com/uploads/movies/20260813/ca-do-ca-xanh-phan-3-poster.webp",🎬 Cá đỏ, cá xanh (Phần 3) - Tập 04 (Lồng Tiếng)
+https://v7.kkphimplayer7.com/20260813/KhEYxVZP/index.m3u8
+#EXTINF:-1 group-title="🎬 HH3D Lồng Tiếng - Cá đỏ, cá xanh (Phần 3)" tvg-logo="https://phimimg.com/uploads/movies/20260813/ca-do-ca-xanh-phan-3-poster.webp",🎬 Cá đỏ, cá xanh (Phần 3) - Tập 05 (Lồng Tiếng)
+https://v7.kkphimplayer7.com/20260813/1ZMWK6dN/index.m3u8
+#EXTINF:-1 group-title="🎬 HH3D Lồng Tiếng - Cậu Bé Mất Tích: Chuyện Năm 85 (Phần 1)" tvg-logo="https://phimimg.com/upload/vod/20260428-1/420d39137d52c9438683e550bd8fd629.jpg",🎬 Cậu Bé Mất Tích: Chuyện Năm 85 (Phần 1) - Tập 01 (Lồng Tiếng)
+https://v7.kkphimplayer7.com/20260428/dAQIbaRv/index.m3u8
+#EXTINF:-1 group-title="🎬 HH3D Lồng Tiếng - Cậu Bé Mất Tích: Chuyện Năm 85 (Phần 1)" tvg-logo="https://phimimg.com/upload/vod/20260428-1/420d39137d52c9438683e550bd8fd629.jpg",🎬 Cậu Bé Mất Tích: Chuyện Năm 85 (Phần 1) - Tập 02 (Lồng Tiếng)
+https://v7.kkphimplayer7.com/20260428/eXzU7KOa/index.m3u8
+#EXTINF:-1 group-title="🎬 HH3D Lồng Tiếng - Cậu Bé Mất Tích: Chuyện Năm 85 (Phần 1)" tvg-logo="https://phimimg.com/upload/vod/20260428-1/420d39137d52c9438683e550bd8fd629.jpg",🎬 Cậu Bé Mất Tích: Chuyện Năm 85 (Phần 1) - Tập 03 (Lồng Tiếng)
+https://v7.kkphimplayer7.com/20260428/0fJPZD2w/index.m3u8
+#EXTINF:-1 group-title="🎬 HH3D Lồng Tiếng - Cậu Bé Mất Tích: Chuyện Năm 85 (Phần 1)" tvg-logo="https://phimimg.com/upload/vod/20260428-1/420d39137d52c9438683e550bd8fd629.jpg",🎬 Cậu Bé Mất Tích: Chuyện Năm 85 (Phần 1) - Tập 04 (Lồng Tiếng)
+https://v7.kkphimplayer7.com/20260428/OzyxdWlv/index.m3u8
+#EXTINF:-1 group-title="🎬 HH3D Lồng Tiếng - Cậu Bé Mất Tích: Chuyện Năm 85 (Phần 1)" tvg-logo="https://phimimg.com/upload/vod/20260428-1/420d39137d52c9438683e550bd8fd629.jpg",🎬 Cậu Bé Mất Tích: Chuyện Năm 85 (Phần 1) - Tập 05 (Lồng Tiếng)
+https://v7.kkphimplayer7.com/20260428/9qQazNfH/index.m3u8
+#EXTINF:-1 group-title="🎬 HH3D Lồng Tiếng - Cậu Bé Mất Tích: Chuyện Năm 85 (Phần 1)" tvg-logo="https://phimimg.com/upload/vod/20260428-1/420d39137d52c9438683e550bd8fd629.jpg",🎬 Cậu Bé Mất Tích: Chuyện Năm 85 (Phần 1) - Tập 06 (Lồng Tiếng)
+https://v7.kkphimplayer7.com/20260428/Wzk3wrj5/index.m3u8
+#EXTINF:-1 group-title="🎬 HH3D Lồng Tiếng - Cậu Bé Mất Tích: Chuyện Năm 85 (Phần 1)" tvg-logo="https://phimimg.com/upload/vod/20260428-1/420d39137d52c9438683e550bd8fd629.jpg",🎬 Cậu Bé Mất Tích: Chuyện Năm 85 (Phần 1) - Tập 07 (Lồng Tiếng)
+https://v7.kkphimplayer7.com/20260428/Du47Lh07/index.m3u8
+#EXTINF:-1 group-title="🎬 HH3D Lồng Tiếng - Cậu Bé Mất Tích: Chuyện Năm 85 (Phần 1)" tvg-logo="https://phimimg.com/upload/vod/20260428-1/420d39137d52c9438683e550bd8fd629.jpg",🎬 Cậu Bé Mất Tích: Chuyện Năm 85 (Phần 1) - Tập 08 (Lồng Tiếng)
+https://v7.kkphimplayer7.com/20260428/uq29Agho/index.m3u8
+#EXTINF:-1 group-title="🎬 HH3D Lồng Tiếng - Cậu Bé Mất Tích: Chuyện Năm 85 (Phần 1)" tvg-logo="https://phimimg.com/upload/vod/20260428-1/420d39137d52c9438683e550bd8fd629.jpg",🎬 Cậu Bé Mất Tích: Chuyện Năm 85 (Phần 1) - Tập 09 (Lồng Tiếng)
+https://v7.kkphimplayer7.com/20260428/Y8UHA7Ej/index.m3u8
+#EXTINF:-1 group-title="🎬 HH3D Lồng Tiếng - Cậu Bé Mất Tích: Chuyện Năm 85 (Phần 1)" tvg-logo="https://phimimg.com/upload/vod/20260428-1/420d39137d52c9438683e550bd8fd629.jpg",🎬 Cậu Bé Mất Tích: Chuyện Năm 85 (Phần 1) - Tập 10 (Lồng Tiếng)
+https://v7.kkphimplayer7.com/20260428/KDzi8MdU/index.m3u8
+#EXTINF:-1 group-title="🎬 HH3D Lồng Tiếng - Cửu Châu Phiêu Miểu Lục" tvg-logo="https://phimimg.com/upload/vod/20250711-1/97bbf7d55a978b84b049278550cd3f8a.jpg",🎬 Cửu Châu Phiêu Miểu Lục - Tập 01 (Lồng Tiếng)
+https://s6.kkphimplayer6.com/20250711/F2zwcsCf/index.m3u8
+#EXTINF:-1 group-title="🎬 HH3D Lồng Tiếng - Cửu Châu Phiêu Miểu Lục" tvg-logo="https://phimimg.com/upload/vod/20250711-1/97bbf7d55a978b84b049278550cd3f8a.jpg",🎬 Cửu Châu Phiêu Miểu Lục - Tập 02 (Lồng Tiếng)
+https://s6.kkphimplayer6.com/20250711/VLfyeFhe/index.m3u8
+#EXTINF:-1 group-title="🎬 HH3D Lồng Tiếng - Cửu Châu Phiêu Miểu Lục" tvg-logo="https://phimimg.com/upload/vod/20250711-1/97bbf7d55a978b84b049278550cd3f8a.jpg",🎬 Cửu Châu Phiêu Miểu Lục - Tập 03 (Lồng Tiếng)
+https://s6.kkphimplayer6.com/20250711/UFptztii/index.m3u8
+#EXTINF:-1 group-title="🎬 HH3D Lồng Tiếng - Cửu Châu Phiêu Miểu Lục" tvg-logo="https://phimimg.com/upload/vod/20250711-1/97bbf7d55a978b84b049278550cd3f8a.jpg",🎬 Cửu Châu Phiêu Miểu Lục - Tập 04 (Lồng Tiếng)
+https://s6.kkphimplayer6.com/20250711/DMOM7QEu/index.m3u8
+#EXTINF:-1 group-title="🎬 HH3D Lồng Tiếng - Cửu Châu Phiêu Miểu Lục" tvg-logo="https://phimimg.com/upload/vod/20250711-1/97bbf7d55a978b84b049278550cd3f8a.jpg",🎬 Cửu Châu Phiêu Miểu Lục - Tập 05 (Lồng Tiếng)
+https://s6.kkphimplayer6.com/20250711/SmDhSlRq/index.m3u8
+#EXTINF:-1 group-title="🎬 HH3D Lồng Tiếng - Cửu Châu Phiêu Miểu Lục" tvg-logo="https://phimimg.com/upload/vod/20250711-1/97bbf7d55a978b84b049278550cd3f8a.jpg",🎬 Cửu Châu Phiêu Miểu Lục - Tập 06 (Lồng Tiếng)
+https://s6.kkphimplayer6.com/20250711/RgwqF3Xd/index.m3u8
+#EXTINF:-1 group-title="🎬 HH3D Lồng Tiếng - Cửu Châu Phiêu Miểu Lục" tvg-logo="https://phimimg.com/upload/vod/20250711-1/97bbf7d55a978b84b049278550cd3f8a.jpg",🎬 Cửu Châu Phiêu Miểu Lục - Tập 07 (Lồng Tiếng)
+https://s6.kkphimplayer6.com/20250711/6p28912H/index.m3u8
+#EXTINF:-1 group-title="🎬 HH3D Lồng Tiếng - Cửu Châu Phiêu Miểu Lục" tvg-logo="https://phimimg.com/upload/vod/20250711-1/97bbf7d55a978b84b049278550cd3f8a.jpg",🎬 Cửu Châu Phiêu Miểu Lục - Tập 08 (Lồng Tiếng)
+https://s6.kkphimplayer6.com/20250711/NZQgfXwe/index.m3u8
+#EXTINF:-1 group-title="🎬 HH3D Lồng Tiếng - Cửu Châu Phiêu Miểu Lục" tvg-logo="https://phimimg.com/upload/vod/20250711-1/97bbf7d55a978b84b049278550cd3f8a.jpg",🎬 Cửu Châu Phiêu Miểu Lục - Tập 09 (Lồng Tiếng)
+https://s6.kkphimplayer6.com/20250711/v2MgW8RB/index.m3u8
+#EXTINF:-1 group-title="🎬 HH3D Lồng Tiếng - Cửu Châu Phiêu Miểu Lục" tvg-logo="https://phimimg.com/upload/vod/20250711-1/97bbf7d55a978b84b049278550cd3f8a.jpg",🎬 Cửu Châu Phiêu Miểu Lục - Tập 10 (Lồng Tiếng)
+https://s6.kkphimplayer6.com/20250711/BBkJIXQX/index.m3u8
+#EXTINF:-1 group-title="🎬 HH3D Lồng Tiếng - Cửu Châu Phiêu Miểu Lục" tvg-logo="https://phimimg.com/upload/vod/20250711-1/97bbf7d55a978b84b049278550cd3f8a.jpg",🎬 Cửu Châu Phiêu Miểu Lục - Tập 11 (Lồng Tiếng)
+https://s6.kkphimplayer6.com/20250711/CS19K4TQ/index.m3u8
+#EXTINF:-1 group-title="🎬 HH3D Lồng Tiếng - Cửu Châu Phiêu Miểu Lục" tvg-logo="https://phimimg.com/upload/vod/20250711-1/97bbf7d55a978b84b049278550cd3f8a.jpg",🎬 Cửu Châu Phiêu Miểu Lục - Tập 12 (Lồng Tiếng)
+https://s6.kkphimplayer6.com/20250711/T7Yxjcnk/index.m3u8
+#EXTINF:-1 group-title="🎬 HH3D Lồng Tiếng - Cửu Châu Phiêu Miểu Lục" tvg-logo="https://phimimg.com/upload/vod/20250711-1/97bbf7d55a978b84b049278550cd3f8a.jpg",🎬 Cửu Châu Phiêu Miểu Lục - Tập 13 (Lồng Tiếng)
+https://s6.kkphimplayer6.com/20250711/QtWrlaxZ/index.m3u8
+#EXTINF:-1 group-title="🎬 HH3D Lồng Tiếng - Cửu Châu Phiêu Miểu Lục" tvg-logo="https://phimimg.com/upload/vod/20250711-1/97bbf7d55a978b84b049278550cd3f8a.jpg",🎬 Cửu Châu Phiêu Miểu Lục - Tập 14 (Lồng Tiếng)
+https://s6.kkphimplayer6.com/20250711/dKqkkzvi/index.m3u8
+#EXTINF:-1 group-title="🎬 HH3D Lồng Tiếng - Cửu Châu Phiêu Miểu Lục" tvg-logo="https://phimimg.com/upload/vod/20250711-1/97bbf7d55a978b84b049278550cd3f8a.jpg",🎬 Cửu Châu Phiêu Miểu Lục - Tập 15 (Lồng Tiếng)
+https://s6.kkphimplayer6.com/20250711/CpNLxJmV/index.m3u8
+#EXTINF:-1 group-title="🎬 HH3D Lồng Tiếng - Cửu Châu Phiêu Miểu Lục" tvg-logo="https://phimimg.com/upload/vod/20250711-1/97bbf7d55a978b84b049278550cd3f8a.jpg",🎬 Cửu Châu Phiêu Miểu Lục - Tập 16 (Lồng Tiếng)
+https://s6.kkphimplayer6.com/20250711/vo6AOO9D/index.m3u8
+#EXTINF:-1 group-title="🎬 HH3D Lồng Tiếng - Cửu Châu Phiêu Miểu Lục" tvg-logo="https://phimimg.com/upload/vod/20250711-1/97bbf7d55a978b84b049278550cd3f8a.jpg",🎬 Cửu Châu Phiêu Miểu Lục - Tập 17 (Lồng Tiếng)
+https://s6.kkphimplayer6.com/20250711/Hduz41f0/index.m3u8
+#EXTINF:-1 group-title="🎬 HH3D Lồng Tiếng - Cửu Châu Phiêu Miểu Lục" tvg-logo="https://phimimg.com/upload/vod/20250711-1/97bbf7d55a978b84b049278550cd3f8a.jpg",🎬 Cửu Châu Phiêu Miểu Lục - Tập 18 (Lồng Tiếng)
+https://s6.kkphimplayer6.com/20250711/nrD6OPYK/index.m3u8
+#EXTINF:-1 group-title="🎬 HH3D Lồng Tiếng - Cửu Châu Phiêu Miểu Lục" tvg-logo="https://phimimg.com/upload/vod/20250711-1/97bbf7d55a978b84b049278550cd3f8a.jpg",🎬 Cửu Châu Phiêu Miểu Lục - Tập 19 (Lồng Tiếng)
+https://s6.kkphimplayer6.com/20250711/OdYL60BX/index.m3u8
+#EXTINF:-1 group-title="🎬 HH3D Lồng Tiếng - Cửu Châu Phiêu Miểu Lục" tvg-logo="https://phimimg.com/upload/vod/20250711-1/97bbf7d55a978b84b049278550cd3f8a.jpg",🎬 Cửu Châu Phiêu Miểu Lục - Tập 20 (Lồng Tiếng)
+https://s6.kkphimplayer6.com/20250711/L7Hv9qPl/index.m3u8
+#EXTINF:-1 group-title="🎬 HH3D Lồng Tiếng - Cửu Châu Phiêu Miểu Lục" tvg-logo="https://phimimg.com/upload/vod/20250711-1/97bbf7d55a978b84b049278550cd3f8a.jpg",🎬 Cửu Châu Phiêu Miểu Lục - Tập 21 (Lồng Tiếng)
+https://s6.kkphimplayer6.com/20250711/31sdboOM/index.m3u8
+#EXTINF:-1 group-title="🎬 HH3D Lồng Tiếng - Cửu Châu Phiêu Miểu Lục" tvg-logo="https://phimimg.com/upload/vod/20250711-1/97bbf7d55a978b84b049278550cd3f8a.jpg",🎬 Cửu Châu Phiêu Miểu Lục - Tập 22 (Lồng Tiếng)
+https://s6.kkphimplayer6.com/20250711/FoB1cDFF/index.m3u8
+#EXTINF:-1 group-title="🎬 HH3D Lồng Tiếng - Cửu Châu Phiêu Miểu Lục" tvg-logo="https://phimimg.com/upload/vod/20250711-1/97bbf7d55a978b84b049278550cd3f8a.jpg",🎬 Cửu Châu Phiêu Miểu Lục - Tập 23 (Lồng Tiếng)
+https://s6.kkphimplayer6.com/20250711/sk5U21aO/index.m3u8
+#EXTINF:-1 group-title="🎬 HH3D Lồng Tiếng - Cửu Châu Phiêu Miểu Lục" tvg-logo="https://phimimg.com/upload/vod/20250711-1/97bbf7d55a978b84b049278550cd3f8a.jpg",🎬 Cửu Châu Phiêu Miểu Lục - Tập 24 (Lồng Tiếng)
+https://s6.kkphimplayer6.com/20250711/GliITRUZ/index.m3u8
+#EXTINF:-1 group-title="🎬 HH3D Lồng Tiếng - Cửu Châu Phiêu Miểu Lục" tvg-logo="https://phimimg.com/upload/vod/20250711-1/97bbf7d55a978b84b049278550cd3f8a.jpg",🎬 Cửu Châu Phiêu Miểu Lục - Tập 25 (Lồng Tiếng)
+https://s6.kkphimplayer6.com/20250711/UtsDX29y/index.m3u8
+#EXTINF:-1 group-title="🎬 HH3D Lồng Tiếng - Cửu Châu Phiêu Miểu Lục" tvg-logo="https://phimimg.com/upload/vod/20250711-1/97bbf7d55a978b84b049278550cd3f8a.jpg",🎬 Cửu Châu Phiêu Miểu Lục - Tập 26 (Lồng Tiếng)
+https://s6.kkphimplayer6.com/20250711/tuqUTgkw/index.m3u8
+#EXTINF:-1 group-title="🎬 HH3D Lồng Tiếng - Cửu Châu Phiêu Miểu Lục" tvg-logo="https://phimimg.com/upload/vod/20250711-1/97bbf7d55a978b84b049278550cd3f8a.jpg",🎬 Cửu Châu Phiêu Miểu Lục - Tập 27 (Lồng Tiếng)
+https://s6.kkphimplayer6.com/20250711/5RNhTzvT/index.m3u8
+#EXTINF:-1 group-title="🎬 HH3D Lồng Tiếng - Cửu Châu Phiêu Miểu Lục" tvg-logo="https://phimimg.com/upload/vod/20250711-1/97bbf7d55a978b84b049278550cd3f8a.jpg",🎬 Cửu Châu Phiêu Miểu Lục - Tập 28 (Lồng Tiếng)
+https://s6.kkphimplayer6.com/20250711/Of3yf7Vs/index.m3u8
+#EXTINF:-1 group-title="🎬 HH3D Lồng Tiếng - Cửu Châu Phiêu Miểu Lục" tvg-logo="https://phimimg.com/upload/vod/20250711-1/97bbf7d55a978b84b049278550cd3f8a.jpg",🎬 Cửu Châu Phiêu Miểu Lục - Tập 29 (Lồng Tiếng)
+https://s6.kkphimplayer6.com/20250711/uZYHrkoz/index.m3u8
+#EXTINF:-1 group-title="🎬 HH3D Lồng Tiếng - Cửu Châu Phiêu Miểu Lục" tvg-logo="https://phimimg.com/upload/vod/20250711-1/97bbf7d55a978b84b049278550cd3f8a.jpg",🎬 Cửu Châu Phiêu Miểu Lục - Tập 30 (Lồng Tiếng)
+https://s6.kkphimplayer6.com/20250711/TbOlPsOT/index.m3u8
+#EXTINF:-1 group-title="🎬 HH3D Lồng Tiếng - Cửu Châu Phiêu Miểu Lục" tvg-logo="https://phimimg.com/upload/vod/20250711-1/97bbf7d55a978b84b049278550cd3f8a.jpg",🎬 Cửu Châu Phiêu Miểu Lục - Tập 31 (Lồng Tiếng)
+https://s6.kkphimplayer6.com/20250711/3kuP0YnU/index.m3u8
+#EXTINF:-1 group-title="🎬 HH3D Lồng Tiếng - Cửu Châu Phiêu Miểu Lục" tvg-logo="https://phimimg.com/upload/vod/20250711-1/97bbf7d55a978b84b049278550cd3f8a.jpg",🎬 Cửu Châu Phiêu Miểu Lục - Tập 32 (Lồng Tiếng)
+https://s6.kkphimplayer6.com/20250711/Fvn7YMsx/index.m3u8
+#EXTINF:-1 group-title="🎬 HH3D Lồng Tiếng - Cửu Châu Phiêu Miểu Lục" tvg-logo="https://phimimg.com/upload/vod/20250711-1/97bbf7d55a978b84b049278550cd3f8a.jpg",🎬 Cửu Châu Phiêu Miểu Lục - Tập 33 (Lồng Tiếng)
+https://s6.kkphimplayer6.com/20250711/k2zTNjTE/index.m3u8
+#EXTINF:-1 group-title="🎬 HH3D Lồng Tiếng - Cửu Châu Phiêu Miểu Lục" tvg-logo="https://phimimg.com/upload/vod/20250711-1/97bbf7d55a978b84b049278550cd3f8a.jpg",🎬 Cửu Châu Phiêu Miểu Lục - Tập 34 (Lồng Tiếng)
+https://s6.kkphimplayer6.com/20250711/JYcrjxSI/index.m3u8
+#EXTINF:-1 group-title="🎬 HH3D Lồng Tiếng - Cửu Châu Phiêu Miểu Lục" tvg-logo="https://phimimg.com/upload/vod/20250711-1/97bbf7d55a978b84b049278550cd3f8a.jpg",🎬 Cửu Châu Phiêu Miểu Lục - Tập 35 (Lồng Tiếng)
+https://s6.kkphimplayer6.com/20250711/cbNUDpfL/index.m3u8
+#EXTINF:-1 group-title="🎬 HH3D Lồng Tiếng - Cửu Châu Phiêu Miểu Lục" tvg-logo="https://phimimg.com/upload/vod/20250711-1/97bbf7d55a978b84b049278550cd3f8a.jpg",🎬 Cửu Châu Phiêu Miểu Lục - Tập 36 (Lồng Tiếng)
+https://s6.kkphimplayer6.com/20250711/8wd93Fy2/index.m3u8
+#EXTINF:-1 group-title="🎬 HH3D Lồng Tiếng - Cửu Châu Phiêu Miểu Lục" tvg-logo="https://phimimg.com/upload/vod/20250711-1/97bbf7d55a978b84b049278550cd3f8a.jpg",🎬 Cửu Châu Phiêu Miểu Lục - Tập 37 (Lồng Tiếng)
+https://s6.kkphimplayer6.com/20250711/2kYLh4iO/index.m3u8
+#EXTINF:-1 group-title="🎬 HH3D Lồng Tiếng - Cửu Châu Phiêu Miểu Lục" tvg-logo="https://phimimg.com/upload/vod/20250711-1/97bbf7d55a978b84b049278550cd3f8a.jpg",🎬 Cửu Châu Phiêu Miểu Lục - Tập 38 (Lồng Tiếng)
+https://s6.kkphimplayer6.com/20250711/c9p9Y5P3/index.m3u8
+#EXTINF:-1 group-title="🎬 HH3D Lồng Tiếng - Cửu Châu Phiêu Miểu Lục" tvg-logo="https://phimimg.com/upload/vod/20250711-1/97bbf7d55a978b84b049278550cd3f8a.jpg",🎬 Cửu Châu Phiêu Miểu Lục - Tập 39 (Lồng Tiếng)
+https://s6.kkphimplayer6.com/20250711/k7Gqc6sI/index.m3u8
+#EXTINF:-1 group-title="🎬 HH3D Lồng Tiếng - Cửu Châu Phiêu Miểu Lục" tvg-logo="https://phimimg.com/upload/vod/20250711-1/97bbf7d55a978b84b049278550cd3f8a.jpg",🎬 Cửu Châu Phiêu Miểu Lục - Tập 40 (Lồng Tiếng)
+https://s6.kkphimplayer6.com/20250711/X2ApRuCN/index.m3u8
+#EXTINF:-1 group-title="🎬 HH3D Lồng Tiếng - Cửu Châu Phiêu Miểu Lục" tvg-logo="https://phimimg.com/upload/vod/20250711-1/97bbf7d55a978b84b049278550cd3f8a.jpg",🎬 Cửu Châu Phiêu Miểu Lục - Tập 41 (Lồng Tiếng)
+https://s6.kkphimplayer6.com/20250711/NXcesSsM/index.m3u8
+#EXTINF:-1 group-title="🎬 HH3D Lồng Tiếng - Cửu Châu Phiêu Miểu Lục" tvg-logo="https://phimimg.com/upload/vod/20250711-1/97bbf7d55a978b84b049278550cd3f8a.jpg",🎬 Cửu Châu Phiêu Miểu Lục - Tập 42 (Lồng Tiếng)
+https://s6.kkphimplayer6.com/20250711/PjydPTLC/index.m3u8
+#EXTINF:-1 group-title="🎬 HH3D Lồng Tiếng - Cửu Châu Phiêu Miểu Lục" tvg-logo="https://phimimg.com/upload/vod/20250711-1/97bbf7d55a978b84b049278550cd3f8a.jpg",🎬 Cửu Châu Phiêu Miểu Lục - Tập 43 (Lồng Tiếng)
+https://s6.kkphimplayer6.com/20250711/VFDjQfLw/index.m3u8
+#EXTINF:-1 group-title="🎬 HH3D Lồng Tiếng - Cửu Châu Phiêu Miểu Lục" tvg-logo="https://phimimg.com/upload/vod/20250711-1/97bbf7d55a978b84b049278550cd3f8a.jpg",🎬 Cửu Châu Phiêu Miểu Lục - Tập 44 (Lồng Tiếng)
+https://s6.kkphimplayer6.com/20250711/K7Sggak6/index.m3u8
+#EXTINF:-1 group-title="🎬 HH3D Lồng Tiếng - Cửu Châu Phiêu Miểu Lục" tvg-logo="https://phimimg.com/upload/vod/20250711-1/97bbf7d55a978b84b049278550cd3f8a.jpg",🎬 Cửu Châu Phiêu Miểu Lục - Tập 45 (Lồng Tiếng)
+https://s6.kkphimplayer6.com/20250711/s53oRBFJ/index.m3u8
+#EXTINF:-1 group-title="🎬 HH3D Lồng Tiếng - Cửu Châu Phiêu Miểu Lục" tvg-logo="https://phimimg.com/upload/vod/20250711-1/97bbf7d55a978b84b049278550cd3f8a.jpg",🎬 Cửu Châu Phiêu Miểu Lục - Tập 46 (Lồng Tiếng)
+https://s6.kkphimplayer6.com/20250711/OB5CQrab/index.m3u8
+#EXTINF:-1 group-title="🎬 HH3D Lồng Tiếng - Cửu Châu Phiêu Miểu Lục" tvg-logo="https://phimimg.com/upload/vod/20250711-1/97bbf7d55a978b84b049278550cd3f8a.jpg",🎬 Cửu Châu Phiêu Miểu Lục - Tập 47 (Lồng Tiếng)
+https://s6.kkphimplayer6.com/20250711/a31GNmzO/index.m3u8
+#EXTINF:-1 group-title="🎬 HH3D Lồng Tiếng - Cửu Châu Phiêu Miểu Lục" tvg-logo="https://phimimg.com/upload/vod/20250711-1/97bbf7d55a978b84b049278550cd3f8a.jpg",🎬 Cửu Châu Phiêu Miểu Lục - Tập 48 (Lồng Tiếng)
+https://s6.kkphimplayer6.com/20250711/VfmIQLWW/index.m3u8
+#EXTINF:-1 group-title="🎬 HH3D Lồng Tiếng - Cửu Châu Phiêu Miểu Lục" tvg-logo="https://phimimg.com/upload/vod/20250711-1/97bbf7d55a978b84b049278550cd3f8a.jpg",🎬 Cửu Châu Phiêu Miểu Lục - Tập 49 (Lồng Tiếng)
+https://s6.kkphimplayer6.com/20250711/PexQn8fh/index.m3u8
+#EXTINF:-1 group-title="🎬 HH3D Lồng Tiếng - Cửu Châu Phiêu Miểu Lục" tvg-logo="https://phimimg.com/upload/vod/20250711-1/97bbf7d55a978b84b049278550cd3f8a.jpg",🎬 Cửu Châu Phiêu Miểu Lục - Tập 50 (Lồng Tiếng)
+https://s6.kkphimplayer6.com/20250711/b7gXv4bL/index.m3u8
+#EXTINF:-1 group-title="🎬 HH3D Lồng Tiếng - Cửu Châu Phiêu Miểu Lục" tvg-logo="https://phimimg.com/upload/vod/20250711-1/97bbf7d55a978b84b049278550cd3f8a.jpg",🎬 Cửu Châu Phiêu Miểu Lục - Tập 51 (Lồng Tiếng)
+https://s6.kkphimplayer6.com/20250711/PFP0m4wC/index.m3u8
+#EXTINF:-1 group-title="🎬 HH3D Lồng Tiếng - Cửu Châu Phiêu Miểu Lục" tvg-logo="https://phimimg.com/upload/vod/20250711-1/97bbf7d55a978b84b049278550cd3f8a.jpg",🎬 Cửu Châu Phiêu Miểu Lục - Tập 52 (Lồng Tiếng)
+https://s6.kkphimplayer6.com/20250711/0evLO1Hj/index.m3u8
+#EXTINF:-1 group-title="🎬 HH3D Lồng Tiếng - Cửu Châu Phiêu Miểu Lục" tvg-logo="https://phimimg.com/upload/vod/20250711-1/97bbf7d55a978b84b049278550cd3f8a.jpg",🎬 Cửu Châu Phiêu Miểu Lục - Tập 53 (Lồng Tiếng)
+https://s6.kkphimplayer6.com/20250711/VCRqS5WF/index.m3u8
+#EXTINF:-1 group-title="🎬 HH3D Lồng Tiếng - Cửu Châu Phiêu Miểu Lục" tvg-logo="https://phimimg.com/upload/vod/20250711-1/97bbf7d55a978b84b049278550cd3f8a.jpg",🎬 Cửu Châu Phiêu Miểu Lục - Tập 54 (Lồng Tiếng)
+https://s6.kkphimplayer6.com/20250711/9xKEk2UF/index.m3u8
+#EXTINF:-1 group-title="🎬 HH3D Lồng Tiếng - Cửu Châu Phiêu Miểu Lục" tvg-logo="https://phimimg.com/upload/vod/20250711-1/97bbf7d55a978b84b049278550cd3f8a.jpg",🎬 Cửu Châu Phiêu Miểu Lục - Tập 55 (Lồng Tiếng)
+https://s6.kkphimplayer6.com/20250711/yQSERKlc/index.m3u8
+#EXTINF:-1 group-title="🎬 HH3D Lồng Tiếng - Cửu Châu Phiêu Miểu Lục" tvg-logo="https://phimimg.com/upload/vod/20250711-1/97bbf7d55a978b84b049278550cd3f8a.jpg",🎬 Cửu Châu Phiêu Miểu Lục - Tập 56 (Lồng Tiếng)
+https://s6.kkphimplayer6.com/20250711/WqhCcV3I/index.m3u8
+#EXTINF:-1 group-title="🎬 HH3D Lồng Tiếng - Nhà Cún Của Doozie" tvg-logo="https://phimimg.com/uploads/movies/20261113/nha-cun-cua-doozie-poster.webp",🎬 Nhà Cún Của Doozie - Tập 01 (Lồng Tiếng)
+https://a.kvp726.com/20261112/FuLxgCre/index.m3u8
+#EXTINF:-1 group-title="🎬 HH3D Lồng Tiếng - Nhà Cún Của Doozie" tvg-logo="https://phimimg.com/uploads/movies/20261113/nha-cun-cua-doozie-poster.webp",🎬 Nhà Cún Của Doozie - Tập 02 (Lồng Tiếng)
+https://a.kvp726.com/20261112/mHcH2Dxg/index.m3u8
+#EXTINF:-1 group-title="🎬 HH3D Lồng Tiếng - Nhà Cún Của Doozie" tvg-logo="https://phimimg.com/uploads/movies/20261113/nha-cun-cua-doozie-poster.webp",🎬 Nhà Cún Của Doozie - Tập 04 (Lồng Tiếng)
+https://a.kvp726.com/20261112/OMgnGC9h/index.m3u8
+#EXTINF:-1 group-title="🎬 HH3D Lồng Tiếng - Nhà Cún Của Doozie" tvg-logo="https://phimimg.com/uploads/movies/20261113/nha-cun-cua-doozie-poster.webp",🎬 Nhà Cún Của Doozie - Tập 05 (Lồng Tiếng)
+https://a.kvp726.com/20261112/3dcI4u6l/index.m3u8
+#EXTINF:-1 group-title="🎬 HH3D Lồng Tiếng - Nhà Cún Của Doozie" tvg-logo="https://phimimg.com/uploads/movies/20261113/nha-cun-cua-doozie-poster.webp",🎬 Nhà Cún Của Doozie - Tập 06 (Lồng Tiếng)
+https://a.kvp726.com/20261112/EkDrJXa1/index.m3u8
+#EXTINF:-1 group-title="🎬 HH3D Lồng Tiếng - Nhà Cún Của Doozie" tvg-logo="https://phimimg.com/uploads/movies/20261113/nha-cun-cua-doozie-poster.webp",🎬 Nhà Cún Của Doozie - Tập 07 (Lồng Tiếng)
+https://a.kvp726.com/20261112/D0qEeWnf/index.m3u8
+#EXTINF:-1 group-title="🎬 HH3D Lồng Tiếng - Phim Super Mario Thiên Hà" tvg-logo="https://phimimg.com/upload/vod/20260508-1/6bf821d68045c5310a192c5244992ac0.jpg",🎬 Phim Super Mario Thiên Hà - Full (Lồng Tiếng)
+https://v7.kkphimplayer7.com/20260809/LZ6OHym6/index.m3u8
+#EXTINF:-1 group-title="🎬 HH3D Lồng Tiếng - Shin - Cậu Bé Bút Chì 17: Gầm! Vương Quốc Hoang Dã Kasukabe" tvg-logo="https://phimimg.com/uploads/movies/20260818/shin-cau-be-but-chi-17-gam-vuong-quoc-hoang-da-kasukabe-poster.webp",🎬 Shin - Cậu Bé Bút Chì 17: Gầm! Vương Quốc Hoang Dã Kasukabe - Full (Lồng Tiếng)
+https://v7.kkphimplayer7.com/20260817/zqKMSnzU/index.m3u8
+#EXTINF:-1 group-title="🎬 HH3D Lồng Tiếng - Shin - Cậu Bé Bút Chì 26: Kungfu Boys ~ Mì Ramen Đại Chiến ~" tvg-logo="https://phimimg.com/uploads/movies/20260815/shin-cau-be-but-chi-26-kungfu-boys-mi-ramen-dai-chien-poster.webp",🎬 Shin - Cậu Bé Bút Chì 26: Kungfu Boys ~ Mì Ramen Đại Chiến ~ - Full (Lồng Tiếng)
+https://v7.kkphimplayer7.com/20260814/zOdzxjZW/index.m3u8
 #EXTINF:-1 group-title="🎬 HH3D Lồng Tiếng - Song Mệnh Cõi Hoàng Tuyền" tvg-logo="https://phimimg.com/upload/vod/20260406-1/3c48ae9098dc344eb0dd90b9ed136bcd.jpg",🎬 Song Mệnh Cõi Hoàng Tuyền - Tập 01 (Lồng Tiếng)
 https://v7.kkphimplayer7.com/20260707/RlAtjlsX/index.m3u8
 #EXTINF:-1 group-title="🎬 HH3D Lồng Tiếng - Song Mệnh Cõi Hoàng Tuyền" tvg-logo="https://phimimg.com/upload/vod/20260406-1/3c48ae9098dc344eb0dd90b9ed136bcd.jpg",🎬 Song Mệnh Cõi Hoàng Tuyền - Tập 02 (Lồng Tiếng)
@@ -975,208 +1075,626 @@ https://a.kvp726.com/20261101/TZ8tKHeR/index.m3u8
 https://a.kvp726.com/20261108/RXyYBalW/index.m3u8
 #EXTINF:-1 group-title="🎬 HH3D Lồng Tiếng - Song Mệnh Cõi Hoàng Tuyền" tvg-logo="https://phimimg.com/upload/vod/20260406-1/3c48ae9098dc344eb0dd90b9ed136bcd.jpg",🎬 Song Mệnh Cõi Hoàng Tuyền - Tập 24 (Lồng Tiếng)
 https://a.kvp726.com/20261114/CAzgysFr/index.m3u8
-#EXTINF:-1 group-title="🎬 HH3D Lồng Tiếng - Thám Tử Lừng Danh Conan 15: 15 Phút Tĩnh Lặng" tvg-logo="https://phimimg.com/upload/vod/20231019-1/552ca207f81a03a99b2f1e4f7dea6475.jpg",🎬 Thám Tử Lừng Danh Conan 15: 15 Phút Tĩnh Lặng - Full (Lồng Tiếng)
-https://s3.phim1280.tv/20240819/3kyh6069/index.m3u8
 #EXTINF:-1 group-title="🎬 HH3D Lồng Tiếng - Thám Tử Lừng Danh Conan: Sát Thủ Bắn Tỉa Không Tưởng" tvg-logo="https://phimimg.com/uploads/movies/20260804/tham-tu-lung-danh-conan-sat-thu-ban-tia-khong-tuong-poster.webp",🎬 Thám Tử Lừng Danh Conan: Sát Thủ Bắn Tỉa Không Tưởng - Full (Lồng Tiếng)
 https://s3.phim1280.tv/20240819/7gqQaj7b/index.m3u8
-#EXTINF:-1 group-title="🎬 HH3D Lồng Tiếng - Đấu Phá Thương Khung" tvg-logo="https://phimimg.com/uploads/movies/20260907/dau-pha-thuong-khung-phan-1-2018-poster.webp",🎬 Đấu Phá Thương Khung - Tập 01 (Lồng Tiếng)
-https://v7.kkphimplayer7.com/20260906/Mgr6mA8N/index.m3u8
-#EXTINF:-1 group-title="🎬 HH3D Lồng Tiếng - Đấu Phá Thương Khung" tvg-logo="https://phimimg.com/uploads/movies/20260907/dau-pha-thuong-khung-phan-1-2018-poster.webp",🎬 Đấu Phá Thương Khung - Tập 02 (Lồng Tiếng)
-https://v7.kkphimplayer7.com/20260906/D3a7x5J4/index.m3u8
-#EXTINF:-1 group-title="🎬 HH3D Lồng Tiếng - Đấu Phá Thương Khung" tvg-logo="https://phimimg.com/uploads/movies/20260907/dau-pha-thuong-khung-phan-1-2018-poster.webp",🎬 Đấu Phá Thương Khung - Tập 03 (Lồng Tiếng)
-https://v7.kkphimplayer7.com/20260906/SepASoKN/index.m3u8
-#EXTINF:-1 group-title="🎬 HH3D Lồng Tiếng - Đấu Phá Thương Khung" tvg-logo="https://phimimg.com/uploads/movies/20260907/dau-pha-thuong-khung-phan-1-2018-poster.webp",🎬 Đấu Phá Thương Khung - Tập 04 (Lồng Tiếng)
-https://v7.kkphimplayer7.com/20260906/DOHzFifz/index.m3u8
-#EXTINF:-1 group-title="🎬 HH3D Lồng Tiếng - Đấu Phá Thương Khung" tvg-logo="https://phimimg.com/uploads/movies/20260907/dau-pha-thuong-khung-phan-1-2018-poster.webp",🎬 Đấu Phá Thương Khung - Tập 05 (Lồng Tiếng)
-https://v7.kkphimplayer7.com/20260906/Th7J0im3/index.m3u8
-#EXTINF:-1 group-title="🎬 HH3D Lồng Tiếng - Đấu Phá Thương Khung" tvg-logo="https://phimimg.com/uploads/movies/20260907/dau-pha-thuong-khung-phan-1-2018-poster.webp",🎬 Đấu Phá Thương Khung - Tập 06 (Lồng Tiếng)
-https://v7.kkphimplayer7.com/20260906/Zjir9eUL/index.m3u8
-#EXTINF:-1 group-title="🎬 HH3D Lồng Tiếng - Đấu Phá Thương Khung" tvg-logo="https://phimimg.com/uploads/movies/20260907/dau-pha-thuong-khung-phan-1-2018-poster.webp",🎬 Đấu Phá Thương Khung - Tập 07 (Lồng Tiếng)
-https://v7.kkphimplayer7.com/20260906/EpkmwOxz/index.m3u8
-#EXTINF:-1 group-title="🎬 HH3D Lồng Tiếng - Đấu Phá Thương Khung" tvg-logo="https://phimimg.com/uploads/movies/20260907/dau-pha-thuong-khung-phan-1-2018-poster.webp",🎬 Đấu Phá Thương Khung - Tập 08 (Lồng Tiếng)
-https://v7.kkphimplayer7.com/20260906/M1qbydRr/index.m3u8
-#EXTINF:-1 group-title="🎬 HH3D Lồng Tiếng - Đấu Phá Thương Khung" tvg-logo="https://phimimg.com/uploads/movies/20260907/dau-pha-thuong-khung-phan-1-2018-poster.webp",🎬 Đấu Phá Thương Khung - Tập 09 (Lồng Tiếng)
-https://v7.kkphimplayer7.com/20260906/R1ey5GgA/index.m3u8
-#EXTINF:-1 group-title="🎬 HH3D Lồng Tiếng - Đấu Phá Thương Khung" tvg-logo="https://phimimg.com/uploads/movies/20260907/dau-pha-thuong-khung-phan-1-2018-poster.webp",🎬 Đấu Phá Thương Khung - Tập 10 (Lồng Tiếng)
-https://v7.kkphimplayer7.com/20260907/cM8UQ3QE/index.m3u8
-#EXTINF:-1 group-title="🎬 HH3D Lồng Tiếng - Đấu Phá Thương Khung" tvg-logo="https://phimimg.com/uploads/movies/20260907/dau-pha-thuong-khung-phan-1-2018-poster.webp",🎬 Đấu Phá Thương Khung - Tập 11 (Lồng Tiếng)
-https://v7.kkphimplayer7.com/20260906/i0e05H0m/index.m3u8
-#EXTINF:-1 group-title="🎬 HH3D Lồng Tiếng - Đấu Phá Thương Khung" tvg-logo="https://phimimg.com/uploads/movies/20260907/dau-pha-thuong-khung-phan-1-2018-poster.webp",🎬 Đấu Phá Thương Khung - Tập 12 (Lồng Tiếng)
-https://v7.kkphimplayer7.com/20260906/EPkGE8CY/index.m3u8
-#EXTINF:-1 group-title="🎬 HH3D Lồng Tiếng - Đấu Phá Thương Khung" tvg-logo="https://phimimg.com/uploads/movies/20260907/dau-pha-thuong-khung-phan-1-2018-poster.webp",🎬 Đấu Phá Thương Khung - Tập 13 (Lồng Tiếng)
-https://v7.kkphimplayer7.com/20260906/nT42Y7R8/index.m3u8
-#EXTINF:-1 group-title="🎬 HH3D Lồng Tiếng - Đấu Phá Thương Khung" tvg-logo="https://phimimg.com/uploads/movies/20260907/dau-pha-thuong-khung-phan-1-2018-poster.webp",🎬 Đấu Phá Thương Khung - Tập 14 (Lồng Tiếng)
-https://v7.kkphimplayer7.com/20260906/O95bkORH/index.m3u8
-#EXTINF:-1 group-title="🎬 HH3D Lồng Tiếng - Đấu Phá Thương Khung" tvg-logo="https://phimimg.com/uploads/movies/20260907/dau-pha-thuong-khung-phan-1-2018-poster.webp",🎬 Đấu Phá Thương Khung - Tập 15 (Lồng Tiếng)
-https://v7.kkphimplayer7.com/20260906/z18lvKy7/index.m3u8
-#EXTINF:-1 group-title="🎬 HH3D Lồng Tiếng - Đấu Phá Thương Khung" tvg-logo="https://phimimg.com/uploads/movies/20260907/dau-pha-thuong-khung-phan-1-2018-poster.webp",🎬 Đấu Phá Thương Khung - Tập 16 (Lồng Tiếng)
-https://v7.kkphimplayer7.com/20260906/APGAVtpr/index.m3u8
-#EXTINF:-1 group-title="🎬 HH3D Lồng Tiếng - Đấu Phá Thương Khung" tvg-logo="https://phimimg.com/uploads/movies/20260907/dau-pha-thuong-khung-phan-1-2018-poster.webp",🎬 Đấu Phá Thương Khung - Tập 17 (Lồng Tiếng)
-https://v7.kkphimplayer7.com/20260906/5c1t6021/index.m3u8
-#EXTINF:-1 group-title="🎬 HH3D Lồng Tiếng - Đấu Phá Thương Khung" tvg-logo="https://phimimg.com/uploads/movies/20260907/dau-pha-thuong-khung-phan-1-2018-poster.webp",🎬 Đấu Phá Thương Khung - Tập 18 (Lồng Tiếng)
-https://v7.kkphimplayer7.com/20260906/hSoVCfRu/index.m3u8
-#EXTINF:-1 group-title="🎬 HH3D Lồng Tiếng - Đấu Phá Thương Khung" tvg-logo="https://phimimg.com/uploads/movies/20260907/dau-pha-thuong-khung-phan-1-2018-poster.webp",🎬 Đấu Phá Thương Khung - Tập 19 (Lồng Tiếng)
-https://v7.kkphimplayer7.com/20260906/zU2hdZlC/index.m3u8
-#EXTINF:-1 group-title="🎬 HH3D Lồng Tiếng - Đấu Phá Thương Khung" tvg-logo="https://phimimg.com/uploads/movies/20260907/dau-pha-thuong-khung-phan-1-2018-poster.webp",🎬 Đấu Phá Thương Khung - Tập 20 (Lồng Tiếng)
-https://v7.kkphimplayer7.com/20260906/QIRqUiRn/index.m3u8
-#EXTINF:-1 group-title="🎬 HH3D Lồng Tiếng - Đấu Phá Thương Khung" tvg-logo="https://phimimg.com/uploads/movies/20260907/dau-pha-thuong-khung-phan-1-2018-poster.webp",🎬 Đấu Phá Thương Khung - Tập 21 (Lồng Tiếng)
-https://v7.kkphimplayer7.com/20260906/ORazTlbL/index.m3u8
-#EXTINF:-1 group-title="🎬 HH3D Lồng Tiếng - Đấu Phá Thương Khung" tvg-logo="https://phimimg.com/uploads/movies/20260907/dau-pha-thuong-khung-phan-1-2018-poster.webp",🎬 Đấu Phá Thương Khung - Tập 22 (Lồng Tiếng)
-https://v7.kkphimplayer7.com/20260906/sXGI1oHU/index.m3u8
-#EXTINF:-1 group-title="🎬 HH3D Lồng Tiếng - Đấu Phá Thương Khung" tvg-logo="https://phimimg.com/uploads/movies/20260907/dau-pha-thuong-khung-phan-1-2018-poster.webp",🎬 Đấu Phá Thương Khung - Tập 23 (Lồng Tiếng)
-https://v7.kkphimplayer7.com/20260906/3Tu4t11a/index.m3u8
-#EXTINF:-1 group-title="🎬 HH3D Lồng Tiếng - Đấu Phá Thương Khung" tvg-logo="https://phimimg.com/uploads/movies/20260907/dau-pha-thuong-khung-phan-1-2018-poster.webp",🎬 Đấu Phá Thương Khung - Tập 24 (Lồng Tiếng)
-https://v7.kkphimplayer7.com/20260906/atkcUJ3j/index.m3u8
-#EXTINF:-1 group-title="🎬 HH3D Lồng Tiếng - Đấu Phá Thương Khung" tvg-logo="https://phimimg.com/uploads/movies/20260907/dau-pha-thuong-khung-phan-1-2018-poster.webp",🎬 Đấu Phá Thương Khung - Tập 25 (Lồng Tiếng)
-https://v7.kkphimplayer7.com/20260906/LyGrZlGQ/index.m3u8
-#EXTINF:-1 group-title="🎬 HH3D Lồng Tiếng - Đấu Phá Thương Khung" tvg-logo="https://phimimg.com/uploads/movies/20260907/dau-pha-thuong-khung-phan-1-2018-poster.webp",🎬 Đấu Phá Thương Khung - Tập 26 (Lồng Tiếng)
-https://v7.kkphimplayer7.com/20260906/qcLaCdZ1/index.m3u8
-#EXTINF:-1 group-title="🎬 HH3D Lồng Tiếng - Đấu Phá Thương Khung" tvg-logo="https://phimimg.com/uploads/movies/20260907/dau-pha-thuong-khung-phan-1-2018-poster.webp",🎬 Đấu Phá Thương Khung - Tập 27 (Lồng Tiếng)
-https://v7.kkphimplayer7.com/20260906/gXoO1Z4U/index.m3u8
-#EXTINF:-1 group-title="🎬 HH3D Lồng Tiếng - Đấu Phá Thương Khung" tvg-logo="https://phimimg.com/uploads/movies/20260907/dau-pha-thuong-khung-phan-1-2018-poster.webp",🎬 Đấu Phá Thương Khung - Tập 28 (Lồng Tiếng)
-https://v7.kkphimplayer7.com/20260906/3CU1yQey/index.m3u8
-#EXTINF:-1 group-title="🎬 HH3D Lồng Tiếng - Đấu Phá Thương Khung" tvg-logo="https://phimimg.com/uploads/movies/20260907/dau-pha-thuong-khung-phan-1-2018-poster.webp",🎬 Đấu Phá Thương Khung - Tập 29 (Lồng Tiếng)
-https://v7.kkphimplayer7.com/20260906/9eOGTGD4/index.m3u8
-#EXTINF:-1 group-title="🎬 HH3D Lồng Tiếng - Đấu Phá Thương Khung" tvg-logo="https://phimimg.com/uploads/movies/20260907/dau-pha-thuong-khung-phan-1-2018-poster.webp",🎬 Đấu Phá Thương Khung - Tập 30 (Lồng Tiếng)
-https://v7.kkphimplayer7.com/20260906/qGRvw6Us/index.m3u8
-#EXTINF:-1 group-title="🎬 HH3D Lồng Tiếng - Đấu Phá Thương Khung" tvg-logo="https://phimimg.com/uploads/movies/20260907/dau-pha-thuong-khung-phan-1-2018-poster.webp",🎬 Đấu Phá Thương Khung - Tập 31 (Lồng Tiếng)
-https://v7.kkphimplayer7.com/20260906/KrwJCPgi/index.m3u8
-#EXTINF:-1 group-title="🎬 HH3D Lồng Tiếng - Đấu Phá Thương Khung" tvg-logo="https://phimimg.com/uploads/movies/20260907/dau-pha-thuong-khung-phan-1-2018-poster.webp",🎬 Đấu Phá Thương Khung - Tập 32 (Lồng Tiếng)
-https://v7.kkphimplayer7.com/20260906/RlrhiFDb/index.m3u8
-#EXTINF:-1 group-title="🎬 HH3D Lồng Tiếng - Đấu Phá Thương Khung" tvg-logo="https://phimimg.com/uploads/movies/20260907/dau-pha-thuong-khung-phan-1-2018-poster.webp",🎬 Đấu Phá Thương Khung - Tập 33 (Lồng Tiếng)
-https://v7.kkphimplayer7.com/20260906/xjMmikAH/index.m3u8
-#EXTINF:-1 group-title="🎬 HH3D Lồng Tiếng - Đấu Phá Thương Khung" tvg-logo="https://phimimg.com/uploads/movies/20260907/dau-pha-thuong-khung-phan-1-2018-poster.webp",🎬 Đấu Phá Thương Khung - Tập 34 (Lồng Tiếng)
-https://v7.kkphimplayer7.com/20260906/yWiN51hk/index.m3u8
-#EXTINF:-1 group-title="🎬 HH3D Lồng Tiếng - Đấu Phá Thương Khung" tvg-logo="https://phimimg.com/uploads/movies/20260907/dau-pha-thuong-khung-phan-1-2018-poster.webp",🎬 Đấu Phá Thương Khung - Tập 35 (Lồng Tiếng)
-https://v7.kkphimplayer7.com/20260906/v1BPrClX/index.m3u8
-#EXTINF:-1 group-title="🎬 HH3D Lồng Tiếng - Đấu Phá Thương Khung" tvg-logo="https://phimimg.com/uploads/movies/20260907/dau-pha-thuong-khung-phan-1-2018-poster.webp",🎬 Đấu Phá Thương Khung - Tập 36 (Lồng Tiếng)
-https://v7.kkphimplayer7.com/20260906/mgPOvHra/index.m3u8
-#EXTINF:-1 group-title="🎬 HH3D Lồng Tiếng - Đấu Phá Thương Khung" tvg-logo="https://phimimg.com/uploads/movies/20260907/dau-pha-thuong-khung-phan-1-2018-poster.webp",🎬 Đấu Phá Thương Khung - Tập 37 (Lồng Tiếng)
-https://v7.kkphimplayer7.com/20260906/aMq13wt2/index.m3u8
-#EXTINF:-1 group-title="🎬 HH3D Lồng Tiếng - Đấu Phá Thương Khung" tvg-logo="https://phimimg.com/uploads/movies/20260907/dau-pha-thuong-khung-phan-1-2018-poster.webp",🎬 Đấu Phá Thương Khung - Tập 38 (Lồng Tiếng)
-https://v7.kkphimplayer7.com/20260906/n2NXk9NJ/index.m3u8
-#EXTINF:-1 group-title="🎬 HH3D Lồng Tiếng - Đấu Phá Thương Khung" tvg-logo="https://phimimg.com/uploads/movies/20260907/dau-pha-thuong-khung-phan-1-2018-poster.webp",🎬 Đấu Phá Thương Khung - Tập 39 (Lồng Tiếng)
-https://v7.kkphimplayer7.com/20260906/j2UHvK0Y/index.m3u8
-#EXTINF:-1 group-title="🎬 HH3D Lồng Tiếng - Đấu Phá Thương Khung" tvg-logo="https://phimimg.com/uploads/movies/20260907/dau-pha-thuong-khung-phan-1-2018-poster.webp",🎬 Đấu Phá Thương Khung - Tập 40 (Lồng Tiếng)
-https://v7.kkphimplayer7.com/20260906/uTNO8LKT/index.m3u8
-#EXTINF:-1 group-title="🎬 HH3D Lồng Tiếng - Đấu Phá Thương Khung" tvg-logo="https://phimimg.com/uploads/movies/20260907/dau-pha-thuong-khung-phan-1-2018-poster.webp",🎬 Đấu Phá Thương Khung - Tập 41 (Lồng Tiếng)
-https://v7.kkphimplayer7.com/20260906/prHxQgbK/index.m3u8
-#EXTINF:-1 group-title="🎬 HH3D Lồng Tiếng - Đấu Phá Thương Khung" tvg-logo="https://phimimg.com/uploads/movies/20260907/dau-pha-thuong-khung-phan-1-2018-poster.webp",🎬 Đấu Phá Thương Khung - Tập 42 (Lồng Tiếng)
-https://v7.kkphimplayer7.com/20260906/6qpHuTaH/index.m3u8
-#EXTINF:-1 group-title="🎬 HH3D Lồng Tiếng - Đấu Phá Thương Khung" tvg-logo="https://phimimg.com/uploads/movies/20260907/dau-pha-thuong-khung-phan-1-2018-poster.webp",🎬 Đấu Phá Thương Khung - Tập 43 (Lồng Tiếng)
-https://v7.kkphimplayer7.com/20260906/xmP8JeRk/index.m3u8
-#EXTINF:-1 group-title="🎬 HH3D Lồng Tiếng - Đấu Phá Thương Khung" tvg-logo="https://phimimg.com/uploads/movies/20260907/dau-pha-thuong-khung-phan-1-2018-poster.webp",🎬 Đấu Phá Thương Khung - Tập 44 (Lồng Tiếng)
-https://v7.kkphimplayer7.com/20260906/fNdV1LEW/index.m3u8
-#EXTINF:-1 group-title="🎬 HH3D Lồng Tiếng - Đấu Phá Thương Khung" tvg-logo="https://phimimg.com/uploads/movies/20260907/dau-pha-thuong-khung-phan-1-2018-poster.webp",🎬 Đấu Phá Thương Khung - Tập 45 (Lồng Tiếng)
-https://v7.kkphimplayer7.com/20260906/z6RStpm4/index.m3u8
-#EXTINF:-1 group-title="🎬 HH3D Thuyết Minh - Bạn Tôi Là Marsupilami" tvg-logo="https://phimimg.com/uploads/movies/20260817/ban-toi-la-marsupilami-poster.webp",🎬 Bạn Tôi Là Marsupilami - Tập 01 (Thuyết Minh)
-https://v7.kkphimplayer7.com/20260816/7zV94BnJ/index.m3u8
-#EXTINF:-1 group-title="🎬 HH3D Thuyết Minh - Bạn Tôi Là Marsupilami" tvg-logo="https://phimimg.com/uploads/movies/20260817/ban-toi-la-marsupilami-poster.webp",🎬 Bạn Tôi Là Marsupilami - Tập 02 (Thuyết Minh)
-https://v7.kkphimplayer7.com/20260816/wBVENRQF/index.m3u8
-#EXTINF:-1 group-title="🎬 HH3D Thuyết Minh - Bạn Tôi Là Marsupilami" tvg-logo="https://phimimg.com/uploads/movies/20260817/ban-toi-la-marsupilami-poster.webp",🎬 Bạn Tôi Là Marsupilami - Tập 03 (Thuyết Minh)
-https://v7.kkphimplayer7.com/20260816/3v0N43a6/index.m3u8
-#EXTINF:-1 group-title="🎬 HH3D Thuyết Minh - Bạn Tôi Là Marsupilami" tvg-logo="https://phimimg.com/uploads/movies/20260817/ban-toi-la-marsupilami-poster.webp",🎬 Bạn Tôi Là Marsupilami - Tập 04 (Thuyết Minh)
-https://v7.kkphimplayer7.com/20260816/1bmWRtwR/index.m3u8
-#EXTINF:-1 group-title="🎬 HH3D Thuyết Minh - Bạn Tôi Là Marsupilami" tvg-logo="https://phimimg.com/uploads/movies/20260817/ban-toi-la-marsupilami-poster.webp",🎬 Bạn Tôi Là Marsupilami - Tập 05 (Thuyết Minh)
-https://v7.kkphimplayer7.com/20260816/Qtd76iHo/index.m3u8
-#EXTINF:-1 group-title="🎬 HH3D Thuyết Minh - Bạn Tôi Là Marsupilami" tvg-logo="https://phimimg.com/uploads/movies/20260817/ban-toi-la-marsupilami-poster.webp",🎬 Bạn Tôi Là Marsupilami - Tập 06 (Thuyết Minh)
-https://v7.kkphimplayer7.com/20260816/jWZ3vCa1/index.m3u8
-#EXTINF:-1 group-title="🎬 HH3D Thuyết Minh - Bạn Tôi Là Marsupilami" tvg-logo="https://phimimg.com/uploads/movies/20260817/ban-toi-la-marsupilami-poster.webp",🎬 Bạn Tôi Là Marsupilami - Tập 07 (Thuyết Minh)
-https://v7.kkphimplayer7.com/20260816/Ap6OK996/index.m3u8
-#EXTINF:-1 group-title="🎬 HH3D Thuyết Minh - Bạn Tôi Là Marsupilami" tvg-logo="https://phimimg.com/uploads/movies/20260817/ban-toi-la-marsupilami-poster.webp",🎬 Bạn Tôi Là Marsupilami - Tập 08 (Thuyết Minh)
-https://v7.kkphimplayer7.com/20260816/oHt6drTU/index.m3u8
-#EXTINF:-1 group-title="🎬 HH3D Thuyết Minh - Bạn Tôi Là Marsupilami" tvg-logo="https://phimimg.com/uploads/movies/20260817/ban-toi-la-marsupilami-poster.webp",🎬 Bạn Tôi Là Marsupilami - Tập 09 (Thuyết Minh)
-https://v7.kkphimplayer7.com/20260816/URo32plY/index.m3u8
-#EXTINF:-1 group-title="🎬 HH3D Thuyết Minh - Bạn Tôi Là Marsupilami" tvg-logo="https://phimimg.com/uploads/movies/20260817/ban-toi-la-marsupilami-poster.webp",🎬 Bạn Tôi Là Marsupilami - Tập 10 (Thuyết Minh)
-https://v7.kkphimplayer7.com/20260816/Lb0ObD5U/index.m3u8
-#EXTINF:-1 group-title="🎬 HH3D Thuyết Minh - Bạn Tôi Là Marsupilami" tvg-logo="https://phimimg.com/uploads/movies/20260817/ban-toi-la-marsupilami-poster.webp",🎬 Bạn Tôi Là Marsupilami - Tập 11 (Thuyết Minh)
-https://v7.kkphimplayer7.com/20260816/WqjDAV5u/index.m3u8
-#EXTINF:-1 group-title="🎬 HH3D Thuyết Minh - Bạn Tôi Là Marsupilami" tvg-logo="https://phimimg.com/uploads/movies/20260817/ban-toi-la-marsupilami-poster.webp",🎬 Bạn Tôi Là Marsupilami - Tập 12 (Thuyết Minh)
-https://v7.kkphimplayer7.com/20260816/Ig5nrhUo/index.m3u8
-#EXTINF:-1 group-title="🎬 HH3D Thuyết Minh - Bạn Tôi Là Marsupilami" tvg-logo="https://phimimg.com/uploads/movies/20260817/ban-toi-la-marsupilami-poster.webp",🎬 Bạn Tôi Là Marsupilami - Tập 13 (Thuyết Minh)
-https://v7.kkphimplayer7.com/20260816/HVdIeOEG/index.m3u8
-#EXTINF:-1 group-title="🎬 HH3D Thuyết Minh - Bạn Tôi Là Marsupilami" tvg-logo="https://phimimg.com/uploads/movies/20260817/ban-toi-la-marsupilami-poster.webp",🎬 Bạn Tôi Là Marsupilami - Tập 14 (Thuyết Minh)
-https://v7.kkphimplayer7.com/20260816/3rFzLHzV/index.m3u8
-#EXTINF:-1 group-title="🎬 HH3D Thuyết Minh - Bạn Tôi Là Marsupilami" tvg-logo="https://phimimg.com/uploads/movies/20260817/ban-toi-la-marsupilami-poster.webp",🎬 Bạn Tôi Là Marsupilami - Tập 15 (Thuyết Minh)
-https://v7.kkphimplayer7.com/20260816/0Mmj7PIu/index.m3u8
-#EXTINF:-1 group-title="🎬 HH3D Thuyết Minh - Bạn Tôi Là Marsupilami" tvg-logo="https://phimimg.com/uploads/movies/20260817/ban-toi-la-marsupilami-poster.webp",🎬 Bạn Tôi Là Marsupilami - Tập 16 (Thuyết Minh)
-https://v7.kkphimplayer7.com/20260816/tNZl4BuW/index.m3u8
-#EXTINF:-1 group-title="🎬 HH3D Thuyết Minh - Bạn Tôi Là Marsupilami" tvg-logo="https://phimimg.com/uploads/movies/20260817/ban-toi-la-marsupilami-poster.webp",🎬 Bạn Tôi Là Marsupilami - Tập 17 (Thuyết Minh)
-https://v7.kkphimplayer7.com/20260816/9JzY9q20/index.m3u8
-#EXTINF:-1 group-title="🎬 HH3D Thuyết Minh - Bạn Tôi Là Marsupilami" tvg-logo="https://phimimg.com/uploads/movies/20260817/ban-toi-la-marsupilami-poster.webp",🎬 Bạn Tôi Là Marsupilami - Tập 18 (Thuyết Minh)
-https://v7.kkphimplayer7.com/20260816/UwDWvT0E/index.m3u8
-#EXTINF:-1 group-title="🎬 HH3D Thuyết Minh - Bạn Tôi Là Marsupilami" tvg-logo="https://phimimg.com/uploads/movies/20260817/ban-toi-la-marsupilami-poster.webp",🎬 Bạn Tôi Là Marsupilami - Tập 19 (Thuyết Minh)
-https://v7.kkphimplayer7.com/20260816/4Kyb14ec/index.m3u8
-#EXTINF:-1 group-title="🎬 HH3D Thuyết Minh - Bạn Tôi Là Marsupilami" tvg-logo="https://phimimg.com/uploads/movies/20260817/ban-toi-la-marsupilami-poster.webp",🎬 Bạn Tôi Là Marsupilami - Tập 20 (Thuyết Minh)
-https://v7.kkphimplayer7.com/20260816/yxaIlhgf/index.m3u8
-#EXTINF:-1 group-title="🎬 HH3D Thuyết Minh - Bạn Tôi Là Marsupilami" tvg-logo="https://phimimg.com/uploads/movies/20260817/ban-toi-la-marsupilami-poster.webp",🎬 Bạn Tôi Là Marsupilami - Tập 21 (Thuyết Minh)
-https://v7.kkphimplayer7.com/20260816/i2eGEbUC/index.m3u8
-#EXTINF:-1 group-title="🎬 HH3D Thuyết Minh - Bạn Tôi Là Marsupilami" tvg-logo="https://phimimg.com/uploads/movies/20260817/ban-toi-la-marsupilami-poster.webp",🎬 Bạn Tôi Là Marsupilami - Tập 22 (Thuyết Minh)
-https://v7.kkphimplayer7.com/20260816/xIbyKS9U/index.m3u8
-#EXTINF:-1 group-title="🎬 HH3D Thuyết Minh - Bạn Tôi Là Marsupilami" tvg-logo="https://phimimg.com/uploads/movies/20260817/ban-toi-la-marsupilami-poster.webp",🎬 Bạn Tôi Là Marsupilami - Tập 23 (Thuyết Minh)
-https://v7.kkphimplayer7.com/20260816/ftgiPQ4r/index.m3u8
-#EXTINF:-1 group-title="🎬 HH3D Thuyết Minh - Bạn Tôi Là Marsupilami" tvg-logo="https://phimimg.com/uploads/movies/20260817/ban-toi-la-marsupilami-poster.webp",🎬 Bạn Tôi Là Marsupilami - Tập 24 (Thuyết Minh)
-https://v7.kkphimplayer7.com/20260816/Te0dDsl9/index.m3u8
-#EXTINF:-1 group-title="🎬 HH3D Thuyết Minh - Bạn Tôi Là Marsupilami" tvg-logo="https://phimimg.com/uploads/movies/20260817/ban-toi-la-marsupilami-poster.webp",🎬 Bạn Tôi Là Marsupilami - Tập 25 (Thuyết Minh)
-https://v7.kkphimplayer7.com/20260816/0QZCe6dm/index.m3u8
-#EXTINF:-1 group-title="🎬 HH3D Thuyết Minh - Bạn Tôi Là Marsupilami" tvg-logo="https://phimimg.com/uploads/movies/20260817/ban-toi-la-marsupilami-poster.webp",🎬 Bạn Tôi Là Marsupilami - Tập 26 (Thuyết Minh)
-https://v7.kkphimplayer7.com/20260816/RZpUHpyi/index.m3u8
-#EXTINF:-1 group-title="🎬 HH3D Thuyết Minh - Bạn Tôi Là Marsupilami" tvg-logo="https://phimimg.com/uploads/movies/20260817/ban-toi-la-marsupilami-poster.webp",🎬 Bạn Tôi Là Marsupilami - Tập 27 (Thuyết Minh)
-https://v7.kkphimplayer7.com/20260816/cYQE8FhV/index.m3u8
-#EXTINF:-1 group-title="🎬 HH3D Thuyết Minh - Bạn Tôi Là Marsupilami" tvg-logo="https://phimimg.com/uploads/movies/20260817/ban-toi-la-marsupilami-poster.webp",🎬 Bạn Tôi Là Marsupilami - Tập 28 (Thuyết Minh)
-https://v7.kkphimplayer7.com/20260816/gZcD7y5Q/index.m3u8
-#EXTINF:-1 group-title="🎬 HH3D Thuyết Minh - Bạn Tôi Là Marsupilami" tvg-logo="https://phimimg.com/uploads/movies/20260817/ban-toi-la-marsupilami-poster.webp",🎬 Bạn Tôi Là Marsupilami - Tập 29 (Thuyết Minh)
-https://v7.kkphimplayer7.com/20260816/yb14XKff/index.m3u8
-#EXTINF:-1 group-title="🎬 HH3D Thuyết Minh - Bạn Tôi Là Marsupilami" tvg-logo="https://phimimg.com/uploads/movies/20260817/ban-toi-la-marsupilami-poster.webp",🎬 Bạn Tôi Là Marsupilami - Tập 30 (Thuyết Minh)
-https://v7.kkphimplayer7.com/20260816/VQt2jlpT/index.m3u8
-#EXTINF:-1 group-title="🎬 HH3D Thuyết Minh - Bạn Tôi Là Marsupilami" tvg-logo="https://phimimg.com/uploads/movies/20260817/ban-toi-la-marsupilami-poster.webp",🎬 Bạn Tôi Là Marsupilami - Tập 31 (Thuyết Minh)
-https://v7.kkphimplayer7.com/20260816/Q0MF2gCY/index.m3u8
-#EXTINF:-1 group-title="🎬 HH3D Thuyết Minh - Bạn Tôi Là Marsupilami" tvg-logo="https://phimimg.com/uploads/movies/20260817/ban-toi-la-marsupilami-poster.webp",🎬 Bạn Tôi Là Marsupilami - Tập 32 (Thuyết Minh)
-https://v7.kkphimplayer7.com/20260816/GyxcgJlT/index.m3u8
-#EXTINF:-1 group-title="🎬 HH3D Thuyết Minh - Bạn Tôi Là Marsupilami" tvg-logo="https://phimimg.com/uploads/movies/20260817/ban-toi-la-marsupilami-poster.webp",🎬 Bạn Tôi Là Marsupilami - Tập 33 (Thuyết Minh)
-https://v7.kkphimplayer7.com/20260816/jTx62SW6/index.m3u8
-#EXTINF:-1 group-title="🎬 HH3D Thuyết Minh - Bạn Tôi Là Marsupilami" tvg-logo="https://phimimg.com/uploads/movies/20260817/ban-toi-la-marsupilami-poster.webp",🎬 Bạn Tôi Là Marsupilami - Tập 34 (Thuyết Minh)
-https://v7.kkphimplayer7.com/20260816/6Bp8vHpq/index.m3u8
-#EXTINF:-1 group-title="🎬 HH3D Thuyết Minh - Bạn Tôi Là Marsupilami" tvg-logo="https://phimimg.com/uploads/movies/20260817/ban-toi-la-marsupilami-poster.webp",🎬 Bạn Tôi Là Marsupilami - Tập 35 (Thuyết Minh)
-https://v7.kkphimplayer7.com/20260816/JqtpmN7x/index.m3u8
-#EXTINF:-1 group-title="🎬 HH3D Thuyết Minh - Bạn Tôi Là Marsupilami" tvg-logo="https://phimimg.com/uploads/movies/20260817/ban-toi-la-marsupilami-poster.webp",🎬 Bạn Tôi Là Marsupilami - Tập 36 (Thuyết Minh)
-https://v7.kkphimplayer7.com/20260816/vwCxwd4J/index.m3u8
-#EXTINF:-1 group-title="🎬 HH3D Thuyết Minh - Bạn Tôi Là Marsupilami" tvg-logo="https://phimimg.com/uploads/movies/20260817/ban-toi-la-marsupilami-poster.webp",🎬 Bạn Tôi Là Marsupilami - Tập 37 (Thuyết Minh)
-https://v7.kkphimplayer7.com/20260816/2TONfkOT/index.m3u8
-#EXTINF:-1 group-title="🎬 HH3D Thuyết Minh - Bạn Tôi Là Marsupilami" tvg-logo="https://phimimg.com/uploads/movies/20260817/ban-toi-la-marsupilami-poster.webp",🎬 Bạn Tôi Là Marsupilami - Tập 38 (Thuyết Minh)
-https://v7.kkphimplayer7.com/20260816/gOvHYgeU/index.m3u8
-#EXTINF:-1 group-title="🎬 HH3D Thuyết Minh - Bạn Tôi Là Marsupilami" tvg-logo="https://phimimg.com/uploads/movies/20260817/ban-toi-la-marsupilami-poster.webp",🎬 Bạn Tôi Là Marsupilami - Tập 39 (Thuyết Minh)
-https://v7.kkphimplayer7.com/20260816/6DCv3M7N/index.m3u8
-#EXTINF:-1 group-title="🎬 HH3D Thuyết Minh - Bạn Tôi Là Marsupilami" tvg-logo="https://phimimg.com/uploads/movies/20260817/ban-toi-la-marsupilami-poster.webp",🎬 Bạn Tôi Là Marsupilami - Tập 40 (Thuyết Minh)
-https://v7.kkphimplayer7.com/20260816/s99YiZDL/index.m3u8
-#EXTINF:-1 group-title="🎬 HH3D Thuyết Minh - Bạn Tôi Là Marsupilami" tvg-logo="https://phimimg.com/uploads/movies/20260817/ban-toi-la-marsupilami-poster.webp",🎬 Bạn Tôi Là Marsupilami - Tập 41 (Thuyết Minh)
-https://v7.kkphimplayer7.com/20260816/MnsJh2Hd/index.m3u8
-#EXTINF:-1 group-title="🎬 HH3D Thuyết Minh - Thần Mộ" tvg-logo="https://phimimg.com/upload/vod/20260409-1/46405d6200c127d42de242157d63c3fc.jpg",🎬 Thần Mộ - Full (Thuyết Minh)
-https://s6.kkphimplayer6.com/20260408/OvPzkR3e/index.m3u8
-#EXTINF:-1 group-title="🎬 HH3D Thuyết Minh - Tây Hành Kỷ: Đại Viên Hồn" tvg-logo="https://phimimg.com/upload/vod/20250603-1/f820553818b1a46f68715e48e4a8ac6c.jpg",🎬 Tây Hành Kỷ: Đại Viên Hồn - Tập 01 (Thuyết Minh)
-https://s6.kkphimplayer6.com/20250804/LuEMTWFe/index.m3u8
-#EXTINF:-1 group-title="🎬 HH3D Thuyết Minh - Tây Hành Kỷ: Đại Viên Hồn" tvg-logo="https://phimimg.com/upload/vod/20250603-1/f820553818b1a46f68715e48e4a8ac6c.jpg",🎬 Tây Hành Kỷ: Đại Viên Hồn - Tập 02 (Thuyết Minh)
-https://s6.kkphimplayer6.com/20250804/qJeIiW7p/index.m3u8
-#EXTINF:-1 group-title="🎬 HH3D Thuyết Minh - Tây Hành Kỷ: Đại Viên Hồn" tvg-logo="https://phimimg.com/upload/vod/20250603-1/f820553818b1a46f68715e48e4a8ac6c.jpg",🎬 Tây Hành Kỷ: Đại Viên Hồn - Tập 03 (Thuyết Minh)
-https://s6.kkphimplayer6.com/20250804/iR3vdNjR/index.m3u8
-#EXTINF:-1 group-title="🎬 HH3D Thuyết Minh - Tây Hành Kỷ: Đại Viên Hồn" tvg-logo="https://phimimg.com/upload/vod/20250603-1/f820553818b1a46f68715e48e4a8ac6c.jpg",🎬 Tây Hành Kỷ: Đại Viên Hồn - Tập 04 (Thuyết Minh)
-https://s6.kkphimplayer6.com/20250804/qO07X9By/index.m3u8
-#EXTINF:-1 group-title="🎬 HH3D Thuyết Minh - Tây Hành Kỷ: Đại Viên Hồn" tvg-logo="https://phimimg.com/upload/vod/20250603-1/f820553818b1a46f68715e48e4a8ac6c.jpg",🎬 Tây Hành Kỷ: Đại Viên Hồn - Tập 05 (Thuyết Minh)
-https://s6.kkphimplayer6.com/20250804/Dt6a5ak8/index.m3u8
-#EXTINF:-1 group-title="🎬 HH3D Thuyết Minh - Tây Hành Kỷ: Đại Viên Hồn" tvg-logo="https://phimimg.com/upload/vod/20250603-1/f820553818b1a46f68715e48e4a8ac6c.jpg",🎬 Tây Hành Kỷ: Đại Viên Hồn - Tập 06 (Thuyết Minh)
-https://s6.kkphimplayer6.com/20250804/GLMwwDPA/index.m3u8
-#EXTINF:-1 group-title="🎬 HH3D Thuyết Minh - Tây Hành Kỷ: Đại Viên Hồn" tvg-logo="https://phimimg.com/upload/vod/20250603-1/f820553818b1a46f68715e48e4a8ac6c.jpg",🎬 Tây Hành Kỷ: Đại Viên Hồn - Tập 07 (Thuyết Minh)
-https://s6.kkphimplayer6.com/20250804/KgP5mvQh/index.m3u8
-#EXTINF:-1 group-title="🎬 HH3D Thuyết Minh - Tây Hành Kỷ: Đại Viên Hồn" tvg-logo="https://phimimg.com/upload/vod/20250603-1/f820553818b1a46f68715e48e4a8ac6c.jpg",🎬 Tây Hành Kỷ: Đại Viên Hồn - Tập 08 (Thuyết Minh)
-https://s6.kkphimplayer6.com/20250804/NBE6Uj3e/index.m3u8
-#EXTINF:-1 group-title="🎬 HH3D Thuyết Minh - Tây Hành Kỷ: Đại Viên Hồn" tvg-logo="https://phimimg.com/upload/vod/20250603-1/f820553818b1a46f68715e48e4a8ac6c.jpg",🎬 Tây Hành Kỷ: Đại Viên Hồn - Tập 09 (Thuyết Minh)
-https://s6.kkphimplayer6.com/20250804/kefTTOHh/index.m3u8
-#EXTINF:-1 group-title="🎬 HH3D Thuyết Minh - Tây Hành Kỷ: Đại Viên Hồn" tvg-logo="https://phimimg.com/upload/vod/20250603-1/f820553818b1a46f68715e48e4a8ac6c.jpg",🎬 Tây Hành Kỷ: Đại Viên Hồn - Tập 10 (Thuyết Minh)
-https://s6.kkphimplayer6.com/20250804/8bxUoDtq/index.m3u8
-#EXTINF:-1 group-title="🎬 HH3D Thuyết Minh - Tây Hành Kỷ: Đại Viên Hồn" tvg-logo="https://phimimg.com/upload/vod/20250603-1/f820553818b1a46f68715e48e4a8ac6c.jpg",🎬 Tây Hành Kỷ: Đại Viên Hồn - Tập 11 (Thuyết Minh)
-https://s6.kkphimplayer6.com/20250804/YIABltGb/index.m3u8
-#EXTINF:-1 group-title="🎬 HH3D Thuyết Minh - Tây Hành Kỷ: Đại Viên Hồn" tvg-logo="https://phimimg.com/upload/vod/20250603-1/f820553818b1a46f68715e48e4a8ac6c.jpg",🎬 Tây Hành Kỷ: Đại Viên Hồn - Tập 12 (Thuyết Minh)
-https://s6.kkphimplayer6.com/20250811/EpCZpjvj/index.m3u8
+#EXTINF:-1 group-title="🎬 HH3D Thuyết Minh - Chú Sói Balto" tvg-logo="https://phimimg.com/uploads/movies/20260921/chu-soi-balto-poster.webp",🎬 Chú Sói Balto - Full (Thuyết Minh)
+https://a.kvp726.com/20260920/B63mvjgJ/index.m3u8
+#EXTINF:-1 group-title="🎬 HH3D Thuyết Minh - Còn Ra Thể Thống Gì Nữa (Phần 2)" tvg-logo="https://phimimg.com/upload/vod/20260125-1/9dcbcb16f91ede9be5f896569e486cb9.jpg",🎬 Còn Ra Thể Thống Gì Nữa (Phần 2) - Tập 01 (Thuyết Minh)
+https://s6.kkphimplayer6.com/20260207/YRingP9Q/index.m3u8
+#EXTINF:-1 group-title="🎬 HH3D Thuyết Minh - Còn Ra Thể Thống Gì Nữa (Phần 2)" tvg-logo="https://phimimg.com/upload/vod/20260125-1/9dcbcb16f91ede9be5f896569e486cb9.jpg",🎬 Còn Ra Thể Thống Gì Nữa (Phần 2) - Tập 02 (Thuyết Minh)
+https://s6.kkphimplayer6.com/20260207/uo59F2bC/index.m3u8
+#EXTINF:-1 group-title="🎬 HH3D Thuyết Minh - Còn Ra Thể Thống Gì Nữa (Phần 2)" tvg-logo="https://phimimg.com/upload/vod/20260125-1/9dcbcb16f91ede9be5f896569e486cb9.jpg",🎬 Còn Ra Thể Thống Gì Nữa (Phần 2) - Tập 03 (Thuyết Minh)
+https://s6.kkphimplayer6.com/20260207/JMrqAdyJ/index.m3u8
+#EXTINF:-1 group-title="🎬 HH3D Thuyết Minh - Còn Ra Thể Thống Gì Nữa (Phần 2)" tvg-logo="https://phimimg.com/upload/vod/20260125-1/9dcbcb16f91ede9be5f896569e486cb9.jpg",🎬 Còn Ra Thể Thống Gì Nữa (Phần 2) - Tập 04 (Thuyết Minh)
+https://s6.kkphimplayer6.com/20260207/LomD0UmF/index.m3u8
+#EXTINF:-1 group-title="🎬 HH3D Thuyết Minh - Còn Ra Thể Thống Gì Nữa (Phần 2)" tvg-logo="https://phimimg.com/upload/vod/20260125-1/9dcbcb16f91ede9be5f896569e486cb9.jpg",🎬 Còn Ra Thể Thống Gì Nữa (Phần 2) - Tập 05 (Thuyết Minh)
+https://s6.kkphimplayer6.com/20260209/einLHLXv/index.m3u8
+#EXTINF:-1 group-title="🎬 HH3D Thuyết Minh - Còn Ra Thể Thống Gì Nữa (Phần 2)" tvg-logo="https://phimimg.com/upload/vod/20260125-1/9dcbcb16f91ede9be5f896569e486cb9.jpg",🎬 Còn Ra Thể Thống Gì Nữa (Phần 2) - Tập 06 (Thuyết Minh)
+https://s6.kkphimplayer6.com/20260219/UXXQzOzo/index.m3u8
+#EXTINF:-1 group-title="🎬 HH3D Thuyết Minh - Còn Ra Thể Thống Gì Nữa (Phần 2)" tvg-logo="https://phimimg.com/upload/vod/20260125-1/9dcbcb16f91ede9be5f896569e486cb9.jpg",🎬 Còn Ra Thể Thống Gì Nữa (Phần 2) - Tập 07 (Thuyết Minh)
+https://s6.kkphimplayer6.com/20260223/pAm4sbS4/index.m3u8
+#EXTINF:-1 group-title="🎬 HH3D Thuyết Minh - Còn Ra Thể Thống Gì Nữa (Phần 2)" tvg-logo="https://phimimg.com/upload/vod/20260125-1/9dcbcb16f91ede9be5f896569e486cb9.jpg",🎬 Còn Ra Thể Thống Gì Nữa (Phần 2) - Tập 08 (Thuyết Minh)
+https://s6.kkphimplayer6.com/20260303/2AgPqxJg/index.m3u8
+#EXTINF:-1 group-title="🎬 HH3D Thuyết Minh - Còn Ra Thể Thống Gì Nữa (Phần 2)" tvg-logo="https://phimimg.com/upload/vod/20260125-1/9dcbcb16f91ede9be5f896569e486cb9.jpg",🎬 Còn Ra Thể Thống Gì Nữa (Phần 2) - Tập 09 (Thuyết Minh)
+https://s6.kkphimplayer6.com/20260311/ZMmDI0aQ/index.m3u8
+#EXTINF:-1 group-title="🎬 HH3D Thuyết Minh - Còn Ra Thể Thống Gì Nữa (Phần 2)" tvg-logo="https://phimimg.com/upload/vod/20260125-1/9dcbcb16f91ede9be5f896569e486cb9.jpg",🎬 Còn Ra Thể Thống Gì Nữa (Phần 2) - Tập 10 (Thuyết Minh)
+https://s6.kkphimplayer6.com/20260316/kpkv3XtI/index.m3u8
+#EXTINF:-1 group-title="🎬 HH3D Thuyết Minh - Còn Ra Thể Thống Gì Nữa (Phần 2)" tvg-logo="https://phimimg.com/upload/vod/20260125-1/9dcbcb16f91ede9be5f896569e486cb9.jpg",🎬 Còn Ra Thể Thống Gì Nữa (Phần 2) - Tập 11 (Thuyết Minh)
+https://s6.kkphimplayer6.com/20260323/CTQ3fJWn/index.m3u8
+#EXTINF:-1 group-title="🎬 HH3D Thuyết Minh - Còn Ra Thể Thống Gì Nữa (Phần 2)" tvg-logo="https://phimimg.com/upload/vod/20260125-1/9dcbcb16f91ede9be5f896569e486cb9.jpg",🎬 Còn Ra Thể Thống Gì Nữa (Phần 2) - Tập 12 (Thuyết Minh)
+https://s6.kkphimplayer6.com/20260329/Irdgfxe5/index.m3u8
+#EXTINF:-1 group-title="🎬 HH3D Thuyết Minh - Còn Ra Thể Thống Gì Nữa (Phần 2)" tvg-logo="https://phimimg.com/upload/vod/20260125-1/9dcbcb16f91ede9be5f896569e486cb9.jpg",🎬 Còn Ra Thể Thống Gì Nữa (Phần 2) - Tập 13 (Thuyết Minh)
+https://s6.kkphimplayer6.com/20260405/2mPuvDNV/index.m3u8
+#EXTINF:-1 group-title="🎬 HH3D Thuyết Minh - Còn Ra Thể Thống Gì Nữa (Phần 2)" tvg-logo="https://phimimg.com/upload/vod/20260125-1/9dcbcb16f91ede9be5f896569e486cb9.jpg",🎬 Còn Ra Thể Thống Gì Nữa (Phần 2) - Tập 14 (Thuyết Minh)
+https://s6.kkphimplayer6.com/20260413/rDxi7fcF/index.m3u8
+#EXTINF:-1 group-title="🎬 HH3D Thuyết Minh - Còn Ra Thể Thống Gì Nữa (Phần 2)" tvg-logo="https://phimimg.com/upload/vod/20260125-1/9dcbcb16f91ede9be5f896569e486cb9.jpg",🎬 Còn Ra Thể Thống Gì Nữa (Phần 2) - Tập 15 (Thuyết Minh)
+https://v7.kkphimplayer7.com/20260419/l1RbeGhb/index.m3u8
+#EXTINF:-1 group-title="🎬 HH3D Thuyết Minh - Còn Ra Thể Thống Gì Nữa (Phần 2)" tvg-logo="https://phimimg.com/upload/vod/20260125-1/9dcbcb16f91ede9be5f896569e486cb9.jpg",🎬 Còn Ra Thể Thống Gì Nữa (Phần 2) - Tập 16 (Thuyết Minh)
+https://v7.kkphimplayer7.com/20260426/ahDTXilV/index.m3u8
+#EXTINF:-1 group-title="🎬 HH3D Thuyết Minh - Còn Ra Thể Thống Gì Nữa (Phần 2)" tvg-logo="https://phimimg.com/upload/vod/20260125-1/9dcbcb16f91ede9be5f896569e486cb9.jpg",🎬 Còn Ra Thể Thống Gì Nữa (Phần 2) - Tập 17 (Thuyết Minh)
+https://v7.kkphimplayer7.com/20260504/WNtrUHqy/index.m3u8
+#EXTINF:-1 group-title="🎬 HH3D Thuyết Minh - Còn Ra Thể Thống Gì Nữa (Phần 2)" tvg-logo="https://phimimg.com/upload/vod/20260125-1/9dcbcb16f91ede9be5f896569e486cb9.jpg",🎬 Còn Ra Thể Thống Gì Nữa (Phần 2) - Tập 18 (Thuyết Minh)
+https://v7.kkphimplayer7.com/20260510/LenntjpK/index.m3u8
+#EXTINF:-1 group-title="🎬 HH3D Thuyết Minh - Còn Ra Thể Thống Gì Nữa (Phần 2)" tvg-logo="https://phimimg.com/upload/vod/20260125-1/9dcbcb16f91ede9be5f896569e486cb9.jpg",🎬 Còn Ra Thể Thống Gì Nữa (Phần 2) - Tập 19 (Thuyết Minh)
+https://v7.kkphimplayer7.com/20260517/RmRgBbAV/index.m3u8
+#EXTINF:-1 group-title="🎬 HH3D Thuyết Minh - Còn Ra Thể Thống Gì Nữa (Phần 2)" tvg-logo="https://phimimg.com/upload/vod/20260125-1/9dcbcb16f91ede9be5f896569e486cb9.jpg",🎬 Còn Ra Thể Thống Gì Nữa (Phần 2) - Tập 20 (Thuyết Minh)
+https://v7.kkphimplayer7.com/20260523/2ZRoRGnS/index.m3u8
+#EXTINF:-1 group-title="🎬 HH3D Thuyết Minh - Còn Ra Thể Thống Gì Nữa (Phần 2)" tvg-logo="https://phimimg.com/upload/vod/20260125-1/9dcbcb16f91ede9be5f896569e486cb9.jpg",🎬 Còn Ra Thể Thống Gì Nữa (Phần 2) - Tập 21 (Thuyết Minh)
+https://v7.kkphimplayer7.com/20260531/JfM9Nfth/index.m3u8
+#EXTINF:-1 group-title="🎬 HH3D Thuyết Minh - Còn Ra Thể Thống Gì Nữa (Phần 2)" tvg-logo="https://phimimg.com/upload/vod/20260125-1/9dcbcb16f91ede9be5f896569e486cb9.jpg",🎬 Còn Ra Thể Thống Gì Nữa (Phần 2) - Tập 22 (Thuyết Minh)
+https://v7.kkphimplayer7.com/20260607/4dmfad5T/index.m3u8
+#EXTINF:-1 group-title="🎬 HH3D Thuyết Minh - Còn Ra Thể Thống Gì Nữa (Phần 2)" tvg-logo="https://phimimg.com/upload/vod/20260125-1/9dcbcb16f91ede9be5f896569e486cb9.jpg",🎬 Còn Ra Thể Thống Gì Nữa (Phần 2) - Tập 23 (Thuyết Minh)
+https://v7.kkphimplayer7.com/20260615/UeN2fIpm/index.m3u8
+#EXTINF:-1 group-title="🎬 HH3D Thuyết Minh - Còn Ra Thể Thống Gì Nữa (Phần 2)" tvg-logo="https://phimimg.com/upload/vod/20260125-1/9dcbcb16f91ede9be5f896569e486cb9.jpg",🎬 Còn Ra Thể Thống Gì Nữa (Phần 2) - Tập 24 (Thuyết Minh)
+https://v7.kkphimplayer7.com/20260621/1sO5nZsF/index.m3u8
+#EXTINF:-1 group-title="🎬 HH3D Thuyết Minh - Gấu Boonie: Kế Hoạch Quái Vật (Phần 1)" tvg-logo="https://phimimg.com/upload/vod/20260429-1/e71d9908a569af95babc289dad812173.jpg",🎬 Gấu Boonie: Kế Hoạch Quái Vật (Phần 1) - Tập 01 (Thuyết Minh)
+https://v7.kkphimplayer7.com/20260430/nLmAZl9b/index.m3u8
+#EXTINF:-1 group-title="🎬 HH3D Thuyết Minh - Gấu Boonie: Kế Hoạch Quái Vật (Phần 1)" tvg-logo="https://phimimg.com/upload/vod/20260429-1/e71d9908a569af95babc289dad812173.jpg",🎬 Gấu Boonie: Kế Hoạch Quái Vật (Phần 1) - Tập 02 (Thuyết Minh)
+https://v7.kkphimplayer7.com/20260430/BPetFnfu/index.m3u8
+#EXTINF:-1 group-title="🎬 HH3D Thuyết Minh - Gấu Boonie: Kế Hoạch Quái Vật (Phần 1)" tvg-logo="https://phimimg.com/upload/vod/20260429-1/e71d9908a569af95babc289dad812173.jpg",🎬 Gấu Boonie: Kế Hoạch Quái Vật (Phần 1) - Tập 03 (Thuyết Minh)
+https://v7.kkphimplayer7.com/20260430/VAETAMsN/index.m3u8
+#EXTINF:-1 group-title="🎬 HH3D Thuyết Minh - Gấu Boonie: Kế Hoạch Quái Vật (Phần 1)" tvg-logo="https://phimimg.com/upload/vod/20260429-1/e71d9908a569af95babc289dad812173.jpg",🎬 Gấu Boonie: Kế Hoạch Quái Vật (Phần 1) - Tập 04 (Thuyết Minh)
+https://v7.kkphimplayer7.com/20260430/4molnySs/index.m3u8
+#EXTINF:-1 group-title="🎬 HH3D Thuyết Minh - Gấu Boonie: Kế Hoạch Quái Vật (Phần 1)" tvg-logo="https://phimimg.com/upload/vod/20260429-1/e71d9908a569af95babc289dad812173.jpg",🎬 Gấu Boonie: Kế Hoạch Quái Vật (Phần 1) - Tập 05 (Thuyết Minh)
+https://v7.kkphimplayer7.com/20260430/1dSYaeje/index.m3u8
+#EXTINF:-1 group-title="🎬 HH3D Thuyết Minh - Gấu Boonie: Kế Hoạch Quái Vật (Phần 1)" tvg-logo="https://phimimg.com/upload/vod/20260429-1/e71d9908a569af95babc289dad812173.jpg",🎬 Gấu Boonie: Kế Hoạch Quái Vật (Phần 1) - Tập 06 (Thuyết Minh)
+https://v7.kkphimplayer7.com/20260430/2CbzhXaO/index.m3u8
+#EXTINF:-1 group-title="🎬 HH3D Thuyết Minh - Gấu Boonie: Kế Hoạch Quái Vật (Phần 1)" tvg-logo="https://phimimg.com/upload/vod/20260429-1/e71d9908a569af95babc289dad812173.jpg",🎬 Gấu Boonie: Kế Hoạch Quái Vật (Phần 1) - Tập 07 (Thuyết Minh)
+https://v7.kkphimplayer7.com/20260430/ExcfbA61/index.m3u8
+#EXTINF:-1 group-title="🎬 HH3D Thuyết Minh - Gấu Boonie: Kế Hoạch Quái Vật (Phần 1)" tvg-logo="https://phimimg.com/upload/vod/20260429-1/e71d9908a569af95babc289dad812173.jpg",🎬 Gấu Boonie: Kế Hoạch Quái Vật (Phần 1) - Tập 08 (Thuyết Minh)
+https://v7.kkphimplayer7.com/20260430/9ZTCujhv/index.m3u8
+#EXTINF:-1 group-title="🎬 HH3D Thuyết Minh - Gấu Boonie: Kế Hoạch Quái Vật (Phần 1)" tvg-logo="https://phimimg.com/upload/vod/20260429-1/e71d9908a569af95babc289dad812173.jpg",🎬 Gấu Boonie: Kế Hoạch Quái Vật (Phần 1) - Tập 09 (Thuyết Minh)
+https://v7.kkphimplayer7.com/20260430/hLgoOsqf/index.m3u8
+#EXTINF:-1 group-title="🎬 HH3D Thuyết Minh - Gấu Boonie: Kế Hoạch Quái Vật (Phần 1)" tvg-logo="https://phimimg.com/upload/vod/20260429-1/e71d9908a569af95babc289dad812173.jpg",🎬 Gấu Boonie: Kế Hoạch Quái Vật (Phần 1) - Tập 10 (Thuyết Minh)
+https://v7.kkphimplayer7.com/20260430/hKgupBtu/index.m3u8
+#EXTINF:-1 group-title="🎬 HH3D Thuyết Minh - Gấu Boonie: Kế Hoạch Quái Vật (Phần 1)" tvg-logo="https://phimimg.com/upload/vod/20260429-1/e71d9908a569af95babc289dad812173.jpg",🎬 Gấu Boonie: Kế Hoạch Quái Vật (Phần 1) - Tập 11 (Thuyết Minh)
+https://v7.kkphimplayer7.com/20260430/LS89nIBS/index.m3u8
+#EXTINF:-1 group-title="🎬 HH3D Thuyết Minh - Gấu Boonie: Kế Hoạch Quái Vật (Phần 1)" tvg-logo="https://phimimg.com/upload/vod/20260429-1/e71d9908a569af95babc289dad812173.jpg",🎬 Gấu Boonie: Kế Hoạch Quái Vật (Phần 1) - Tập 12 (Thuyết Minh)
+https://v7.kkphimplayer7.com/20260430/MWUUoP6g/index.m3u8
+#EXTINF:-1 group-title="🎬 HH3D Thuyết Minh - Gấu Boonie: Kế Hoạch Quái Vật (Phần 1)" tvg-logo="https://phimimg.com/upload/vod/20260429-1/e71d9908a569af95babc289dad812173.jpg",🎬 Gấu Boonie: Kế Hoạch Quái Vật (Phần 1) - Tập 13 (Thuyết Minh)
+https://v7.kkphimplayer7.com/20260430/jVJ8MahB/index.m3u8
+#EXTINF:-1 group-title="🎬 HH3D Thuyết Minh - Gấu Boonie: Kế Hoạch Quái Vật (Phần 1)" tvg-logo="https://phimimg.com/upload/vod/20260429-1/e71d9908a569af95babc289dad812173.jpg",🎬 Gấu Boonie: Kế Hoạch Quái Vật (Phần 1) - Tập 14 (Thuyết Minh)
+https://v7.kkphimplayer7.com/20260430/g0Ifjcli/index.m3u8
+#EXTINF:-1 group-title="🎬 HH3D Thuyết Minh - Gấu Boonie: Kế Hoạch Quái Vật (Phần 1)" tvg-logo="https://phimimg.com/upload/vod/20260429-1/e71d9908a569af95babc289dad812173.jpg",🎬 Gấu Boonie: Kế Hoạch Quái Vật (Phần 1) - Tập 15 (Thuyết Minh)
+https://v7.kkphimplayer7.com/20260430/LJAKAwu7/index.m3u8
+#EXTINF:-1 group-title="🎬 HH3D Thuyết Minh - Gấu Boonie: Kế Hoạch Quái Vật (Phần 1)" tvg-logo="https://phimimg.com/upload/vod/20260429-1/e71d9908a569af95babc289dad812173.jpg",🎬 Gấu Boonie: Kế Hoạch Quái Vật (Phần 1) - Tập 16 (Thuyết Minh)
+https://v7.kkphimplayer7.com/20260526/l4vvh2qv/index.m3u8
+#EXTINF:-1 group-title="🎬 HH3D Thuyết Minh - Gấu Boonie: Kế Hoạch Quái Vật (Phần 1)" tvg-logo="https://phimimg.com/upload/vod/20260429-1/e71d9908a569af95babc289dad812173.jpg",🎬 Gấu Boonie: Kế Hoạch Quái Vật (Phần 1) - Tập 17 (Thuyết Minh)
+https://v7.kkphimplayer7.com/20260526/b7Jm4L6g/index.m3u8
+#EXTINF:-1 group-title="🎬 HH3D Thuyết Minh - Gấu Boonie: Kế Hoạch Quái Vật (Phần 1)" tvg-logo="https://phimimg.com/upload/vod/20260429-1/e71d9908a569af95babc289dad812173.jpg",🎬 Gấu Boonie: Kế Hoạch Quái Vật (Phần 1) - Tập 18 (Thuyết Minh)
+https://v7.kkphimplayer7.com/20260526/R3ygGn36/index.m3u8
+#EXTINF:-1 group-title="🎬 HH3D Thuyết Minh - Gấu Boonie: Kế Hoạch Quái Vật (Phần 1)" tvg-logo="https://phimimg.com/upload/vod/20260429-1/e71d9908a569af95babc289dad812173.jpg",🎬 Gấu Boonie: Kế Hoạch Quái Vật (Phần 1) - Tập 19 (Thuyết Minh)
+https://v7.kkphimplayer7.com/20260526/cr5LKz9D/index.m3u8
+#EXTINF:-1 group-title="🎬 HH3D Thuyết Minh - Gấu Boonie: Kế Hoạch Quái Vật (Phần 1)" tvg-logo="https://phimimg.com/upload/vod/20260429-1/e71d9908a569af95babc289dad812173.jpg",🎬 Gấu Boonie: Kế Hoạch Quái Vật (Phần 1) - Tập 20 (Thuyết Minh)
+https://v7.kkphimplayer7.com/20260526/2AHVbzk9/index.m3u8
+#EXTINF:-1 group-title="🎬 HH3D Thuyết Minh - Gấu Boonie: Kế Hoạch Quái Vật (Phần 1)" tvg-logo="https://phimimg.com/upload/vod/20260429-1/e71d9908a569af95babc289dad812173.jpg",🎬 Gấu Boonie: Kế Hoạch Quái Vật (Phần 1) - Tập 21 (Thuyết Minh)
+https://v7.kkphimplayer7.com/20260526/KbcQEZK6/index.m3u8
+#EXTINF:-1 group-title="🎬 HH3D Thuyết Minh - Gấu Boonie: Kế Hoạch Quái Vật (Phần 1)" tvg-logo="https://phimimg.com/upload/vod/20260429-1/e71d9908a569af95babc289dad812173.jpg",🎬 Gấu Boonie: Kế Hoạch Quái Vật (Phần 1) - Tập 22 (Thuyết Minh)
+https://v7.kkphimplayer7.com/20260526/0mJNOzRG/index.m3u8
+#EXTINF:-1 group-title="🎬 HH3D Thuyết Minh - Gấu Boonie: Kế Hoạch Quái Vật (Phần 1)" tvg-logo="https://phimimg.com/upload/vod/20260429-1/e71d9908a569af95babc289dad812173.jpg",🎬 Gấu Boonie: Kế Hoạch Quái Vật (Phần 1) - Tập 23 (Thuyết Minh)
+https://v7.kkphimplayer7.com/20260526/8MuWWdk4/index.m3u8
+#EXTINF:-1 group-title="🎬 HH3D Thuyết Minh - Gấu Boonie: Kế Hoạch Quái Vật (Phần 1)" tvg-logo="https://phimimg.com/upload/vod/20260429-1/e71d9908a569af95babc289dad812173.jpg",🎬 Gấu Boonie: Kế Hoạch Quái Vật (Phần 1) - Tập 24 (Thuyết Minh)
+https://v7.kkphimplayer7.com/20260526/qJ8aEyAh/index.m3u8
+#EXTINF:-1 group-title="🎬 HH3D Thuyết Minh - Gấu Boonie: Kế Hoạch Quái Vật (Phần 1)" tvg-logo="https://phimimg.com/upload/vod/20260429-1/e71d9908a569af95babc289dad812173.jpg",🎬 Gấu Boonie: Kế Hoạch Quái Vật (Phần 1) - Tập 25 (Thuyết Minh)
+https://v7.kkphimplayer7.com/20260526/0mWgVSJe/index.m3u8
+#EXTINF:-1 group-title="🎬 HH3D Thuyết Minh - Gấu Boonie: Kế Hoạch Quái Vật (Phần 1)" tvg-logo="https://phimimg.com/upload/vod/20260429-1/e71d9908a569af95babc289dad812173.jpg",🎬 Gấu Boonie: Kế Hoạch Quái Vật (Phần 1) - Tập 26 (Thuyết Minh)
+https://v7.kkphimplayer7.com/20260526/nzl2xLBz/index.m3u8
+#EXTINF:-1 group-title="🎬 HH3D Thuyết Minh - Gấu Boonie: Kế Hoạch Quái Vật (Phần 1)" tvg-logo="https://phimimg.com/upload/vod/20260429-1/e71d9908a569af95babc289dad812173.jpg",🎬 Gấu Boonie: Kế Hoạch Quái Vật (Phần 1) - Tập 27 (Thuyết Minh)
+https://v7.kkphimplayer7.com/20260526/xbKTBmON/index.m3u8
+#EXTINF:-1 group-title="🎬 HH3D Thuyết Minh - Gấu Boonie: Kế Hoạch Quái Vật (Phần 1)" tvg-logo="https://phimimg.com/upload/vod/20260429-1/e71d9908a569af95babc289dad812173.jpg",🎬 Gấu Boonie: Kế Hoạch Quái Vật (Phần 1) - Tập 28 (Thuyết Minh)
+https://v7.kkphimplayer7.com/20260526/SM9Wl4mX/index.m3u8
+#EXTINF:-1 group-title="🎬 HH3D Thuyết Minh - Gấu Boonie: Kế Hoạch Quái Vật (Phần 1)" tvg-logo="https://phimimg.com/upload/vod/20260429-1/e71d9908a569af95babc289dad812173.jpg",🎬 Gấu Boonie: Kế Hoạch Quái Vật (Phần 1) - Tập 29 (Thuyết Minh)
+https://v7.kkphimplayer7.com/20260526/dfrCcLQd/index.m3u8
+#EXTINF:-1 group-title="🎬 HH3D Thuyết Minh - Gấu Boonie: Kế Hoạch Quái Vật (Phần 1)" tvg-logo="https://phimimg.com/upload/vod/20260429-1/e71d9908a569af95babc289dad812173.jpg",🎬 Gấu Boonie: Kế Hoạch Quái Vật (Phần 1) - Tập 30 (Thuyết Minh)
+https://v7.kkphimplayer7.com/20260526/IM1J1swG/index.m3u8
+#EXTINF:-1 group-title="🎬 HH3D Thuyết Minh - Gấu Boonie: Kế Hoạch Quái Vật (Phần 1)" tvg-logo="https://phimimg.com/upload/vod/20260429-1/e71d9908a569af95babc289dad812173.jpg",🎬 Gấu Boonie: Kế Hoạch Quái Vật (Phần 1) - Tập 31 (Thuyết Minh)
+https://v7.kkphimplayer7.com/20260629/LcfAFIPQ/index.m3u8
+#EXTINF:-1 group-title="🎬 HH3D Thuyết Minh - Gấu Boonie: Kế Hoạch Quái Vật (Phần 1)" tvg-logo="https://phimimg.com/upload/vod/20260429-1/e71d9908a569af95babc289dad812173.jpg",🎬 Gấu Boonie: Kế Hoạch Quái Vật (Phần 1) - Tập 32 (Thuyết Minh)
+https://v7.kkphimplayer7.com/20260629/O3aoszgR/index.m3u8
+#EXTINF:-1 group-title="🎬 HH3D Thuyết Minh - Gấu Boonie: Kế Hoạch Quái Vật (Phần 1)" tvg-logo="https://phimimg.com/upload/vod/20260429-1/e71d9908a569af95babc289dad812173.jpg",🎬 Gấu Boonie: Kế Hoạch Quái Vật (Phần 1) - Tập 33 (Thuyết Minh)
+https://v7.kkphimplayer7.com/20260629/ozCAZf67/index.m3u8
+#EXTINF:-1 group-title="🎬 HH3D Thuyết Minh - Gấu Boonie: Kế Hoạch Quái Vật (Phần 1)" tvg-logo="https://phimimg.com/upload/vod/20260429-1/e71d9908a569af95babc289dad812173.jpg",🎬 Gấu Boonie: Kế Hoạch Quái Vật (Phần 1) - Tập 34 (Thuyết Minh)
+https://v7.kkphimplayer7.com/20260629/6bKYDnPI/index.m3u8
+#EXTINF:-1 group-title="🎬 HH3D Thuyết Minh - Gấu Boonie: Kế Hoạch Quái Vật (Phần 1)" tvg-logo="https://phimimg.com/upload/vod/20260429-1/e71d9908a569af95babc289dad812173.jpg",🎬 Gấu Boonie: Kế Hoạch Quái Vật (Phần 1) - Tập 35 (Thuyết Minh)
+https://v7.kkphimplayer7.com/20260629/YJGnJejd/index.m3u8
+#EXTINF:-1 group-title="🎬 HH3D Thuyết Minh - Gấu Boonie: Kế Hoạch Quái Vật (Phần 1)" tvg-logo="https://phimimg.com/upload/vod/20260429-1/e71d9908a569af95babc289dad812173.jpg",🎬 Gấu Boonie: Kế Hoạch Quái Vật (Phần 1) - Tập 36 (Thuyết Minh)
+https://v7.kkphimplayer7.com/20260629/pgCbUHxA/index.m3u8
+#EXTINF:-1 group-title="🎬 HH3D Thuyết Minh - Gấu Boonie: Kế Hoạch Quái Vật (Phần 1)" tvg-logo="https://phimimg.com/upload/vod/20260429-1/e71d9908a569af95babc289dad812173.jpg",🎬 Gấu Boonie: Kế Hoạch Quái Vật (Phần 1) - Tập 37 (Thuyết Minh)
+https://v7.kkphimplayer7.com/20260629/IdMYq1yy/index.m3u8
+#EXTINF:-1 group-title="🎬 HH3D Thuyết Minh - Gấu Boonie: Kế Hoạch Quái Vật (Phần 1)" tvg-logo="https://phimimg.com/upload/vod/20260429-1/e71d9908a569af95babc289dad812173.jpg",🎬 Gấu Boonie: Kế Hoạch Quái Vật (Phần 1) - Tập 38 (Thuyết Minh)
+https://v7.kkphimplayer7.com/20260629/X6SqneIX/index.m3u8
+#EXTINF:-1 group-title="🎬 HH3D Thuyết Minh - Gấu Boonie: Kế Hoạch Quái Vật (Phần 1)" tvg-logo="https://phimimg.com/upload/vod/20260429-1/e71d9908a569af95babc289dad812173.jpg",🎬 Gấu Boonie: Kế Hoạch Quái Vật (Phần 1) - Tập 39 (Thuyết Minh)
+https://v7.kkphimplayer7.com/20260629/1VWykJZP/index.m3u8
+#EXTINF:-1 group-title="🎬 HH3D Thuyết Minh - Gấu Boonie: Kế Hoạch Quái Vật (Phần 1)" tvg-logo="https://phimimg.com/upload/vod/20260429-1/e71d9908a569af95babc289dad812173.jpg",🎬 Gấu Boonie: Kế Hoạch Quái Vật (Phần 1) - Tập 40 (Thuyết Minh)
+https://v7.kkphimplayer7.com/20260629/jvX3z3qC/index.m3u8
+#EXTINF:-1 group-title="🎬 HH3D Thuyết Minh - Gấu Boonie: Kế Hoạch Quái Vật (Phần 1)" tvg-logo="https://phimimg.com/upload/vod/20260429-1/e71d9908a569af95babc289dad812173.jpg",🎬 Gấu Boonie: Kế Hoạch Quái Vật (Phần 1) - Tập 41 (Thuyết Minh)
+https://v7.kkphimplayer7.com/20260808/C1Wz5uHU/index.m3u8
+#EXTINF:-1 group-title="🎬 HH3D Thuyết Minh - Gấu Boonie: Kế Hoạch Quái Vật (Phần 1)" tvg-logo="https://phimimg.com/upload/vod/20260429-1/e71d9908a569af95babc289dad812173.jpg",🎬 Gấu Boonie: Kế Hoạch Quái Vật (Phần 1) - Tập 42 (Thuyết Minh)
+https://v7.kkphimplayer7.com/20260808/XCSAsd0j/index.m3u8
+#EXTINF:-1 group-title="🎬 HH3D Thuyết Minh - Gấu Boonie: Kế Hoạch Quái Vật (Phần 1)" tvg-logo="https://phimimg.com/upload/vod/20260429-1/e71d9908a569af95babc289dad812173.jpg",🎬 Gấu Boonie: Kế Hoạch Quái Vật (Phần 1) - Tập 43 (Thuyết Minh)
+https://v7.kkphimplayer7.com/20260808/JnZa3B0y/index.m3u8
+#EXTINF:-1 group-title="🎬 HH3D Thuyết Minh - Gấu Boonie: Kế Hoạch Quái Vật (Phần 1)" tvg-logo="https://phimimg.com/upload/vod/20260429-1/e71d9908a569af95babc289dad812173.jpg",🎬 Gấu Boonie: Kế Hoạch Quái Vật (Phần 1) - Tập 44 (Thuyết Minh)
+https://v7.kkphimplayer7.com/20260808/snh8TFSa/index.m3u8
+#EXTINF:-1 group-title="🎬 HH3D Thuyết Minh - Gấu Boonie: Kế Hoạch Quái Vật (Phần 1)" tvg-logo="https://phimimg.com/upload/vod/20260429-1/e71d9908a569af95babc289dad812173.jpg",🎬 Gấu Boonie: Kế Hoạch Quái Vật (Phần 1) - Tập 45 (Thuyết Minh)
+https://v7.kkphimplayer7.com/20260808/rPgdGwyp/index.m3u8
+#EXTINF:-1 group-title="🎬 HH3D Thuyết Minh - Gấu Boonie: Kế Hoạch Quái Vật (Phần 1)" tvg-logo="https://phimimg.com/upload/vod/20260429-1/e71d9908a569af95babc289dad812173.jpg",🎬 Gấu Boonie: Kế Hoạch Quái Vật (Phần 1) - Tập 46 (Thuyết Minh)
+https://v7.kkphimplayer7.com/20260808/SPHH3oRI/index.m3u8
+#EXTINF:-1 group-title="🎬 HH3D Thuyết Minh - Gấu Boonie: Kế Hoạch Quái Vật (Phần 1)" tvg-logo="https://phimimg.com/upload/vod/20260429-1/e71d9908a569af95babc289dad812173.jpg",🎬 Gấu Boonie: Kế Hoạch Quái Vật (Phần 1) - Tập 47 (Thuyết Minh)
+https://v7.kkphimplayer7.com/20260808/DgYyHlLL/index.m3u8
+#EXTINF:-1 group-title="🎬 HH3D Thuyết Minh - Gấu Boonie: Kế Hoạch Quái Vật (Phần 1)" tvg-logo="https://phimimg.com/upload/vod/20260429-1/e71d9908a569af95babc289dad812173.jpg",🎬 Gấu Boonie: Kế Hoạch Quái Vật (Phần 1) - Tập 48 (Thuyết Minh)
+https://v7.kkphimplayer7.com/20260808/0MsALMmy/index.m3u8
+#EXTINF:-1 group-title="🎬 HH3D Thuyết Minh - Gấu Boonie: Kế Hoạch Quái Vật (Phần 1)" tvg-logo="https://phimimg.com/upload/vod/20260429-1/e71d9908a569af95babc289dad812173.jpg",🎬 Gấu Boonie: Kế Hoạch Quái Vật (Phần 1) - Tập 49 (Thuyết Minh)
+https://v7.kkphimplayer7.com/20260808/5tbtdPAp/index.m3u8
+#EXTINF:-1 group-title="🎬 HH3D Thuyết Minh - Gấu Boonie: Kế Hoạch Quái Vật (Phần 1)" tvg-logo="https://phimimg.com/upload/vod/20260429-1/e71d9908a569af95babc289dad812173.jpg",🎬 Gấu Boonie: Kế Hoạch Quái Vật (Phần 1) - Tập 50 (Thuyết Minh)
+https://v7.kkphimplayer7.com/20260808/MP1e2qkP/index.m3u8
+#EXTINF:-1 group-title="🎬 HH3D Thuyết Minh - Gấu Boonie: Kế Hoạch Quái Vật (Phần 1)" tvg-logo="https://phimimg.com/upload/vod/20260429-1/e71d9908a569af95babc289dad812173.jpg",🎬 Gấu Boonie: Kế Hoạch Quái Vật (Phần 1) - Tập 51 (Thuyết Minh)
+https://v7.kkphimplayer7.com/20260808/q4LOnoUP/index.m3u8
+#EXTINF:-1 group-title="🎬 HH3D Thuyết Minh - Gấu Boonie: Kế Hoạch Quái Vật (Phần 1)" tvg-logo="https://phimimg.com/upload/vod/20260429-1/e71d9908a569af95babc289dad812173.jpg",🎬 Gấu Boonie: Kế Hoạch Quái Vật (Phần 1) - Tập 52 (Thuyết Minh)
+https://v7.kkphimplayer7.com/20260808/V3H8k5NN/index.m3u8
+#EXTINF:-1 group-title="🎬 HH3D Thuyết Minh - Gấu Boonie: Kế Hoạch Quái Vật (Phần 2)" tvg-logo="https://phimimg.com/upload/vod/20260429-1/fe985f039c8e0b6df6a89bf41ca86b88.jpg",🎬 Gấu Boonie: Kế Hoạch Quái Vật (Phần 2) - Tập 01 (Thuyết Minh)
+https://v7.kkphimplayer7.com/20260430/6Bh0bp8w/index.m3u8
+#EXTINF:-1 group-title="🎬 HH3D Thuyết Minh - Gấu Boonie: Kế Hoạch Quái Vật (Phần 2)" tvg-logo="https://phimimg.com/upload/vod/20260429-1/fe985f039c8e0b6df6a89bf41ca86b88.jpg",🎬 Gấu Boonie: Kế Hoạch Quái Vật (Phần 2) - Tập 02 (Thuyết Minh)
+https://v7.kkphimplayer7.com/20260430/fVodHmTq/index.m3u8
+#EXTINF:-1 group-title="🎬 HH3D Thuyết Minh - Gấu Boonie: Kế Hoạch Quái Vật (Phần 2)" tvg-logo="https://phimimg.com/upload/vod/20260429-1/fe985f039c8e0b6df6a89bf41ca86b88.jpg",🎬 Gấu Boonie: Kế Hoạch Quái Vật (Phần 2) - Tập 03 (Thuyết Minh)
+https://v7.kkphimplayer7.com/20260430/8eKD9rJr/index.m3u8
+#EXTINF:-1 group-title="🎬 HH3D Thuyết Minh - Gấu Boonie: Kế Hoạch Quái Vật (Phần 2)" tvg-logo="https://phimimg.com/upload/vod/20260429-1/fe985f039c8e0b6df6a89bf41ca86b88.jpg",🎬 Gấu Boonie: Kế Hoạch Quái Vật (Phần 2) - Tập 04 (Thuyết Minh)
+https://v7.kkphimplayer7.com/20260430/i3ulhLzv/index.m3u8
+#EXTINF:-1 group-title="🎬 HH3D Thuyết Minh - Gấu Boonie: Kế Hoạch Quái Vật (Phần 2)" tvg-logo="https://phimimg.com/upload/vod/20260429-1/fe985f039c8e0b6df6a89bf41ca86b88.jpg",🎬 Gấu Boonie: Kế Hoạch Quái Vật (Phần 2) - Tập 05 (Thuyết Minh)
+https://v7.kkphimplayer7.com/20260430/LGsgwTcZ/index.m3u8
+#EXTINF:-1 group-title="🎬 HH3D Thuyết Minh - Gấu Boonie: Kế Hoạch Quái Vật (Phần 2)" tvg-logo="https://phimimg.com/upload/vod/20260429-1/fe985f039c8e0b6df6a89bf41ca86b88.jpg",🎬 Gấu Boonie: Kế Hoạch Quái Vật (Phần 2) - Tập 06 (Thuyết Minh)
+https://v7.kkphimplayer7.com/20260430/nLXsf1ka/index.m3u8
+#EXTINF:-1 group-title="🎬 HH3D Thuyết Minh - Gấu Boonie: Kế Hoạch Quái Vật (Phần 2)" tvg-logo="https://phimimg.com/upload/vod/20260429-1/fe985f039c8e0b6df6a89bf41ca86b88.jpg",🎬 Gấu Boonie: Kế Hoạch Quái Vật (Phần 2) - Tập 07 (Thuyết Minh)
+https://v7.kkphimplayer7.com/20260430/UYBJyHC7/index.m3u8
+#EXTINF:-1 group-title="🎬 HH3D Thuyết Minh - Gấu Boonie: Kế Hoạch Quái Vật (Phần 2)" tvg-logo="https://phimimg.com/upload/vod/20260429-1/fe985f039c8e0b6df6a89bf41ca86b88.jpg",🎬 Gấu Boonie: Kế Hoạch Quái Vật (Phần 2) - Tập 08 (Thuyết Minh)
+https://v7.kkphimplayer7.com/20260430/trHfegYv/index.m3u8
+#EXTINF:-1 group-title="🎬 HH3D Thuyết Minh - Gấu Boonie: Kế Hoạch Quái Vật (Phần 2)" tvg-logo="https://phimimg.com/upload/vod/20260429-1/fe985f039c8e0b6df6a89bf41ca86b88.jpg",🎬 Gấu Boonie: Kế Hoạch Quái Vật (Phần 2) - Tập 09 (Thuyết Minh)
+https://v7.kkphimplayer7.com/20260430/nHTArgTV/index.m3u8
+#EXTINF:-1 group-title="🎬 HH3D Thuyết Minh - Gấu Boonie: Kế Hoạch Quái Vật (Phần 2)" tvg-logo="https://phimimg.com/upload/vod/20260429-1/fe985f039c8e0b6df6a89bf41ca86b88.jpg",🎬 Gấu Boonie: Kế Hoạch Quái Vật (Phần 2) - Tập 10 (Thuyết Minh)
+https://v7.kkphimplayer7.com/20260430/9aneZ8yH/index.m3u8
+#EXTINF:-1 group-title="🎬 HH3D Thuyết Minh - Gấu Boonie: Kế Hoạch Quái Vật (Phần 2)" tvg-logo="https://phimimg.com/upload/vod/20260429-1/fe985f039c8e0b6df6a89bf41ca86b88.jpg",🎬 Gấu Boonie: Kế Hoạch Quái Vật (Phần 2) - Tập 11 (Thuyết Minh)
+https://v7.kkphimplayer7.com/20260430/JTqlcf28/index.m3u8
+#EXTINF:-1 group-title="🎬 HH3D Thuyết Minh - Gấu Boonie: Kế Hoạch Quái Vật (Phần 2)" tvg-logo="https://phimimg.com/upload/vod/20260429-1/fe985f039c8e0b6df6a89bf41ca86b88.jpg",🎬 Gấu Boonie: Kế Hoạch Quái Vật (Phần 2) - Tập 12 (Thuyết Minh)
+https://v7.kkphimplayer7.com/20260430/sRKTETp5/index.m3u8
+#EXTINF:-1 group-title="🎬 HH3D Thuyết Minh - Gấu Boonie: Kế Hoạch Quái Vật (Phần 2)" tvg-logo="https://phimimg.com/upload/vod/20260429-1/fe985f039c8e0b6df6a89bf41ca86b88.jpg",🎬 Gấu Boonie: Kế Hoạch Quái Vật (Phần 2) - Tập 13 (Thuyết Minh)
+https://v7.kkphimplayer7.com/20260430/ToPfQy8o/index.m3u8
+#EXTINF:-1 group-title="🎬 HH3D Thuyết Minh - Gấu Boonie: Kế Hoạch Quái Vật (Phần 2)" tvg-logo="https://phimimg.com/upload/vod/20260429-1/fe985f039c8e0b6df6a89bf41ca86b88.jpg",🎬 Gấu Boonie: Kế Hoạch Quái Vật (Phần 2) - Tập 14 (Thuyết Minh)
+https://v7.kkphimplayer7.com/20260430/tKLkAxTW/index.m3u8
+#EXTINF:-1 group-title="🎬 HH3D Thuyết Minh - Gấu Boonie: Kế Hoạch Quái Vật (Phần 2)" tvg-logo="https://phimimg.com/upload/vod/20260429-1/fe985f039c8e0b6df6a89bf41ca86b88.jpg",🎬 Gấu Boonie: Kế Hoạch Quái Vật (Phần 2) - Tập 15 (Thuyết Minh)
+https://v7.kkphimplayer7.com/20260430/w2udZzTH/index.m3u8
+#EXTINF:-1 group-title="🎬 HH3D Thuyết Minh - Gấu Boonie: Kế Hoạch Quái Vật (Phần 2)" tvg-logo="https://phimimg.com/upload/vod/20260429-1/fe985f039c8e0b6df6a89bf41ca86b88.jpg",🎬 Gấu Boonie: Kế Hoạch Quái Vật (Phần 2) - Tập 16 (Thuyết Minh)
+https://v7.kkphimplayer7.com/20260526/B17eCgD0/index.m3u8
+#EXTINF:-1 group-title="🎬 HH3D Thuyết Minh - Gấu Boonie: Kế Hoạch Quái Vật (Phần 2)" tvg-logo="https://phimimg.com/upload/vod/20260429-1/fe985f039c8e0b6df6a89bf41ca86b88.jpg",🎬 Gấu Boonie: Kế Hoạch Quái Vật (Phần 2) - Tập 17 (Thuyết Minh)
+https://v7.kkphimplayer7.com/20260526/zq5GMAdS/index.m3u8
+#EXTINF:-1 group-title="🎬 HH3D Thuyết Minh - Gấu Boonie: Kế Hoạch Quái Vật (Phần 2)" tvg-logo="https://phimimg.com/upload/vod/20260429-1/fe985f039c8e0b6df6a89bf41ca86b88.jpg",🎬 Gấu Boonie: Kế Hoạch Quái Vật (Phần 2) - Tập 18 (Thuyết Minh)
+https://v7.kkphimplayer7.com/20260526/h1F2yOgy/index.m3u8
+#EXTINF:-1 group-title="🎬 HH3D Thuyết Minh - Gấu Boonie: Kế Hoạch Quái Vật (Phần 2)" tvg-logo="https://phimimg.com/upload/vod/20260429-1/fe985f039c8e0b6df6a89bf41ca86b88.jpg",🎬 Gấu Boonie: Kế Hoạch Quái Vật (Phần 2) - Tập 19 (Thuyết Minh)
+https://v7.kkphimplayer7.com/20260526/oPALQCjD/index.m3u8
+#EXTINF:-1 group-title="🎬 HH3D Thuyết Minh - Gấu Boonie: Kế Hoạch Quái Vật (Phần 2)" tvg-logo="https://phimimg.com/upload/vod/20260429-1/fe985f039c8e0b6df6a89bf41ca86b88.jpg",🎬 Gấu Boonie: Kế Hoạch Quái Vật (Phần 2) - Tập 20 (Thuyết Minh)
+https://v7.kkphimplayer7.com/20260526/CvqwnYQ4/index.m3u8
+#EXTINF:-1 group-title="🎬 HH3D Thuyết Minh - Gấu Boonie: Kế Hoạch Quái Vật (Phần 2)" tvg-logo="https://phimimg.com/upload/vod/20260429-1/fe985f039c8e0b6df6a89bf41ca86b88.jpg",🎬 Gấu Boonie: Kế Hoạch Quái Vật (Phần 2) - Tập 21 (Thuyết Minh)
+https://v7.kkphimplayer7.com/20260526/mPDcIx4Q/index.m3u8
+#EXTINF:-1 group-title="🎬 HH3D Thuyết Minh - Gấu Boonie: Kế Hoạch Quái Vật (Phần 2)" tvg-logo="https://phimimg.com/upload/vod/20260429-1/fe985f039c8e0b6df6a89bf41ca86b88.jpg",🎬 Gấu Boonie: Kế Hoạch Quái Vật (Phần 2) - Tập 22 (Thuyết Minh)
+https://v7.kkphimplayer7.com/20260526/38uJ1HKx/index.m3u8
+#EXTINF:-1 group-title="🎬 HH3D Thuyết Minh - Gấu Boonie: Kế Hoạch Quái Vật (Phần 2)" tvg-logo="https://phimimg.com/upload/vod/20260429-1/fe985f039c8e0b6df6a89bf41ca86b88.jpg",🎬 Gấu Boonie: Kế Hoạch Quái Vật (Phần 2) - Tập 23 (Thuyết Minh)
+https://v7.kkphimplayer7.com/20260526/dO4c99Ib/index.m3u8
+#EXTINF:-1 group-title="🎬 HH3D Thuyết Minh - Gấu Boonie: Kế Hoạch Quái Vật (Phần 2)" tvg-logo="https://phimimg.com/upload/vod/20260429-1/fe985f039c8e0b6df6a89bf41ca86b88.jpg",🎬 Gấu Boonie: Kế Hoạch Quái Vật (Phần 2) - Tập 24 (Thuyết Minh)
+https://v7.kkphimplayer7.com/20260526/ZgwWMoUx/index.m3u8
+#EXTINF:-1 group-title="🎬 HH3D Thuyết Minh - Gấu Boonie: Kế Hoạch Quái Vật (Phần 2)" tvg-logo="https://phimimg.com/upload/vod/20260429-1/fe985f039c8e0b6df6a89bf41ca86b88.jpg",🎬 Gấu Boonie: Kế Hoạch Quái Vật (Phần 2) - Tập 25 (Thuyết Minh)
+https://v7.kkphimplayer7.com/20260526/8GWYEOyT/index.m3u8
+#EXTINF:-1 group-title="🎬 HH3D Thuyết Minh - Gấu Boonie: Kế Hoạch Quái Vật (Phần 2)" tvg-logo="https://phimimg.com/upload/vod/20260429-1/fe985f039c8e0b6df6a89bf41ca86b88.jpg",🎬 Gấu Boonie: Kế Hoạch Quái Vật (Phần 2) - Tập 26 (Thuyết Minh)
+https://v7.kkphimplayer7.com/20260629/HK1oBVYi/index.m3u8
+#EXTINF:-1 group-title="🎬 HH3D Thuyết Minh - Gấu Boonie: Kế Hoạch Quái Vật (Phần 2)" tvg-logo="https://phimimg.com/upload/vod/20260429-1/fe985f039c8e0b6df6a89bf41ca86b88.jpg",🎬 Gấu Boonie: Kế Hoạch Quái Vật (Phần 2) - Tập 27 (Thuyết Minh)
+https://v7.kkphimplayer7.com/20260629/YzPj8UdR/index.m3u8
+#EXTINF:-1 group-title="🎬 HH3D Thuyết Minh - Gấu Boonie: Kế Hoạch Quái Vật (Phần 2)" tvg-logo="https://phimimg.com/upload/vod/20260429-1/fe985f039c8e0b6df6a89bf41ca86b88.jpg",🎬 Gấu Boonie: Kế Hoạch Quái Vật (Phần 2) - Tập 28 (Thuyết Minh)
+https://v7.kkphimplayer7.com/20260629/VgXJFAAr/index.m3u8
+#EXTINF:-1 group-title="🎬 HH3D Thuyết Minh - Gấu Boonie: Kế Hoạch Quái Vật (Phần 2)" tvg-logo="https://phimimg.com/upload/vod/20260429-1/fe985f039c8e0b6df6a89bf41ca86b88.jpg",🎬 Gấu Boonie: Kế Hoạch Quái Vật (Phần 2) - Tập 29 (Thuyết Minh)
+https://v7.kkphimplayer7.com/20260629/t5Nasa4T/index.m3u8
+#EXTINF:-1 group-title="🎬 HH3D Thuyết Minh - Gấu Boonie: Kế Hoạch Quái Vật (Phần 2)" tvg-logo="https://phimimg.com/upload/vod/20260429-1/fe985f039c8e0b6df6a89bf41ca86b88.jpg",🎬 Gấu Boonie: Kế Hoạch Quái Vật (Phần 2) - Tập 30 (Thuyết Minh)
+https://v7.kkphimplayer7.com/20260629/4J39NEyN/index.m3u8
+#EXTINF:-1 group-title="🎬 HH3D Thuyết Minh - Gấu Boonie: Kế Hoạch Quái Vật (Phần 2)" tvg-logo="https://phimimg.com/upload/vod/20260429-1/fe985f039c8e0b6df6a89bf41ca86b88.jpg",🎬 Gấu Boonie: Kế Hoạch Quái Vật (Phần 2) - Tập 31 (Thuyết Minh)
+https://v7.kkphimplayer7.com/20260629/NpaBfF7I/index.m3u8
+#EXTINF:-1 group-title="🎬 HH3D Thuyết Minh - Gấu Boonie: Kế Hoạch Quái Vật (Phần 2)" tvg-logo="https://phimimg.com/upload/vod/20260429-1/fe985f039c8e0b6df6a89bf41ca86b88.jpg",🎬 Gấu Boonie: Kế Hoạch Quái Vật (Phần 2) - Tập 32 (Thuyết Minh)
+https://v7.kkphimplayer7.com/20260629/0aL2Sh57/index.m3u8
+#EXTINF:-1 group-title="🎬 HH3D Thuyết Minh - Gấu Boonie: Kế Hoạch Quái Vật (Phần 2)" tvg-logo="https://phimimg.com/upload/vod/20260429-1/fe985f039c8e0b6df6a89bf41ca86b88.jpg",🎬 Gấu Boonie: Kế Hoạch Quái Vật (Phần 2) - Tập 33 (Thuyết Minh)
+https://v7.kkphimplayer7.com/20260629/Ql5p497v/index.m3u8
+#EXTINF:-1 group-title="🎬 HH3D Thuyết Minh - Gấu Boonie: Kế Hoạch Quái Vật (Phần 2)" tvg-logo="https://phimimg.com/upload/vod/20260429-1/fe985f039c8e0b6df6a89bf41ca86b88.jpg",🎬 Gấu Boonie: Kế Hoạch Quái Vật (Phần 2) - Tập 34 (Thuyết Minh)
+https://v7.kkphimplayer7.com/20260629/ZL4unWKA/index.m3u8
+#EXTINF:-1 group-title="🎬 HH3D Thuyết Minh - Gấu Boonie: Kế Hoạch Quái Vật (Phần 2)" tvg-logo="https://phimimg.com/upload/vod/20260429-1/fe985f039c8e0b6df6a89bf41ca86b88.jpg",🎬 Gấu Boonie: Kế Hoạch Quái Vật (Phần 2) - Tập 35 (Thuyết Minh)
+https://v7.kkphimplayer7.com/20260629/p5zl456L/index.m3u8
+#EXTINF:-1 group-title="🎬 HH3D Thuyết Minh - Gấu Boonie: Kế Hoạch Quái Vật (Phần 2)" tvg-logo="https://phimimg.com/upload/vod/20260429-1/fe985f039c8e0b6df6a89bf41ca86b88.jpg",🎬 Gấu Boonie: Kế Hoạch Quái Vật (Phần 2) - Tập 36 (Thuyết Minh)
+https://v7.kkphimplayer7.com/20260629/YPkDsVhv/index.m3u8
+#EXTINF:-1 group-title="🎬 HH3D Thuyết Minh - Gấu Boonie: Kế Hoạch Quái Vật (Phần 2)" tvg-logo="https://phimimg.com/upload/vod/20260429-1/fe985f039c8e0b6df6a89bf41ca86b88.jpg",🎬 Gấu Boonie: Kế Hoạch Quái Vật (Phần 2) - Tập 37 (Thuyết Minh)
+https://v7.kkphimplayer7.com/20260629/KkQpIwp5/index.m3u8
+#EXTINF:-1 group-title="🎬 HH3D Thuyết Minh - Gấu Boonie: Kế Hoạch Quái Vật (Phần 2)" tvg-logo="https://phimimg.com/upload/vod/20260429-1/fe985f039c8e0b6df6a89bf41ca86b88.jpg",🎬 Gấu Boonie: Kế Hoạch Quái Vật (Phần 2) - Tập 38 (Thuyết Minh)
+https://v7.kkphimplayer7.com/20260629/fXGcR2fQ/index.m3u8
+#EXTINF:-1 group-title="🎬 HH3D Thuyết Minh - Gấu Boonie: Kế Hoạch Quái Vật (Phần 2)" tvg-logo="https://phimimg.com/upload/vod/20260429-1/fe985f039c8e0b6df6a89bf41ca86b88.jpg",🎬 Gấu Boonie: Kế Hoạch Quái Vật (Phần 2) - Tập 39 (Thuyết Minh)
+https://v7.kkphimplayer7.com/20260629/tqzKcBzc/index.m3u8
+#EXTINF:-1 group-title="🎬 HH3D Thuyết Minh - Gấu Boonie: Kế Hoạch Quái Vật (Phần 2)" tvg-logo="https://phimimg.com/upload/vod/20260429-1/fe985f039c8e0b6df6a89bf41ca86b88.jpg",🎬 Gấu Boonie: Kế Hoạch Quái Vật (Phần 2) - Tập 40 (Thuyết Minh)
+https://v7.kkphimplayer7.com/20260629/mFVBpCku/index.m3u8
+#EXTINF:-1 group-title="🎬 HH3D Thuyết Minh - Gấu Boonie: Kế Hoạch Quái Vật (Phần 2)" tvg-logo="https://phimimg.com/upload/vod/20260429-1/fe985f039c8e0b6df6a89bf41ca86b88.jpg",🎬 Gấu Boonie: Kế Hoạch Quái Vật (Phần 2) - Tập 41 (Thuyết Minh)
+https://v7.kkphimplayer7.com/20260808/E5cfBNrS/index.m3u8
+#EXTINF:-1 group-title="🎬 HH3D Thuyết Minh - Gấu Boonie: Kế Hoạch Quái Vật (Phần 2)" tvg-logo="https://phimimg.com/upload/vod/20260429-1/fe985f039c8e0b6df6a89bf41ca86b88.jpg",🎬 Gấu Boonie: Kế Hoạch Quái Vật (Phần 2) - Tập 42 (Thuyết Minh)
+https://v7.kkphimplayer7.com/20260808/8G7jHMAZ/index.m3u8
+#EXTINF:-1 group-title="🎬 HH3D Thuyết Minh - Gấu Boonie: Kế Hoạch Quái Vật (Phần 2)" tvg-logo="https://phimimg.com/upload/vod/20260429-1/fe985f039c8e0b6df6a89bf41ca86b88.jpg",🎬 Gấu Boonie: Kế Hoạch Quái Vật (Phần 2) - Tập 43 (Thuyết Minh)
+https://v7.kkphimplayer7.com/20260808/Udrv7VVr/index.m3u8
+#EXTINF:-1 group-title="🎬 HH3D Thuyết Minh - Gấu Boonie: Kế Hoạch Quái Vật (Phần 2)" tvg-logo="https://phimimg.com/upload/vod/20260429-1/fe985f039c8e0b6df6a89bf41ca86b88.jpg",🎬 Gấu Boonie: Kế Hoạch Quái Vật (Phần 2) - Tập 44 (Thuyết Minh)
+https://v7.kkphimplayer7.com/20260808/8MEKfWhs/index.m3u8
+#EXTINF:-1 group-title="🎬 HH3D Thuyết Minh - Gấu Boonie: Kế Hoạch Quái Vật (Phần 2)" tvg-logo="https://phimimg.com/upload/vod/20260429-1/fe985f039c8e0b6df6a89bf41ca86b88.jpg",🎬 Gấu Boonie: Kế Hoạch Quái Vật (Phần 2) - Tập 45 (Thuyết Minh)
+https://v7.kkphimplayer7.com/20260808/93zz5evc/index.m3u8
+#EXTINF:-1 group-title="🎬 HH3D Thuyết Minh - Gấu Boonie: Kế Hoạch Quái Vật (Phần 2)" tvg-logo="https://phimimg.com/upload/vod/20260429-1/fe985f039c8e0b6df6a89bf41ca86b88.jpg",🎬 Gấu Boonie: Kế Hoạch Quái Vật (Phần 2) - Tập 46 (Thuyết Minh)
+https://v7.kkphimplayer7.com/20260808/YoWdXMvu/index.m3u8
+#EXTINF:-1 group-title="🎬 HH3D Thuyết Minh - Gấu Boonie: Kế Hoạch Quái Vật (Phần 2)" tvg-logo="https://phimimg.com/upload/vod/20260429-1/fe985f039c8e0b6df6a89bf41ca86b88.jpg",🎬 Gấu Boonie: Kế Hoạch Quái Vật (Phần 2) - Tập 47 (Thuyết Minh)
+https://v7.kkphimplayer7.com/20260808/W2COuGxd/index.m3u8
+#EXTINF:-1 group-title="🎬 HH3D Thuyết Minh - Gấu Boonie: Kế Hoạch Quái Vật (Phần 2)" tvg-logo="https://phimimg.com/upload/vod/20260429-1/fe985f039c8e0b6df6a89bf41ca86b88.jpg",🎬 Gấu Boonie: Kế Hoạch Quái Vật (Phần 2) - Tập 48 (Thuyết Minh)
+https://v7.kkphimplayer7.com/20260808/X2WmIgfK/index.m3u8
+#EXTINF:-1 group-title="🎬 HH3D Thuyết Minh - Gấu Boonie: Kế Hoạch Quái Vật (Phần 2)" tvg-logo="https://phimimg.com/upload/vod/20260429-1/fe985f039c8e0b6df6a89bf41ca86b88.jpg",🎬 Gấu Boonie: Kế Hoạch Quái Vật (Phần 2) - Tập 49 (Thuyết Minh)
+https://v7.kkphimplayer7.com/20260808/YEkVQKfl/index.m3u8
+#EXTINF:-1 group-title="🎬 HH3D Thuyết Minh - Gấu Boonie: Kế Hoạch Quái Vật (Phần 2)" tvg-logo="https://phimimg.com/upload/vod/20260429-1/fe985f039c8e0b6df6a89bf41ca86b88.jpg",🎬 Gấu Boonie: Kế Hoạch Quái Vật (Phần 2) - Tập 50 (Thuyết Minh)
+https://v7.kkphimplayer7.com/20260808/FWvRosjo/index.m3u8
+#EXTINF:-1 group-title="🎬 HH3D Thuyết Minh - Gấu Boonie: Kế Hoạch Quái Vật (Phần 2)" tvg-logo="https://phimimg.com/upload/vod/20260429-1/fe985f039c8e0b6df6a89bf41ca86b88.jpg",🎬 Gấu Boonie: Kế Hoạch Quái Vật (Phần 2) - Tập 51 (Thuyết Minh)
+https://v7.kkphimplayer7.com/20260808/KhdSTetG/index.m3u8
+#EXTINF:-1 group-title="🎬 HH3D Thuyết Minh - Gấu Boonie: Kế Hoạch Quái Vật (Phần 2)" tvg-logo="https://phimimg.com/upload/vod/20260429-1/fe985f039c8e0b6df6a89bf41ca86b88.jpg",🎬 Gấu Boonie: Kế Hoạch Quái Vật (Phần 2) - Tập 52 (Thuyết Minh)
+https://v7.kkphimplayer7.com/20260808/y7MW9Ep9/index.m3u8
+#EXTINF:-1 group-title="🎬 HH3D Thuyết Minh - Lạc Phàm Trần: Hậu Duệ Chức Nữ" tvg-logo="https://phimimg.com/uploads/movies/20260823/lac-pham-tran-hau-due-chuc-nu-poster.webp",🎬 Lạc Phàm Trần: Hậu Duệ Chức Nữ - Full (Thuyết Minh)
+https://v7.kkphimplayer7.com/20260823/kvMD2Oj8/index.m3u8
+#EXTINF:-1 group-title="🎬 HH3D Thuyết Minh - Nàng Chúa Quỷ Của Lòng Tôi" tvg-logo="https://phimimg.com/uploads/movies/20260821/nang-chua-quy-cua-long-toi-poster.webp",🎬 Nàng Chúa Quỷ Của Lòng Tôi - Tập 01 (Thuyết Minh)
+https://v7.kkphimplayer7.com/20260820/li3Q0n6r/index.m3u8
+#EXTINF:-1 group-title="🎬 HH3D Thuyết Minh - Nàng Chúa Quỷ Của Lòng Tôi" tvg-logo="https://phimimg.com/uploads/movies/20260821/nang-chua-quy-cua-long-toi-poster.webp",🎬 Nàng Chúa Quỷ Của Lòng Tôi - Tập 02 (Thuyết Minh)
+https://v7.kkphimplayer7.com/20260820/IzzskTyn/index.m3u8
+#EXTINF:-1 group-title="🎬 HH3D Thuyết Minh - Nàng Chúa Quỷ Của Lòng Tôi" tvg-logo="https://phimimg.com/uploads/movies/20260821/nang-chua-quy-cua-long-toi-poster.webp",🎬 Nàng Chúa Quỷ Của Lòng Tôi - Tập 03 (Thuyết Minh)
+https://v7.kkphimplayer7.com/20260820/GyQecEE3/index.m3u8
+#EXTINF:-1 group-title="🎬 HH3D Thuyết Minh - Nàng Chúa Quỷ Của Lòng Tôi" tvg-logo="https://phimimg.com/uploads/movies/20260821/nang-chua-quy-cua-long-toi-poster.webp",🎬 Nàng Chúa Quỷ Của Lòng Tôi - Tập 04 (Thuyết Minh)
+https://v7.kkphimplayer7.com/20260820/gSAzcw6V/index.m3u8
+#EXTINF:-1 group-title="🎬 HH3D Thuyết Minh - Nàng Chúa Quỷ Của Lòng Tôi" tvg-logo="https://phimimg.com/uploads/movies/20260821/nang-chua-quy-cua-long-toi-poster.webp",🎬 Nàng Chúa Quỷ Của Lòng Tôi - Tập 05 (Thuyết Minh)
+https://v7.kkphimplayer7.com/20260820/bFp6UKTI/index.m3u8
+#EXTINF:-1 group-title="🎬 HH3D Thuyết Minh - Nàng Chúa Quỷ Của Lòng Tôi" tvg-logo="https://phimimg.com/uploads/movies/20260821/nang-chua-quy-cua-long-toi-poster.webp",🎬 Nàng Chúa Quỷ Của Lòng Tôi - Tập 06 (Thuyết Minh)
+https://v7.kkphimplayer7.com/20260820/uC1PLpeS/index.m3u8
+#EXTINF:-1 group-title="🎬 HH3D Thuyết Minh - Nàng Chúa Quỷ Của Lòng Tôi" tvg-logo="https://phimimg.com/uploads/movies/20260821/nang-chua-quy-cua-long-toi-poster.webp",🎬 Nàng Chúa Quỷ Của Lòng Tôi - Tập 07 (Thuyết Minh)
+https://v7.kkphimplayer7.com/20260820/inBP6CbK/index.m3u8
+#EXTINF:-1 group-title="🎬 HH3D Thuyết Minh - Nàng Chúa Quỷ Của Lòng Tôi" tvg-logo="https://phimimg.com/uploads/movies/20260821/nang-chua-quy-cua-long-toi-poster.webp",🎬 Nàng Chúa Quỷ Của Lòng Tôi - Tập 08 (Thuyết Minh)
+https://v7.kkphimplayer7.com/20260820/QHRUmvZ0/index.m3u8
+#EXTINF:-1 group-title="🎬 HH3D Thuyết Minh - Nàng Chúa Quỷ Của Lòng Tôi" tvg-logo="https://phimimg.com/uploads/movies/20260821/nang-chua-quy-cua-long-toi-poster.webp",🎬 Nàng Chúa Quỷ Của Lòng Tôi - Tập 09 (Thuyết Minh)
+https://v7.kkphimplayer7.com/20260820/0asO8zj8/index.m3u8
+#EXTINF:-1 group-title="🎬 HH3D Thuyết Minh - Nàng Chúa Quỷ Của Lòng Tôi" tvg-logo="https://phimimg.com/uploads/movies/20260821/nang-chua-quy-cua-long-toi-poster.webp",🎬 Nàng Chúa Quỷ Của Lòng Tôi - Tập 10 (Thuyết Minh)
+https://v7.kkphimplayer7.com/20260820/Fkdo0bFh/index.m3u8
+#EXTINF:-1 group-title="🎬 HH3D Thuyết Minh - Nàng Chúa Quỷ Của Lòng Tôi" tvg-logo="https://phimimg.com/uploads/movies/20260821/nang-chua-quy-cua-long-toi-poster.webp",🎬 Nàng Chúa Quỷ Của Lòng Tôi - Tập 11 (Thuyết Minh)
+https://v7.kkphimplayer7.com/20260820/zWvRyLb7/index.m3u8
+#EXTINF:-1 group-title="🎬 HH3D Thuyết Minh - Nàng Chúa Quỷ Của Lòng Tôi" tvg-logo="https://phimimg.com/uploads/movies/20260821/nang-chua-quy-cua-long-toi-poster.webp",🎬 Nàng Chúa Quỷ Của Lòng Tôi - Tập 12 (Thuyết Minh)
+https://v7.kkphimplayer7.com/20260820/ydw2ExeC/index.m3u8
+#EXTINF:-1 group-title="🎬 HH3D Thuyết Minh - Nàng Chúa Quỷ Của Lòng Tôi" tvg-logo="https://phimimg.com/uploads/movies/20260821/nang-chua-quy-cua-long-toi-poster.webp",🎬 Nàng Chúa Quỷ Của Lòng Tôi - Tập 13 (Thuyết Minh)
+https://v7.kkphimplayer7.com/20260820/f9kGcrth/index.m3u8
+#EXTINF:-1 group-title="🎬 HH3D Thuyết Minh - Nàng Chúa Quỷ Của Lòng Tôi" tvg-logo="https://phimimg.com/uploads/movies/20260821/nang-chua-quy-cua-long-toi-poster.webp",🎬 Nàng Chúa Quỷ Của Lòng Tôi - Tập 14 (Thuyết Minh)
+https://v7.kkphimplayer7.com/20260820/mPSesQ84/index.m3u8
+#EXTINF:-1 group-title="🎬 HH3D Thuyết Minh - Nàng Chúa Quỷ Của Lòng Tôi" tvg-logo="https://phimimg.com/uploads/movies/20260821/nang-chua-quy-cua-long-toi-poster.webp",🎬 Nàng Chúa Quỷ Của Lòng Tôi - Tập 15 (Thuyết Minh)
+https://v7.kkphimplayer7.com/20260820/nfBpI8ee/index.m3u8
+#EXTINF:-1 group-title="🎬 HH3D Thuyết Minh - Nàng Chúa Quỷ Của Lòng Tôi" tvg-logo="https://phimimg.com/uploads/movies/20260821/nang-chua-quy-cua-long-toi-poster.webp",🎬 Nàng Chúa Quỷ Của Lòng Tôi - Tập 16 (Thuyết Minh)
+https://v7.kkphimplayer7.com/20260820/8i2Xx0eF/index.m3u8
+#EXTINF:-1 group-title="🎬 HH3D Thuyết Minh - Nàng Chúa Quỷ Của Lòng Tôi" tvg-logo="https://phimimg.com/uploads/movies/20260821/nang-chua-quy-cua-long-toi-poster.webp",🎬 Nàng Chúa Quỷ Của Lòng Tôi - Tập 17 (Thuyết Minh)
+https://v7.kkphimplayer7.com/20260820/eg5gZfM8/index.m3u8
+#EXTINF:-1 group-title="🎬 HH3D Thuyết Minh - Nàng Chúa Quỷ Của Lòng Tôi" tvg-logo="https://phimimg.com/uploads/movies/20260821/nang-chua-quy-cua-long-toi-poster.webp",🎬 Nàng Chúa Quỷ Của Lòng Tôi - Tập 18 (Thuyết Minh)
+https://v7.kkphimplayer7.com/20260820/uiSlQjvz/index.m3u8
+#EXTINF:-1 group-title="🎬 HH3D Thuyết Minh - Nàng Chúa Quỷ Của Lòng Tôi" tvg-logo="https://phimimg.com/uploads/movies/20260821/nang-chua-quy-cua-long-toi-poster.webp",🎬 Nàng Chúa Quỷ Của Lòng Tôi - Tập 19 (Thuyết Minh)
+https://v7.kkphimplayer7.com/20260820/EFn0JdI3/index.m3u8
+#EXTINF:-1 group-title="🎬 HH3D Thuyết Minh - Nàng Chúa Quỷ Của Lòng Tôi" tvg-logo="https://phimimg.com/uploads/movies/20260821/nang-chua-quy-cua-long-toi-poster.webp",🎬 Nàng Chúa Quỷ Của Lòng Tôi - Tập 20 (Thuyết Minh)
+https://v7.kkphimplayer7.com/20260820/r6tSz8m0/index.m3u8
+#EXTINF:-1 group-title="🎬 HH3D Thuyết Minh - Nàng Chúa Quỷ Của Lòng Tôi" tvg-logo="https://phimimg.com/uploads/movies/20260821/nang-chua-quy-cua-long-toi-poster.webp",🎬 Nàng Chúa Quỷ Của Lòng Tôi - Tập 21 (Thuyết Minh)
+https://v7.kkphimplayer7.com/20260820/sC2UR1uV/index.m3u8
+#EXTINF:-1 group-title="🎬 HH3D Thuyết Minh - Nàng Chúa Quỷ Của Lòng Tôi" tvg-logo="https://phimimg.com/uploads/movies/20260821/nang-chua-quy-cua-long-toi-poster.webp",🎬 Nàng Chúa Quỷ Của Lòng Tôi - Tập 22 (Thuyết Minh)
+https://v7.kkphimplayer7.com/20260820/Po2h8g1V/index.m3u8
+#EXTINF:-1 group-title="🎬 HH3D Thuyết Minh - Nàng Chúa Quỷ Của Lòng Tôi" tvg-logo="https://phimimg.com/uploads/movies/20260821/nang-chua-quy-cua-long-toi-poster.webp",🎬 Nàng Chúa Quỷ Của Lòng Tôi - Tập 23 (Thuyết Minh)
+https://v7.kkphimplayer7.com/20260820/O6wkW6lT/index.m3u8
+#EXTINF:-1 group-title="🎬 HH3D Thuyết Minh - Nàng Chúa Quỷ Của Lòng Tôi" tvg-logo="https://phimimg.com/uploads/movies/20260821/nang-chua-quy-cua-long-toi-poster.webp",🎬 Nàng Chúa Quỷ Của Lòng Tôi - Tập 24 (Thuyết Minh)
+https://v7.kkphimplayer7.com/20260820/9lsQWb09/index.m3u8
+#EXTINF:-1 group-title="🎬 HH3D Thuyết Minh - Phi Vụ Động Trời 2" tvg-logo="https://phimimg.com/upload/vod/20251223-1/6bc1d549b86e490274d93bab66a3654d.jpg",🎬 Phi Vụ Động Trời 2 - Full (Thuyết Minh)
+https://s6.kkphimplayer6.com/20260129/oAtCSUd4/index.m3u8
+#EXTINF:-1 group-title="🎬 HH3D Thuyết Minh - Sơn Hải Kinh: Thiết Lập Lại Trật Tự" tvg-logo="https://phimimg.com/uploads/movies/20260719/son-hai-kinh-thiet-lap-lai-trat-tu-poster.webp",🎬 Sơn Hải Kinh: Thiết Lập Lại Trật Tự - Tập 01 (Thuyết Minh)
+https://v7.kkphimplayer7.com/20260904/Xb31tNg7/index.m3u8
+#EXTINF:-1 group-title="🎬 HH3D Thuyết Minh - Sơn Hải Kinh: Thiết Lập Lại Trật Tự" tvg-logo="https://phimimg.com/uploads/movies/20260719/son-hai-kinh-thiet-lap-lai-trat-tu-poster.webp",🎬 Sơn Hải Kinh: Thiết Lập Lại Trật Tự - Tập 02 (Thuyết Minh)
+https://v7.kkphimplayer7.com/20260904/3UC6V9hk/index.m3u8
+#EXTINF:-1 group-title="🎬 HH3D Thuyết Minh - Sơn Hải Kinh: Thiết Lập Lại Trật Tự" tvg-logo="https://phimimg.com/uploads/movies/20260719/son-hai-kinh-thiet-lap-lai-trat-tu-poster.webp",🎬 Sơn Hải Kinh: Thiết Lập Lại Trật Tự - Tập 03 (Thuyết Minh)
+https://v7.kkphimplayer7.com/20260904/NRGvZgz3/index.m3u8
+#EXTINF:-1 group-title="🎬 HH3D Thuyết Minh - Sơn Hải Kinh: Thiết Lập Lại Trật Tự" tvg-logo="https://phimimg.com/uploads/movies/20260719/son-hai-kinh-thiet-lap-lai-trat-tu-poster.webp",🎬 Sơn Hải Kinh: Thiết Lập Lại Trật Tự - Tập 04 (Thuyết Minh)
+https://v7.kkphimplayer7.com/20260904/CL2PTk28/index.m3u8
+#EXTINF:-1 group-title="🎬 HH3D Thuyết Minh - Sơn Hải Kinh: Thiết Lập Lại Trật Tự" tvg-logo="https://phimimg.com/uploads/movies/20260719/son-hai-kinh-thiet-lap-lai-trat-tu-poster.webp",🎬 Sơn Hải Kinh: Thiết Lập Lại Trật Tự - Tập 05 (Thuyết Minh)
+https://v7.kkphimplayer7.com/20260904/pDxcl567/index.m3u8
+#EXTINF:-1 group-title="🎬 HH3D Thuyết Minh - Sơn Hải Kinh: Thiết Lập Lại Trật Tự" tvg-logo="https://phimimg.com/uploads/movies/20260719/son-hai-kinh-thiet-lap-lai-trat-tu-poster.webp",🎬 Sơn Hải Kinh: Thiết Lập Lại Trật Tự - Tập 06 (Thuyết Minh)
+https://v7.kkphimplayer7.com/20260904/1iFVyAcL/index.m3u8
+#EXTINF:-1 group-title="🎬 HH3D Thuyết Minh - Sơn Hải Kinh: Thiết Lập Lại Trật Tự" tvg-logo="https://phimimg.com/uploads/movies/20260719/son-hai-kinh-thiet-lap-lai-trat-tu-poster.webp",🎬 Sơn Hải Kinh: Thiết Lập Lại Trật Tự - Tập 07 (Thuyết Minh)
+https://v7.kkphimplayer7.com/20260904/6LY8f0TP/index.m3u8
+#EXTINF:-1 group-title="🎬 HH3D Thuyết Minh - Sơn Hải Kinh: Thiết Lập Lại Trật Tự" tvg-logo="https://phimimg.com/uploads/movies/20260719/son-hai-kinh-thiet-lap-lai-trat-tu-poster.webp",🎬 Sơn Hải Kinh: Thiết Lập Lại Trật Tự - Tập 08 (Thuyết Minh)
+https://v7.kkphimplayer7.com/20260904/eZfisB3m/index.m3u8
+#EXTINF:-1 group-title="🎬 HH3D Thuyết Minh - Sơn Hải Kinh: Thiết Lập Lại Trật Tự" tvg-logo="https://phimimg.com/uploads/movies/20260719/son-hai-kinh-thiet-lap-lai-trat-tu-poster.webp",🎬 Sơn Hải Kinh: Thiết Lập Lại Trật Tự - Tập 09 (Thuyết Minh)
+https://v7.kkphimplayer7.com/20260904/9F8dLUgf/index.m3u8
+#EXTINF:-1 group-title="🎬 HH3D Thuyết Minh - Sơn Hải Kinh: Thiết Lập Lại Trật Tự" tvg-logo="https://phimimg.com/uploads/movies/20260719/son-hai-kinh-thiet-lap-lai-trat-tu-poster.webp",🎬 Sơn Hải Kinh: Thiết Lập Lại Trật Tự - Tập 10 (Thuyết Minh)
+https://v7.kkphimplayer7.com/20260904/EB1wp49X/index.m3u8
+#EXTINF:-1 group-title="🎬 HH3D Thuyết Minh - Sơn Hải Kinh: Thiết Lập Lại Trật Tự" tvg-logo="https://phimimg.com/uploads/movies/20260719/son-hai-kinh-thiet-lap-lai-trat-tu-poster.webp",🎬 Sơn Hải Kinh: Thiết Lập Lại Trật Tự - Tập 11 (Thuyết Minh)
+https://v7.kkphimplayer7.com/20260904/JzzMFHvG/index.m3u8
+#EXTINF:-1 group-title="🎬 HH3D Thuyết Minh - Sơn Hải Kinh: Thiết Lập Lại Trật Tự" tvg-logo="https://phimimg.com/uploads/movies/20260719/son-hai-kinh-thiet-lap-lai-trat-tu-poster.webp",🎬 Sơn Hải Kinh: Thiết Lập Lại Trật Tự - Tập 12 (Thuyết Minh)
+https://v7.kkphimplayer7.com/20260904/piH0AiZu/index.m3u8
+#EXTINF:-1 group-title="🎬 HH3D Thuyết Minh - Sơn Hải Kinh: Thiết Lập Lại Trật Tự" tvg-logo="https://phimimg.com/uploads/movies/20260719/son-hai-kinh-thiet-lap-lai-trat-tu-poster.webp",🎬 Sơn Hải Kinh: Thiết Lập Lại Trật Tự - Tập 13 (Thuyết Minh)
+https://v7.kkphimplayer7.com/20260904/MSYX5beL/index.m3u8
+#EXTINF:-1 group-title="🎬 HH3D Thuyết Minh - Sơn Hải Kinh: Thiết Lập Lại Trật Tự" tvg-logo="https://phimimg.com/uploads/movies/20260719/son-hai-kinh-thiet-lap-lai-trat-tu-poster.webp",🎬 Sơn Hải Kinh: Thiết Lập Lại Trật Tự - Tập 14 (Thuyết Minh)
+https://v7.kkphimplayer7.com/20260904/6xbb7LTK/index.m3u8
+#EXTINF:-1 group-title="🎬 HH3D Thuyết Minh - Sơn Hải Kinh: Thiết Lập Lại Trật Tự" tvg-logo="https://phimimg.com/uploads/movies/20260719/son-hai-kinh-thiet-lap-lai-trat-tu-poster.webp",🎬 Sơn Hải Kinh: Thiết Lập Lại Trật Tự - Tập 15 (Thuyết Minh)
+https://a.kvp726.com/20260925/Vm0AThtg/index.m3u8
+#EXTINF:-1 group-title="🎬 HH3D Thuyết Minh - Sơn Hải Kinh: Thiết Lập Lại Trật Tự" tvg-logo="https://phimimg.com/uploads/movies/20260719/son-hai-kinh-thiet-lap-lai-trat-tu-poster.webp",🎬 Sơn Hải Kinh: Thiết Lập Lại Trật Tự - Tập 16 (Thuyết Minh)
+https://a.kvp726.com/20260925/QY313Tmn/index.m3u8
+#EXTINF:-1 group-title="🎬 HH3D Thuyết Minh - Sơn Hải Kinh: Thiết Lập Lại Trật Tự" tvg-logo="https://phimimg.com/uploads/movies/20260719/son-hai-kinh-thiet-lap-lai-trat-tu-poster.webp",🎬 Sơn Hải Kinh: Thiết Lập Lại Trật Tự - Tập 17 (Thuyết Minh)
+https://a.kvp726.com/20260925/464CDOo3/index.m3u8
+#EXTINF:-1 group-title="🎬 HH3D Thuyết Minh - Sơn Hải Kinh: Thiết Lập Lại Trật Tự" tvg-logo="https://phimimg.com/uploads/movies/20260719/son-hai-kinh-thiet-lap-lai-trat-tu-poster.webp",🎬 Sơn Hải Kinh: Thiết Lập Lại Trật Tự - Tập 18 (Thuyết Minh)
+https://a.kvp726.com/20260925/cwRTqmyO/index.m3u8
+#EXTINF:-1 group-title="🎬 HH3D Thuyết Minh - Sơn Hải Kinh: Thiết Lập Lại Trật Tự" tvg-logo="https://phimimg.com/uploads/movies/20260719/son-hai-kinh-thiet-lap-lai-trat-tu-poster.webp",🎬 Sơn Hải Kinh: Thiết Lập Lại Trật Tự - Tập 19 (Thuyết Minh)
+https://a.kvp726.com/20260925/0o6lJmnU/index.m3u8
+#EXTINF:-1 group-title="🎬 HH3D Thuyết Minh - Sơn Hải Kinh: Thiết Lập Lại Trật Tự" tvg-logo="https://phimimg.com/uploads/movies/20260719/son-hai-kinh-thiet-lap-lai-trat-tu-poster.webp",🎬 Sơn Hải Kinh: Thiết Lập Lại Trật Tự - Tập 20 (Thuyết Minh)
+https://a.kvp726.com/20260925/JSxrQQkI/index.m3u8
+#EXTINF:-1 group-title="🎬 HH3D Thuyết Minh - Sơn Hải Kinh: Thiết Lập Lại Trật Tự" tvg-logo="https://phimimg.com/uploads/movies/20260719/son-hai-kinh-thiet-lap-lai-trat-tu-poster.webp",🎬 Sơn Hải Kinh: Thiết Lập Lại Trật Tự - Tập 21 (Thuyết Minh)
+https://a.kvp726.com/20260925/mxqo17P4/index.m3u8
+#EXTINF:-1 group-title="🎬 HH3D Thuyết Minh - Sơn Hải Kinh: Thiết Lập Lại Trật Tự" tvg-logo="https://phimimg.com/uploads/movies/20260719/son-hai-kinh-thiet-lap-lai-trat-tu-poster.webp",🎬 Sơn Hải Kinh: Thiết Lập Lại Trật Tự - Tập 22 (Thuyết Minh)
+https://a.kvp726.com/20260925/GAP6LI4y/index.m3u8
+#EXTINF:-1 group-title="🎬 HH3D Thuyết Minh - Thái Cổ Chiến Hồn" tvg-logo="https://phimimg.com/upload/vod/20250520-1/8fc321e71315997e7d07d0e9892efdfb.jpg",🎬 Thái Cổ Chiến Hồn - Tập 01 (Thuyết Minh)
+https://s4.phim1280.tv/20250520/x3jvp9x5/index.m3u8
+#EXTINF:-1 group-title="🎬 HH3D Thuyết Minh - Thái Cổ Chiến Hồn" tvg-logo="https://phimimg.com/upload/vod/20250520-1/8fc321e71315997e7d07d0e9892efdfb.jpg",🎬 Thái Cổ Chiến Hồn - Tập 02 (Thuyết Minh)
+https://s4.phim1280.tv/20250520/CtuHmRna/index.m3u8
+#EXTINF:-1 group-title="🎬 HH3D Thuyết Minh - Thái Cổ Chiến Hồn" tvg-logo="https://phimimg.com/upload/vod/20250520-1/8fc321e71315997e7d07d0e9892efdfb.jpg",🎬 Thái Cổ Chiến Hồn - Tập 03 (Thuyết Minh)
+https://s4.phim1280.tv/20250520/GM8piTki/index.m3u8
+#EXTINF:-1 group-title="🎬 HH3D Thuyết Minh - Thái Cổ Chiến Hồn" tvg-logo="https://phimimg.com/upload/vod/20250520-1/8fc321e71315997e7d07d0e9892efdfb.jpg",🎬 Thái Cổ Chiến Hồn - Tập 04 (Thuyết Minh)
+https://s4.phim1280.tv/20250520/qXViE5RU/index.m3u8
+#EXTINF:-1 group-title="🎬 HH3D Thuyết Minh - Thái Cổ Chiến Hồn" tvg-logo="https://phimimg.com/upload/vod/20250520-1/8fc321e71315997e7d07d0e9892efdfb.jpg",🎬 Thái Cổ Chiến Hồn - Tập 05 (Thuyết Minh)
+https://s4.phim1280.tv/20250520/GkW5vE0e/index.m3u8
+#EXTINF:-1 group-title="🎬 HH3D Thuyết Minh - Thái Cổ Chiến Hồn" tvg-logo="https://phimimg.com/upload/vod/20250520-1/8fc321e71315997e7d07d0e9892efdfb.jpg",🎬 Thái Cổ Chiến Hồn - Tập 06 (Thuyết Minh)
+https://s4.phim1280.tv/20250520/0Lx8HLtl/index.m3u8
+#EXTINF:-1 group-title="🎬 HH3D Thuyết Minh - Thái Cổ Chiến Hồn" tvg-logo="https://phimimg.com/upload/vod/20250520-1/8fc321e71315997e7d07d0e9892efdfb.jpg",🎬 Thái Cổ Chiến Hồn - Tập 07 (Thuyết Minh)
+https://s4.phim1280.tv/20250520/cJWWsz36/index.m3u8
+#EXTINF:-1 group-title="🎬 HH3D Thuyết Minh - Thái Cổ Chiến Hồn" tvg-logo="https://phimimg.com/upload/vod/20250520-1/8fc321e71315997e7d07d0e9892efdfb.jpg",🎬 Thái Cổ Chiến Hồn - Tập 08 (Thuyết Minh)
+https://s4.phim1280.tv/20250520/arBCrr04/index.m3u8
+#EXTINF:-1 group-title="🎬 HH3D Thuyết Minh - Thái Cổ Chiến Hồn" tvg-logo="https://phimimg.com/upload/vod/20250520-1/8fc321e71315997e7d07d0e9892efdfb.jpg",🎬 Thái Cổ Chiến Hồn - Tập 09 (Thuyết Minh)
+https://s4.phim1280.tv/20250520/9zjlUwbZ/index.m3u8
+#EXTINF:-1 group-title="🎬 HH3D Thuyết Minh - Thái Cổ Chiến Hồn" tvg-logo="https://phimimg.com/upload/vod/20250520-1/8fc321e71315997e7d07d0e9892efdfb.jpg",🎬 Thái Cổ Chiến Hồn - Tập 10 (Thuyết Minh)
+https://s4.phim1280.tv/20250520/TJtxKMTm/index.m3u8
+#EXTINF:-1 group-title="🎬 HH3D Thuyết Minh - Thái Cổ Chiến Hồn" tvg-logo="https://phimimg.com/upload/vod/20250520-1/8fc321e71315997e7d07d0e9892efdfb.jpg",🎬 Thái Cổ Chiến Hồn - Tập 11 (Thuyết Minh)
+https://s4.phim1280.tv/20250520/0UM52V6r/index.m3u8
+#EXTINF:-1 group-title="🎬 HH3D Thuyết Minh - Thái Cổ Chiến Hồn" tvg-logo="https://phimimg.com/upload/vod/20250520-1/8fc321e71315997e7d07d0e9892efdfb.jpg",🎬 Thái Cổ Chiến Hồn - Tập 12 (Thuyết Minh)
+https://s4.phim1280.tv/20250520/zAeQ0Ozg/index.m3u8
+#EXTINF:-1 group-title="🎬 HH3D Thuyết Minh - Thái Cổ Chiến Hồn" tvg-logo="https://phimimg.com/upload/vod/20250520-1/8fc321e71315997e7d07d0e9892efdfb.jpg",🎬 Thái Cổ Chiến Hồn - Tập 13 (Thuyết Minh)
+https://s4.phim1280.tv/20250520/lAoC2mfh/index.m3u8
+#EXTINF:-1 group-title="🎬 HH3D Thuyết Minh - Thái Cổ Chiến Hồn" tvg-logo="https://phimimg.com/upload/vod/20250520-1/8fc321e71315997e7d07d0e9892efdfb.jpg",🎬 Thái Cổ Chiến Hồn - Tập 14 (Thuyết Minh)
+https://s6.kkphimplayer6.com/20250528/clnVRjop/index.m3u8
+#EXTINF:-1 group-title="🎬 HH3D Thuyết Minh - Thái Cổ Chiến Hồn" tvg-logo="https://phimimg.com/upload/vod/20250520-1/8fc321e71315997e7d07d0e9892efdfb.jpg",🎬 Thái Cổ Chiến Hồn - Tập 15 (Thuyết Minh)
+https://s6.kkphimplayer6.com/20250528/C3YWESRY/index.m3u8
+#EXTINF:-1 group-title="🎬 HH3D Thuyết Minh - Thái Cổ Chiến Hồn" tvg-logo="https://phimimg.com/upload/vod/20250520-1/8fc321e71315997e7d07d0e9892efdfb.jpg",🎬 Thái Cổ Chiến Hồn - Tập 16 (Thuyết Minh)
+https://s6.kkphimplayer6.com/20250531/a18xE6mx/index.m3u8
+#EXTINF:-1 group-title="🎬 HH3D Thuyết Minh - Thái Cổ Chiến Hồn" tvg-logo="https://phimimg.com/upload/vod/20250520-1/8fc321e71315997e7d07d0e9892efdfb.jpg",🎬 Thái Cổ Chiến Hồn - Tập 17 (Thuyết Minh)
+https://s6.kkphimplayer6.com/20250604/p6SoSMvZ/index.m3u8
+#EXTINF:-1 group-title="🎬 HH3D Thuyết Minh - Thái Cổ Chiến Hồn" tvg-logo="https://phimimg.com/upload/vod/20250520-1/8fc321e71315997e7d07d0e9892efdfb.jpg",🎬 Thái Cổ Chiến Hồn - Tập 18 (Thuyết Minh)
+https://s6.kkphimplayer6.com/20250607/COh3ppwM/index.m3u8
+#EXTINF:-1 group-title="🎬 HH3D Thuyết Minh - Thái Cổ Chiến Hồn" tvg-logo="https://phimimg.com/upload/vod/20250520-1/8fc321e71315997e7d07d0e9892efdfb.jpg",🎬 Thái Cổ Chiến Hồn - Tập 19 (Thuyết Minh)
+https://s6.kkphimplayer6.com/20250611/B9WhIMmk/index.m3u8
+#EXTINF:-1 group-title="🎬 HH3D Thuyết Minh - Thái Cổ Chiến Hồn" tvg-logo="https://phimimg.com/upload/vod/20250520-1/8fc321e71315997e7d07d0e9892efdfb.jpg",🎬 Thái Cổ Chiến Hồn - Tập 20 (Thuyết Minh)
+https://s6.kkphimplayer6.com/20250616/EJmP6eEr/index.m3u8
+#EXTINF:-1 group-title="🎬 HH3D Thuyết Minh - Thái Cổ Chiến Hồn" tvg-logo="https://phimimg.com/upload/vod/20250520-1/8fc321e71315997e7d07d0e9892efdfb.jpg",🎬 Thái Cổ Chiến Hồn - Tập 21 (Thuyết Minh)
+https://s6.kkphimplayer6.com/20250618/ltJPPiT3/index.m3u8
+#EXTINF:-1 group-title="🎬 HH3D Thuyết Minh - Thái Cổ Chiến Hồn" tvg-logo="https://phimimg.com/upload/vod/20250520-1/8fc321e71315997e7d07d0e9892efdfb.jpg",🎬 Thái Cổ Chiến Hồn - Tập 22 (Thuyết Minh)
+https://s6.kkphimplayer6.com/20250621/gZawfTSC/index.m3u8
+#EXTINF:-1 group-title="🎬 HH3D Thuyết Minh - Thái Cổ Chiến Hồn" tvg-logo="https://phimimg.com/upload/vod/20250520-1/8fc321e71315997e7d07d0e9892efdfb.jpg",🎬 Thái Cổ Chiến Hồn - Tập 23 (Thuyết Minh)
+https://s6.kkphimplayer6.com/20250624/sKsuHHJQ/index.m3u8
+#EXTINF:-1 group-title="🎬 HH3D Thuyết Minh - Thái Cổ Chiến Hồn" tvg-logo="https://phimimg.com/upload/vod/20250520-1/8fc321e71315997e7d07d0e9892efdfb.jpg",🎬 Thái Cổ Chiến Hồn - Tập 24 (Thuyết Minh)
+https://s6.kkphimplayer6.com/20250630/8YuCFQwI/index.m3u8
+#EXTINF:-1 group-title="🎬 HH3D Thuyết Minh - Thái Cổ Chiến Hồn" tvg-logo="https://phimimg.com/upload/vod/20250520-1/8fc321e71315997e7d07d0e9892efdfb.jpg",🎬 Thái Cổ Chiến Hồn - Tập 25 (Thuyết Minh)
+https://s6.kkphimplayer6.com/20250702/mC83UYPG/index.m3u8
+#EXTINF:-1 group-title="🎬 HH3D Thuyết Minh - Thái Cổ Chiến Hồn" tvg-logo="https://phimimg.com/upload/vod/20250520-1/8fc321e71315997e7d07d0e9892efdfb.jpg",🎬 Thái Cổ Chiến Hồn - Tập 26 (Thuyết Minh)
+https://s6.kkphimplayer6.com/20250705/AzPkpC7k/index.m3u8
+#EXTINF:-1 group-title="🎬 HH3D Thuyết Minh - Thái Cổ Chiến Hồn" tvg-logo="https://phimimg.com/upload/vod/20250520-1/8fc321e71315997e7d07d0e9892efdfb.jpg",🎬 Thái Cổ Chiến Hồn - Tập 27 (Thuyết Minh)
+https://s6.kkphimplayer6.com/20250708/844o98Hd/index.m3u8
+#EXTINF:-1 group-title="🎬 HH3D Thuyết Minh - Thái Cổ Chiến Hồn" tvg-logo="https://phimimg.com/upload/vod/20250520-1/8fc321e71315997e7d07d0e9892efdfb.jpg",🎬 Thái Cổ Chiến Hồn - Tập 28 (Thuyết Minh)
+https://s6.kkphimplayer6.com/20250713/d9jQjsKy/index.m3u8
+#EXTINF:-1 group-title="🎬 HH3D Thuyết Minh - Thái Cổ Chiến Hồn" tvg-logo="https://phimimg.com/upload/vod/20250520-1/8fc321e71315997e7d07d0e9892efdfb.jpg",🎬 Thái Cổ Chiến Hồn - Tập 29 (Thuyết Minh)
+https://s6.kkphimplayer6.com/20250715/ljgOdbTQ/index.m3u8
+#EXTINF:-1 group-title="🎬 HH3D Thuyết Minh - Thái Cổ Chiến Hồn" tvg-logo="https://phimimg.com/upload/vod/20250520-1/8fc321e71315997e7d07d0e9892efdfb.jpg",🎬 Thái Cổ Chiến Hồn - Tập 30 (Thuyết Minh)
+https://s6.kkphimplayer6.com/20250719/B0Ptei8t/index.m3u8
+#EXTINF:-1 group-title="🎬 HH3D Thuyết Minh - Thái Cổ Chiến Hồn" tvg-logo="https://phimimg.com/upload/vod/20250520-1/8fc321e71315997e7d07d0e9892efdfb.jpg",🎬 Thái Cổ Chiến Hồn - Tập 31 (Thuyết Minh)
+https://s6.kkphimplayer6.com/20250722/1yOr2Afk/index.m3u8
+#EXTINF:-1 group-title="🎬 HH3D Thuyết Minh - Thái Cổ Chiến Hồn" tvg-logo="https://phimimg.com/upload/vod/20250520-1/8fc321e71315997e7d07d0e9892efdfb.jpg",🎬 Thái Cổ Chiến Hồn - Tập 32 (Thuyết Minh)
+https://s6.kkphimplayer6.com/20250726/R4yQwiVj/index.m3u8
+#EXTINF:-1 group-title="🎬 HH3D Thuyết Minh - Thái Cổ Chiến Hồn" tvg-logo="https://phimimg.com/upload/vod/20250520-1/8fc321e71315997e7d07d0e9892efdfb.jpg",🎬 Thái Cổ Chiến Hồn - Tập 33 (Thuyết Minh)
+https://s6.kkphimplayer6.com/20250728/WSvmTujH/index.m3u8
+#EXTINF:-1 group-title="🎬 HH3D Thuyết Minh - Thái Cổ Chiến Hồn" tvg-logo="https://phimimg.com/upload/vod/20250520-1/8fc321e71315997e7d07d0e9892efdfb.jpg",🎬 Thái Cổ Chiến Hồn - Tập 34 (Thuyết Minh)
+https://s6.kkphimplayer6.com/20250803/TkoKJ9jF/index.m3u8
+#EXTINF:-1 group-title="🎬 HH3D Thuyết Minh - Thái Cổ Chiến Hồn" tvg-logo="https://phimimg.com/upload/vod/20250520-1/8fc321e71315997e7d07d0e9892efdfb.jpg",🎬 Thái Cổ Chiến Hồn - Tập 35 (Thuyết Minh)
+https://s6.kkphimplayer6.com/20250805/MX53Ya0i/index.m3u8
+#EXTINF:-1 group-title="🎬 HH3D Thuyết Minh - Thái Cổ Chiến Hồn" tvg-logo="https://phimimg.com/upload/vod/20250520-1/8fc321e71315997e7d07d0e9892efdfb.jpg",🎬 Thái Cổ Chiến Hồn - Tập 36 (Thuyết Minh)
+https://s6.kkphimplayer6.com/20250809/6VeXKN46/index.m3u8
+#EXTINF:-1 group-title="🎬 HH3D Thuyết Minh - Thái Cổ Chiến Hồn" tvg-logo="https://phimimg.com/upload/vod/20250520-1/8fc321e71315997e7d07d0e9892efdfb.jpg",🎬 Thái Cổ Chiến Hồn - Tập 37 (Thuyết Minh)
+https://s6.kkphimplayer6.com/20250811/s86XqAS1/index.m3u8
+#EXTINF:-1 group-title="🎬 HH3D Thuyết Minh - Thái Cổ Chiến Hồn" tvg-logo="https://phimimg.com/upload/vod/20250520-1/8fc321e71315997e7d07d0e9892efdfb.jpg",🎬 Thái Cổ Chiến Hồn - Tập 38 (Thuyết Minh)
+https://s6.kkphimplayer6.com/20250815/mleabnzX/index.m3u8
+#EXTINF:-1 group-title="🎬 HH3D Thuyết Minh - Thái Cổ Chiến Hồn" tvg-logo="https://phimimg.com/upload/vod/20250520-1/8fc321e71315997e7d07d0e9892efdfb.jpg",🎬 Thái Cổ Chiến Hồn - Tập 39 (Thuyết Minh)
+https://s6.kkphimplayer6.com/20250819/EfWArXSt/index.m3u8
+#EXTINF:-1 group-title="🎬 HH3D Thuyết Minh - Thái Cổ Chiến Hồn" tvg-logo="https://phimimg.com/upload/vod/20250520-1/8fc321e71315997e7d07d0e9892efdfb.jpg",🎬 Thái Cổ Chiến Hồn - Tập 40 (Thuyết Minh)
+https://s6.kkphimplayer6.com/20250822/lHGcbWfr/index.m3u8
+#EXTINF:-1 group-title="🎬 HH3D Thuyết Minh - Thương Lan Quyết" tvg-logo="https://phimimg.com/upload/vod/20240409-1/b8713c42f66c99ae9bbfaf5b5de1757c.jpg",🎬 Thương Lan Quyết - Tập 01 (Thuyết Minh)
+https://s5.phim1280.tv/20250322/o4btSFt8/index.m3u8
+#EXTINF:-1 group-title="🎬 HH3D Thuyết Minh - Thương Lan Quyết" tvg-logo="https://phimimg.com/upload/vod/20240409-1/b8713c42f66c99ae9bbfaf5b5de1757c.jpg",🎬 Thương Lan Quyết - Tập 02 (Thuyết Minh)
+https://s5.phim1280.tv/20250322/xaMdRMDj/index.m3u8
+#EXTINF:-1 group-title="🎬 HH3D Thuyết Minh - Thương Lan Quyết" tvg-logo="https://phimimg.com/upload/vod/20240409-1/b8713c42f66c99ae9bbfaf5b5de1757c.jpg",🎬 Thương Lan Quyết - Tập 03 (Thuyết Minh)
+https://s5.phim1280.tv/20250322/5sPrADza/index.m3u8
+#EXTINF:-1 group-title="🎬 HH3D Thuyết Minh - Thương Lan Quyết" tvg-logo="https://phimimg.com/upload/vod/20240409-1/b8713c42f66c99ae9bbfaf5b5de1757c.jpg",🎬 Thương Lan Quyết - Tập 04 (Thuyết Minh)
+https://s5.phim1280.tv/20250322/FmzY59pq/index.m3u8
+#EXTINF:-1 group-title="🎬 HH3D Thuyết Minh - Thương Lan Quyết" tvg-logo="https://phimimg.com/upload/vod/20240409-1/b8713c42f66c99ae9bbfaf5b5de1757c.jpg",🎬 Thương Lan Quyết - Tập 05 (Thuyết Minh)
+https://s5.phim1280.tv/20250322/hgXwMpSy/index.m3u8
+#EXTINF:-1 group-title="🎬 HH3D Thuyết Minh - Thương Lan Quyết" tvg-logo="https://phimimg.com/upload/vod/20240409-1/b8713c42f66c99ae9bbfaf5b5de1757c.jpg",🎬 Thương Lan Quyết - Tập 06 (Thuyết Minh)
+https://s5.phim1280.tv/20250322/SoWXTkd8/index.m3u8
+#EXTINF:-1 group-title="🎬 HH3D Thuyết Minh - Thương Lan Quyết" tvg-logo="https://phimimg.com/upload/vod/20240409-1/b8713c42f66c99ae9bbfaf5b5de1757c.jpg",🎬 Thương Lan Quyết - Tập 07 (Thuyết Minh)
+https://s5.phim1280.tv/20250322/W6bmA865/index.m3u8
+#EXTINF:-1 group-title="🎬 HH3D Thuyết Minh - Thương Lan Quyết" tvg-logo="https://phimimg.com/upload/vod/20240409-1/b8713c42f66c99ae9bbfaf5b5de1757c.jpg",🎬 Thương Lan Quyết - Tập 08 (Thuyết Minh)
+https://s5.phim1280.tv/20250322/O8M3akLC/index.m3u8
+#EXTINF:-1 group-title="🎬 HH3D Thuyết Minh - Thương Lan Quyết" tvg-logo="https://phimimg.com/upload/vod/20240409-1/b8713c42f66c99ae9bbfaf5b5de1757c.jpg",🎬 Thương Lan Quyết - Tập 09 (Thuyết Minh)
+https://s5.phim1280.tv/20250322/wvqq0Ips/index.m3u8
+#EXTINF:-1 group-title="🎬 HH3D Thuyết Minh - Thương Lan Quyết" tvg-logo="https://phimimg.com/upload/vod/20240409-1/b8713c42f66c99ae9bbfaf5b5de1757c.jpg",🎬 Thương Lan Quyết - Tập 10 (Thuyết Minh)
+https://s5.phim1280.tv/20250322/MpjjJWDR/index.m3u8
+#EXTINF:-1 group-title="🎬 HH3D Thuyết Minh - Thương Lan Quyết" tvg-logo="https://phimimg.com/upload/vod/20240409-1/b8713c42f66c99ae9bbfaf5b5de1757c.jpg",🎬 Thương Lan Quyết - Tập 11 (Thuyết Minh)
+https://s5.phim1280.tv/20250322/KKzbKiCP/index.m3u8
+#EXTINF:-1 group-title="🎬 HH3D Thuyết Minh - Thương Lan Quyết" tvg-logo="https://phimimg.com/upload/vod/20240409-1/b8713c42f66c99ae9bbfaf5b5de1757c.jpg",🎬 Thương Lan Quyết - Tập 12 (Thuyết Minh)
+https://s5.phim1280.tv/20250322/ZqeiVM4P/index.m3u8
+#EXTINF:-1 group-title="🎬 HH3D Thuyết Minh - Thương Lan Quyết" tvg-logo="https://phimimg.com/upload/vod/20240409-1/b8713c42f66c99ae9bbfaf5b5de1757c.jpg",🎬 Thương Lan Quyết - Tập 13 (Thuyết Minh)
+https://s5.phim1280.tv/20250322/q9qD6LBw/index.m3u8
+#EXTINF:-1 group-title="🎬 HH3D Thuyết Minh - Thương Lan Quyết" tvg-logo="https://phimimg.com/upload/vod/20240409-1/b8713c42f66c99ae9bbfaf5b5de1757c.jpg",🎬 Thương Lan Quyết - Tập 14 (Thuyết Minh)
+https://s5.phim1280.tv/20250322/sDYWQeGQ/index.m3u8
+#EXTINF:-1 group-title="🎬 HH3D Thuyết Minh - Thương Lan Quyết" tvg-logo="https://phimimg.com/upload/vod/20240409-1/b8713c42f66c99ae9bbfaf5b5de1757c.jpg",🎬 Thương Lan Quyết - Tập 15 (Thuyết Minh)
+https://s5.phim1280.tv/20250322/H82kspce/index.m3u8
+#EXTINF:-1 group-title="🎬 HH3D Thuyết Minh - Thương Lan Quyết" tvg-logo="https://phimimg.com/upload/vod/20240409-1/b8713c42f66c99ae9bbfaf5b5de1757c.jpg",🎬 Thương Lan Quyết - Tập 16 (Thuyết Minh)
+https://s5.phim1280.tv/20250322/OVn01GCi/index.m3u8
+#EXTINF:-1 group-title="🎬 HH3D Thuyết Minh - Thương Lan Quyết" tvg-logo="https://phimimg.com/upload/vod/20240409-1/b8713c42f66c99ae9bbfaf5b5de1757c.jpg",🎬 Thương Lan Quyết - Tập 17 (Thuyết Minh)
+https://s5.phim1280.tv/20250322/aajMUtyI/index.m3u8
+#EXTINF:-1 group-title="🎬 HH3D Thuyết Minh - Thương Lan Quyết" tvg-logo="https://phimimg.com/upload/vod/20240409-1/b8713c42f66c99ae9bbfaf5b5de1757c.jpg",🎬 Thương Lan Quyết - Tập 18 (Thuyết Minh)
+https://s5.phim1280.tv/20250322/xUjE5oFj/index.m3u8
+#EXTINF:-1 group-title="🎬 HH3D Thuyết Minh - Thương Lan Quyết" tvg-logo="https://phimimg.com/upload/vod/20240409-1/b8713c42f66c99ae9bbfaf5b5de1757c.jpg",🎬 Thương Lan Quyết - Tập 19 (Thuyết Minh)
+https://s5.phim1280.tv/20250322/iaeGD0Vi/index.m3u8
+#EXTINF:-1 group-title="🎬 HH3D Thuyết Minh - Thương Lan Quyết" tvg-logo="https://phimimg.com/upload/vod/20240409-1/b8713c42f66c99ae9bbfaf5b5de1757c.jpg",🎬 Thương Lan Quyết - Tập 20 (Thuyết Minh)
+https://s5.phim1280.tv/20250322/LFu74veq/index.m3u8
+#EXTINF:-1 group-title="🎬 HH3D Thuyết Minh - Thương Lan Quyết" tvg-logo="https://phimimg.com/upload/vod/20240409-1/b8713c42f66c99ae9bbfaf5b5de1757c.jpg",🎬 Thương Lan Quyết - Tập 21 (Thuyết Minh)
+https://s5.phim1280.tv/20250322/mDRi5wev/index.m3u8
+#EXTINF:-1 group-title="🎬 HH3D Thuyết Minh - Thương Lan Quyết" tvg-logo="https://phimimg.com/upload/vod/20240409-1/b8713c42f66c99ae9bbfaf5b5de1757c.jpg",🎬 Thương Lan Quyết - Tập 22 (Thuyết Minh)
+https://s5.phim1280.tv/20250322/SkaCL6e0/index.m3u8
+#EXTINF:-1 group-title="🎬 HH3D Thuyết Minh - Thương Lan Quyết" tvg-logo="https://phimimg.com/upload/vod/20240409-1/b8713c42f66c99ae9bbfaf5b5de1757c.jpg",🎬 Thương Lan Quyết - Tập 23 (Thuyết Minh)
+https://s5.phim1280.tv/20250322/FocX1Fjp/index.m3u8
+#EXTINF:-1 group-title="🎬 HH3D Thuyết Minh - Thương Lan Quyết" tvg-logo="https://phimimg.com/upload/vod/20240409-1/b8713c42f66c99ae9bbfaf5b5de1757c.jpg",🎬 Thương Lan Quyết - Tập 24 (Thuyết Minh)
+https://s5.phim1280.tv/20250322/qYAdJzRg/index.m3u8
+#EXTINF:-1 group-title="🎬 HH3D Thuyết Minh - Thương Lan Quyết" tvg-logo="https://phimimg.com/upload/vod/20240409-1/b8713c42f66c99ae9bbfaf5b5de1757c.jpg",🎬 Thương Lan Quyết - Tập 25 (Thuyết Minh)
+https://s5.phim1280.tv/20250322/LrrB1EYO/index.m3u8
+#EXTINF:-1 group-title="🎬 HH3D Thuyết Minh - Thương Lan Quyết" tvg-logo="https://phimimg.com/upload/vod/20240409-1/b8713c42f66c99ae9bbfaf5b5de1757c.jpg",🎬 Thương Lan Quyết - Tập 26 (Thuyết Minh)
+https://s5.phim1280.tv/20250322/BHuIqKVP/index.m3u8
+#EXTINF:-1 group-title="🎬 HH3D Thuyết Minh - Thương Lan Quyết" tvg-logo="https://phimimg.com/upload/vod/20240409-1/b8713c42f66c99ae9bbfaf5b5de1757c.jpg",🎬 Thương Lan Quyết - Tập 27 (Thuyết Minh)
+https://s5.phim1280.tv/20250322/m06PKeOM/index.m3u8
+#EXTINF:-1 group-title="🎬 HH3D Thuyết Minh - Thương Lan Quyết" tvg-logo="https://phimimg.com/upload/vod/20240409-1/b8713c42f66c99ae9bbfaf5b5de1757c.jpg",🎬 Thương Lan Quyết - Tập 28 (Thuyết Minh)
+https://s5.phim1280.tv/20250322/hryehnZK/index.m3u8
+#EXTINF:-1 group-title="🎬 HH3D Thuyết Minh - Thương Lan Quyết" tvg-logo="https://phimimg.com/upload/vod/20240409-1/b8713c42f66c99ae9bbfaf5b5de1757c.jpg",🎬 Thương Lan Quyết - Tập 29 (Thuyết Minh)
+https://s5.phim1280.tv/20250322/8smhOvji/index.m3u8
+#EXTINF:-1 group-title="🎬 HH3D Thuyết Minh - Thương Lan Quyết" tvg-logo="https://phimimg.com/upload/vod/20240409-1/b8713c42f66c99ae9bbfaf5b5de1757c.jpg",🎬 Thương Lan Quyết - Tập 30 (Thuyết Minh)
+https://s5.phim1280.tv/20250322/9km38H1C/index.m3u8
+#EXTINF:-1 group-title="🎬 HH3D Thuyết Minh - Thương Lan Quyết" tvg-logo="https://phimimg.com/upload/vod/20240409-1/b8713c42f66c99ae9bbfaf5b5de1757c.jpg",🎬 Thương Lan Quyết - Tập 31 (Thuyết Minh)
+https://s5.phim1280.tv/20250322/kl46d96D/index.m3u8
+#EXTINF:-1 group-title="🎬 HH3D Thuyết Minh - Thương Lan Quyết" tvg-logo="https://phimimg.com/upload/vod/20240409-1/b8713c42f66c99ae9bbfaf5b5de1757c.jpg",🎬 Thương Lan Quyết - Tập 32 (Thuyết Minh)
+https://s5.phim1280.tv/20250322/XrqJRmqd/index.m3u8
+#EXTINF:-1 group-title="🎬 HH3D Thuyết Minh - Thương Lan Quyết" tvg-logo="https://phimimg.com/upload/vod/20240409-1/b8713c42f66c99ae9bbfaf5b5de1757c.jpg",🎬 Thương Lan Quyết - Tập 33 (Thuyết Minh)
+https://s5.phim1280.tv/20250322/N9vYQD4i/index.m3u8
+#EXTINF:-1 group-title="🎬 HH3D Thuyết Minh - Thương Lan Quyết" tvg-logo="https://phimimg.com/upload/vod/20240409-1/b8713c42f66c99ae9bbfaf5b5de1757c.jpg",🎬 Thương Lan Quyết - Tập 34 (Thuyết Minh)
+https://s5.phim1280.tv/20250322/NIp5Xu92/index.m3u8
+#EXTINF:-1 group-title="🎬 HH3D Thuyết Minh - Thương Lan Quyết" tvg-logo="https://phimimg.com/upload/vod/20240409-1/b8713c42f66c99ae9bbfaf5b5de1757c.jpg",🎬 Thương Lan Quyết - Tập 35 (Thuyết Minh)
+https://s5.phim1280.tv/20250322/qcyWaxRv/index.m3u8
+#EXTINF:-1 group-title="🎬 HH3D Thuyết Minh - Thương Lan Quyết" tvg-logo="https://phimimg.com/upload/vod/20240409-1/b8713c42f66c99ae9bbfaf5b5de1757c.jpg",🎬 Thương Lan Quyết - Tập 36 (Thuyết Minh)
+https://s5.phim1280.tv/20250322/ZRuxo9WZ/index.m3u8
+#EXTINF:-1 group-title="🎬 HH3D Thuyết Minh - Tiên Nghịch: Thần Lâm Chi Chiến" tvg-logo="https://phimimg.com/upload/vod/20250531-1/c8ed81b0ed99cdae72b19f80e235db5c.jpg",🎬 Tiên Nghịch: Thần Lâm Chi Chiến - Full (Thuyết Minh)
+https://s6.kkphimplayer6.com/20250531/naBLYA6b/index.m3u8
+#EXTINF:-1 group-title="🎬 HH3D Thuyết Minh - Trường Ca Hành" tvg-logo="https://phimimg.com/upload/vod/20250609-1/37f1a5aaa4158b72830a7f6e11777df0.jpg",🎬 Trường Ca Hành - Tập 01 (Thuyết Minh)
+https://s6.kkphimplayer6.com/20250609/0T6WZmqM/index.m3u8
+#EXTINF:-1 group-title="🎬 HH3D Thuyết Minh - Trường Ca Hành" tvg-logo="https://phimimg.com/upload/vod/20250609-1/37f1a5aaa4158b72830a7f6e11777df0.jpg",🎬 Trường Ca Hành - Tập 02 (Thuyết Minh)
+https://s6.kkphimplayer6.com/20250609/TQyn5GLf/index.m3u8
+#EXTINF:-1 group-title="🎬 HH3D Thuyết Minh - Trường Ca Hành" tvg-logo="https://phimimg.com/upload/vod/20250609-1/37f1a5aaa4158b72830a7f6e11777df0.jpg",🎬 Trường Ca Hành - Tập 03 (Thuyết Minh)
+https://s6.kkphimplayer6.com/20250609/zm23o66w/index.m3u8
+#EXTINF:-1 group-title="🎬 HH3D Thuyết Minh - Trường Ca Hành" tvg-logo="https://phimimg.com/upload/vod/20250609-1/37f1a5aaa4158b72830a7f6e11777df0.jpg",🎬 Trường Ca Hành - Tập 04 (Thuyết Minh)
+https://s6.kkphimplayer6.com/20250609/xnXxapmF/index.m3u8
+#EXTINF:-1 group-title="🎬 HH3D Thuyết Minh - Trường Ca Hành" tvg-logo="https://phimimg.com/upload/vod/20250609-1/37f1a5aaa4158b72830a7f6e11777df0.jpg",🎬 Trường Ca Hành - Tập 05 (Thuyết Minh)
+https://s6.kkphimplayer6.com/20250609/FZnWGexF/index.m3u8
+#EXTINF:-1 group-title="🎬 HH3D Thuyết Minh - Trường Ca Hành" tvg-logo="https://phimimg.com/upload/vod/20250609-1/37f1a5aaa4158b72830a7f6e11777df0.jpg",🎬 Trường Ca Hành - Tập 06 (Thuyết Minh)
+https://s6.kkphimplayer6.com/20250609/vx17wUba/index.m3u8
+#EXTINF:-1 group-title="🎬 HH3D Thuyết Minh - Trường Ca Hành" tvg-logo="https://phimimg.com/upload/vod/20250609-1/37f1a5aaa4158b72830a7f6e11777df0.jpg",🎬 Trường Ca Hành - Tập 07 (Thuyết Minh)
+https://s6.kkphimplayer6.com/20250609/8npyu3IP/index.m3u8
+#EXTINF:-1 group-title="🎬 HH3D Thuyết Minh - Trường Ca Hành" tvg-logo="https://phimimg.com/upload/vod/20250609-1/37f1a5aaa4158b72830a7f6e11777df0.jpg",🎬 Trường Ca Hành - Tập 08 (Thuyết Minh)
+https://s6.kkphimplayer6.com/20250609/tlpC3NPp/index.m3u8
+#EXTINF:-1 group-title="🎬 HH3D Thuyết Minh - Trường Ca Hành" tvg-logo="https://phimimg.com/upload/vod/20250609-1/37f1a5aaa4158b72830a7f6e11777df0.jpg",🎬 Trường Ca Hành - Tập 09 (Thuyết Minh)
+https://s6.kkphimplayer6.com/20250609/lKkiCtHO/index.m3u8
+#EXTINF:-1 group-title="🎬 HH3D Thuyết Minh - Trường Ca Hành" tvg-logo="https://phimimg.com/upload/vod/20250609-1/37f1a5aaa4158b72830a7f6e11777df0.jpg",🎬 Trường Ca Hành - Tập 10 (Thuyết Minh)
+https://s6.kkphimplayer6.com/20250609/mOMXSDaV/index.m3u8
+#EXTINF:-1 group-title="🎬 HH3D Thuyết Minh - Trường Ca Hành" tvg-logo="https://phimimg.com/upload/vod/20250609-1/37f1a5aaa4158b72830a7f6e11777df0.jpg",🎬 Trường Ca Hành - Tập 11 (Thuyết Minh)
+https://s6.kkphimplayer6.com/20250609/feXGQXA7/index.m3u8
+#EXTINF:-1 group-title="🎬 HH3D Thuyết Minh - Trường Ca Hành" tvg-logo="https://phimimg.com/upload/vod/20250609-1/37f1a5aaa4158b72830a7f6e11777df0.jpg",🎬 Trường Ca Hành - Tập 12 (Thuyết Minh)
+https://s6.kkphimplayer6.com/20250609/o2YXMWdQ/index.m3u8
+#EXTINF:-1 group-title="🎬 HH3D Thuyết Minh - Trường Ca Hành" tvg-logo="https://phimimg.com/upload/vod/20250609-1/37f1a5aaa4158b72830a7f6e11777df0.jpg",🎬 Trường Ca Hành - Tập 13 (Thuyết Minh)
+https://s6.kkphimplayer6.com/20250609/b97J9Pdo/index.m3u8
+#EXTINF:-1 group-title="🎬 HH3D Thuyết Minh - Trường Ca Hành" tvg-logo="https://phimimg.com/upload/vod/20250609-1/37f1a5aaa4158b72830a7f6e11777df0.jpg",🎬 Trường Ca Hành - Tập 14 (Thuyết Minh)
+https://s6.kkphimplayer6.com/20250609/Ng3wfC3j/index.m3u8
+#EXTINF:-1 group-title="🎬 HH3D Thuyết Minh - Trường Ca Hành" tvg-logo="https://phimimg.com/upload/vod/20250609-1/37f1a5aaa4158b72830a7f6e11777df0.jpg",🎬 Trường Ca Hành - Tập 15 (Thuyết Minh)
+https://s6.kkphimplayer6.com/20250609/T0bbKBan/index.m3u8
+#EXTINF:-1 group-title="🎬 HH3D Thuyết Minh - Trường Ca Hành" tvg-logo="https://phimimg.com/upload/vod/20250609-1/37f1a5aaa4158b72830a7f6e11777df0.jpg",🎬 Trường Ca Hành - Tập 16 (Thuyết Minh)
+https://s6.kkphimplayer6.com/20250609/uWe0pS35/index.m3u8
+#EXTINF:-1 group-title="🎬 HH3D Thuyết Minh - Trường Ca Hành" tvg-logo="https://phimimg.com/upload/vod/20250609-1/37f1a5aaa4158b72830a7f6e11777df0.jpg",🎬 Trường Ca Hành - Tập 17 (Thuyết Minh)
+https://s6.kkphimplayer6.com/20250609/HBWlbqcJ/index.m3u8
+#EXTINF:-1 group-title="🎬 HH3D Thuyết Minh - Trường Ca Hành" tvg-logo="https://phimimg.com/upload/vod/20250609-1/37f1a5aaa4158b72830a7f6e11777df0.jpg",🎬 Trường Ca Hành - Tập 18 (Thuyết Minh)
+https://s6.kkphimplayer6.com/20250609/SsJISEJH/index.m3u8
+#EXTINF:-1 group-title="🎬 HH3D Thuyết Minh - Trường Ca Hành" tvg-logo="https://phimimg.com/upload/vod/20250609-1/37f1a5aaa4158b72830a7f6e11777df0.jpg",🎬 Trường Ca Hành - Tập 19 (Thuyết Minh)
+https://s6.kkphimplayer6.com/20250609/iFmOt7eM/index.m3u8
+#EXTINF:-1 group-title="🎬 HH3D Thuyết Minh - Trường Ca Hành" tvg-logo="https://phimimg.com/upload/vod/20250609-1/37f1a5aaa4158b72830a7f6e11777df0.jpg",🎬 Trường Ca Hành - Tập 20 (Thuyết Minh)
+https://s6.kkphimplayer6.com/20250609/x3VUw9oQ/index.m3u8
+#EXTINF:-1 group-title="🎬 HH3D Thuyết Minh - Trường Ca Hành" tvg-logo="https://phimimg.com/upload/vod/20250609-1/37f1a5aaa4158b72830a7f6e11777df0.jpg",🎬 Trường Ca Hành - Tập 21 (Thuyết Minh)
+https://s6.kkphimplayer6.com/20250609/N0lL3z5s/index.m3u8
+#EXTINF:-1 group-title="🎬 HH3D Thuyết Minh - Trường Ca Hành" tvg-logo="https://phimimg.com/upload/vod/20250609-1/37f1a5aaa4158b72830a7f6e11777df0.jpg",🎬 Trường Ca Hành - Tập 22 (Thuyết Minh)
+https://s6.kkphimplayer6.com/20250609/ijDEYwTz/index.m3u8
+#EXTINF:-1 group-title="🎬 HH3D Thuyết Minh - Trường Ca Hành" tvg-logo="https://phimimg.com/upload/vod/20250609-1/37f1a5aaa4158b72830a7f6e11777df0.jpg",🎬 Trường Ca Hành - Tập 23 (Thuyết Minh)
+https://s6.kkphimplayer6.com/20250609/jH9RGKeE/index.m3u8
+#EXTINF:-1 group-title="🎬 HH3D Thuyết Minh - Trường Ca Hành" tvg-logo="https://phimimg.com/upload/vod/20250609-1/37f1a5aaa4158b72830a7f6e11777df0.jpg",🎬 Trường Ca Hành - Tập 24 (Thuyết Minh)
+https://s6.kkphimplayer6.com/20250609/Zui1ZNxY/index.m3u8
+#EXTINF:-1 group-title="🎬 HH3D Thuyết Minh - Trường Ca Hành" tvg-logo="https://phimimg.com/upload/vod/20250609-1/37f1a5aaa4158b72830a7f6e11777df0.jpg",🎬 Trường Ca Hành - Tập 25 (Thuyết Minh)
+https://s6.kkphimplayer6.com/20250609/s29eqT3R/index.m3u8
+#EXTINF:-1 group-title="🎬 HH3D Thuyết Minh - Trường Ca Hành" tvg-logo="https://phimimg.com/upload/vod/20250609-1/37f1a5aaa4158b72830a7f6e11777df0.jpg",🎬 Trường Ca Hành - Tập 26 (Thuyết Minh)
+https://s6.kkphimplayer6.com/20250609/aWDGmq8U/index.m3u8
+#EXTINF:-1 group-title="🎬 HH3D Thuyết Minh - Trường Ca Hành" tvg-logo="https://phimimg.com/upload/vod/20250609-1/37f1a5aaa4158b72830a7f6e11777df0.jpg",🎬 Trường Ca Hành - Tập 27 (Thuyết Minh)
+https://s6.kkphimplayer6.com/20250609/LQPEI0px/index.m3u8
+#EXTINF:-1 group-title="🎬 HH3D Thuyết Minh - Trường Ca Hành" tvg-logo="https://phimimg.com/upload/vod/20250609-1/37f1a5aaa4158b72830a7f6e11777df0.jpg",🎬 Trường Ca Hành - Tập 28 (Thuyết Minh)
+https://s6.kkphimplayer6.com/20250609/e6iIt6yl/index.m3u8
+#EXTINF:-1 group-title="🎬 HH3D Thuyết Minh - Trường Ca Hành" tvg-logo="https://phimimg.com/upload/vod/20250609-1/37f1a5aaa4158b72830a7f6e11777df0.jpg",🎬 Trường Ca Hành - Tập 29 (Thuyết Minh)
+https://s6.kkphimplayer6.com/20250609/6wWl9ZBS/index.m3u8
+#EXTINF:-1 group-title="🎬 HH3D Thuyết Minh - Trường Ca Hành" tvg-logo="https://phimimg.com/upload/vod/20250609-1/37f1a5aaa4158b72830a7f6e11777df0.jpg",🎬 Trường Ca Hành - Tập 30 (Thuyết Minh)
+https://s6.kkphimplayer6.com/20250609/zawrPbi4/index.m3u8
+#EXTINF:-1 group-title="🎬 HH3D Thuyết Minh - Trường Ca Hành" tvg-logo="https://phimimg.com/upload/vod/20250609-1/37f1a5aaa4158b72830a7f6e11777df0.jpg",🎬 Trường Ca Hành - Tập 31 (Thuyết Minh)
+https://s6.kkphimplayer6.com/20250609/arfqU1lC/index.m3u8
+#EXTINF:-1 group-title="🎬 HH3D Thuyết Minh - Trường Ca Hành" tvg-logo="https://phimimg.com/upload/vod/20250609-1/37f1a5aaa4158b72830a7f6e11777df0.jpg",🎬 Trường Ca Hành - Tập 32 (Thuyết Minh)
+https://s6.kkphimplayer6.com/20250609/zUrhn1Fa/index.m3u8
+#EXTINF:-1 group-title="🎬 HH3D Thuyết Minh - Trường Ca Hành" tvg-logo="https://phimimg.com/upload/vod/20250609-1/37f1a5aaa4158b72830a7f6e11777df0.jpg",🎬 Trường Ca Hành - Tập 33 (Thuyết Minh)
+https://s6.kkphimplayer6.com/20250609/3DCRyNW2/index.m3u8
+#EXTINF:-1 group-title="🎬 HH3D Thuyết Minh - Trường Ca Hành" tvg-logo="https://phimimg.com/upload/vod/20250609-1/37f1a5aaa4158b72830a7f6e11777df0.jpg",🎬 Trường Ca Hành - Tập 34 (Thuyết Minh)
+https://s6.kkphimplayer6.com/20250609/U1xOvgc7/index.m3u8
+#EXTINF:-1 group-title="🎬 HH3D Thuyết Minh - Trường Ca Hành" tvg-logo="https://phimimg.com/upload/vod/20250609-1/37f1a5aaa4158b72830a7f6e11777df0.jpg",🎬 Trường Ca Hành - Tập 35 (Thuyết Minh)
+https://s6.kkphimplayer6.com/20250609/IuIxatBq/index.m3u8
+#EXTINF:-1 group-title="🎬 HH3D Thuyết Minh - Trường Ca Hành" tvg-logo="https://phimimg.com/upload/vod/20250609-1/37f1a5aaa4158b72830a7f6e11777df0.jpg",🎬 Trường Ca Hành - Tập 36 (Thuyết Minh)
+https://s6.kkphimplayer6.com/20250609/95NkEB0e/index.m3u8
+#EXTINF:-1 group-title="🎬 HH3D Thuyết Minh - Trường Ca Hành" tvg-logo="https://phimimg.com/upload/vod/20250609-1/37f1a5aaa4158b72830a7f6e11777df0.jpg",🎬 Trường Ca Hành - Tập 37 (Thuyết Minh)
+https://s6.kkphimplayer6.com/20250609/fEV7qy2l/index.m3u8
+#EXTINF:-1 group-title="🎬 HH3D Thuyết Minh - Trường Ca Hành" tvg-logo="https://phimimg.com/upload/vod/20250609-1/37f1a5aaa4158b72830a7f6e11777df0.jpg",🎬 Trường Ca Hành - Tập 38 (Thuyết Minh)
+https://s6.kkphimplayer6.com/20250609/1H3xIqma/index.m3u8
+#EXTINF:-1 group-title="🎬 HH3D Thuyết Minh - Trường Ca Hành" tvg-logo="https://phimimg.com/upload/vod/20250609-1/37f1a5aaa4158b72830a7f6e11777df0.jpg",🎬 Trường Ca Hành - Tập 39 (Thuyết Minh)
+https://s6.kkphimplayer6.com/20250609/RoHFj1wh/index.m3u8
+#EXTINF:-1 group-title="🎬 HH3D Thuyết Minh - Trường Ca Hành" tvg-logo="https://phimimg.com/upload/vod/20250609-1/37f1a5aaa4158b72830a7f6e11777df0.jpg",🎬 Trường Ca Hành - Tập 40 (Thuyết Minh)
+https://s6.kkphimplayer6.com/20250609/hfaUqWU5/index.m3u8
+#EXTINF:-1 group-title="🎬 HH3D Thuyết Minh - Trường Ca Hành" tvg-logo="https://phimimg.com/upload/vod/20250609-1/37f1a5aaa4158b72830a7f6e11777df0.jpg",🎬 Trường Ca Hành - Tập 41 (Thuyết Minh)
+https://s6.kkphimplayer6.com/20250609/ZDprHYpx/index.m3u8
+#EXTINF:-1 group-title="🎬 HH3D Thuyết Minh - Trường Ca Hành" tvg-logo="https://phimimg.com/upload/vod/20250609-1/37f1a5aaa4158b72830a7f6e11777df0.jpg",🎬 Trường Ca Hành - Tập 42 (Thuyết Minh)
+https://s6.kkphimplayer6.com/20250609/sdDpvlSE/index.m3u8
+#EXTINF:-1 group-title="🎬 HH3D Thuyết Minh - Trường Ca Hành" tvg-logo="https://phimimg.com/upload/vod/20250609-1/37f1a5aaa4158b72830a7f6e11777df0.jpg",🎬 Trường Ca Hành - Tập 43 (Thuyết Minh)
+https://s6.kkphimplayer6.com/20250609/rpHACDTi/index.m3u8
+#EXTINF:-1 group-title="🎬 HH3D Thuyết Minh - Trường Ca Hành" tvg-logo="https://phimimg.com/upload/vod/20250609-1/37f1a5aaa4158b72830a7f6e11777df0.jpg",🎬 Trường Ca Hành - Tập 44 (Thuyết Minh)
+https://s6.kkphimplayer6.com/20250609/3HCx92x0/index.m3u8
+#EXTINF:-1 group-title="🎬 HH3D Thuyết Minh - Trường Ca Hành" tvg-logo="https://phimimg.com/upload/vod/20250609-1/37f1a5aaa4158b72830a7f6e11777df0.jpg",🎬 Trường Ca Hành - Tập 45 (Thuyết Minh)
+https://s6.kkphimplayer6.com/20250609/zRkkqAiR/index.m3u8
+#EXTINF:-1 group-title="🎬 HH3D Thuyết Minh - Trường Ca Hành" tvg-logo="https://phimimg.com/upload/vod/20250609-1/37f1a5aaa4158b72830a7f6e11777df0.jpg",🎬 Trường Ca Hành - Tập 46 (Thuyết Minh)
+https://s6.kkphimplayer6.com/20250609/bvxXezQM/index.m3u8
+#EXTINF:-1 group-title="🎬 HH3D Thuyết Minh - Trường Ca Hành" tvg-logo="https://phimimg.com/upload/vod/20250609-1/37f1a5aaa4158b72830a7f6e11777df0.jpg",🎬 Trường Ca Hành - Tập 47 (Thuyết Minh)
+https://s6.kkphimplayer6.com/20250609/qbojDvVY/index.m3u8
+#EXTINF:-1 group-title="🎬 HH3D Thuyết Minh - Trường Ca Hành" tvg-logo="https://phimimg.com/upload/vod/20250609-1/37f1a5aaa4158b72830a7f6e11777df0.jpg",🎬 Trường Ca Hành - Tập 48 (Thuyết Minh)
+https://s6.kkphimplayer6.com/20250609/KhfUNlxe/index.m3u8
+#EXTINF:-1 group-title="🎬 HH3D Thuyết Minh - Trường Ca Hành" tvg-logo="https://phimimg.com/upload/vod/20250609-1/37f1a5aaa4158b72830a7f6e11777df0.jpg",🎬 Trường Ca Hành - Tập 49 (Thuyết Minh)
+https://s6.kkphimplayer6.com/20250609/GJfc96XG/index.m3u8
+#EXTINF:-1 group-title="🎬 HH3D Thuyết Minh - Võ Hồn Đại Lục" tvg-logo="https://phimimg.com/upload/vod/20250924-1/595bca41232c867b6a112857b97bb961.jpg",🎬 Võ Hồn Đại Lục - Tập 01 (Thuyết Minh)
+https://s6.kkphimplayer6.com/20250924/Bwhg7Im6/index.m3u8
+#EXTINF:-1 group-title="🎬 HH3D Thuyết Minh - Võ Hồn Đại Lục" tvg-logo="https://phimimg.com/upload/vod/20250924-1/595bca41232c867b6a112857b97bb961.jpg",🎬 Võ Hồn Đại Lục - Tập 02 (Thuyết Minh)
+https://s6.kkphimplayer6.com/20250924/HoCHdO4p/index.m3u8
+#EXTINF:-1 group-title="🎬 HH3D Thuyết Minh - Võ Hồn Đại Lục" tvg-logo="https://phimimg.com/upload/vod/20250924-1/595bca41232c867b6a112857b97bb961.jpg",🎬 Võ Hồn Đại Lục - Tập 03 (Thuyết Minh)
+https://s6.kkphimplayer6.com/20250924/8ExE7pst/index.m3u8
+#EXTINF:-1 group-title="🎬 HH3D Thuyết Minh - Võ Hồn Đại Lục" tvg-logo="https://phimimg.com/upload/vod/20250924-1/595bca41232c867b6a112857b97bb961.jpg",🎬 Võ Hồn Đại Lục - Tập 04 (Thuyết Minh)
+https://s6.kkphimplayer6.com/20250924/W0QhaPNX/index.m3u8
+#EXTINF:-1 group-title="🎬 HH3D Thuyết Minh - Võ Hồn Đại Lục" tvg-logo="https://phimimg.com/upload/vod/20250924-1/595bca41232c867b6a112857b97bb961.jpg",🎬 Võ Hồn Đại Lục - Tập 05 (Thuyết Minh)
+https://s6.kkphimplayer6.com/20250924/WrKRPlwx/index.m3u8
+#EXTINF:-1 group-title="🎬 HH3D Thuyết Minh - Võ Hồn Đại Lục" tvg-logo="https://phimimg.com/upload/vod/20250924-1/595bca41232c867b6a112857b97bb961.jpg",🎬 Võ Hồn Đại Lục - Tập 06 (Thuyết Minh)
+https://s6.kkphimplayer6.com/20250924/gSh5rafL/index.m3u8
 #EXTINF:-1 group-title="🎬 Phim Bộ Mới Nhất (Lồng Tiếng)" tvg-logo="https://phimimg.com/uploads/movies/20261111/cuoc-chien-hoa-hong-2026-thumb.webp",🎬 Cuộc Chiến Hoa Hồng (Tập 11) [Lồng Tiếng]
 https://a.kvp726.com/20261119/0aYoHOjd/index.m3u8
 #EXTINF:-1 group-title="🎬 Phim Bộ Mới Nhất (Thuyết Minh)" tvg-logo="https://phimimg.com/uploads/movies/20261117/thap-van-cuong-hoa-nhap-mong-lai-thumb.webp",🎬 Thập Vạn Cuồng Hoa Nhập Mộng Lai (Tập 11) [Thuyết Minh]
